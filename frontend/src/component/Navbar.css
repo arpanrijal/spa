@@ -1,0 +1,50 @@
+body {
+  padding-top: 70px;
+}
+
+/* Full-width navbar */
+.navbar {
+  width: 100%;
+  background: #0f172a; /* Dark blue */
+  padding: 12px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  position: fixed;   /* Sticks to top */
+  top: 0;
+  left: 0;
+  right: 0;
+
+  border-bottom: 1px solid #1e293b;
+  z-index: 1000;
+}
+
+/* Left side: logo + text */
+.left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* Title */
+.title {
+  margin: 0;
+  color: #e5e7eb; /* light gray */
+  font-size: 18px;
+  font-weight: 600;
+}
+
+/* Subtitle */
+.subtitle {
+  margin: 0;
+  color: #9ca3af; /* gray */
+  font-size: 12px;
+}
+
+/* Right side icons */
+.icons {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
