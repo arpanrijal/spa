@@ -1,4 +1,3 @@
-/* Base styles for the dark theme */
 :root {
   --color-dark-bg: #121212;
   --color-card-bg: #1e1e1e;
@@ -25,11 +24,10 @@ body {
 
 .dashboard {
   width: 100%;
-  max-width: 600px; /* Adjust based on the image's apparent width */
+  max-width: 2000px; 
   padding: 0 20px;
 }
 
-/* Dashboard Header */
 .dashboard h1 {
   font-size: 2.5rem;
   font-weight: 700;
@@ -55,14 +53,12 @@ body {
   text-transform: uppercase;
 }
 
-/* Stats Grid */
 .stats-grid {
   display: grid;
   gap: 10px;
   margin-bottom: 20px;
 }
 
-/* Stat Card Base */
 .stat-card {
   background-color: var(--color-card-bg);
   border-radius: 12px;
@@ -89,9 +85,8 @@ body {
   color: var(--color-text-light);
 }
 
-/* NEPSE Index Card (The large one) */
 .stat-card.index-card {
-  grid-column: 1 / -1; /* Full width */
+  grid-column: 1 / -1;
   padding: 20px;
 }
 
@@ -140,14 +135,12 @@ body {
   margin-right: 5px;
 }
 
-/* Small Stat Cards (Turnover, Trades, Gainers, Losers) */
 .small-stats-row {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 10px;
 }
 
-/* Gainers/Losers specific styling */
 .stat-card.gainers .stat-card-icon {
   color: var(--color-primary-green);
 }
@@ -156,7 +149,6 @@ body {
   color: var(--color-red);
 }
 
-/* Search Bar */
 .search-bar-container {
   margin-bottom: 20px;
 }
@@ -188,7 +180,6 @@ body {
   cursor: pointer;
 }
 
-/* Filter Buttons */
 .filters-container {
   display: flex;
   align-items: center;
@@ -222,7 +213,6 @@ body {
   color: var(--color-text-light);
 }
 
-/* Loader */
 .loader-container {
   display: flex;
   flex-direction: column;
@@ -252,7 +242,6 @@ body {
   font-size: 0.9rem;
 }
 
-/* Disclaimer/Footer */
 .disclaimer {
   text-align: center;
   font-size: 0.75rem;
@@ -275,13 +264,12 @@ body {
 .icon-search::before
  { content: "🔍"; }
 .icon-filter::before 
-{ content: "Y"; } /* Placeholder for filter icon */
+{ content: "Y"; } 
 .icon-gainers::before
  { content: "↗"; }
 .icon-losers::before
  { content: "↘"; }
 
-/* Media Query for responsiveness if needed, but sticking to max-width for now */
 @media (max-width: 480px) {
   .dashboard {
     padding: 0 10px;

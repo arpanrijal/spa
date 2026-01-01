@@ -22,9 +22,8 @@ const Login = () => {
         if (!startfetch) return;
         const fetchData = async () => {
             try {
-                const response = await axios.post('http://localhost:3000/login', ({ email, password }), {
-                    withCredentials: true
-                })
+                const response = await axios.post('http://localhost:3000/login', ({ email, password }),{withCredentials: true})
+                //yo remove navar {withCredentials: true, credentials: 'include'}
                 if (response.data.success) {
                     setSaveData(response.data.userData)
                     navigate('/')
@@ -41,8 +40,8 @@ const Login = () => {
     }, [startfetch])
     return (
         <>
-            <div className='w-screen h-screen flex justify-center items-center bg-gray-100'>
-                <form className='rounded-2xl bg-gray-50 flex-col flex  w-[35%] gap-5 p-5' onSubmit={inputHandler}>
+            <div className='w-[100 dvw] h-screen flex justify-center items-center bg-[#121212]'>
+                <form className='rounded-2xl bg-[#1e1e1e] flex-col flex  w-[35%] gap-5 p-5' onSubmit={inputHandler}>
                     <div className='flex gap-1 flex-col'>
                         <h2 className='text-2xl font-bold' >Welcome Back!</h2>
                         <p className='text-sm'>Enter your account details</p>
