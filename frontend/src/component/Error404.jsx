@@ -1,12 +1,14 @@
 import { NavLink } from "react-router"
 import {UserDataContext} from '../context/DataContext'
 import { useContext } from "react"
+import Navbar from "./Navbar"
 
 const Error404 = () => {
   const {setStartFetchTOKEN, setisLoading} = useContext(UserDataContext)
   return (
     <>
-      <div className="min-h-screen bg-gray-50 flex items-center justify-center px-4">
+    <Navbar/>
+      <div className="min-h-screen bg-[#121212] flex items-center justify-center px-4">
         <div className="text-center">
           <h1 className="text-9xl font-bold text-gray-800">404</h1>
           <p className="text-2xl font-semibold text-gray-600 mt-4">Page Not Found</p>

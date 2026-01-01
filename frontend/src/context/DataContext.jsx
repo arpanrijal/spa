@@ -8,11 +8,12 @@ const DataContext = ({children}) => {
     })
     const [startFetchTOKEN, setStartFetchTOKEN] = useState(false)
     const [isLoading, setisLoading] = useState(false)
+    const [NavProfilecard, setNavProfilecard] = useState(false)
     
 
   return (
     <>
-    <UserDataContext.Provider value={{savedata, setSaveData, startFetchTOKEN, setStartFetchTOKEN, isLoading, setisLoading}}>
+    <UserDataContext.Provider value={{savedata, setSaveData, startFetchTOKEN, setStartFetchTOKEN, isLoading, setisLoading, NavProfilecard, setNavProfilecard}}>
         {children}
     </UserDataContext.Provider>
     </>

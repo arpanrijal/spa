@@ -18,9 +18,7 @@ const Login = () => {
         if (!startfetch) return
         const registerUser = async () => {
             try {
-                const response = await axios.post('http://localhost:3000/register', ({ email, password }), {
-                    withCredentials: true
-                })
+                const response = await axios.post('http://localhost:3000/register', ({ email, password }),{withCredentials: true})
                 if (response.data.success) {
                     setSaveData(response.data.userData)
                     navigate('/')
@@ -41,8 +39,8 @@ const Login = () => {
     }, [startfetch])
     return (
         <>
-            <div className='w-screen h-screen flex justify-center items-center bg-gray-100'>
-                <form className='rounded-2xl bg-gray-50 flex-col flex  w-[35%] gap-5 p-5' onSubmit={inputHandler}>
+            <div className='w-[100 dvw] h-screen flex justify-center items-center bg-[#121212]'>
+                <form className='rounded-2xl bg-[#1e1e1e] flex-col flex  w-[35%] gap-5 p-5' onSubmit={inputHandler}>
                     <div className='flex gap-1 flex-col'>
                         <h2 className='text-2xl font-bold' >Hello There!</h2>
                         <p className='text-sm'>Create your New account</p>
@@ -51,7 +49,7 @@ const Login = () => {
                         value={email}
                         required
                         type="email"
-                        className='p-3 border rounded-2xl bg-blue-50 focus:bg-gray-100 focus:outline-0'
+                        className='p-3 border rounded-2xl bg-blue-200 text-black focus:bg-gray-100 focus:outline-0'
                         placeholder='Email'
                         onChange={(e) => {
                             setEmail(e.target.value)
@@ -61,7 +59,7 @@ const Login = () => {
                         required
                         value={password}
                         type="password"
-                        className='p-3 border rounded-2xl bg-blue-50 focus:bg-gray-100 focus:outline-0'
+                        className='p-3 border rounded-2xl bg-blue-200 text-black focus:bg-gray-100 focus:outline-0'
                         placeholder='Password'
                         onChange={(e) => {
                             setPassword(e.target.value)

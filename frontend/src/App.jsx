@@ -14,7 +14,7 @@ function App() {
         <Route path="/signup" element={<Signup/>} />
         <Route path="/login" element={<Login/>} />
         <Route path='/' element={<UserProtectedWrapper><Dashboard /></UserProtectedWrapper>} />
-        <Route path='*' element={<Error404 />} />
+        <Route path='*' element={<UserProtectedWrapper><Error404 /></UserProtectedWrapper>} />
       </Routes>
     </>
   )
