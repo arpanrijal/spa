@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Model files (optional - these can be large)
+*.pkl
+*.joblib
