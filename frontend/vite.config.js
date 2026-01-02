@@ -2,15 +2,15 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
-// https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   server: {
-    host: true, // Listen on all addresses (0.0.0.0)
+    host: true,
     port: 5173
   },
   preview: {
-    host: true, // Important for Render deployment
-    port: process.env.PORT || 10000
+    host: true,
+    port: process.env.PORT || 10000,
+    allowedHosts: ['nepsestockpricepredictor.onrender.com']
   }
 })
