@@ -1,23 +1,23 @@
 import { useContext, useEffect, useState } from "react";
-import StatCard from "./StatCard"; 
-import FilterButtons from "./FilterButtons";  
-import SearchBar from "./SearchBar"; 
-import Loader from "./Loader"; 
+import StatCard from "./StatCard";
+import FilterButtons from "./FilterButtons";
+import SearchBar from "./SearchBar";
+import Loader from "./Loader";
 import "./Dashboard.css";
 import Navbar from "./Navbar";
-import {UserDataContext} from '../context/DataContext'
+import { UserDataContext } from "../context/DataContext";
+import Card from "./card";
 
 function Dashboard() {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [filter, setFilter] = useState("All");
   const [query, setQuery] = useState("");
-  const {setNavProfilecard} = useContext(UserDataContext)
+  const { setNavProfilecard } = useContext(UserDataContext);
 
   const loadData = async () => {
     setLoading(true);
-    
-    
+
     const mockData = {
       index: "Loading",
       trades: "Loading",
@@ -26,7 +26,7 @@ function Dashboard() {
       losers: 0,
     };
 
-    await new Promise(resolve => setTimeout(resolve, 1500));
+    await new Promise((resolve) => setTimeout(resolve, 1500));
 
     setData(mockData);
     setLoading(false);
@@ -39,28 +39,50 @@ function Dashboard() {
   }, []);
 
   return (
-    <div className="dashboard-container" onClick={() => setNavProfilecard(false)}>
+    <div
+      className="dashboard-container"
+      onClick={() => setNavProfilecard(false)}
+    >
       <Navbar />
       <div className="dashboard">
         <h1>Dashboard</h1>
         <div className="stats-grid">
-          <StatCard title="NEPSE Index" value={data?.index} isLoading={loading} />
+          <StatCard
+            title="NEPSE Index"
+            value={data?.index}
+            isLoading={loading}
+          />
 
           <div className="small-stats-row">
-            <StatCard title="Total Turnover" value={data?.turnover} isLoading={loading} />
-            <StatCard title="Total Trades" value={data?.trades} isLoading={loading} />
+            <StatCard
+              title="Total Turnover"
+              value={data?.turnover}
+              isLoading={loading}
+            />
+            <StatCard
+              title="Total Trades"
+              value={data?.trades}
+              isLoading={loading}
+            />
           </div>
           <div className="small-stats-row">
-            <StatCard title="Gainers" value={data?.gainers} isLoading={loading} />
+            <StatCard
+              title="Gainers"
+              value={data?.gainers}
+              isLoading={loading}
+            />
             <StatCard title="Losers" value={data?.losers} isLoading={loading} />
           </div>
         </div>
 
         <SearchBar setQuery={setQuery} />
         <FilterButtons selected={filter} setSelected={setFilter} />
-
+        <div className="flex gap-x-4 gap-y-4 flex-wrap">
+            {Array.from({ length: 10 }).map((_, index) => (
+          <Card key={index} />
+        ))}
+        </div>
         {loading && <Loader />}
-        
       </div>
     </div>
   );
