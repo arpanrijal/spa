@@ -1,0 +1,301 @@
+S.N.,Name of Company,Symbol,ISIN,ISIN Type
+1,Agricultural Development Bank Limited,ADBL,NPE001A00005,Ordinary Share
+2,Api Power Company Limited,API,NPE256A00005,Ordinary Share
+3,Hathway Finance Company Limited,HATH,NPE114A00006,Ordinary Share
+4,Hathway Finance Company Limited Promoter Share,HATHPO,NPE114A40002,Promoter Share
+5,Arun Kabeli Power Limited,AKPL,NPE293A00008,Ordinary Share
+6,Arun Valley Hydropower Development Company Limited,AHPC,NPE191A00004,Ordinary Share
+7,Asian Life Insurance Company Limited,ALICL,NPE200A00003,Ordinary Share
+8,Asian Life Insurance company Limited Promoter Share,ALICLP,NPE200A40009,Promoter Share
+9,Bank of Kathmandu Limited,BOKL,NPE003A00001,Ordinary Share
+10,Bank of Kathmandu Limited Promoter Share,BOKLPO,NPE003A40007,Promoter Share
+11,Barun Hydropower Company Limited,BARUN,NPE254A00000,Ordinary Share
+12,Best Finance Company Limited,BFC,NPE125A00002,Ordinary Share
+13,Best Finance Company Limited Promoter Share,BFCPO,NPE125A40008,Promoter Share
+14,Bhargav Bikash Bank Limited,BHBL,NPE041A00001,Ordinary Share
+15,Bhargav Bikash Bank Limited Promoter Share,BHBLPO,NPE041A40007,Promoter Share
+16,Bishal Bazar Company Limited,BBC,NPE195A00005,Ordinary Share
+17,Bottlers Nepal (Terai) Limited,BNT,NPE173A00002,Ordinary Share
+18,Bottlers Nepal Limited (Balaju),BNL,NPE172A00004,Ordinary Share
+19,Business Universal Development Bank Limited,BUDBL,NPE045A00002,Ordinary Share
+20,Business Universal Development Bank Limited Promoter Share,BUDBLP,NPE045A40008,Promoter Share
+21,Butwal Power Company Limited,BPCL,NPE192A00002,Ordinary Share
+22,Central Finance Limited,CFCL,NPE117A00009,Ordinary Share
+23,Central Finance Limited Promoter Share,CFCLPO,NPE117A40005,Promoter Share
+24,Century Commercial Bank Limited,CCBL,NPE243A00003,Ordinary Share
+25,Century Commercial Bank Limited Promoter Share,CCBLPO,NPE243A40009,Promoter Share
+26,Chhimek Laghubitta Bittiya Sanstha Limited,CBBL,NPE046A00000,Ordinary Share
+27,Chhyangdi Hydropower Company Limited,CHL,NPE300A00001,Ordinary Share
+28,Chilime Hydro power Company Limited,CHCL,NPE193A00000,Ordinary Share
+29,Citizen Investment Trust,CIT,NPE119A00005,Ordinary Share
+30,Citizens Bank International Limited,CZBIL,NPE011A00004,Ordinary Share
+31,Citizens Bank International Limited Promoter Share,CZBILP,NPE011A40000,Promoter Share
+32,Civil Bank Limited,CBL,NPE012A00002,Ordinary Share
+33,Civil Bank Limited Promoter Share,CBLPO,NPE012A40008,Promoter Share
+34,Himalayan Laghubitta Bittiya Sanstha Limited (Former Civil Laghubitta),HLBSL,NPE267A00002,Ordinary Share
+35,Corporate Development Bank Limited,CORBL,NPE050A00002,Ordinary Share
+36,Corporate Development Bank Limited Promoter Share,CORBLP,NPE050A40008,Promoter Share
+37,Deprosc Laghubitta Bittiya Sanstha Limited,DDBL,NPE110A00004,Ordinary Share
+38,Deprosc Laghubitta Bittiya Sanstha Limited Promoter share,DDBLPO,NPE110A40000,Promoter Share
+39,Deva Bikas Bank Limited,DBBL,NPE078A00003,Ordinary Share
+40,Deva Bikas Bank Limited Promoter Share,DBBLPO,NPE078A40009,Promoter Share
+41,Dibyashwari Hydropower Company Limited,DHPL,NPE292A00000,Ordinary Share
+42,Everest Bank Limited,EBL,NPE016A00003,Ordinary Share
+43,Everest Bank Limited Promoter Share,EBLPO,NPE016A40009,Promoter Share
+44,Everest Bank Limited Convertible Preference,EBLCP,NPE016A06000,Convertible Preference Share
+45,Everest Insurance Company Limited,EIC,NPE201A00001,Ordinary Share
+46,Excel Development Bank Limited,EDBL,NPE051A00000,Ordinary Share
+47,Excel Development Bank Limited Promoter Share,EDBLPO,NPE051A40006,Promoter Share
+48,First Microfinance Laghubitta Bittiya Sanstha Limited,FMDBL,NPE052A00008,Ordinary Share
+49,First Microfinance Laghubitta Bittiya Sanstha Limited Promoter Share,FMDBLP,NPE052A40004,Promoter Share
+50,Forward Microfinance Laghubitta Bittiya Sanstha Limited,FOWAD,NPE297A00009,Ordinary Share
+51,Gandaki Bikas Bank Limited,GDBL,NPE044A00005,Ordinary Share
+52,Gandaki Bikas Bank Limited Promoter Share,GDBLPO,NPE044A40001,Promoter Share
+53,Garima Bikas Bank Limited,GBBL,NPE053A00006,Ordinary Share
+54,Garima Bikash Bank Limited Promoter Share,GBBLPO,NPE053A40002,Promoter Share
+55,Gaumukhee Bikas Bank Limited,GABL,NPE225A00000,Ordinary Share
+56,Global IME Bank Limited,GBIME,NPE017A00001,Ordinary Share
+57,Global IME Bank Limited Promoter Share,GBIMEP,NPE017A40007,Promoter Share
+58,Global IME Samunnat Scheme 1,GIMES1,NPE279A35003,Mutual Fund
+59,Goodwill Finance Company Limited,GFCL,NPE124A00005,Ordinary Share
+60,Goodwill Finance Company Limited Promoter Share,GFCLPO,NPE124A40001,Promoter Share
+61,Green Development Bank Limited,GRDBL,NPE285A00004,Ordinary Share
+62,Guheswori Merchant Banking & Finance Limited,GMFIL,NPE126A00000,Ordinary Share
+63,Guheswori Merchant Banking & Finance Limited Promoter Share,GMFILP,NPE126A40006,Promoter Share
+64,Gurans Life Insurance Company Limited,GLICL,NPE202A00009,Ordinary Share
+65,Gurans Life Insurance Company Limited Promoter Share,GLICLP,NPE202A40005,Promoter Share
+66,Gurkhas Finance Limited,GUFL,NPE133A00006,Ordinary Share
+67,Gurkhas Finance Limited Promoter Share,GUFLPO,NPE133A40002,Promoter Share
+68,Hamro Bikas Bank Limited,HAMRO,NPE226A00008,Ordinary Share
+69,Hamro Bikas Bank Limted Promoter Share,HAMROP,NPE226A40004,Promoter Share
+70,Himalayan Bank Limited,HBL,NPE019A00007,Ordinary Share
+71,Himalayan Bank Limited Promoter,HBLPO,NPE019A40003,Promoter Share
+72,Himalayan Distillery Limited,HDL,NPE179A00009,Ordinary Share
+73,Himalayan General Insurance Company Limited,HGI,NPE005A00006,Ordinary Share
+74,Himalayan General Insurance Co. Ltd Promoter Share,HGIPO,NPE005A40002,Promoter Share
+75,Himalayan Power Partner Limited,HPPL,NPE303A00005,Ordinary Share
+76,ICFC Finance Limited,ICFC,NPE128A00006,Ordinary Share
+77,ICFC Finance Limited Promoter Share,ICFCPO,NPE128A40002,Promoter Share
+78,IME General Insurance Limited Promoter Share,IGIPO,NPE205A40008,Promoter Share
+79,International Leasing & Finance Company Limited,ILFC,NPE130A00002,Ordinary Share
+80,Hydroelectricity Investment and Development Company Limited,HIDCL,NPE281A00003,Ordinary Share
+81,Janaki Finance Company Limited,JFL,NPE131A00000,Ordinary Share
+82,Janaki Finance Limited Promoter Share,JFLPO,NPE131A40006,Promoter Share
+83,Janata Bank Nepal Limited,JBNL,NPE020A00005,Ordinary Share
+84,Janata Bank Nepal Limited Promoter Share,JBNLPO,NPE020A40001,Promoter Share
+85,Janautthan Samudayic Laghubitta Bittiya Sanstha Limited,JSLBB,NPE260A00007,Ordinary Share
+86,Jebils Finance Limited,JEFL,NPE222A00007,Ordinary Share
+87,Jebils Finance Limited Promoter Share,JEFLPO,NPE222A40003,Promoter Share
+88,Jyoti Bikash Bank Limited,JBBL,NPE061A00009,Ordinary Share
+89,Jyoti Bikas Bank Limited Promoter Share,JBBLPO,NPE061A40005,Promoter Share
+90,Kabeli Bikas Bank Limited,KEBL,NPE065A00000,Ordinary Share
+91,Kailash Bikas Bank Limited,KBBL,NPE063A00005,Ordinary Share
+92,Kailash Bikas Bank Limited Promoter Share,KBBLPO,NPE063A40001,Promoter Share
+93,Kalika Laghubitta Bittiya Sanstha Limited,KMCDB,NPE235A00009,Ordinary Share
+94,Kalika Laghubitta Bittiya Sanstha Limited Promoter Share,KMCDBP,NPE235A40005,Promoter Share
+95,Kamana Sewa Bikas Bank Limited,KSBBL,NPE068A00004,Ordinary Share
+96,Kamana Sewa Bikas Bank Limited Promoter Share,KSBBLP,NPE068A40000,Promoter Share
+97,Kanchan Development Bank Limited,KADBL,NPE062A00007,Ordinary Share
+98,Kanchan Development Bank Limited Promoter Share,KADBLP,NPE062A40003,Promoter Share
+99,Kankai Bikas Bank Limited,KNBL,NPE069A00002,Ordinary Share
+100,Kankai Bikas Bank Limited Promoter Share,KNBLPO,NPE069A40008,Promoter Share
+101,Karnali Development Bank Limited,KRBL,NPE070A00000,Ordinary Share
+102,Karnali Development Bank Limited Promoter Share,KRBLPO,NPE070A40006,Promoter Share
+103,Khani Khola Hydropower Company Limited,KKHC,NPE291A00002,Ordinary Share
+104,Kisan Microfinance Bittiya Sanstha Limited,KMFL,NPE274A00008,Ordinary Share
+105,City Express Finance Limited (former Kuber Merchant Finance),CEFL,NPE134A00004,Ordinary Share
+106,City Express Finance Limited Promoter Share,CEFLPO,NPE134A40000,Promoter Share
+107,Kumari Bank Limited,KBL,NPE021A00003,Ordinary Share
+108,Kumari Bank Limited Promotor Share,KBLPO,NPE021A40009,Promoter Share
+109,Lalitpur Finance Limited,LFC,NPE135A00001,Ordinary Share
+110,Lalitpur Finance Company Limited Promoter Share,LFCPO,NPE135A40007,Promoter Share
+111,Laxmi Bank Limited,LBL,NPE004A00009,Ordinary Share
+112,Laxmi Bank Limited Promotor Share,LBLPO,NPE004A40005,Promoter Share
+113,Laxmi Equity Fund,LEMF,NPE302A35003,Mutual Fund
+114,Laxmi Laghubitta Bittiya Sanstha Limited,LLBS,NPE247A00004,Ordinary Share
+115,Laxmi Value Fund-1,LVF1,NPE255A35003,Mutual Fund
+116,Life Insurance Corporation Nepal Limited,LICN,NPE204A00005,Ordinary Share
+117,Lumbini Bikas Bank Limited,LBBL,NPE304A00003,Ordinary Share
+118,Lumbini General Insurance Limited,LGIL,NPE203A00007,Ordinary Share
+119,Machhapuchchhre Bank Limited,MBL,NPE024A00007,Ordinary Share
+120,Machhapuchchhre Bank Limited Promotor Share,MBLPO,NPE024A40003,Promoter Share
+121,Mahalaxmi Bikas Bank Limited,MLBL,NPE138A00005,Ordinary Share
+122,Mahalaxmi Bikas Bank Ltd. Promotor Share,MLBLPO,NPE138A40001,Promoter Share
+123,Mahila Sahayatra Laghubitta Bittiya Sanstha Limited,MSMBS,NPE275A00005,Ordinary Share
+124,Mahuli Laghubitta Bittiya Sanstha Limited,MSLB,NPE305A00000,Ordinary Share
+125,Manjushree Finance Limited,MFIL,NPE137A00007,Ordinary Share
+126,Manjushree Finance Limited Promoter Share,MFILPO,NPE137A40003,Promoter Share
+127,Mega Bank Nepal Limited,MEGA,NPE034A00006,Ordinary Share
+128,Mega Bank Nepal Limited Promoter Share,MEGAPO,NPE034A40002,Promoter Share
+129,Mero Microfinance Laghubitta Bittiya Sanstha Limited,MERO,NPE280A00005,Ordinary Share
+130,Mirmire Laghubitta Bittiya Sanstha Limited,MMFDB,NPE252A00004,Ordinary Share
+131,Mission Development Bank Limited,MIDBL,NPE228A00004,Ordinary Share
+132,Mission Development Bank Limited Promoter Share,MIDBLP,NPE228A40000,Promoter Share
+133,Miteri Development Bank Limited,MDB,NPE072A00006,Ordinary Share
+134,Miteri Development Bank Limited Promoter Share,MDBPO,NPE072A40002,Promoter Share
+135,Mithila Laghubitta Bittiya Sanstha Limited,MLBBL,NPE251A00006,Ordinary Share
+136,Mount Makalu Development Bank Limited,MMDBL,NPE269A00008,Ordinary Share
+137,Muktinath Bikas Bank Limited,MNBBL,NPE075A00009,Ordinary Share
+138,Muktinath Bikas Bank Limited Promoter Share,MNBBLP,NPE075A40005,Promoter Share
+139,Multipurpose Finance Company Limited,MPFL,NPE139A00003,Ordinary Share
+140,Multipurpose Finance Company Limited Promoter Share,MPFLPO,NPE139A40009,Promoter Share
+141,Nabil Balanced Fund-1,NBF1,NPE250A35004,Mutual Fund
+142,Nabil Bank Limited,NABIL,NPE025A00004,Ordinary Share
+143,NABIL Bank Limited Promoter Share,NABILP,NPE025A40000,Promoter Share
+144,Nabil Equity Fund,NEF,NPE289A35002,Mutual Fund
+145,Nagbeli Laghubitta Bikash Bank Limited,NBBL,NPE249A00000,Ordinary Share
+146,Nagbeli Laghubitta Bikas Bank Ltd. Promoter Share,NBBLPO,NPE249A40006,Promoter Share
+147,Namaste Bittiya Sanstha Limited,NBSL,NPE223A00005,Ordinary Share
+148,National Hydro Power Company Limited,NHPC,NPE194A00008,Ordinary Share
+149,National Life Insurance Company Limited,NLICL,NPE210A00002,Ordinary Share
+150,National Life Insurance Company Limited Promoter share,NLICLP,NPE210A40008,Promoter Share
+151,National Microfinance Laghubitta Bittiya Sanstha Limited,NMLBS,NPE284A00007,Ordinary Share
+152,Naya Nepal Laghubitta Bikas Bank Limited,NNLB,NPE236A00007,Ordinary Share
+153,Neco Insurance Limited,NIL,NPE207A00008,Ordinary Share
+154,Neco Insurance Company Limited Promoter,NILPO,NPE207A40004,Promoter Share
+155,Nepal Aawas Finance Limited,NABB,NPE140A00001,Ordinary Share
+156,Nepal Aawas Finance Limited Promoter Share,NABBPO,NPE140A40007,Promoter Share
+157,Nepal Bangladesh Bank Limited,NBB,NPE013A00000,Ordinary Share
+158,Nepal Bangladesh Bank Promoter Share,NBBPO,NPE013A40006,Promoter Share
+159,Nepal Bank Limited,NBL,NPE026A00002,Ordinary Share
+160,Nepal Community Development Bank Limited,NCDB,NPE240A00009,Ordinary Share
+161,Nepal Community Development Bank Ltd. Promoter Share,NCDBPO,NPE240A40005,Promoter Share
+162,Nepal Credit and Commerce Bank Limited,NCCB,NPE027A00000,Ordinary Share
+163,Nepal Credit and Commerce Bank Limited Promoter Share,NCCBPO,NPE027A40006,Promoter Share
+164,Nepal Doorsanchar Company Limited,NTC,NPE190A00006,Ordinary Share
+165,Grameen Bikas Laghubitta Bittiya Sanstha Limited,GBLBS,NPE230A00000,Ordinary Share
+166,Grameen Bikas Laghubitta Bittiya Sanstha Limited Promoter Share,GBLBSP,NPE230A40006,Promoter Share
+167,Nepal Hydro Developer Limited,NHDL,NPE306A00008,Ordinary Share
+168,Nepal Insurance Company Limited,NICL,NPE206A00000,Ordinary Share
+169,Nepal Investment Bank Limited,NIB,NPE028A00008,Ordinary Share
+170,Nepal Investment Bank Limited Promoter Share,NIBPO,NPE028A40004,Promoter Share
+171,Nepal Life Insurance Company Limited,NLIC,NPE209A00004,Ordinary Share
+172,Nepal Life Insurance Company Limited Promoter,NLICP,NPE209A40000,Promoter Share
+173,Nepal SBI Bank Limited,SBI,NPE007A00002,Ordinary Share
+174,Nepal SBI Bank Limited Promoter Share,SBIPO,NPE007A40008,Promoter Share
+175,Nerude Laghubitta Bittiya Sanstha Limited,NLBBL,NPE081A00007,Ordinary Share
+176,Ngadi Group Power Limited,NGPL,NPE282A00001,Ordinary Share
+177,NIBL Pragati Fund,NIBLPF,NPE294A35002,Mutual Fund
+178,NIBL Samriddhi Fund 1,NIBSF1,NPE257A35009,Mutual Fund
+179,NIC Asia Bank Limited,NICA,NPE029A00006,Ordinary Share
+180,NICA Bank Limited Promoter share,NICAP,NPE029A40002,Promoter Share
+181,NIDC Development Bank Limited,NIDC,NPE080A00009,Ordinary Share
+182,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,NUBL,NPE082A00005,Ordinary Share
+183,NLG Insurance Company Limited,NLG,NPE208A00006,Ordinary Share
+184,NMB Bank Limited,NMB,NPE030A00012,Ordinary Share
+185,NMB Bank Limited Promoter Share,NMBPO,NPE030A40018,Promoter Share
+186,NMB Laghubitta Bittiya Sanstha Limited,NMBMF,NPE266A00004,Ordinary Share
+187,NMB Sulav Investment Fund-1,NMBSF1,NPE264A35005,Mutual Fund
+188,Om Development Bank Limited,ODBL,NPE047A00008,Ordinary Share
+189,Om Development Bank Limited Promoter Share,ODBLPO,NPE047A40004,Promoter Share
+190,Oriental Hotel Limited,OHL,NPE167A00004,Ordinary Share
+191,Pokhara Finance Limited,PFL,NPE152A00006,Ordinary Share
+192,Pokhara Finance Company Limited Promoter Share,PFLPO,NPE152A40002,Promoter Share
+193,Prabhu Bank Limited,PRVU,NPE022A00001,Ordinary Share
+194,Prabhu Bank Limited Promoter Share,PRVUPO,NPE022A40007,Promoter Share
+195,Prabhu Insurance Company Limited,PRIN,NPE199A00007,Ordinary Share
+196,Prabhu Insurance Company Limited Promoter Share,PRINPO,NPE199A40003,Promoter Share
+197,Premier Insurance Company (Nepal) Limited,PIC,NPE211A00000,Ordinary Share
+198,Prime Commercial Bank Limited,PCBL,NPE031A00002,Ordinary Share
+199,Prime Commercial Bank Limited Promoter Share,PCBLP,NPE031A40008,Promoter Share
+200,Prime Life Insurance Company Limited,PLIC,NPE010A00006,Ordinary Share
+201,Prime Life Insurance Company Limited Promoter Share,PLICPO,NPE010A40002,Promoter Share
+202,Progressive Finance Limited,PROFL,NPE154A00002,Ordinary Share
+203,Progressive Finance Limited Promoter Share,PROFLP,NPE154A40008,Promoter Share
+204,Prudential Insurance Company Limited,PICL,NPE212A00008,Ordinary Share
+205,Prudential Insurance Company Limited Promoter Share,PICLPO,NPE212A40004,Promoter Share
+206,Purnima Bikas Bank Limited,PURBL,NPE089A00000,Ordinary Share
+207,Purnima Bikas Bank Limited Promoter Share,PURBLP,NPE089A40006,Promoter Share
+208,Rastriya Beema Company Limited,RBCL,NPE213A00006,Ordinary Share
+209,Rastriya Beema Company Limited Promoter Share,RBCLPO,NPE213A40002,Promoter Share
+210,Reliance Finance Limited,RLFL,NPE224A00003,Ordinary Share
+211,Reliance Lotus Finance Limited Promoter Share,RLFLPO,NPE224A40009,Promoter Share
+212,Ridi Hydropower Development Company Limited,RHPC,NPE263A00001,Ordinary Share
+213,RSDC Laghubitta Bittiya Sanstha Limited,RSDC,NPE286A00002,Ordinary Share
+214,RMDC Laghubitta Bittiya Sanstha Limited,RMDC,NPE231A00008,Ordinary Share
+215,RMDC Laghubitta Bittiya Sanstha Limited Promoter Share,RMDCPO,NPE231A40004,Promoter Share
+216,Sagarmatha Insurance Company Limited,SIC,NPE214A00004,Ordinary Share
+217,Sagarmatha Insurance Company Limited Promoter Share,SICPO,NPE214A40000,Promoter Share
+218,Sahara Bikas Bank Limited,SHBL,NPE273A00000,Ordinary Share
+219,Sahayogi Vikas Bank Limited,SBBLJ,NPE094A00000,Ordinary Share
+220,Sahayogi Bikas Bank Limited Promoter Share,SBBLJP,NPE094A40006,Promoter Share
+221,Salt Trading Corporation Limited,STC,NPE198A00009,Ordinary Share
+222,Samata Gharelu Laghubitta Bittiya Sanstha Limited,SMATA,NPE298A00007,Ordinary Share
+223,Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited,SKBBL,NPE233A00004,Ordinary Share
+224,Sanima Bank Limited,SANIMA,NPE032A00000,Ordinary Share
+225,Sanima Bank Limited Promoter Share,SNMAPO,NPE032A40006,Promoter Share
+226,Sanima Mai Hydropower Limited,SHPC,NPE234A00002,Ordinary Share
+227,Saptakoshi Development Bank Limited,SKDBL,NPE276A00003,Ordinary Share
+228,Shangrila Development Bank Limited,SADBL,NPE093A00002,Ordinary Share
+229,Shangrila Development Bank Limited Promoter Share,SADBLP,NPE093A40008,Promoter Share
+230,Shikhar Insurance Company Limited,SICL,NPE006A00004,Ordinary Share
+231,Shikhar Insurance Company Limited Promoter share,SICLPO,NPE006A40000,Promoter Share
+232,Shine Resunga Development Bank Limited,SHINE,NPE097A00003,Ordinary Share
+233,Shree Investment Finance Company Limited,SIFC,NPE159A00001,Ordinary Share
+234,Shree Investment & Finance Company Limited Promoter share,SIFCPO,NPE159A40007,Promoter Share
+235,Siddhartha Bank Limited,SBL,NPE009A00008,Ordinary Share
+236,Siddhartha Bank Limited Promoter Share,SBLPO,NPE009A40004,Promoter Share
+237,Siddhartha Equity Fund,SEF,NPE307A35002,Mutual Fund
+238,Siddhartha Equity Oriented Scheme,SEOS,NPE272A35008,Mutual Fund
+239,Siddhartha Insurance Limited,SIL,NPE008A00000,Ordinary Share
+240,Siddhartha Insurance Limited Promoter Share,SILPO,NPE008A40006,Promoter Share
+241,Siddhartha Investment Growth Scheme-1,SIGS1,NPE271A35000,Mutual Fund
+242,Sindhu Bikas Bank Limited,SINDU,NPE232A00006,Ordinary Share
+243,Sindhu Bikas Bank Limited Promoter share,SINDUP,NPE232A40002,Promoter Share
+244,Soaltee Hotel Limited,SHL,NPE168A00002,Ordinary Share
+245,Shree Ram Sugar Mills Limited,SRS,NPE187A00002,Ordinary Share
+246,Srijana Finance Limited,SFFIL,NPE157A00005,Ordinary Share
+247,Srijana Finance Limited Promoter Share,SFFILP,NPE157A40001,Promoter Share
+248,Standard Chartered Bank Nepal Limited,SCB,NPE033A00008,Ordinary Share
+249,Summit Laghubitta Bittiya Sanstha Limited,SMFDB,NPE099A00009,Ordinary Share
+250,Summit Laghubitta Bittiya Sanstha Limited Promoter Share,SMFDBP,NPE099A40005,Promoter Share
+251,Sunrise Bank Limited,SRBL,NPE014A00008,Ordinary Share
+252,Sunrise Bank Limited Promoter Share,SRBLPO,NPE014A40004,Promoter Share
+253,Surya Life Insurance Company Limited,SLICL,NPE215A00001,Ordinary Share
+254,Surya Life Insurance Company Limited Promoter Share,SLICLP,NPE215A40007,Promoter Share
+255,Suryodaya Laghubitta Bittiya Sanstha Limited,SLBS,NPE290A00004,Ordinary Share
+256,Swabalamban Laghubitta Bittiya Sanstha Limited,SWBBL,NPE102A00001,Ordinary Share
+257,Swabalamban Laghubitta Bittiya Sanstha Limited Promoter Share,SWBBLP,NPE102A40007,Promoter Share
+258,Swadeshi Laghubitta Bittiya Sanstha Limited,SDESI,NPE301A00009,Ordinary Share
+259,Swarojgar Laghubitta Bittiya Sanstha Limited,SLBBL,NPE098A00001,Ordinary Share
+260,Swarojgar Laghubitta Bittiya Sanstha Limited Promoter Share,SLBBLP,NPE098A40007,Promoter Share
+261,Synergy Finance Limited,SYFL,NPE116A00001,Ordinary Share
+262,Synergy Finance Limited Promoter Share,SYFLPO,NPE116A40007,Promoter Share
+263,Synergy Power Development Limited,SPDL,NPE296A00001,Ordinary Share
+264,Taragaon Regency Hotel Limited,TRH,NPE169A00000,Ordinary Share
+265,Tinau Development Bank Limited,TNBL,NPE105A00004,Ordinary Share
+266,Tinau Development Bank Limited Promoter,TNBLPO,NPE105A40000,Promoter Share
+267,Tourism Development Bank Limited,TDBL,NPE104A00007,Ordinary Share
+268,Tourism Development Bank Limited Promoter Share,TDBLPO,NPE104A40003,Promoter Share
+269,Unilever Nepal Limited,UNL,NPE188A00000,Ordinary Share
+270,United Finance Limited,UFL,NPE164A00001,Ordinary Share
+271,United Finance Limited Promoter Share,UFLPO,NPE164A40007,Promoter Share
+272,United Insurance Company (Nepal) Limited,UIC,NPE216A00009,Ordinary Share
+273,United Insurance Co. (Nepal) Ltd. Promoter Share,UICPO,NPE216A40005,Promoter Share
+274,United Modi Hydropower Limited,UMHL,NPE299A00005,Ordinary Share
+275,Vijaya Laghubitta Bittiya Sanstha Limited,VLBS,NPE265A00006,Ordinary Share
+276,Western Development Bank Limited,WDBL,NPE108A00008,Ordinary Share
+277,Western Development Bank Limited Promoter shares,WDBLPO,NPE108A40004,Promoter Share
+278,Womi Laghubitta Bittiya Sanstha Limited,WOMI,NPE262A00003,Ordinary Share
+279,Samriddhi Finance Company Limited (former World Merchant Banking),SFCL,NPE166A00006,Ordinary Share
+280,Samriddhi Finance Company Limited Promoter Share,WMBFPO,NPE166A40002,Promoter Share
+281,Aarambha Laghubitta Bittiya Sanstha Limited,AMFI,NPE312A00006,Ordinary Share
+282,Aarambha Laghubitta Bittiya Sanstha Limited Promoter Share,AMFIPO,NPE312A0002,Promoter Share
+283,Chhimek Laghubitta Bikas Bank Limited Promoter Share,CBBLPO,NPE046A40006,Promoter Share
+284,Citizens Mutual Fund-1,CMF1,NPE313A35000,Mutual Fund
+285,Himalayan Laghubitta Bittiya Sanstha Limited Promoter Share (Former Civil Laghubitta),HLBSLP,NPE267A40008,Promoter Share
+286,Forward Microfinance Laghubitta Bittya Sanstha Limited Promoter,FOWADP,NPE297A40005,Promoter Share
+287,Gaumukhee Bikas Bank Limited Promoter Share,GABLPO,NPE225A40006,Promoter Share
+288,Global IME Laghubitta Bittiya Sanstha Limited,GILB,NPE270A00006,Ordinary Share
+289,Global IME Laghubitta Bittiya Sanstha Limited Promoter Share,GILBPO,NPE270A40002,Promoter Share
+290,Green Development Bank Ltd. Promoter Share,GRDBLP,NPE285A40000,Promoter Share
+291,IME General Insurance Limited,IGIL,NPE205A00002,Ordinary Share
+292,International Leasing & Finance Company Limited Promoter Share,ILFCPO,NPE130A40008,Promoter Share
+293,Janautthan Samudayic Laghubitta Bikas Bank Limited Promoter Share,JSLBBP,NPE260A40003,Promoter Share
+294,Womi Laghubitta Bittiya Sanstha Limited Promoter Share,WOMIPO,NPE262A40009,Promoter Share
+295,Wean Nepal Laghubitta Bittiya Sanstha Limited,WNLB,NPE314A00002,Ordinary Share
+296,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,USLB,NPE311A00008,Ordinary Share
+297,Sunrise Bluechip Fund,SBCF,NPE351A35018,Mutual Fund
+298,Sunrise First Mutual Fund,SFMF,NPE351A35000,Mutual Fund
+299,Singati Hydro Energy Limited,SHEL,NPE375A00003,Ordinary Share
+300,Hydroelectricity Investment and Development Company Limited Promoter Share,HIDCLP,NPE281A40009,Promoter Share
