@@ -4,6 +4,7 @@ import {body} from 'express-validator'
 import {authUserMiddleware} from '../middlewares/auth.middleware.js'
 // import userController from "../controller/user.controller"
 import { userRegister, userLogin, getUser, logOutUser } from "../controller/user.controller.js";
+import {predicted_Price} from "../controller/predictedPrice.controller.js"
 
 router.post('/login',
     [
@@ -19,5 +20,7 @@ router.post('/register',
 
 router.get("/me", authUserMiddleware, getUser)  
 router.get('/logout', authUserMiddleware, logOutUser)  
+router.post('/predicted_price', predicted_Price)
+
 
 export default router
