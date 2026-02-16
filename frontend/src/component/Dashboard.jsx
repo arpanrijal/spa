@@ -9,34 +9,11 @@ import { UserDataContext } from "../context/DataContext";
 import Card from "./card";
 
 function Dashboard() {
-  const [data, setData] = useState(null);
-  const [loading, setLoading] = useState(true);
+  // const [data, setData] = useState(null);
+  const [loading, setLoading] = useState(false);
   const [filter, setFilter] = useState("All");
   const [query, setQuery] = useState("");
   const { setNavProfilecard } = useContext(UserDataContext);
-
-  const loadData = async () => {
-    setLoading(true);
-
-    const mockData = {
-      index: "Loading",
-      trades: "Loading",
-      turnover: "Loading",
-      gainers: 0,
-      losers: 0,
-    };
-
-    await new Promise((resolve) => setTimeout(resolve, 1500));
-
-    setData(mockData);
-    setLoading(false);
-  };
-
-  useEffect(() => {
-    loadData();
-    const interval = setInterval(loadData, 30000);
-    return () => clearInterval(interval);
-  }, []);
 
   return (
     <div
@@ -49,40 +26,39 @@ function Dashboard() {
         <div className="stats-grid">
           <StatCard
             title="NEPSE Index"
-            value={data?.index}
+            value={"LIVE"}
             isLoading={loading}
           />
 
           <div className="small-stats-row">
             <StatCard
               title="Total Turnover"
-              value={data?.turnover}
+              value={"20,352,245,544,514"}
               isLoading={loading}
             />
             <StatCard
               title="Total Trades"
-              value={data?.trades}
+              value={"14,512,154"}
               isLoading={loading}
             />
           </div>
           <div className="small-stats-row">
             <StatCard
               title="Gainers"
-              value={data?.gainers}
+              value={"58"}
               isLoading={loading}
             />
-            <StatCard title="Losers" value={data?.losers} isLoading={loading} />
+            <StatCard title="Losers" value={"16"} isLoading={loading} />
           </div>
         </div>
 
-        <SearchBar setQuery={setQuery} />
-        <FilterButtons selected={filter} setSelected={setFilter} />
+        {/* <SearchBar setQuery={setQuery} /> */}
+        {/* <FilterButtons selected={filter} setSelected={setFilter} /> */}
+        <h2 className="font-bold text-2xl pb-2 pt-4">Stocks:</h2>
         <div className="flex gap-x-4 gap-y-4 flex-wrap">
-            {Array.from({ length: 10 }).map((_, index) => (
-          <Card key={index} />
-        ))}
+          <Card />
         </div>
-        {loading && <Loader />}
+        {/* {loading && <Loader />} */}
       </div>
     </div>
   );

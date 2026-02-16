@@ -5,6 +5,7 @@ import {authUserMiddleware} from '../middlewares/auth.middleware.js'
 // import userController from "../controller/user.controller"
 import { userRegister, userLogin, getUser, logOutUser } from "../controller/user.controller.js";
 import {predicted_Price} from "../controller/predictedPrice.controller.js"
+import {stockinfo} from '../controller/stockinfo.controller.js'
 
 router.post('/login',
     [
@@ -20,7 +21,8 @@ router.post('/register',
 
 router.get("/me", authUserMiddleware, getUser)  
 router.get('/logout', authUserMiddleware, logOutUser)  
-router.post('/predicted_price', predicted_Price)
+router.post('/predicted_price', authUserMiddleware, predicted_Price)
+router.get('/stockinfo', authUserMiddleware, stockinfo)
 
 
 export default router
