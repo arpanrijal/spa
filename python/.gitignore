@@ -2,7 +2,9 @@
 venv/
 __pycache__/
 *.pyc
-data.csv
+
+# Ignore all txt files except requirements.txt
+*.txt
 
 # Jupyter
 .ipynb_checkpoints/
@@ -14,3 +16,6 @@ data.csv
 # OS / Editor
 .DS_Store
 .vscode/
+
+#env variable
+.env
