@@ -1,0 +1,497 @@
+Date,Headline,Logit,Prediction,Sentiment_Score
+2026-02-17,"Bonus Shares of ADBL, ALBSL, SHIVM listed in NEPSE","[-0.8137, -1.4031, 2.6527]",positive,0.9536978602409363
+2026-02-12,Falgun Interest Rate Update: Commercial Banks Revise Fixed Deposit Rates; Majority Keep Rates Unchanged,"[-0.3563, -1.0445, 1.6315]",positive,0.8292931914329529
+2026-01-14,Commercial Banks Revise Magh Interest Rates; HBL and  MBL Leads with Significant Cuts,"[1.7010, -1.1284, -1.6185]",negative,-0.9130539298057556
+2025-12-15,"Commercial Banks Revise Poush Interest Rates; GBIME, PCBL and RBBL Leads with Significant Cuts","[1.5451, -0.8497, -1.6871]",negative,-0.8844418525695801
+2025-12-11,NRB Report Highlights Commercial and Development Banks' Net Profits up to Kartik; GBIME Tops the Charts,"[1.2508, -2.3492, 0.7846]",negative,-0.6043460965156555
+2025-11-27,Reminder! Last Trading Day to Secure Dividend of Six Companies,"[0.6559, -2.3707, 1.6835]",positive,0.7271597385406494
+2025-11-21,Agricultural Development Bank Unveils Book Closure Date And Call 19th AGM,"[-1.6047, 0.3433, 2.3291]",positive,0.8644178509712219
+2025-11-16,"ICRA Nepal Revises Ratings: Everest Bank on Withdrawal Notice, Agriculture Development Bank Upgraded, Swarojgar Laghubitta Downgraded","[-1.2111, 1.0458, 0.4521]",neutral,0.0
+2025-11-14,Unveiling Q1 FY 2082/83: A Comprehensive Analysis of Leading Commercial Banks and Key Financial Insights,"[0.0387, -2.1217, 2.2569]",positive,0.8917890191078186
+2025-11-06,Agricultural Development Bank Announces 13% Dividend for FY 2081/82,"[-0.2583, -0.7837, 1.3850]",positive,0.764719545841217
+2025-11-02,Dividend Spotlight: A Closer Look into Dividend Declarations by Companies Across All Sectors for FY 2081/82,"[-0.1301, -1.8734, 2.2904]",positive,0.9054499268531799
+2025-10-17,Commercial Banks Revise Kartik Interest Rates; Machhapuchchhre Bank and NMB Bank Leads with Significant Cuts,"[1.3292, -1.0839, -1.2649]",negative,-0.8589226603507996
+2025-09-18,NRB Report Highlights Commercial and Development Banks' Net Profits up to Shrawan; GBIME Tops the Charts,"[1.5425, -2.2577, 0.2056]",negative,-0.7781941294670105
+2025-09-16,"Commercial Banks Revise Interest Rates for Ashwin; Nine Banks Slash, Two Raise","[-1.1284, 2.1827, -0.9780]",neutral,0.0
+2025-08-17,Unveiling Q4 2081/82: A Comprehensive Analysis of Leading Commercial Banks and Key Financial Insights,"[0.1626, -2.2191, 2.2153]",positive,0.8769986033439636
+2025-08-17,Bhadra Interest Rate Update: Commercial Banks Revise Fixed Deposit Rates; Majority Keep Rates Unchanged,"[-0.3741, -1.0750, 1.6535]",positive,0.8354458212852478
+2025-08-15,"Commercial Banks Post Rs. 71.50 Arba Net Profit in Q4 FY 2081/82; Nabil Bank Leads Net Profit, Everest Bank Tops Distributable Profit Per Share","[0.3724, -1.6638, 1.4277]",positive,0.7175957560539246
+2025-06-13,NRB Report Highlights Commercial and Development Banks' Net Profits up to Baisakh; NABIL Tops the Charts Once More,"[1.8701, -2.0230, -0.8609]",negative,-0.921209454536438
+2025-05-14,"Commercial Banks Revise Fixed Deposit Rates for Jestha: NIMB Slashes, SANIMA Leads the Hike","[0.2091, -1.9811, 1.7382]",positive,0.8058103919029236
+2025-04-22,Delving into Q3 2081/82: Performance Analysis of Leading Commercial Banks with Key Financial Insights,"[0.2787, -2.0129, 1.9656]",positive,0.8306964039802551
+2025-04-20,"Commercial Banks' Net Profits Rise by 1.40% in Q3; Nepal Bank Sees Over 2000% Surge, NIC Asia Suffers 91% Decline","[1.8953, -1.4273, -1.6799]",negative,-0.9397913813591003
+2025-04-13,"Commercial Banks Revise Interest Rates for Baisakh 2082; 3 Banks Cut Individual Fixed Deposit Rates, 1 Bank Hikes","[-0.1573, 0.2799, -0.2110]",neutral,0.0
+2025-04-10,NRB Publishes Net Profit Report for Falgun: Nabil Bank and Garima Bikas Bank Lead Their Sectors,"[-0.9338, -1.1856, 2.5180]",positive,0.9466798901557922
+2025-02-20,"Bonus Shares of SHIVM, FMDBL and ADBL Listed in NEPSE","[-0.7560, -1.4962, 2.6420]",positive,0.9529322981834412
+2025-02-12,Most Commercial Banks Retain Interest Rates for Falgun; Global IME Bank Raises FD Rates,"[-0.0136, -1.4897, 1.3713]",positive,0.7647778987884521
+2025-01-23,Performance Analysis of A-Class Banks in Q2 2081/82: Key Financial Metrics and Insights,"[0.2921, -2.1298, 2.0540]",positive,0.842487633228302
+2025-01-20,"Commercial Banks Report 4.62% Decline in Net Profit for Q2 FY 2081/82; NABIL Leads, Prabhu Bank Sees Highest Growth","[-1.0112, 2.7780, -1.7824]",neutral,0.0
+2024-12-29,Reminder! Last Trading Day to Secure Dividend of Seven Companies,"[0.6813, -2.3580, 1.6458]",positive,0.7145819664001465
+2024-12-23,Agricultural Development Bank Unveils Book Closure Date And Call 18th AGM,"[-1.5710, 0.2892, 2.3316]",positive,0.8696410655975342
+2024-12-19,Agricultural Development Bank Announces 10.53% Dividend for FY 2080/81,"[0.1356, -0.5057, 0.1245]",negative,-0.3975165784358978
+2024-12-16,"Revised Interest Rates for Poush: NIC Asia and NMB Lead, Laxmi Sunrise Offers Lowest","[-0.2426, -1.4864, 2.1168]",positive,0.8914898037910461
+2024-12-10,NRB Report Highlights Commercial and Development Banks' Net Profits up to Kartik; NABIL Tops the Charts Once More,"[1.8441, -2.0401, -0.7321]",negative,-0.9118853211402893
+2024-11-15,Commercial Banks Revise Mangsir Interest Rates; Machhapuchchhre Bank Leads with Significant Cuts,"[1.5106, -1.1996, -1.3767]",negative,-0.8910647034645081
+2024-10-25,Comparative Analysis of First Quarter Reports of 20 Commercial Banks; Industry Accumulates An Average Profit of Rs. 81.16 Crores In Q1 FY 2081-82,"[-0.4082, -1.0371, 1.8955]",positive,0.8671848177909851
+2024-10-23,"Commercial Banks Report 21.63% Rise in Net Profit for Q1 FY 2081/82; NABIL Leads, SBL Shows Highest Growth","[1.9976, -1.7133, -1.5263]",negative,-0.9488201141357422
+2024-10-20,"NRB Report Highlights Commercial and Development Banks' Net Profits up to Bhadra; NABIL, MNBBL and ICFC Tops the Chart","[0.7312, -2.2586, 1.4833]",positive,0.6688686609268188
+2024-10-16,Commercial Banks Unveil Kartik Interest Rate Adjustments: SANIMA Raises Rates While CZBIL and HBL Implements Significant Cut,"[1.0777, -1.8591, 0.1438]",negative,-0.691540002822876
+2024-10-02,"ICRA Nepal Removes Agricultural Development Bank Limited from Negative Watch, Reaffirms Ratings","[0.8548, -1.7056, 0.0097]",negative,-0.6636607050895691
+2024-09-18,NRB Publishes Net Profit Report for Shrawan: Global IME Bank and Shine Resunga Development Bank Lead Their Sectors,"[-0.8164, -1.2394, 2.4193]",positive,0.9388790130615234
+2024-09-16,Commercial Banks Revise Ashwin Interest Rates; NMB Bank Leads with Significant Cuts,"[1.3603, -1.4143, -0.9089]",negative,-0.857793390750885
+2024-09-08,Commercial Banks Reduce Base Interest Rates to 7.92% Amid Surplus Loanable Funds,"[-1.1462, 2.3513, -0.9806]",neutral,0.0
+2024-08-16,Commercial Banks Reduce Interest Rates for Bhadra: NIC Asia and NMB Bank Lead with Highest Rates on Fixed Deposits,"[-1.0376, 1.1788, 0.6713]",neutral,0.0
+2024-08-06,Unveiling Q4 2080/81: A Comprehensive Analysis of Leading Commercial Banks and Key Financial Insights,"[0.1153, -2.1690, 2.2324]",positive,0.8828920125961304
+2024-08-05,"20 Commercial Banks Report Q4 FY 2080/81 Results: Nabil Bank Tops Profit Charts with Rs 7.06 Arba, Industry Total Hits Rs 64.15 Arba","[1.8408, -1.6523, -1.4046]",negative,-0.9351418018341064
+2024-08-05,Agriculture Development Bank Doubles Net Profit with 176.23% Increase in Q4 With Rise in Net Interest Income; Distributable Profit at Rs 2.66 Arba,"[1.9464, -1.5706, -1.5375]",negative,-0.9430637955665588
+2024-07-15,Commercial Banks Reduce Interest Rates for Shrawan; Himalayan Bank Leads with Significant Cuts,"[-0.6218, 1.7520, -1.0970]",neutral,0.0
+2024-07-14,NRB Report Highlights Commercial and Development Banks' Net Profits up to Jestha; NABIL Tops the Charts Once More,"[1.8650, -2.0140, -0.8105]",negative,-0.9178155064582825
+2024-06-14,Commercial Banks Announce New Interest Rates for Ashad: Mixed Adjustments with Slight Overall Decrease,"[0.6012, -0.9360, -0.5602]",negative,-0.6544489860534668
+2024-06-12,NRB Reveals Net Profits of Commercial and Development Banks Till Baisakh; Nabil and Muktinath Bikas Bank Lead Their Sectors,"[-0.4425, -1.7651, 2.4494]",positive,0.934363067150116
+2024-06-10,Online Banking Services Temporarily Suspended for System Upgrades,"[-1.8405, 2.5651, 0.2723]",neutral,0.0
+2024-05-13,"Jestha Interest Rate Update: Most Banks Lower Rates, NIC Asia Bank and Global IME Bank Oppose the Trend with Increases","[-1.5615, 2.1861, 0.2471]",neutral,0.0
+2024-04-23,Delving into Q3 2080/81: Performance Analysis of Leading Commercial Banks with Key Financial Insights,"[0.2232, -1.9574, 1.9950]",positive,0.8408732414245605
+2024-04-14,"Baisakh Interest Rate Update: 13 Commercial Banks Cut Rates, NMB and Everest Stand Apart with Increases","[-1.2527, 2.0823, -0.4837]",neutral,0.0
+2024-04-10,Net Profit Status of Commercial and Development Banks Unveiled Till Falgun: NABIL Earned The Most,"[1.9860, -2.3505, -0.4859]",negative,-0.9111565947532654
+2024-04-07,Empowering Financial Inclusion: ADBL Introduces Instant Digital Loans,"[1.1366, -2.5992, 1.3216]",positive,0.5402750968933105
+2024-03-14,NRB Report Highlights Commercial and Development Banks' Net Profits up to Magh; NABIL Tops the Charts Once More,"[1.8617, -1.9828, -0.9187]",negative,-0.9230151176452637
+2024-03-13,"Commercial Banks Alter Interest Rates for Chaitra: Majority Lower Rates, NIC Asia Bucks Trend with Increase","[0.7231, -0.6412, -0.2692]",negative,-0.6148954629898071
+2024-02-29,"A Deep Dive into the Dynamic Link Between Commercial Banks' Latest Trading Prices and Net Worth Per Share, and More Insights Ahead","[-0.1849, -1.7994, 2.3427]",positive,0.9126232862472534
+2024-02-20,Agricultural Development Bank Unveils Book Closure Date And Call 17th AGM,"[-1.5963, 0.3872, 2.2922]",positive,0.855211615562439
+2024-02-12,"Commercial Banks Adjust Interest Rates for Falgun, Citizens Bank International Reduced The Most","[-0.3142, -1.2882, 2.0947]",positive,0.8897882699966431
+2024-02-09,Agricultural Development Bank Decides Not To Distribute Dividend For FY 2079/80,"[-1.2418, -0.2170, 2.1487]",positive,0.8868597745895386
+2024-01-22,Performance Analysis of A-Class Banks in Q2 2080/81: Key Financial Metrics and Insights,"[0.2193, -2.0562, 2.0821]",positive,0.8538366556167603
+2024-01-21,"Q2 Reports Unveils Profit Declines for 16 Commercial Banks, Nabil Bank Leads Amidst Industry-wide Downturn","[-1.7786, 3.0007, -0.9278]",neutral,0.0
+2024-01-16,NRB Reports Net Profits of Commercial and Development Banks Till Mangsir of FY 2080/81; NABIL Leading The Chart,"[0.5181, -2.2947, 1.8463]",positive,0.780721127986908
+2024-01-14,"Commercial Banks Implement Single-Digit Interest Rates, Effective from Magh 01; PCBL Leads with Significant Reductions","[1.7345, -2.3130, -0.4812]",negative,-0.8876775503158569
+2024-01-08,"NEPSE's Two-Month Rally Sees Index Surge from 1800 to 2000 Levels, Yet Banking Sector Faces Decline Amidst Overall Surge","[-1.3747, 2.7752, -1.1905]",neutral,0.0
+2023-12-29,Investors Accuse Banks of Irresponsibility as AGMs Delayed: Regulatory Concerns Emerge,"[-1.7503, 2.5616, -0.0830]",neutral,0.0
+2023-12-19,NRB Reveals Commercial and Development Banks' Net Profits Till Kartik FY 2080/81; NABIL Takes the Lead,"[-0.9126, -1.2255, 2.5666]",positive,0.9493253231048584
+2023-12-17,Commercial Banks Implement Interest Rate Adjustments Following NRB Directive Effective From Today,"[-0.6422, -1.2625, 2.4323]",positive,0.9336536526679993
+2023-11-24,A Comparative Deep Dive: Analyzing Financial Metrics Across Commercial Banks Through Q1 80/81,"[0.2026, -2.0498, 2.0094]",positive,0.8464274406433105
+2023-11-20,"Commercial Banks Adjust Interest Rates for Mangsir, NIC Asia Reduced The Most","[-0.3681, -0.8324, 1.7291]",positive,0.8333346247673035
+2023-11-03,"Net Profit Status of 1st Quarter of Commercial Banks: NIMB Earned The Most, 12 Banks Reported Declined In Profit Led by ADBL","[-1.7587, 3.0453, -1.0413]",neutral,0.0
+2023-10-17,Commercial Banks Revise Interest Rates for Kartik: Notable Changes and Four Banks Maintain Stability,"[0.6438, -2.1072, 1.5930]",positive,0.7083250284194946
+2023-10-17,22.5 MW Thulo Khola Hydro at Myagdi completes financial closure; 3 banks under Citizens Bank to make loan investment,"[-0.9439, -0.2664, 1.6844]",positive,0.8234754204750061
+2023-10-02,"Reserve Requirements, RRR, CRR, and SLR; Significance in the Nepal's Banking Sector","[0.5606, -2.4679, 1.9136]",positive,0.786785900592804
+2023-09-26,Banks and Finance Companies Report Impressive Profits Till Shrawan of 2080/81 While Few Companies Face Losses,"[1.8799, -1.6531, -1.3412]",negative,-0.9353452324867249
+2023-09-18,"Commercial Banks in Ashwin Unveil Interest Rate Adjustments, PCBL Tops FD Rates, SCB Cuts Amidst Stability","[0.3011, -0.4183, -0.3922]",negative,-0.503275454044342
+2023-09-11,Commercial Banks; Too Pricey on your Pockets? See Latest PE Ratio of 'A' Class Banks,"[-0.8313, -0.5394, 2.1766]",positive,0.8964285254478455
+2023-08-08,Comparative Analysis: Unraveling Financial Indicators Among Commercial Banks,"[0.1626, -1.6627, 1.8351]",positive,0.8209987282752991
+2023-08-07,"Ashad 2080 Snapshot: Nepal's Commercial Banks Display Diverse Base and Spread Rates, RBB Leads with Lowest Base Rate","[0.6048, -1.8229, 0.8353]",positive,0.536411464214325
+2023-08-06,Comparative Analysis: Unraveling Net Profit and Distributable Profit Per Share Among Commercial Banks,"[-0.3472, -1.0686, 1.7957]",positive,0.8515399098396301
+2023-08-05,Agricultural Development Bank Makes Public Q4 Report With Rs. 3 Arba in Net Profits; EPS at Rs. 20.62,"[-0.8607, -0.6969, 2.1549]",positive,0.903540849685669
+2023-07-16,Commercial Banks Revise Interest Rates For Shrawan After Interest Rate Cartelisation Ends,"[-1.0238, -0.3976, 2.2939]",positive,0.9057844281196594
+2023-06-27,11.5 Percent Stocks Hovering Around 52-Week High; 5.7% Scrips Near 52-Week Low,"[-0.3977, 0.5420, -0.2518]",neutral,0.0
+2023-06-15,Commercial Banks Update Interest Rates For The Month of Ashad; SCB Reduces Its Fixed Deposit Rates,"[-1.4121, 1.6143, 0.1090]",neutral,0.0
+2023-06-01,ICRA Nepal Limited assigns ratings of Agriculture  Development Bank and its Rs 1.68 arba worth debenture at ICRANP-IR A and ICRANP LA,"[-0.2325, -1.9065, 2.3605]",positive,0.9184278845787048
+2023-05-21,Agricultural Development Bank Distributed 2% Bonus Shares to Demat Accounts of Shareholders,"[-0.3765, -1.8363, 2.4893]",positive,0.934436559677124
+2023-05-15,"Bonus Shares of ADBL, STC, SMFBS and MMFDB Listed in NEPSE","[-0.8905, -1.3608, 2.6774]",positive,0.9561643600463867
+2023-04-30,"CBFIN Determined to Use Legal Authority for Protection and Right of Depositors, Borrowers & Stakeholders of  BFIs","[0.0904, -2.2569, 2.3105]",positive,0.8936737179756165
+2023-04-27,Evolution of Non-Performing Loans  (NPL) in Nepal; Addressing the Current Situation of Growing NPL,"[1.3631, -2.5164, 0.8094]",negative,-0.6267785429954529
+2023-04-21,NRB Takes Action Against These 8 Commercial Banks for Violating NRB Guidelines,"[-1.5276, 1.2982, 1.0412]",neutral,0.0
+2023-04-20,Comparative Analysis of Third Quarter Reports of 21 Commercial Banks; Industry Accumulates An Average Profit of 2.32 Arba In Q3,"[-0.4709, -0.8945, 1.9133]",positive,0.8676824569702148
+2023-04-20,Agricultural Development Bank Distributed Cash Dividends Directly to Shareholders' Bank Accounts,"[-1.0300, -1.0464, 2.6184]",positive,0.9508964419364929
+2023-04-16,Agriculture Development Bank signs Remittance agreement with Nepal Remit International; to make remittance flow easier and more convenient,"[2.0129, -2.4205, -0.8591]",negative,-0.9359255433082581
+2023-03-23,Commercial Banks Are Approaching Their 52-Weeks Low Price; What Does this Mean for Investors In BFI-Dominated Market?,"[-1.8113, 2.4452, 0.1114]",neutral,0.0
+2023-03-13,Reminder! Last Day To Grab Dividends Proposed by Swarojgar Laghubitta and Agricultural Development Bank,"[0.4411, -1.7812, 1.5727]",positive,0.7366626858711243
+2023-03-03,"Agricultural Development Bank (ADBL) Calls AGM on 14th Chaitra, When's the Book Closure for 13% Dividend?","[-1.0316, -0.7720, 2.4614]",positive,0.9347242712974548
+2023-01-27,Interest Amount of Rs. 13.33 Arba Is Yet To Be Received by Commercial Banks; A Second Quarter Comprehensive Analysis of Major Indicators for all 22 Commercial Banks,"[-0.2713, -1.7417, 2.2284]",positive,0.9082821607589722
+2023-01-22,"ADB should focus on agriculture, says DPM Poudel","[1.0674, -2.4656, 1.1452]",positive,0.5122433304786682
+2023-01-12,Committee of Nepal Bankers Association has Decided to Decrease Fixed Deposits Interest Rates For the Month of Magh,"[-1.6253, 1.6517, 1.0677]",neutral,0.0
+2023-01-10,Stock Market Trend Analysis; Which Sector Has Gained the Highest in Last  100 Days?,"[1.1249, -2.4707, 0.9948]",negative,-0.5248199105262756
+2023-01-10,"Agricultural Development Bank Announces 13% Dividend for FY 2078/79, 6% Cash Dividend Proposed for Preference Shareholders Too","[0.1436, -1.9604, 1.9510]",positive,0.8445298075675964
+2022-12-13,Commercial Banks Decides to Maintain the Same Deposit Interest Rate During the Month of Poush as Well,"[-1.1437, -0.7393, 2.5295]",positive,0.9403403401374817
+2022-11-28,"Due to Higher Spread Rates, NIC Asia Bank is Most Affected by the First Quarter Monetary Policy; What is the Status of Other BFI's?","[-1.6177, 0.9473, 1.6959]",positive,0.6625049114227295
+2022-11-15,Interest Rates of Commercial banks to Remain Unchanged for the Month of Mangsir,"[-0.9152, -0.6239, 2.0772]",positive,0.895020067691803
+2022-10-31,Profitability Figures of Commercial Banks Painted a Greener Picture in First Quarter; A Summarized Snapshot of the  Important Fundamentals of all 26 Banks Individually,"[1.4208, -2.1751, 0.3338]",negative,-0.7327772378921509
+2022-10-19,The Base Rate of Banks Have Increased in Recent Month; Check Out the Current Base Rates of 26 Commercial Banks of Nepal,"[0.8248, -2.3710, 1.4065]",positive,0.632178008556366
+2022-10-17,Interest Rates of Banks and Financial Institutions Remains Unchanged for Kartik,"[-0.8909, -0.7762, 2.0150]",positive,0.8960236310958862
+2022-10-13,Committee of Nepal Bankers Association has Determined that Raising Kartik's Interest Rates is not Reasonable,"[-0.7428, -0.5434, 1.9886]",positive,0.8736424446105957
+2022-09-23,Prisoner’s Dilemma: In Present Context With Increment of Interest Rates by Financial Institutions,"[-0.5058, -0.7348, 2.0871]",positive,0.8816006183624268
+2022-09-21,Most Banks Alter Their Interest Rates; Individuals Deposit Interest Rates Increased By 3 Digits After the Decimal Point,"[-0.0395, -1.4909, 1.7865]",positive,0.8341813683509827
+2022-08-23,What Does the Future Hold For  ATMs in Nepal as the Country Quickly Transitions to a Cashless Economy?,"[-1.3133, 0.7402, 1.4207]",positive,0.6363986134529114
+2022-08-21,4% Agricultural Bond Now Listed in NEPSE,"[-0.6111, -1.3456, 2.5555]",positive,0.9412940144538879
+2022-08-07,Amid Liquidity Crunch And Low Credit Expansion Commercial Banks Reports Satisfactory Profit Growth In FY 78/79; A Summarised Snapshot of the Most Important Fundamentals,"[1.8279, -1.7699, -1.3564]",negative,-0.9356353282928467
+2022-08-04,Fall in Net Profit of Agricultural Development Bank in Q4 by 23.74%; Distributable Profit Stands at Rs 3.90 Arba,"[-1.8036, 3.0102, -0.9190]",neutral,0.0
+2022-08-03,"NRB Has Amended and Added Various Facilities To the 'A', 'B' and 'C' Category Banks and Financial Institutions; List of Major Highlights of NRB Circular","[-0.1559, -1.9928, 2.2680]",positive,0.9068723320960999
+2022-06-12,Commercial Banks Have Agreed Not To Raise Interest Rates On Deposits,"[-0.8178, -0.7668, 2.1981]",positive,0.9086237549781799
+2022-06-12,"Commercial Banks Profit Rs. 58 Arba Till Baishakh of This Fiscal Year, 3 Development Banks and 2 Finance Companies In Loss","[-0.7801, -1.0244, 2.3136]",positive,0.9252055883407593
+2022-06-07,Comparative Analysis of Commercial Banks: How Much Has P/E Ratio Declined Since The All-Time High?,"[-1.5331, 2.7735, -1.0409]",neutral,0.0
+2022-06-06,Commercial Banks' Overall Market Capitalization Has Dropped By 32% Since The All Time High,"[-1.8854, 3.0893, -0.9030]",neutral,0.0
+2022-06-01,52-Week High/Low Analysis; Is This The Best Time To Buy Shares?,"[-0.6800, -0.9397, 2.2461]",positive,0.91328364610672
+2022-05-03,Do All Commercial Banks Maintain Minimum CAR and Core Capital (Tier-I) Prescribed by Nepal Rastra Bank?,"[-0.7195, -1.4397, 2.5630]",positive,0.9471465349197388
+2022-05-01,Detailed Summary Of Dividends Distributed By Sectors Listed In Nepse For FY-77/78 With Exact Dividend Figures,"[-1.2563, -0.6328, 2.5986]",positive,0.9427927732467651
+2022-04-26,Commercial Banks See Decrement in Total Deposit by Rs. 10B and Lending By Rs. 1B in Second Week of Baisakh,"[-0.9433, 0.3554, 0.4076]",positive,0.4528733789920807
+2022-04-24,Thriving During Liquidity Crisis In Nepal; A Quick Look At The Third Quarter Performance Of Commercial Bank's,"[0.0369, -1.6089, 1.7150]",positive,0.8178344368934631
+2022-04-21,"Total Deposit in Commercial Banks at Rs. 4377B in First Week of Baisakh, Lending at Rs. 4195B","[-1.1486, -0.8162, 2.5658]",positive,0.9448679089546204
+2022-04-21,"What is the latest base rate, Credit-Deposit Ratio and, Credit Adequacy Ratio of commercial banks? How Will It Impact The Market?","[-1.3624, -0.1560, 2.3191]",positive,0.9014361500740051
+2022-04-19,"In 8-months of FY, Highest Credit From Commercial Banks Went to Wholesale and Retail","[0.0857, -2.1745, 2.1139]",positive,0.8731277585029602
+2022-04-18,"Commercial Banks Profit Rs. 46 Arba Till Falgun of FY, 3 Development Banks and 2 Finance Companies in Loss","[-0.7413, -0.7005, 2.0485]",positive,0.8885513544082642
+2022-04-12,"Deposit Collection Up Rs. 3 Billion in Fourth Week of Chaitra, Lending Up Rs. 2 Billion","[1.9512, -2.0255, -1.1261]",negative,-0.9391181468963623
+2022-04-11,"Commercial Banks Keep Interest Rates Unchanged for Baisakh, LC Prohibited for Non-Essential Import","[-1.0921, -0.5294, 2.3010]",positive,0.9152546525001526
+2022-04-06,"Deposit Collection Chokes in Chaitra's Third Week, Lending Up Rs. 5B","[-1.2041, 2.7813, -1.5661]",neutral,0.0
+2022-04-05,"Non-Essential Imports Prohibited to Ease Liquidity Crunch, Banks to Constrict Credit Flow","[-0.5460, 0.0325, 0.4835]",positive,0.5014393925666809
+2022-03-28,Total Deposit and Lending in Commercial Banks Rise Rs. 2B Each in Second Week of Chaitra,"[1.5161, -1.8056, -0.6940]",negative,-0.8727645874023438
+2022-03-18,"Hopeful Growth in Deposit in Last Week of Falgun, Lending Also Rises","[2.1111, -2.4211, -0.8333]",negative,-0.9403891563415527
+2022-03-18,First-ever Agro Loan Expo to kickstart at Chitwan on Chaitra 9; one-stop destination for agro entrepreneurs to find suitable agro machinery and agro loan schemes,"[1.8212, -2.8739, 0.3931]",negative,-0.8007038831710815
+2022-03-14,"Deposit Rose Minimally in Fourth Week of Falgun, Lending Down Rs. 1B","[-0.3532, 1.4727, -1.6356]",neutral,0.0
+2022-03-14,"Commercial Banks Forwarded Rs. 11.84 Arba Loan in Magh, Most of it Went to Wholesale and Retail","[-0.5944, -1.5330, 2.3900]",positive,0.9342708587646484
+2022-03-14,"Commercial Banks Profit Rs. 40.24 Arba in First Seven Months of FY, 3 Development Banks and 2 Finance Companies in Loss","[-0.9362, -0.6457, 2.1267]",positive,0.9014984369277954
+2022-03-14,"Banks Keep Interest Rates Unchanged for Chaitra, Finance Companies Raise Theirs","[-0.4716, -0.6363, 1.7245]",positive,0.8294827342033386
+2022-03-09,"Weekly Deposit Figure Sees Noticeable Increment After Long, Lending Also Sees Modest Gain","[0.7416, -1.0425, -1.1163]",negative,-0.7553286552429199
+2022-03-02,Dividend of ALICL and ADBL Now Distributed to Eligible Shareholders,"[-0.7332, -1.5523, 2.6657]",positive,0.9540718197822571
+2022-02-28,"Deposit Collection Rose Rs. 1B in Second Week of Falgun, Lending Up Rs. 6B","[2.0357, -1.8613, -1.4891]",negative,-0.9525978565216064
+2022-02-27,Bonus Shares of These Commercial Banks Are Now Listed in NEPSE,"[-0.8188, -1.3470, 2.6652]",positive,0.9534914493560791
+2022-02-24,"Central Bank Imposes Risk Weight on Share Loan and Various Other Loans, Regulation Tightened for Promoters to Buy Promoter Shares of Other BFIs","[-1.1143, -0.1658, 2.0557]",positive,0.8692194223403931
+2022-02-21,"Deposit Collection Rose Rs. 1B in First Week of Falgun, Lending Up Rs. 4B","[2.0432, -1.8865, -1.4723]",negative,-0.9529386162757874
+2022-02-16,"Deposit Collection Choked in Fourth Week of Magh, Lending Up Rs. 6B","[1.9690, -2.2219, -0.9421]",negative,-0.9349772930145264
+2022-02-13,Banks and Financial Institutions Raise Interest Rates for Falgun,"[-0.0525, -1.4881, 1.8929]",positive,0.8496658205986023
+2022-02-07,Commercial Banks Report Higher Deposit Collection Than Lending in Third Week of Magh,"[1.2364, -0.0851, -2.1402]",negative,-0.7686952948570251
+2022-02-03,"In Relation to Anti-Money Laundering and Anti-Terrorism Efforts, Central Bank Tightens Surveillance on Monetary Transactions","[-0.9843, -0.3210, 1.8113]",positive,0.8477118611335754
+2022-01-26,How Did Commercial Bank Perform During Q2? A Detailed Analysis Of Major Fundamental Indicators,"[-0.1304, -1.9495, 2.3250]",positive,0.9092961549758911
+2022-01-26,"Lending Comes to An Almost Halt in Magh, Deposit Down Rs. 17 Billion","[-1.8699, 2.9608, -0.7364]",neutral,0.0
+2022-01-21,Use This Ratio In Your Arsenal While Analyzing Banks,"[-0.4227, -1.5763, 2.4677]",positive,0.9319005608558655
+2022-01-19,"All Commercial Banks Profitable in First 5 Months of FY, Development Banks Report Total Net Profit of Rs. 2.43 Arba","[0.2220, -2.1462, 2.1065]",positive,0.8575398921966553
+2022-01-17,"Deposit Collection Rose Rs. 17 B in Last Week of Poush, Lending Rose Twice As Much","[1.9589, -2.0532, -1.0878]",negative,-0.9384309649467468
+2022-01-14,"Commercial Banks Keep Interest Rate Stable for Magh, Development Banks and Finance Companies Raise Slightly","[0.8627, -1.9671, 0.8088]",negative,-0.4983687102794647
+2022-01-10,Banks and Financial Institutions Instructed to Follow Stricter Protocols Amidst Risk of New Covid-19 Wave,"[-0.6145, -1.0308, 2.0329]",positive,0.8948142528533936
+2022-01-10,"Deposit Collection Spikes in Fourth Week of Poush, Lending Fairly Stable","[1.7970, -1.3362, -1.7312]",negative,-0.9320207238197327
+2022-01-04,"Total Deposit Up Rs. 14B in Third Week of Poush, Lending Up Rs. 11B, CD Ratio at 91.02%","[1.9854, -2.0844, -1.0972]",negative,-0.9408043622970581
+2021-12-27,"Total Deposit Down Rs. 4 Billion, Lending Up Rs. 3 Billion in Second Week of Poush","[-1.2159, 2.7165, -1.4455]",neutral,0.0
+2021-12-23,"Agricultural Development Bank (ADBL) Calls AGM, When's the Book Closure for 21.0526% Dividend?","[-1.0232, -0.8771, 2.5149]",positive,0.9409887790679932
+2021-12-17,"Agricultural Development Bank (ADBL) proposes 21.0526% Dividend, 6% Cash Dividend also proposed for Preference Share","[-0.2680, -1.9478, 2.4166]",positive,0.9250897169113159
+2021-12-15,Commercial Banks Keep Interest Rates Stable: Why This Happened and What It Means,"[-1.0681, -0.3447, 2.0437]",positive,0.8800490498542786
+2021-12-14,4% Agricultural Bond of ADBL Listed in NEPSE,"[-0.4200, -1.6099, 2.5359]",positive,0.9364484548568726
+2021-12-14,"Total Deposits Went Down Rs. 5 Billion in Third Week of Mangsir, Lending Went Up Rs. 8 Billion","[-1.7496, 2.9155, -0.8435]",neutral,0.0
+2021-12-06,Rise in Deposit Collection in Third Week of Mangsir Accompanied With Twice As Much Lending,"[1.7996, -1.6039, -1.2094]",negative,-0.9237035512924194
+2021-11-30,"Weekly Deposit Shrinks Rs. 7 Billion in Commercial Banks, Lending Expands Twice As Much","[-1.7102, 2.9259, -0.9322]",neutral,0.0
+2021-11-22,"Rs. 7 Billion Less Deposit in First Week of Mangsir, Rs. 7 Billion More Lending","[-0.8268, 0.1092, 1.4941]",positive,0.7415311932563782
+2021-11-19,"Economy Battles Liquidity Crisis: Deposit Squeezed Down 35.31 Arba in Kartik, Lending Stretched Up 36.12 Arba","[-1.4717, 2.7633, -1.1130]",neutral,0.0
+2021-11-17,"New Working Committee of Nepal Bankers' Association Hold Meeting With Governor, Give Suggestions on Monetary Policy Review","[-0.7383, -1.1103, 2.3751]",positive,0.930156409740448
+2021-11-16,"Commercial Banks Can Only Provide Upto 10.05% on Fixed Deposits, Rates of Finance Companies and Development Banks Also Capped Slightly Higher","[-0.8499, -0.8590, 1.8861]",positive,0.885683536529541
+2021-11-15,The Issues I Have With NRs. 19 Crores Worth of Banking Credit Fraud,"[-0.7215, -1.5092, 2.4670]",positive,0.943406879901886
+2021-11-14,"While the Nation is Facing a Liquidity Crisis, Central Bank Wants to Keep Interest Rate Hike in Check With Additional Restrictions","[0.2832, -1.0177, 1.0006]",positive,0.616940975189209
+2021-11-14,Banks See Even Fewer Deposits in Fourth Week of Kartik; Lending Figure Sees Uptick,"[0.2900, 0.8659, -2.0337]",neutral,0.0
+2021-11-11,"Commercial Banks See Decrement in Total Deposit in Third Week of Kartik, Increment in Lending","[-1.3276, 0.5741, 1.0941]",positive,0.5940653681755066
+2021-11-08,Decline in Interest Income But Higher Loan Imbursement and Higher Net Profit (Deep Dive Into Performance of Commercial Banks in First Quarter),"[0.8211, 0.6878, -2.0107]",negative,-0.5170277953147888
+2021-11-01,"Profitability Figures of Commercial Banks Painted a Greener Picture in First Quarter, Most Banks Report Net Rise in Profit (Tabular Comparison of All 27 Banks)","[1.8890, -2.0171, -0.9667]",negative,-0.9279625415802002
+2021-10-22,Agriculture Development Bank appoints NIBL Ace Capital as debenture registrar for its 9.42 arba worth Agriculture debenture,"[0.2628, -2.3155, 1.9939]",positive,0.8399683237075806
+2021-10-21,"Banks Revise Interest Rates After NRB Circular, What Has Changed?","[-1.2345, 0.5993, 1.4454]",positive,0.6677148938179016
+2021-10-20,Nepal Rastra Bank Slams Hike in Interest Rate With Addition in Unified Directive; BFIs Forced to Bring Interest Rates Down By Today,"[-0.7182, 1.7413, -1.0028]",neutral,0.0
+2021-10-18,Banks Raise Interest Rates for Kartik; Here's the Updated Interest Profile of Every Bank Compared to Previous Month's Rates,"[-0.7464, -1.1176, 2.3677]",positive,0.9301807284355164
+2021-10-17,Commercial Banks Start Unveiling Interest Rates for Kartik; Finance Companies Raise Interest Rates on Fixed Deposits,"[-0.2721, -1.5714, 2.1042]",positive,0.8942707180976868
+2021-10-11,Central Bank Unveils New Guidelines to Make Banking System Transparent and Customer-Friendly; Limit on Margin Loans Unaltered,"[0.9736, -2.3283, 1.2878]",positive,0.5690717697143555
+2021-09-16,Commercial Banks Raise Interest Rates; Here's the Updated Interest Profile of Every Bank Compared to Previous Month's Rates,"[-0.7522, -1.0647, 2.3665]",positive,0.9288855791091919
+2021-08-19,A Detailed Dive Into Vital Fundamental Figures: Commercial Banks Publish Satisfactory Q4 Report Given the Unique Pandemic-Induced Challenges,"[1.8763, -1.3530, -1.5967]",negative,-0.9340499043464661
+2021-08-16,Banks Update Interest Rates for Bhadra; What Has Changed?,"[-0.9859, -0.3893, 2.0969]",positive,0.8856990337371826
+2021-08-11,"Agricultural Development Bank profit rises by 10.89% to Rs 3.69 arba in Q4, has Rs 1.73 arba as distributable profit","[1.7961, -1.4315, -1.6248]",negative,-0.9325427412986755
+2021-08-10,These Two Bond/ Debenture Are Now Listed in NEPSE,"[-0.9938, -1.0532, 2.6583]",positive,0.9520384669303894
+2021-07-15,Commercial Banks Update Interest Rates for Shrawan; What Has Changed?,"[-1.0464, 0.0969, 1.7289]",positive,0.7949943542480469
+2021-07-07,Bankers in Kawaswoti go on strike against unilateral decision to enforce Social Security Fund,"[-1.7161, 2.6860, -0.0976]",neutral,0.0
+2021-06-30,Agriculture Development Bank to issue biggest debenture Worth Rs 6 Arba to the investors; appoints NIBL Ace Capital as issue manager,"[0.4592, -2.4337, 2.0255]",positive,0.8194159865379333
+2021-06-25,4% Agricultural Bond (8 & 9 years) Approved by SEBON,"[0.9093, -2.3914, 1.4255]",positive,0.6177482604980469
+2021-06-14,Banks Raise Interest Rates for Ashad,"[-0.2392, -1.0982, 1.9185]",positive,0.8586937189102173
+2021-05-14,Commercial Banks Update Interest Rates; Will Liquidty Scenario in Second Wave be Worse than During the First?,"[-1.3824, 1.9909, -0.1364]",neutral,0.0
+2021-05-02,Commercial Banks Performed Better than Expected This Third Quarter; A Summarized Snapshot of the Most Important Fundamentals,"[1.6891, -1.7828, -0.7530]",negative,-0.8944233655929565
+2021-04-28,"In This Q3, Commercial Banks Bagged over Rs. 50.74 Arba in Total Net Profit; Distributable Profit Surged by Massive 195.1% on Average","[1.9733, -1.7786, -1.5565]",negative,-0.9498604536056519
+2021-03-14,Commercial Banks Raise Interest Rates After So Long; Is This Responsible for NEPSE's Decline?,"[-0.8100, 0.9502, 0.4356]",neutral,0.0
+2021-03-09,Bonus Shares Deposit Update for ADBL and MFIL,"[-0.9770, -0.9260, 2.5669]",positive,0.9440084099769592
+2021-02-26,"In Last 8 Months of Bullish Ride, Would Investing in Banks Give Better Returns Than NEPSE's Gain? What Does Data Tell Us?","[0.0492, -1.9847, 2.1797]",positive,0.8815810680389404
+2021-02-25,Bonus Shares of These Four Companies Are Now Listed in NEPSE,"[-0.7830, -1.4001, 2.6607]",positive,0.9531257152557373
+2021-02-05,How Exactly Did Commercial Banks Perform in the Second Quarter? A Quick Comparison of the Most Important Metrics,"[-0.0422, -1.9157, 2.2590]",positive,0.8964470624923706
+2021-01-31,Commercial Banks and Their Profitability in Second Quarter: A Comparison,"[0.2293, -1.9736, 1.8764]",positive,0.8237980008125305
+2021-01-20,IPO Is Not the Only Investment Option; Introduction to Debenture for New Investors (With Upcoming Issues),"[-0.1682, -2.0342, 2.3049]",positive,0.9112634062767029
+2021-01-13,The Interest Rates Just Keep Sliding Down; What This Means for NEPSE,"[-1.0945, 1.0391, 0.9272]",neutral,0.0
+2020-12-29,Hurry Up! Your Last Chance to Grab the Dividend of These 11 Companies,"[-0.0573, -1.9481, 2.1936]",positive,0.8919059038162231
+2020-12-22,Agricultural Development Bank (ADBL) calls AGM on Poush 29; When's the book closure for AGM and Dividend?,"[-1.3771, -0.3122, 2.4537]",positive,0.9219872355461121
+2020-12-16,Banks Update Interest Rates; Base Rates Falling; How will this Affect the Stock Market?,"[-1.6724, 1.3682, 1.1847]",neutral,0.0
+2020-12-14,Agricultural Development Bank (ADBL) proposes 15.7895% Dividend: Cash Dividend also proposed for Irredeemable Noncumulative Preference Share,"[-0.2820, -1.9134, 2.4315]",positive,0.9265444278717041
+2020-12-09,Having confusion in using valuation ratios for financial institutions? Here's how you can connect the dots between ratios for investment decision,"[-0.8219, -0.8213, 2.3408]",positive,0.9219554662704468
+2020-11-20,First Quarter in a glimpse: Here's how commercial banks faced and survived the pandemic,"[-0.0584, -1.6976, 2.0047]",positive,0.8682658672332764
+2020-11-13,Banks update interest rates for Mangsir; How will the change affect NEPSE?,"[-0.5214, -1.3230, 2.3744]",positive,0.9258915781974792
+2020-10-20,Khalti inks partnership deal with Agriculture Development Bank; bank’s customers can now load fund to Khalti via both online and offline channels,"[1.6497, -2.8803, 0.7824]",negative,-0.6988756060600281
+2020-09-17,BFI's update interest rates: Base Rates Falling; Slashed interest on call deposits,"[-0.9505, 2.4459, -1.4608]",neutral,0.0
+2020-08-26,How efficient have commercial banks been in utilizing their assets and equity? Does your bank provide the highest return?,"[0.2078, -2.2737, 2.1731]",positive,0.8681832551956177
+2020-08-26,"Base rate, interest spread and cost of funds of commercial banks as of Q4 of FY 2076/77; Know which bank can offer loan at low interest rate","[-0.9798, -1.1166, 2.5988]",positive,0.9503321051597595
+2020-08-16,Commercial banks compromised their profit as they set side huge amount for loan provisions! Find out commercial banks' performance this year!,"[-0.9411, 1.1560, -0.2528]",neutral,0.0
+2020-08-16,"Agricultural Development Bank profit decline by 17.26% to Rs 3.46 arba in Q4, has Rs 1.66 arba as distributable profit","[-1.5508, 2.8892, -1.1042]",neutral,0.0
+2020-07-09,Falling Base Rate of commercial banks; What it means for investors,"[-1.6219, 2.2770, -0.1027]",neutral,0.0
+2020-07-09,50 lakh units Debenture of Agriculture Development Bank and Citizens International Bank listed in NEPSE for trading,"[-0.7200, -1.3125, 2.5859]",positive,0.946129560470581
+2020-05-14,Coronavirus pandemic impacts the profit of commercial banks: Industry net profit of commercial banks increases by only Rs 4 arba compared to last year! Loan payment rescheduling impacts the distributable profit of commercial banks!,"[-1.0844, 2.0989, -1.0879]",neutral,0.0
+2020-03-15,NEPSE lists 54.09 lakh units bonus shares of Agriculture Development Bank; Bank to distribute 6% bonus shares,"[-0.1022, -2.0981, 2.2953]",positive,0.9063718318939209
+2020-03-13,The latest average base rate of commercial banks stand at 9.47%; look at other important interest rates,"[-0.7282, -1.3051, 2.4952]",positive,0.9414535164833069
+2020-03-10,"YES BANK, India Crisis and Lesson to We Nepalese Investors and Banking Industry","[-0.2301, -1.4340, 2.0181]",positive,0.8792969584465027
+2020-03-04,Better late than never! Agriculture Development Bank starts embracing technology signing collaboration agreement with Fonepay,"[1.9762, -2.5221, -0.5332]",negative,-0.9153770804405212
+2020-02-24,"As the market takes upward stride, where does the PE ratio of listed companies stand? Find out the latest PE ratio of all sectors and all companies","[-0.7041, -1.3603, 2.5167]",positive,0.9428321719169617
+2020-02-14,An exclusive comparative analysis of second quarter reports of commercial banks! The industry accumulates an average profit of 1.22 arba in the second quarter,"[-0.4412, -1.4030, 2.2694]",positive,0.9158191084861755
+2020-02-06,How efficient have companies been in listing bonus shares of FY 75/76? See which companies are lagging behind,"[-0.6357, -1.1533, 2.1528]",positive,0.9106011390686035
+2020-02-04,Agricultural Dev. Bank publish an excellent Q2 financials with 22.80% rise in net profit; earns Rs 1.58 arba,"[2.0341, -1.7826, -1.4399]",negative,-0.9496734738349915
+2020-02-03,More than 3 Thousand applications received for ‘10.35% ADBL Rinpatra 2083’; total of 4.18 Million units applied for,"[0.1863, -2.0934, 1.8682]",positive,0.8298330307006836
+2020-01-31,Last day to apply for ‘10.35% ADBL Rinpatra 2083’; Debenture worth Rs 2.5 arba being issued by Agricultural Development Bank,"[0.0860, -2.1438, 2.2235]",positive,0.8844532370567322
+2020-01-28,"""10.35% ADBL Rinpatra 2083"" is open for application from today; Find necessary information to make your investment decision","[-0.3674, -1.9624, 2.4756]",positive,0.9345189929008484
+2020-01-26,What is the current average base rate of commercial banks? Look at the minimum and maximum interest rate charged on margin type loan,"[-1.0659, -0.7666, 2.5423]",positive,0.9401527643203735
+2020-01-20,"Investors can apply for ’10.35% ADBL Rinpatra 2083’ from Magh 14, 2076; total 10 Lakh units offered to general public","[0.4381, -2.5226, 2.0545]",positive,0.8272035121917725
+2020-01-17,ICRA Nepal assigns top Issuer ratings to Agricultural Development Bank and reaffirms ratings for subordinate debentures worth NPR 2500 Million,"[1.1478, -2.5767, 1.2124]",positive,0.5101733803749084
+2020-01-16,"SEBON approves ""10.35% ADBL Rinpatra 2083""; Bank issuing debentures worth Rs 2.5 arba","[1.5580, -2.5169, 0.3627]",negative,-0.7578000426292419
+2019-12-26,"Last trading day in NEPSE to clinch dividend of Agricultural Development Bank, Nepal Bank, RMDC, Nerude, United Modi and Vijaya Laghubitta","[0.9537, -2.2289, 1.1023]",positive,0.5269742608070374
+2019-12-20,"Agricultural Development Bank announces 13th AGM on Poush 27, 2076; to endorse 30% dividend","[0.2556, -2.1720, 2.0667]",positive,0.8489738702774048
+2019-12-10,Agricultural Development Bank announces dividend for FY 75/76; to endorse 6% bonus shares and 24% cash dividend,"[1.3461, -2.4758, 0.6883]",negative,-0.6493942737579346
+2019-12-02,How relevant is annualizing EPS based on first quarter reports of commercial banks? Analysis of expected against actual EPS and deviation,"[-0.8198, -1.1041, 2.4827]",positive,0.9394277930259705
+2019-11-27,"4 commercial banks and Youth Council move ahead to improve Subsidized loan disbursement in agriculture, entrepreneurship and self-employment","[1.7258, -2.6931, 0.3182]",negative,-0.7956903576850891
+2019-11-25,ICRA Nepal assigns top ratings to proposed ADBL Debenture Issue worth Rs.2.50 Arba,"[0.2492, -2.4314, 2.0678]",positive,0.8522436618804932
+2019-11-19,Comparative Analysis- Commercial banks have come out with their first quarter report of the new fiscal year! Are you planning to change your investment decision?,"[-0.9792, -0.4846, 2.1193]",positive,0.8935722708702087
+2019-11-18,Agricultural Development Bank to issue 25 Lakh units of “10.35% ADBL Debentures 2083”; SEBON adds issue to pipeline,"[-0.0542, -2.1591, 2.3580]",positive,0.9086418747901917
+2019-11-13,Agricultural Dev. Bank profit rises by 10.31% to Rs 60.73 crore till Q1; base rate and CCD both decline,"[1.7441, -1.4832, -1.4970]",negative,-0.9269720911979675
+2019-10-25,18 commercial banks report call deposits higher than 10% of total deposits; Average ratio stands at 12.3%,"[1.1377, -2.4870, 0.9581]",negative,-0.5369855761528015
+2019-09-26,ADBL software hacking: one Nepali agent arrested from Syangja,"[-1.8020, 2.6606, -0.0780]",neutral,0.0
+2019-09-25,Agriculture Development Bank prey to embezzling employees; Rs 4 core transferred to their accounts,"[-1.6473, 2.0024, 0.3553]",neutral,0.0
+2019-09-11,"'A', 'B' and 'C' class banks floated Rs 45.41 arba margin loan in 2075/76; 26 Commercial banks floating a total of Rs 35.57 arba, see the list","[-0.6355, -1.4272, 2.4138]",positive,0.9355738759040833
+2019-08-27,How efficient have commercial banks been in utilizing their assets and equity? Does your bank provide the highest return?,"[0.2078, -2.2737, 2.1731]",positive,0.8681832551956177
+2019-08-26,"Base rate, interest spread rate and cost of funds of commercial banks as of Q4 of FY 2075/76; Banks with lower base rate enjoying higher spread rate","[-0.9427, -0.2900, 1.8481]",positive,0.8480037450790405
+2019-08-19,How did commercial banks fare in major indicators in last quarter of 2075/76? Find the details,"[-0.7757, -1.0121, 2.4193]",positive,0.931695282459259
+2019-08-18,What is the dividend capacity of Commercial Banks? What can we expect?,"[-0.7472, -1.2609, 2.5428]",positive,0.9438068270683289
+2019-08-09,"What is the latest base rate, spread rate and margin lending rate of commercial banks? How will it impact the market?","[-1.2728, -0.3416, 2.4463]",positive,0.920974850654602
+2019-08-09,"Among 13 commercial banks who have published their 4th Quarter report, which ones outperformed their past record?","[-0.6156, 0.3593, 0.5806]",positive,0.47533148527145386
+2019-08-09,Microfinance sector fell this week after continuous last two week rallies; Hydropower sector lost the most by 6.02%; Weekly Wrap up of the NEPSE index,"[-1.7218, 2.9907, -1.0922]",neutral,0.0
+2019-08-09,Agriculture Development Bank also joins connectIPS; bank’s customers can start enjoying online payment gateway service now,"[0.6269, -2.6631, 1.9848]",positive,0.7894044518470764
+2019-08-06,Agricultural Development Bank earns massive Rs 4.35 arba in Q4; can distribute 33% dividend from last year profit,"[1.8888, -2.5356, -0.2202]",negative,-0.88234543800354
+2019-08-02,Microfinance sector is booming this week too; NBL and ADBL traded the most;  Weekly Wrap up of the NEPSE index,"[1.2993, -2.1799, 0.2499]",negative,-0.7241280674934387
+2019-08-02,New Monetary Policy requires all commercial banks to issue minimum 25% of their paid up capital as debentures; look at the amount of debentures investors can expect from each bank,"[-0.7449, -1.5311, 2.5614]",positive,0.9493511319160461
+2019-07-24,"Aggressive debenture issue is giving opportunity to increase the business, but diminishing the dividend distribution capacity of Bank","[0.4393, 0.5084, -1.7963]",neutral,0.0
+2019-07-17,Sector Wise Dividend distribution in fiscal year 2074/75: Most Companies distributed bonus share but few of them pay cash dividend for tax on bonus share,"[-0.9653, -0.7840, 2.2709]",positive,0.9204363226890564
+2019-07-08,Top 10 bank in the world: Chinese bank still dominating the rank; know where Nepalese Banks stand comparative to world top banks,"[0.6274, -2.4852, 1.8571]",positive,0.7660584449768066
+2019-07-04,Underpriced and Overpriced commercial banks in NEPSE according to CAMELS rating; RBB and Nabil Bank among top,"[0.2197, -1.9518, 1.9254]",positive,0.8317013382911682
+2019-07-04,Three including a bank staff of Agricultural Development Bank involved in banking fraud,"[-1.2312, 0.2108, 2.1040]",positive,0.8430317640304565
+2019-05-24,Nepal Rastra bank instruct banks to limit call deposits to 10%; total 14 banks crosses the 10% limit till falgun end,"[-1.1045, -0.3958, 2.0580]",positive,0.8862954378128052
+2019-05-23,Agricultural Development Bank transferring 6% bonus shares directly to shareholders demat account; urge shareholders to dematerialize their shares,"[-0.3340, -1.9502, 2.3907]",positive,0.9271318912506104
+2019-05-16,Bonus shares of Agricultural Development Bank and Global IME Laghubitta get listed on NEPSE; more than 5 Million units made tradeable,"[0.2937, -2.4370, 2.0688]",positive,0.8470836281776428
+2019-05-14,Baisakh’s rise in NEPSE and outstanding performance of commercial banks! What will be your investment decision after comparing the performance on the basis of Q3 reports of commercial banks?,"[-0.4659, -1.2525, 2.1075]",positive,0.9000864028930664
+2019-05-09,Agricultural Dev. Bank profit rises by 23.09% to Rs 2.21 arba till Q3; has capacity to distribute 16% dividend next year,"[1.9435, -1.9585, -1.3054]",negative,-0.9442735314369202
+2019-04-25,Agricultural Development Bank and Shangrila Development Bank to distribute dividend directly to the accounts of shareholders; both urge shareholders to dematerialize their shares,"[-0.5920, -1.6887, 2.5179]",positive,0.9438384771347046
+2019-04-10,6 Commercials banks behind on AGM schedule; See which bank distributed highest dividend,"[-1.0183, 0.6196, 0.8639]",positive,0.5166609287261963
+2019-04-09,NRB publishes sector wise break down of loans and advances of all commercial banks; which sector has maximum credit concentration?,"[-1.2951, -0.3543, 2.4429]",positive,0.9218447804450989
+2019-04-03,What are the current interest rates offered by commercial banks on deposit and loan products? Check if changing bankers will add more value to your operations,"[-0.5159, -1.4432, 2.3720]",positive,0.9278756976127625
+2019-04-02,Agricultural Development Bank appoints three new directors approved by the 12th AGM; NEPSE published a circular,"[-0.5096, -1.6931, 2.3971]",positive,0.933368444442749
+2019-03-29,Three companies to convene their AGM today; bonus agendas to be endorsed,"[-0.8311, -1.2309, 2.5218]",positive,0.9447929859161377
+2019-03-03,Why the status of commercial banks is still risky? A brief picture of Funding and Non Funding Income,"[-1.1131, -0.6471, 2.4685]",positive,0.9326797127723694
+2019-02-27,Last day to hold shares of Agriculture Development Bank to be eligible for AGM and 21% dividend,"[0.9228, -2.5733, 1.6430]",positive,0.6660414934158325
+2019-02-22,Agriculture development bank to provide subsidized loan without any collateral,"[-0.2968, -1.8413, 2.5222]",positive,0.9324872493743896
+2019-02-21,Agriculture Development Bank 12th AGM to be held on 15th Chaitra; 21.053% dividend to be endorsed,"[-0.5310, -1.6565, 2.5389]",positive,0.9420756697654724
+2019-02-18,"Commercial banks, their personnel expenses and it's comparative impact in Total operating income; Banks with Government stake seem inefficient in utilizing personnel expenses","[-1.7240, 2.5808, -0.3783]",neutral,0.0
+2019-02-15,Agricultural Development Bank to convene its 12th AGM on Chaitra 15; notice silent regarding the agendas of the meeting,"[-1.4202, -0.4734, 2.5774]",positive,0.9383689165115356
+2019-02-15,Correlation between commercial banks and NEPSE index; what implication does it have in your investment decision?,"[-0.7765, -1.0947, 2.4334]",positive,0.934823215007782
+2019-02-06,Agricultural Dev Bank’s also enters in billionaire club; Earns Rs 1.36 arba in Q2;  NPL on higher side,"[1.8105, -2.2024, -0.7451]",negative,-0.9126351475715637
+2019-01-30,What is the minimum and maximum interest rate charged by commercial banks on margin type loan? Look at the base rate and net interest spread of all commercial banks,"[-1.0920, -0.7852, 2.5445]",positive,0.9414879679679871
+2019-01-20,"Despite being the most regulated sector, commercial banks behind on conducting AGM; What can investors expect?","[-0.9949, -0.2731, 1.8093]",positive,0.8437409400939941
+2019-01-11,Agriculture Development Bank proposes 21.053% dividend for the ordinary shareholders; 6% cash dividend proposed for preference shares as well,"[0.2773, -2.3234, 2.1717]",positive,0.860904335975647
+2018-12-28,Stocks of many companies are in the bullish zone despite bearish market trend; have you invested in any of those companies?,"[-0.2450, -1.8195, 2.0872]",positive,0.8951017260551453
+2018-12-27,Increased limit for margin type loans; How much more can the commercial banks float?,"[0.3574, -2.1218, 1.9575]",positive,0.8204943537712097
+2018-12-26,Mr Anil Kumar Upadhyay appointed as CEO of Agriculture Development Bank; Replaces Mr. Lila Prasad Sitaula in the position,"[-1.0136, -0.5713, 2.1650]",positive,0.9037869572639465
+2018-12-21,New interest rates offered by Commercial Banks after backlash from Governor; interest rates fluctuate like share prices in past weeks,"[-0.4639, 1.7130, -1.6421]",neutral,0.0
+2018-12-11,What is the interest rate offered by commercial banks after NBA calls end of gentleman’s agreement?,"[-1.0958, -0.5567, 2.4782]",positive,0.9292604923248291
+2018-12-10,What is the absolute gain or loss of your investment? Look at the secondary market performance of commercial banks post revelation of capital increment,"[-1.3479, 0.1145, 1.9579]",positive,0.8368547558784485
+2018-12-02,"NEPSE index hits 35 months low with commercial banks approaching their 52-weeks low price; In a BFIs dominated bourse, what does it implicate for investors?","[-1.8434, 2.5761, -0.0021]",neutral,0.0
+2018-11-29,How have commercial banks performed relative to Q1 of last year?; It's important to know because the best form of comparison is with your previous self,"[0.3111, -2.0364, 1.5464]",positive,0.7584062814712524
+2018-11-19,Three commercial banks in billionaire club; Loan and deposit crosses mark of Rs 20 kharba; Rastriya Banijya Bank leads in profit: A comparative analysis of commercial banks for Q1,"[0.9565, -2.4103, 1.4352]",positive,0.6094022989273071
+2018-11-11,ADBL's net profit has increased by more than 82% in Q1 of FY 2075/2076; know all the major highlights of Q1 result,"[2.0879, -2.3139, -1.0428]",negative,-0.9470226168632507
+2018-09-23,Just how popular are commercial bank stocks among Investors? Check out last month’s performance exclusively from SS Pro,"[0.1620, -2.1763, 2.1683]",positive,0.8714858293533325
+2018-09-09,Agriculture Development Bank to launch margin loan scheme for the first time,"[1.1677, -2.6264, 1.2206]",positive,0.507653534412384
+2018-08-28,Commercial Banks’ investment in Human Assets; An Important Decision,"[0.3354, -2.2174, 2.1251]",positive,0.8474501967430115
+2018-08-26,Worried about the banks offering only cash dividend? Check the expected dividend paying capacity of commercial banks and their possible priorities (bonus or cash),"[-0.8114, -1.0994, 2.2964]",positive,0.9274626970291138
+2018-08-23,Know which Banks are most successful in utilizing assets to earn high profit,"[0.1603, -2.1829, 2.2348]",positive,0.8789807558059692
+2018-08-22,Exclusive study of Marginal Loan as per Q4 reports; 51 Arba yet to be dispersed for investment,"[-0.3964, -1.5788, 2.3261]",positive,0.9209362864494324
+2018-08-19,Financial Closure of 44 MW Super Madi Hydroelectric Project; consortium led by Sanima Bank to lend upto 75% of project cost,"[-1.6320, 1.4285, 1.0152]",neutral,0.0
+2018-08-19,Base rates of commercial banks have decreased with savings & fixed deposit rates; at what rates do they provide share loans? (With full list of 28 commercial banks),"[-1.5042, 1.8230, 0.6795]",neutral,0.0
+2018-08-16,The commercial banking industry and the individual commercial banks: Does the bank of your choice lie above or below the industry average? NFRS and non-NFRS,"[-1.3381, -0.0702, 2.0647]",positive,0.8683983087539673
+2018-08-15,Agriculture Development Bank’s free profit rises by massive 44.13%; EPS stands at Rs 22.08 in the Q4,"[1.6588, -1.6674, -1.2402]",negative,-0.9165844321250916
+2018-07-22,Know the deviation of Net Profit between unaudited and audited reports of commercial banks; it is risky to blindly trust only unaudited reports,"[-1.4583, 0.3080, 2.0752]",positive,0.8333232998847961
+2018-07-08,Your ride is just about to begin! Four reasons why you should consider buying commercial bank’s stocks,"[-0.1339, -1.7730, 2.2370]",positive,0.8996627926826477
+2018-05-22,Comparative analysis of commercial banks based on profitability ratios generally overlooked; Find out the ratios less popular but equally important,"[-0.2402, -1.7432, 2.3444]",positive,0.915579080581665
+2018-05-13,What does Warren Buffet’s technique say about investment in the scrips of Nepalese commercial banks?,"[-1.0388, -0.6984, 2.4448]",positive,0.931239902973175
+2018-05-08,See the performance of commercial banks based on the indicators often ignored by investors,"[-0.8914, -0.3493, 2.1156]",positive,0.8814797401428223
+2018-04-27,Kumari Bank gains whooping 87.73% in the net profit; Agricultural Development Bank registers Rs 1.78 arba as its net profit in the third quarter,"[1.7338, -1.8874, -0.7665]",negative,-0.9018641114234924
+2018-04-19,NEPSE lists 4.65 crore bonus shares of 8 companies; Supply of shares increases in the market,"[1.4955, -2.0098, -0.7255]",negative,-0.8783156871795654
+2018-04-15,The falling market and your concern towards commercial banks: Eyeing out for high growth and undervalued commercial banks in this bearish trend?,"[-1.2304, 2.0189, -0.5552]",neutral,0.0
+2018-03-28,History witnessed us getting up from 292 point mark; inferences can’t be made from inadequate information. Check out why?,"[0.3171, -1.6722, 1.4569]",positive,0.7333176732063293
+2018-02-19,Agricultural Development Bank urges investors to get CRN Number,"[0.4984, -2.4217, 1.9635]",positive,0.8041735291481018
+2018-02-12,Agricultural Development 11th AGM today; endorsing 20% bonus share,"[1.6627, -2.5193, 0.3197]",negative,-0.7835006713867188
+2018-02-05,Find out the flexibility of commercial banks in providing margin loan; Citizen Bank in the lead,"[-0.0770, -2.0577, 2.4015]",positive,0.9128786325454712
+2018-02-02,State owned commercial banks exhibit higher staff expenses among the commercial banks: A study,"[-1.2119, 1.8789, -0.1664]",neutral,0.0
+2018-01-29,See the net profit of 28 commercial banks; NABIL & Nepal Investment makes it to the top in the second quarter,"[2.0233, -2.4395, -0.7162]",negative,-0.9292529225349426
+2018-01-29,"All 3 State owned commercial bank enters in billionaire club in terms of net profit; Rastriya Banijya, Agriculture Dev Bank & Nepal Bank posted Rs 1.78, 1.02 & 1.63 arba respectively","[0.9818, -2.3101, 1.0116]",positive,0.49831992387771606
+2018-01-28,Commercial Banks AGM Status of FY 2073/74; 40% of A class banks yet to conduct their last year AGM,"[-1.0210, -0.6064, 2.2344]",positive,0.9116188287734985
+2018-01-28,Last day to secure 20% bonus shares of Agricultural Development Bank; LTP at Rs 420,"[1.5358, -2.5172, 0.4777]",negative,-0.7328741550445557
+2018-01-21,Agricultural Development 11th AGM on Magh 29; endorsing 20% bonus share,"[1.6325, -2.5595, 0.2868]",negative,-0.784028947353363
+2018-01-02,Agricultural Development Bank announces 20% bonus shares; Ordinary paid up capital to reach Rs 8.49 arba,"[1.9433, -2.1775, -1.0781]",negative,-0.9389990568161011
+2017-11-06,"Laxmi, Kumari, Civil and Nepal Bangladesh Bank’s EPS hovers around Rs 8; ADBL EPS stands at Rs 20.54","[-0.9091, -1.0137, 2.2978]",positive,0.9285529851913452
+2017-09-22,Weekly Broker Analysis: ABC Securities weekly consecutive top broker with Nepal Life Insurance Promoter shares traded the most by top 5 brokers,"[0.5653, -2.2016, 1.7959]",positive,0.7630826234817505
+2017-08-09,"Despite of huge staff expenses of Rs 3.31 arba, Agricultural Development Bank net profit rises by 12.63%; EPS at Rs 34.58","[1.9021, -1.1645, -1.8391]",negative,-0.934317409992218
+2017-07-10,How does the monetary policy affect banks’ ability to provide Margin Type Loan? (Good signal for stock market),"[-0.2484, -1.4363, 2.1782]",positive,0.8966491222381592
+2017-07-02,Companies earning massive premiums from auction; See which companies have collected more premium from auction,"[0.3317, -2.1554, 1.8657]",positive,0.8106429576873779
+2017-06-25,Know which commercial bank is cost efficient & which one is costlier (based on Q3 of FY 2073/74),"[-0.4939, -1.5013, 2.3574]",positive,0.9268988370895386
+2017-06-09,Agricultural Development Bank & 2 other companies list 1.68 crore units bonus & right share; Lumbini Finance promoter share converted,"[-0.3982, -1.7606, 2.4558]",positive,0.9325190186500549
+2017-05-25,See how Nepal Bangladesh Bank & Standard Chartered have more risk-free income; and how government-owned banks have risky income (Exclusive Study),"[-0.2513, -1.6865, 2.2650]",positive,0.9091033935546875
+2017-05-17,See the progress of all 28 commercial banks as of third quarter as per their major indicators,"[0.7657, -2.5328, 1.6678]",positive,0.7038828730583191
+2017-05-05,Agricultural Dev Bank’s profit rises to Rs 1.57 arba; EPS at Rs 29,"[1.6136, -1.6548, -1.0554]",negative,-0.9030274152755737
+2017-04-13,Agricultural Development Bank to approve 20% bonus share; 10th AGM today,"[1.7253, -2.2200, -0.4221]",negative,-0.880181074142456
+2017-04-02,"Trading of ADBL, LBL, SANIMA and CCBL halted today after NEPSE suffers technical problem for price adjustment","[-1.9573, 2.9267, -0.2605]",neutral,0.0
+2017-03-30,Reminder: Last day to secure 20% bonus share of Agricultural Development Bank; LTP at Rs 565; 19.68 lakh auctioned share credited in demat a/c,"[1.5202, -2.5252, 0.5154]",negative,-0.7227389812469482
+2017-03-23,Agricultural Development Bank to approve 20% bonus share; 10th AGM on Chaitra 31,"[1.5799, -2.3711, -0.1262]",negative,-0.8327777981758118
+2017-03-10,Agricultural Development Bank refunding auction money to non-allottee investors from today,"[0.7280, -2.4556, 1.7322]",positive,0.7238369584083557
+2017-03-07,Agricultural Development Bank to refund auction money to non-allottee investors from Falgun 27,"[0.3825, -2.3308, 2.0643]",positive,0.8344666361808777
+2017-03-01,Agricultural Dev. Bank Auction Final Update: Applicants bidding Rs 361 to get 8% on pro-rata basis; refund on Falgun end,"[1.2063, -2.3116, 0.7203]",negative,-0.6079978346824646
+2017-02-28,Cut off price for 19.68 lakh units auctioned ordinary shares of Agricultural Dev Bank stood at Rs 361; Refund after 7 days of allotment,"[-0.0131, 0.4035, -0.6236]",neutral,0.0
+2017-02-26,"Total 9,223 bids received for 19.68 lakh units auctioned shares of Agricultural Dev Bank; cutoff price to be decided in 3 days","[-1.3459, 0.2563, 1.5381]",positive,0.7499291300773621
+2017-02-23,"Last day to bid for 19.68 lakh units unclaimed right shares of Agricultural Dev Bank; Bidders can apply up to 10,000 units","[0.3169, -2.3414, 2.0332]",positive,0.8387061357498169
+2017-02-19,See which commercial banks have performed better than the industry in second quarter; Mega and Prabhu Bank lead on major indicators,"[1.9665, -1.8899, -1.1398]",negative,-0.9381661415100098
+2017-02-17,How much to bid in Agricultural Dev Bank’s 19.68 lakh units right share auction? Auction ends on Falgun 12,"[-0.8511, -1.2455, 2.5890]",positive,0.9490615725517273
+2017-02-09,"Agricultural Dev Bank auctioning 19.68 lakh units unclaimed right shares from today; Bidders can apply up to 10,000 units","[0.0818, -2.2707, 2.1936]",positive,0.8829727172851562
+2017-02-06,Agricultural Dev Bank reports 134% rise in net profit to Rs 90.66 crore; CCD ratio at 82.97%,"[1.9080, -1.9171, -1.3432]",negative,-0.942910373210907
+2017-01-25,"Agricultural Dev Bank auctioning 19.68 lakh units unclaimed right shares from Magh 27; Bidders can apply up to 10,000 units","[0.2523, -2.3793, 2.1339]",positive,0.8596159815788269
+2017-01-22,More than 20% units (19.50 lakh units) right shares of Agricultural Dev Bank unclaimed; to be auctioned soon,"[-0.5784, -1.7000, 2.5895]",positive,0.9471458196640015
+2016-12-29,Agricultural Dev. Bank declares 20% stock dividend; Paid up to reach Rs 7.08 arba,"[1.6593, -2.0199, -0.5141]",negative,-0.8779389262199402
+2016-12-23,See how much capital commercial banks need to increase by this fiscal year to reach NRB’s requirement (with projected EPS),"[0.2089, -2.2658, 2.0986]",positive,0.8592272400856018
+2016-11-22,Last day to apply for 50% right share of Agriculture Dev. Bank,"[0.1239, -2.2949, 2.1788]",positive,0.8775678873062134
+2016-11-21,"Commercial Banks’ Net Profit increases by 43.6% to Rs 9.6 Arba in Q1 of FY 2073/74, Nepal Bank leads with highest profit of Rs 1.16 Arba","[1.9516, -1.8289, -1.4426]",negative,-0.9466327428817749
+2016-11-21,Two more days left to apply for 50% right share of Agriculture Dev. Bank; closes on Mangsir 7,"[-0.8114, -1.4174, 2.6274]",positive,0.9527259469032288
+2016-11-15,Agriculture Dev. Bank & Himalayan Bank profit up swings by 46.31% & 35.83% respectively in Q1,"[1.9008, -1.2178, -1.8201]",negative,-0.9359523057937622
+2016-11-14,Technical Analysis training to Treasury Dept. of Agricultural Dev. Bank successfully conducted,"[1.7725, -2.7078, 0.1587]",negative,-0.8261376023292542
+2016-11-06,"ADBL, Easylink sign MoU for remittance business","[0.6976, -2.6108, 1.8150]",positive,0.7467653155326843
+2016-10-19,Agricultural Dev. Bank issuing 50% (1.96 crore units) right shares from today,"[-0.5004, -1.7005, 2.5513]",positive,0.9420502781867981
+2016-10-07,Siddhartha Bank to issue 25% (75.55 lakh units) right share from Kartik 11; Agricultural Dev. Bank to float 50% (1.96 crore units) right share from Kartik 3,"[-0.1604, -2.0549, 2.2741]",positive,0.9084164500236511
+2016-09-27,Know which commercial banks income is less riskier; NBB and SCB has more risk free income,"[-0.0193, -1.7096, 2.0070]",positive,0.864944577217102
+2016-09-25,Last day to secure 50% Right Share of Agricultural Dev Bank; LTP stood Rs 1019; Book closure tomorrow,"[0.3879, -1.4748, 1.0427]",positive,0.6249370574951172
+2016-09-19,Agricultural Development Bank 50% Right Share book closure on Ashwin 10; Only 4 trading days left,"[-1.5133, 0.6536, 1.9011]",positive,0.7575086355209351
+2016-08-31,Know which commercial bank is cost efficient and which one is costlier (Exclusive study),"[-0.3876, -1.6094, 2.3710]",positive,0.9241684079170227
+2016-08-15,Agricultural Dev Bank appoints Ace Capital as issue manager for upcoming 50% (1.96 crore units)Right Share,"[0.2305, -2.4066, 2.2138]",positive,0.8714800477027893
+2016-08-15,Despite of Rs 3.23 arba for staff expenses Agricultural Dev Bank earns Rs 2.57 arba in Q4,"[-0.6631, 0.0141, 1.1284]",positive,0.6689524054527283
+2016-08-10,"Machhapuchchhre , Agricultural Dev Bank & 4 other companies bonus  & right share listed;2 BFIs converts  27.56 lakh unit promoter shares","[-0.3963, -1.6679, 2.4412]",positive,0.9302417039871216
+2016-08-03,ADBL becomes first bank to post Rs 3b yearly profit,"[1.2597, -2.2180, 0.5478]",negative,-0.6572257876396179
+2016-07-25,Agricultural Development Bank to distribute 15 % bonus share certificate from Shrawan 14,"[1.0580, -2.7149, 1.5168]",positive,0.6073240041732788
+2016-07-20,Agricultural Dev Bank reappoints Ace Capital as share registrar,"[0.3727, -2.2191, 1.9418]",positive,0.8171136379241943
+2016-06-02,Agricultural Dev. Bank in process to distribute 15% stock dividend; Successful in providing competing result to shareholders,"[1.9964, -2.4033, -0.8904]",negative,-0.9362989068031311
+2016-05-27,PEs record over Rs 33b profits,"[1.1902, -0.8690, -0.5985]",negative,-0.7723509669303894
+2016-05-17,"Sanima,Mega & Himalayan Bank right offering expected soon, 3 banks require ICRA rating to issue right share","[0.2447, -2.4127, 2.1158]",positive,0.8585529923439026
+2016-05-14,Commercial Banks earns Rs 21.69 billion in Q3; Nabil Bank has highest net profit,"[0.3549, -2.0163, 1.7975]",positive,0.7946683168411255
+2016-05-09,Modest profit growth of Agriculture Dev. Bank by 19.95% to Rs 1.21 arba in Q3; NPL stand at 4.89%,"[1.9171, -1.8998, -1.1583]",negative,-0.9361864924430847
+2016-04-29,Agriculture Development Bank conducted 9th AGM; 15% bonus & 50% right share approved; 2 lakh shareholders to be benefitted,"[1.4564, -2.6552, 0.6474]",negative,-0.6841568350791931
+2016-04-26,Agriculture Development Bank 9th AGM today; to endorse 15% bonus & 50% right share,"[0.8905, -2.4886, 1.5705]",positive,0.6562188267707825
+2016-04-10,Last day to secure 15% stock dividend of Agriculture Development Bank,"[1.3933, -2.5567, 0.7689]",negative,-0.6431475281715393
+2016-04-04,Agriculture Development Bank 9th AGM on Baisakh 14; to endorse 15% bonus & 50% right share,"[0.9756, -2.5145, 1.3432]",positive,0.5835817456245422
+2016-04-03,ADBL15% stock dividend book closure on Chaitra 29; AGM on Baishak 14; Paid up to reach Rs 3.93 arba,"[1.8557, -2.1607, -0.9187]",negative,-0.925575852394104
+2016-03-21,Average NPL of commercial banks in decreasing trend; seven commercial banks average NPL below 1%,"[-1.7290, 2.6951, -0.7351]",neutral,0.0
+2016-03-13,Mission Dev. Bank 6th AGM today; to endorse 100% right & 13% bonus share,"[1.1169, -2.6675, 1.3568]",positive,0.554135799407959
+2016-03-11,"Agriculture Dev. Bank declares 15% bonus & 50% right share; Paid up to reach Rs 5.90 arba, needs Rs 2.10 arba more","[1.2598, -2.4585, 0.8753]",negative,-0.5864930152893066
+2016-02-12,Prime Commercial Bank profit mounts by 29.58% in Q2; Agriculture Dev. Bank profit plunges by 27.50%,"[-1.0030, 2.5634, -1.7905]",neutral,0.0
+2016-01-21,Agricultural Development Bank celebrates 49 successful years of operation; Minister of Finance inaugurated the program,"[1.5422, -2.6408, 0.5574]",negative,-0.7200831770896912
+2016-01-20,Agriculture Dev. Bank to reach paid up capital of 8 arba in one shot; 49th Anniversary on Magh 07,"[1.7695, -2.7552, 0.0997]",negative,-0.8339496850967407
+2015-12-22,"Market set to rise today; Political stability, Dividends & Right issue to propel the market","[1.8298, -2.4833, -0.2378]",negative,-0.8772813081741333
+2015-12-21,State-owned banks yet to reinstate half of their branches shut during insurgency,"[-1.7913, 2.7783, -0.3519]",neutral,0.0
+2015-12-21,"Shares of five commercial banks accounted for trading of 2.92 lakhs units of shares worth Rs 24.39 crore; ADBL, LBL, NIC ASIA hits circuit","[0.7056, -1.5609, 0.6667]",negative,-0.48415136337280273
+2015-12-01,Commercial Banks' Q1 Analysis: Part 1 Capital and Reserves,"[-1.0177, -0.8030, 2.5202]",positive,0.9388729333877563
+2015-11-23,"Exclusive Interview: Lila Prakash Sitaula, CEO of ADBL;ADBL to strengthen good governance practices by clearing past liabilities","[1.6570, -2.8256, 0.5844]",negative,-0.7388749122619629
+2015-11-16,Sanima and Agricultural Development Bank registers decent profit growth of 35.07% & 34.23% respectively,"[1.9925, -2.3894, -0.5531]",negative,-0.9166496992111206
+2015-11-15,Technical Analysis: Agricultural Development Bank Ltd.,"[-0.7723, -1.2328, 2.4974]",positive,0.9416142702102661
+2015-11-10,Options available to ADBL to reach Rs 4 arba by the end of this fiscal year,"[1.0762, -2.6515, 1.3797]",positive,0.5694935321807861
+2015-10-13,ADBL rises by whopping 7.07 % although market nosedived by 18.18 points; Broker no. 56 buys ADBL shares worth Rs 92.59 lakhs,"[1.1486, -1.3577, -0.8849]",negative,-0.8247717022895813
+2015-10-08,Notice from NRB causes ADBL to hit circuit; NRB bars BFIs to include Preference shares in capital plan,"[-1.5279, 2.2152, -0.1648]",neutral,0.0
+2015-10-08,NRB disallows preference shares in capital plan; Nabil & ADBL needs extra Rs 2 arba & Rs 4.58 arba respectively to reach Rs 8 arba,"[-1.2838, -0.1417, 2.0476]",positive,0.8712778091430664
+2015-10-07,3 state-backed banks reopen,"[0.0469, -1.3766, 1.7743]",positive,0.8192940950393677
+2015-10-05,Retiring staff account for big chunk of Staff expense in ADBL,"[-1.9614, 2.7072, 0.0619]",neutral,0.0
+2015-10-03,Listing of bonus shares of ADBL likely to happen between Dashain & Tihar,"[-0.6874, -1.4913, 2.6605]",positive,0.9515694379806519
+2015-10-02,NAV of NIBL Sambriddhi Fund-1 rises to Rs 11.47; highest shares of ADBL,"[1.8519, -1.8068, -1.2924]",negative,-0.9355760812759399
+2015-09-29,It's confirmed current paid up capital of ADBL is Rs 9.86 arba; highest among BFI's,"[1.7835, -2.6792, 0.1201]",negative,-0.8326295018196106
+2015-08-17,"Despite of Heavy staff expenses & huge provision, ADBL able to grow its profit by 23.37% to Rs 1.87 arba","[2.0737, -1.8654, -1.5022]",negative,-0.9546967148780823
+2015-08-17,31 companies including 22 Commercial Banks will transact in Demat form from today,"[-0.5558, -1.7331, 2.5995]",positive,0.9471873044967651
+2015-07-27,ADBL distributing 7% bonus share certificate & 8% cash dividend warrant from today,"[-0.0994, -1.9223, 2.3435]",positive,0.9083113074302673
+2015-07-24,Finally ADBL distributing 7% bonus share certificate & 8% cash dividend warrant from Shrawan 11,"[0.9771, -2.5774, 1.5272]",positive,0.6276001930236816
+2015-07-24,List of current paid up capital of Commercial Banks,"[-1.1659, -0.4915, 2.4690]",positive,0.9274911284446716
+2015-06-14,8th AGM of ADBL elects 4 BoD members representing public shareholders,"[-0.6074, -1.6015, 2.5468]",positive,0.9447657465934753
+2015-05-14,Agricultural Development Bank Q3 profit rises 26.34%,"[1.7818, -1.1552, -1.7334]",negative,-0.9235551357269287
+2015-04-16,ADBL 8th AGM on Baishakh 26; Investors who bought today can claim the Div.,"[-0.6560, -1.6354, 2.5720]",positive,0.9482962489128113
+2015-04-12,ADBL 8th AGM on Baishakh 26; BoD offers 15.79% dividend; 6% cash for preferential shareholders,"[1.1805, -2.4362, 0.9640]",negative,-0.5457922220230103
+2015-03-10,Will Agricultural Development Bank ever find a strategic partner?,"[0.3340, -2.3436, 2.1148]",positive,0.8473900556564331
+2015-01-29,Agricultural Dev. Bank announces 7% bonus and 8% Cash,"[0.4198, -1.7117, 1.1679]",positive,0.6538497805595398
+2015-01-27,Sitaula’s selection as ADBL chief upheld,"[-0.6803, -1.1670, 2.3560]",positive,0.9280509352684021
+2015-01-19,"City Express, ADBL in remittance pact","[0.2062, -2.3897, 2.2777]",positive,0.8807536959648132
+2014-12-15,Sitaula appointed ADBL chief executive,"[-0.3437, -1.5652, 2.3663]",positive,0.9206840395927429
+2014-12-02,14 individuals apply for top ADBL post,"[0.0051, -2.2370, 2.2809]",positive,0.8979665637016296
+2014-11-16,"Agricultural Dev. profit remains stagnant, able to earn Rs 21.50 crore in Q1","[-0.4160, 1.8265, -1.9154]",neutral,0.0
+2014-10-28,Youths aged 21-45 eligible for agri loans,"[-0.6333, -1.4820, 2.5020]",positive,0.9415318369865417
+2014-10-21,Upadhyay appointed ADB officiating CEO,"[-0.3185, -1.5505, 2.2499]",positive,0.9098973870277405
+2014-10-20,"Citing poor performance, ADBL board fires CEO Budhathoki","[-1.9382, 2.9636, -0.4159]",neutral,0.0
+2014-08-31,State-owned banks reinstating branches to regain lost market,"[-0.0791, -0.9248, 0.9533]",positive,0.6626871824264526
+2014-08-21,"What’s wrong with ADBL? Nothing, say officials; shareholders not convinced","[-1.7295, 1.5664, 1.3089]",neutral,0.0
+2014-08-15,"Heavy expenses on ADBL’s staff squeezes bank profit, profit falls 34%","[-1.6986, 2.9869, -1.0186]",neutral,0.0
+2014-07-08,ADBL posts highest growth among banks -- net profit to cross Rs 3 arba by Q4,"[2.0518, -2.2698, -1.0258]",negative,-0.9439741969108582
+2014-06-29,25 world class banks interested in strategic partnership with ADBL,"[1.6268, -2.8864, 0.6237]",negative,-0.7258437275886536
+2014-06-26,Search for strategic partner for ADBL comes a cropper,"[-0.6089, -0.6930, 1.8717]",positive,0.8616036772727966
+2014-06-13,ADBL’s EoI for strategic partnership in July; deal expected at high premium rate,"[1.7819, -2.6229, -0.0875]",negative,-0.8573139905929565
+2014-06-04,ADBL starts distributing 31.58% percent dividend,"[-0.3591, -1.7791, 2.2948]",positive,0.9196373224258423
+2014-06-03,"LBL starts distributing bonus shares, ADBL to dole out dividend tomorrow","[-0.3394, -1.5617, 2.1740]",positive,0.9051042199134827
+2014-06-02,"LBL to distribute bonus shares tomorrow, ADBL to dole out dividend from Wednesday","[-0.2871, -1.7990, 2.2784]",positive,0.9142115712165833
+2014-05-25,ADBL endorses 31.58% dividend; to bring strategic partner by September,"[1.4436, -2.7551, 0.7611]",negative,-0.6577324867248535
+2014-05-23,AGM of ADBL today to endorse 31.58% dividend,"[0.6650, -2.4305, 1.7912]",positive,0.746851921081543
+2014-05-15,"Stemmed by provisioning of Rs 95 crore, ADBL’s profit dips by 18 % in Q3","[-1.3952, 2.9585, -1.5438]",neutral,0.0
+2014-04-30,Last day to clinch 31.58% cash dividend of undervalued ADBL scrip,"[1.7627, -2.3284, -0.1447]",negative,-0.8582368493080139
+2014-04-25,ADBL AGM on May 23; stock remains undervalued despite huge returns,"[1.8064, -1.0815, -1.8928]",negative,-0.9255542159080505
+2014-04-22,Govt proposes CCB to buy stake in ADBL,"[-0.0072, -2.0757, 2.3737]",positive,0.9056749939918518
+2014-04-22,Reality Check: Why ADBL is one of the most undervalued stocks?,"[-0.9421, 0.2381, 1.2939]",positive,0.6873801350593567
+2014-03-26,NRB endorses 31.58% dividend pledged by ADBL; BoD to announce AGM shortly,"[1.1550, -2.1836, 0.5378]",negative,-0.634946882724762
+2014-03-24,Expect the central bank to approve ADBL dividend within a week: Officials,"[-0.1546, -1.9791, 2.3778]",positive,0.9155101180076599
+2014-03-12,When can shareholders expect dividends from the remaining banks?,"[-1.1202, -0.6815, 2.4808]",positive,0.9349063634872437
+2014-02-12,"ADBL’s profit dips by 15.7 % in Q2; Kumari Bank, too, reports profit drop of 36.45%","[-1.7357, 3.0489, -1.0887]",neutral,0.0
+2014-02-10,ADBL pledges huge cash dividend of 31.58 percent,"[0.1867, -2.2778, 2.2470]",positive,0.8785364627838135
+2014-01-27,"ADBL heads for strategic partnership, Baker Tilly to hold special audit","[-0.2699, -1.9740, 2.3965]",positive,0.9240888953208923
+2014-01-24,"ADBL closing above Rs.500, bullish","[1.4078, -1.2875, -0.9807]",negative,-0.8626004457473755
+2014-01-22,Govt will lower its stake in ADBL; Finance Minister,"[-1.8096, 2.4988, 0.1531]",neutral,0.0
+2014-01-20,ADBL to seek strategic partnership by Sept; expect impressive dividend,"[1.9278, -2.3034, -0.9562]",negative,-0.9341912865638733
+2014-01-07,ADBL expected to give around 30% dividend; all eyes on its anniversary,"[-0.5928, -1.5642, 2.5012]",positive,0.941196620464325
+2013-11-15,Agricultural Development Bank Limited has posted net profit of Rs.237.07 million and published its 1st quarter company analysis of the fiscal year 2070/71.,"[-0.9167, -0.9922, 2.4361]",positive,0.9368276000022888
+2013-11-15,ADBL posts marginal profit of 6.3% despite good interest income — due to massive provisioning of Rs 48 crore,"[-1.3170, 2.1303, -0.5985]",neutral,0.0
+2013-09-08,"Agricultural Development Bank Limited has listed its 15,55,000 units which were allocated to the bank employees in NEPSE for trading.","[-0.9045, -1.3220, 2.5922]",positive,0.9521519541740417
+2013-08-28,Farm loans issued by ADBL up over two-fold to Rs 8 billion,"[1.9776, -2.1202, -1.1447]",negative,-0.9428024888038635
+2013-08-14,Agricultural Development Bank Limited has posted net profit of Rs.2259.94 million and published it's 4th quarter company analysis of the fiscal year 2069/70.,"[-0.7932, -1.1710, 2.3838]",positive,0.934316873550415
+2013-08-08,Agriculture Development Bank Limited has published its 6th AGM minute.,"[-0.7544, -1.2590, 2.4605]",positive,0.9394901394844055
+2013-07-11,ADB AGM concludes; no dividends for shareholders,"[-1.4524, -0.1352, 2.4678]",positive,0.9141721129417419
+2013-06-17,"Agriculture Development Bank Limited has announced its 6th AGM going to be held on (26th Ashad, 2070) and published its financial highlights of the fiscal year 2068/69.","[-1.0129, -1.0304, 2.5232]",positive,0.9454009532928467
+2013-06-12,Agricultural Development Bank cash dividend plan in limbo,"[-0.7862, -0.6462, 1.9838]",positive,0.8812536597251892
+2013-05-10,Agriculture Development Bank Limited has posted net profit of Rs.945.37 million and published its 3rd quarter company analysis of the fiscal year 2069/70.,"[-0.8728, -1.0533, 2.4173]",positive,0.9360256791114807
+2013-05-08,FM Koirala visits ADBL,"[-0.1315, -1.6870, 2.1990]",positive,0.894626259803772
+2013-05-06,Agricultural Development Bank to give dividend,"[-0.4485, -1.3780, 2.4553]",positive,0.9289751052856445
+2013-03-18,ADBL starts forex service,"[-0.8540, -0.8298, 2.4746]",positive,0.9323444366455078
+2013-03-07,ADBL opens branch,"[-0.6795, -0.9288, 2.3926]",positive,0.9238495230674744
+2013-02-10,Agricultural Development Bank Limited has posted net profit of Rs.546.35 million and published its 2nd quarter company analysis of the fiscal year 2069/70.,"[-0.8753, -1.0567, 2.4170]",positive,0.9361797571182251
+2013-01-24,"ADBL, CFS join hands","[-0.1655, -1.9298, 2.2739]",positive,0.9073200821876526
+2013-01-21,Agriculture Dev Bank brings down NPL to 6pc as of mid Dec,"[-1.6742, 2.7150, -0.6188]",neutral,0.0
+2013-01-19,ADBL to raise profit before tax by 220%,"[1.9115, -2.7994, 0.1583]",negative,-0.8458727598190308
+2013-01-12,CIB nabs corruption convict,"[-1.4244, 2.0994, 0.2179]",neutral,0.0
+2012-11-18,Agricultural Development Bank Limited has posted net profit Rs. 307.12 million and published its 1st quarter company analysis of the fiscal year 2069/70.,"[-0.9047, -1.0297, 2.4406]",positive,0.9377710819244385
+2012-09-12,Agriculture Development Strategy (ADS): Work resumes on drafting 10-year farm plan,"[-0.1965, -1.7961, 2.0984]",positive,0.8919619917869568
+2012-09-08,Israel extends help to Nepali agriculture sector,"[1.8130, -2.2963, -0.1547]",negative,-0.8649001717567444
+2012-08-25,ADBN to pay dividends from Rs 1.8b profit,"[-0.3658, -1.7204, 2.4297]",positive,0.9286321401596069
+2012-08-16,Agricultural Development Bank Limited has posted net profit of Rs 1861.03 million and published its 4th quarter company analysis of the fiscal year 2068/69.,"[-0.8554, -0.9998, 2.3919]",positive,0.9323750138282776
+2012-08-08,328 apply for VRS launched by ADBL,"[0.0524, -2.2237, 2.3662]",positive,0.901679277420044
+2012-08-03,ADBL to launch VRS on Sunday,"[-0.1557, -2.0212, 2.4973]",positive,0.9247751832008362
+2012-06-04,Committee demands Rs 15m to initiate ADBL divestment process,"[-0.7617, -1.3905, 2.4614]",positive,0.942444920539856
+2012-05-21,Agricultural Development Bank Limited has published its 5th AGM approved audited financial highlights of the fiscal year 2067/68.,"[-0.1214, -1.8014, 2.1801]",positive,0.8938430547714233
+2012-05-10,Agricultural Development Bank Limited has posted net profit of Rs.1145.94 million and published its third quarter company analysis of the fiscal year 2068/69.,"[-0.8927, -1.0310, 2.4076]",positive,0.9354686141014099
+2012-04-09,Agriculture Dev Bank to divest shares next year,"[-1.5327, 0.3346, 2.2793]",positive,0.8582667112350464
+2012-04-02,ADBL divestment process gains momentum,"[1.7802, -2.0167, -0.9944]",negative,-0.921813428401947
+2012-03-29,Tech committee formed to divest ADBL stake,"[-1.2204, -0.0655, 2.3536]",positive,0.8952151536941528
+2012-03-23,Agricultural Development Bank Limited has published its audited financial highlights of fiscal year 2067/68.,"[-0.6784, -1.1741, 2.3447]",positive,0.9274019002914429
+2012-03-23,Agricultural Development Bank Limited has announced its 5th Annual General Meeting going to be held on 11th Baisakh 2068.,"[-0.7800, -1.3704, 2.4546]",positive,0.9423359632492065
+2012-02-09,Agricultural Development Bank Limited has posted net profit of Rs.688.26 and published its second quarter company analysis of the fiscal year 2068/69.,"[-0.9341, -0.9010, 2.4102]",positive,0.9330445528030396
+2012-01-26,ADBN may face NRB music for not getting deposits insured,"[-1.7816, 2.7075, -0.4169]",neutral,0.0
+2012-01-20,ADBL to give bonus from next year,"[0.1916, -1.8944, 2.1273]",positive,0.8604051470756531
+2011-11-28,Budhathoki new CEO of ADBL,"[-0.6247, -1.0555, 2.2836]",positive,0.9174023866653442
+2011-11-21,ADBL appoints consultant to start divestment process,"[-0.5088, -1.5556, 2.3448]",positive,0.9277496933937073
+2011-11-15,Agriculture Development Bank Limited has posted net profit of Rs.285.42 million and published its first quarter company analysis of the fiscal year 2068/69.,"[-0.8856, -0.9930, 2.4031]",positive,0.9338732361793518
+2011-08-14,Agriculture Development Bank Limited has posted net profit of Rs.1608.08 million and published its fourth quarter company analysis of the fiscal year 2067/68.,"[-0.8136, -1.1036, 2.3822]",positive,0.9332138299942017
+2011-06-10,"Agriculture Development Bank Limited is selling 2,32,100 unit’s promoter share of Fund Management Company Limited on auction from today (27th Jestha 2068).","[-0.3595, -1.8066, 2.4836]",positive,0.9328774809837341
+2011-05-20,"Agriculture Development Bank Limited has published its audited annual financial reports and  minute of its 2nd, 3rd and 4th AGM.","[-0.8851, -1.2367, 2.4544]",positive,0.9430375099182129
+2011-05-09,Agriculture Development Bank Limited has posted a net profit of Rs. 1012.09 millions and published its 3rd quarter company analysis of the fiscal year 2067/68.,"[-0.7910, -1.1280, 2.3630]",positive,0.9318349361419678
+2011-04-06,Agriculture Development Bank Limited has published a notice regarding election schedule going to be held on 9th Baisakh 2068.,"[-0.9929, -1.0509, 2.5462]",positive,0.9465745687484741
+2011-03-31,"Agriculture Development Bank Limited has published a financial report of fiscal year 2064/65, 2065/66 and 2066/67.","[-1.3258, -0.3366, 2.4244]",positive,0.9201835989952087
+2011-03-31,"Agriculture Development Bank Limited has published a notice regarding its 3rd, 4th and 5th annual general meeting to be held on 9th Baisakh 2068.","[-1.3855, -0.5687, 2.5824]",positive,0.9418692588806152
