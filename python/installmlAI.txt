@@ -1,0 +1,95 @@
+================================================================================
+TENSORFLOW GPU SETUP GUIDE FOR WSL2 + RTX 2050
+================================================================================
+
+FRESH SETUP (first time)
+================================================================================
+
+STEP 1 - Create venv:
+python3 -m venv /mnt/d/spa/python/venv
+
+STEP 2 - Activate venv:
+source /mnt/d/spa/python/venv/bin/activate
+
+STEP 3 - Install TensorFlow with CUDA bundled:
+pip install tensorflow[and-cuda]==2.17.0
+
+STEP 4 - Install other packages:
+pip install numpy pandas matplotlib scikit-learn requests jupyter jupyterlab
+
+STEP 5 - Create libdevice directory:
+mkdir -p /usr/local/cuda/nvvm/libdevice/
+
+STEP 6 - Find libdevice file:
+find /mnt/d/spa/python/venv -name "libdevice.10.bc" 2>/dev/null
+
+STEP 7 - Copy libdevice (use path from Step 6):
+cp /mnt/d/spa/python/venv/lib/python3.12/site-packages/nvidia/cuda_nvcc/nvvm/libdevice/libdevice.10.bc /usr/local/cuda/nvvm/libdevice/libdevice.10.bc
+
+STEP 8 - Add permanent environment variables to bashrc:
+echo 'export XLA_FLAGS="--xla_gpu_cuda_data_dir=/usr/local/cuda"' >> ~/.bashrc
+echo 'export LD_LIBRARY_PATH=/usr/lib/wsl/lib:/mnt/d/spa/python/venv/lib/python3.12/site-packages/nvidia/cudnn/lib:/mnt/d/spa/python/venv/lib/python3.12/site-packages/nvidia/cuda_runtime/lib:$LD_LIBRARY_PATH' >> ~/.bashrc
+echo 'export CUDA_VISIBLE_DEVICES=0' >> ~/.bashrc
+source ~/.bashrc
+
+STEP 9 - Verify GPU works:
+python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+Should print: [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+
+STEP 10 - Launch Jupyter every time:
+jupyter notebook --allow-root
+
+
+================================================================================
+ALREADY INSTALLED SETUP (if something breaks)
+================================================================================
+
+CHECK 1 - Verify libdevice exists:
+ls /usr/local/cuda/nvvm/libdevice/
+(should show libdevice.10.bc)
+
+FIX if missing:
+rm /usr/local/cuda/nvvm/libdevice/libdevice.10.bc  (if dangling symlink)
+mkdir -p /usr/local/cuda/nvvm/libdevice/
+cp /mnt/d/spa/python/venv/lib/python3.12/site-packages/nvidia/cuda_nvcc/nvvm/libdevice/libdevice.10.bc /usr/local/cuda/nvvm/libdevice/libdevice.10.bc
+
+CHECK 2 - Verify TF version:
+pip show tensorflow
+(should show Version: 2.17.0)
+
+CHECK 3 - Verify CuDNN version:
+pip show nvidia-cudnn-cu12
+(should show Version: 9.1.0)
+
+CHECK 4 - Verify GPU detected:
+python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+
+
+================================================================================
+EVERY TIME YOU WANT TO RUN JUPYTER
+================================================================================
+
+source /mnt/d/spa/python/venv/bin/activate
+jupyter notebook --allow-root
+
+
+================================================================================
+VERSION SUMMARY
+================================================================================
+
+TensorFlow  : 2.17.0
+CuDNN       : 9.1.0
+CUDA Runtime: 12.1
+Python      : 3.12
+GPU         : NVIDIA GeForce RTX 2050 (4GB)
+
+================================================================================
+IMPORTANT RULES
+================================================================================
+
+- Root WSL terminal  -> system commands (cp, mkdir, rm, find)
+- Venv activated     -> pip installs only
+- Notebook           -> Python code only
+- Never set LD_LIBRARY_PATH inside notebook Python code
+- Never install CUDA toolkit separately (tensorflow[and-cuda] includes it)
+================================================================================

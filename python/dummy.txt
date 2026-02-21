@@ -1,0 +1,27 @@
+in windows venv:
+python -m venv foldername
+
+
+in linux
+python3 -m venv venv
+
+
+to run in windows:
+venv/Scripts/activate
+
+in linux:
+source vnev/bin/activate
+source or . = tells the shell to run the activate script in the current shell session.
+or
+. vnev/bin/activate
+
+
+something we add so gpu can work
+run this command each time i open wsl terminal and this command is save into bashrc file. i can see it in cat bashrc and i save it in root
+"source" is a Linux built-in command that reads and executes a file in the current terminal session.
+
+echo 'export LD_LIBRARY_PATH=/usr/lib/wsl/lib:/mnt/d/spa/python/venv/lib/python3.12/site-packages/nvidia/cuda_runtime/lib:/mnt/d/spa/python/venv/lib/python3.12/site-packages/nvidia/cublas/lib:/mnt/d/spa/python/venv/lib/python3.12/site-packages/nvidia/cudnn/lib:$LD_LIBRARY_PATH' >> ~/.bashrc
+
+echo 'export CUDA_VISIBLE_DEVICES=0' >> ~/.bashrc
+
+source ~/.bashrc
