@@ -1,0 +1,735 @@
+Date,Headline,Link,Full Content
+2025-02-20,Reminder! Last Day to Grab Dividend Proposed by Bishal Bazar Company Limited,https://www.sharesansar.com/newsdetail/reminder-last-day-to-grab-dividend-proposed-by-bishal-bazar-company-limited-2025-02-20,"Today is the last day to grab the 14% cash dividend
+Bishal Bazar Company Limited (BBC)
+proposed. The company has called its 34th AGM on 28th Falgun, 2081. The meeting will be held in the Army Officer's Club, Bhadrakali, Kathmandu, starting at 11 am that day.
+Among other agendas, the AGM will endorse a 14% dividend. 14% cash dividend (including tax) has been proposed on the paid-up capital of Rs. 4.01 Arba.
+The book closure date is on Falgun 9. Therefore, the shareholders maintained till today are entitled to dividend payout and can attend this AGM."
+2025-02-11,"Bishal Bazar Company Limited Proposes 14% Cash Dividend, AGM Called on Falgun 28",https://www.sharesansar.com/newsdetail/bishal-bazar-company-limited-proposes-14-cash-dividend-agm-called-on-falgun-28-2025-02-11,"Bishal Bazar Company Limited (BBC)
+has called its 34th AGM on 28th Falgun, 2081. The meeting will be held in the Army Officer's Club, Bhadrakali, Kathmandu, starting at 11 am that day.
+Among other agendas, the AGM will endorse a 14% dividend. 14% cash dividend (including tax) has been proposed on the paid-up capital of Rs. 4.01 Arba.
+Furthermore, an agenda is to endorse the auditor's report with PL statements, financial reports, and cash flow reports and appoint an auditor for the fiscal year 2081/82.
+Falgun 9 is the book closure date. Thus, shareholders maintained before that day are entitled to the dividend payout and can attend this AGM.
+AGM Notice:"
+2024-11-26,Additional Promoter shares of Nepal Government of Bishal Bazar Company Limited Listed in NEPSE,https://www.sharesansar.com/newsdetail/additional-promoter-shares-of-nepal-government-of-bishal-bazar-company-limited-listed-in-nepse-2024-11-26,"3,96,08,600 unit additional Promoter shares of Nepal Government of
+Bishal Bazar Company Limited (BBC)
+have been listed in NEPSE.
+As per the order given by the Supreme Court and Patan Appellate Court, the company was required to change its share structure. At that time, the company had a paid-up capital of Rs 5 crore. The company was then required to add Rs 3.96 arba in capital on behalf of the government. To facilitate this, the company increased its authorized capital to Rs 4.01 arba. Its paid-up and issued capital were also increased accordingly.
+The same additional shares are now listed in NEPSE. BBC closed at Rs. 4,176.00."
+2022-01-14,Bishal Bazar Company appoints Prabhu Capital as share registrar,https://www.sharesansar.com/newsdetail/bishal-bazar-company-appoints-prabhu-capital-as-share-registrar-2022-01-14,"Bishal Bazar Company has appointed Prabhu Capital as its share registrar.
+The agreement was signed between MD of Bishal Bazar Company Mr. Gagan Bahadur B.K. and Chief Operating Officer of Prabhu Capital Mr. Basu Thapaliya amid a program.
+Following the agreement, the merchant banker will now maintain a record of all share transactions, renew/block/transfer ownership of the shareholders, update the shareholder details, etc of the life insurance company, as per the media statement."
+2021-06-21,SEBON's Red Flag on 51 Companies: Estimating 30-Day Downside Risk Using Monte-Carlo Simulation VAR,https://www.sharesansar.com/newsdetail/sebons-red-flag-on-51-companies-estimating-30-day-downside-risk-using-monte-carlo-simulation-var-2021-06-21,"Article by Santosh Adhikari
+The Securities Board of Nepal (SEBON) recently issued a fresh warning about the possible risk of investing in 51 companies listed on the Nepal Stock Exchange (NEPSE). SEBON's press release comes on the back of stock markets touching record highs as the country’s economy continues to face disruption due to the second wave of the Covid-19 pandemic.
+Anyone who has followed the stock market over the past year will know that the bourses have been performing impressively, ignoring economic disruptions during the second wave. The strong market performance is a stark contrast to the real economic growth of Nepal, which has suffered due to localized lockdowns imposed during the first and second waves. Even considering the above expectations earning growth of the companies, the stock prices cannot be explained by fundamentals alone.
+Let's get a close-up look at the 51 companies that are deemed risky by SEBON. The stocks of 51 companies, with the exception of a few, are rising abnormally. For example, just in one year, stocks of 10 companies surged by 100 - 200%, 13 companies by 200-300%, 8 companies by 300-400%, 3 companies 400-500%, 5 companies 500-600%, and 4 companies by over 600%. If you ask me, is it normal? Well, the simple answer is ‘NO’. To protect the integrity of the investors, I will not comment further at this stage as not to prejudice any individual company. The least I can say is that I don’t find any valid reason for such a rise.
+Because the SEBON warning was meant for the public, share price started falling value in a negative way, yet their effect could be even more devastating in the future. Many investors are under a lot of pressure, and things got heated. It’s easier to prevent a big mess than to clean one up, therefore the main aim of this article is to estimate the downside risk of stocks that is deemed risky by SEBON. The point here is that estimating the downside risk of your stock holdings will help you gauge the amount of money you will likely lose over the next 30-days.
+The technique used is the Monte-Carlo estimation of VAR. Monte Carlo Simulation is a type of computational algorithm that is used to estimate the possible outcomes of an uncertain event. For this article, the historical price of 51 companies was retrieved from Nepal Stock Exchange (NEPSE) from 02/08/2020 to 16/06/2021. Some companies were listed in NEPSE a little later, for example, CGH was listed in NEPSE on 5th February 2021, data of such companies are available only after that period. The dataset is analyzed using Python specialized libraries (Pandas, Numpy, and Matplotlib).
+Putting the reader in perspective, I tried to write in very plain language with fewer lines of code. Please note that one has to run the MC simulation separately for 51 companies in question. As you can see in the actual code, 500 random trials are drawn, but it’s up to you how many simulations you can set up. The MC- simulation of each company is shown below. For example, the graph has three components: time period (represented by X-axis, in our case- it is 30-day), a confidence level (denoted by the red line, which is 95%), and a loss amount (represented by Y-axis). The exact amount of potential fall in share price over the next 30-day time period starting from 17/06/2021 with different confidence levels is provided in the table.
+Now let’s take one more look at it. For example, according to historical records, the average daily return of Corporate Development Bank Limited (CORBL) is 0.009027 or 0.9027% over the period from 02/08/2020 to 17/06/2021. During the same period, the daily volatility of CORBL was 0.034825 or 3.49%. The share price of CORBL on 17/6/2021 was Rs 683. Now, we can say that there is a 95% probability that over the period of the next 30-day starting from 18/06/2021, the share price of CORBL will not fall below Rs 584. Put another way, there is a 5% chance that the share price of CORBL will fall below Rs 584. Now, one can check the expected fall in the share price of CORBL at different confidence levels attached to it, which is shown in the table below. It is beyond the scope of this article to analyze one by one, as the data in the table speak itself.
+COMPANY
+SYMBOL
+Daily
+Value-at-Risk (VAR) -30-day window
+Mu(
+m
+)
+sigma(
+s
+)
+95%
+confidence
+97.5%
+confidence
+99%
+confidence
+Corporate Development Bank Limited
+CORBL
+0.009027
+0.034825
+584
+579.08
+574.74
+Narayani Development Bank Limited
+NABBC
+0.008149
+0.063245
+538
+528
+524
+Gurkhas Finance Ltd.
+GUFL
+0.011873
+0.39526
+948
+930
+915
+Multipurpose Finance Company Limited
+MPFL
+0.006793
+0.038551
+343
+337
+335
+Nepal Finance Ltd.
+NFS
+0.006429
+0.04822
+329
+321
+310
+Samriddhi Finance Company Limited
+SFCL
+0.007226
+0.041563
+315
+310
+308
+Chandragiri Hills Limited
+CGH
+0.027952
+0.052881
+1246
+1210
+1177
+Soaltee Hotel Limited
+SHL
+0.003133
+0.026443
+231
+228
+225
+Ankhu Khola Jalvidhyut Company Ltd.
+AKJCL
+0.003133
+0.02443
+251
+248
+246
+Arun Valley Hydropower Development Co. Ltd.
+AHPC
+0.008724
+0.040382
+403
+401
+395
+Barun Hydropower Co. Ltd.
+BARUN
+0.009911
+0.042217
+484
+479
+476
+Chhyangdi Hydropower Ltd.
+CHL
+0.008202
+0.043138
+340
+338
+336
+Dibyashwori Hydropower Ltd.
+DHPL
+0.008534
+0.045224
+238
+236
+235
+Himalaya Urja Bikas Company Limited
+HURJA
+0.008534
+0.045224
+218
+211
+210
+Khanikhola Hydropower Co. Ltd.
+KKHC
+0.009549
+0.042651
+262
+258
+256
+Liberty Energy Company Limited
+LEC
+0.002697
+0.037048
+317
+316
+314
+Mountain Energy Nepal Limited
+MEN
+0.007605
+0.033897
+785
+776
+772
+Mountain Hydro Nepal Limited
+MHNL
+0.007496
+0.043191
+356
+354
+351
+Panchakanya Mai Hydropower Ltd.
+PMHPL
+0.007669
+0.042194
+263
+261
+259
+Radhi Bidyut Company Ltd.
+RADHI
+0.009521
+0.037077
+913
+900
+887
+Rairang Hydropower Development Company Ltd.
+RRHP
+0.009521
+0.037077
+764
+758
+757
+RASUWAGADHI HYDROPOWER COMPANY LIMITED
+RHPL
+0.008234
+0.041556
+462
+451
+447
+Ridi Hydropower Development Company Ltd.
+RHPC
+0.009942
+0.040915
+476
+460
+456
+SANJEN JALAVIDHYUT COMPANY LIMITED
+SJCL
+0.006545
+0.038635
+382
+380
+379
+Synergy Power Development Ltd.
+SPDL
+0.007909
+0.035265
+406
+404
+402
+Union Hydropower Limited
+UNHPL
+0.010205
+0.044581
+364
+358
+356
+UNIVERSAL POWER COMPANY LTD
+UPCL
+0.007821
+0.038676
+284
+282
+280
+Upper Tamakoshi Hydropower Ltd
+UPPER
+0.006066
+0.034793
+644
+636
+631
+Asian Life Insurance Co. Limited
+ALICL
+0.004162
+0.024175
+1272
+1268
+1265
+Gurans Life Insurance Company Ltd.
+GLICL
+0.003088
+0.024492
+742
+740
+738
+Life Insurance Co. Nepal
+LICN
+0.002901
+0.02455
+2280
+2264
+2260
+Nepal Life Insurance Co. Ltd.
+NLIC
+0.002421
+0.026219
+1611
+1597
+1585
+Reliance Life Insurance Limited
+RLI
+0.004308
+0.028363
+566
+564
+560
+Himalayan Distillery Limited
+HDL
+0.006261
+0.036119
+4574
+4546
+4536
+SHIVAM CEMENTS LTD
+SHIVM
+0.005
+0.029016
+1369
+1368
+1367
+Ghodighoda Laghubitta Bittiya Sanstha Ltd.
+GGBSL
+0.00554
+0.023416
+717
+713
+711
+Mahila Lagubitta Bittiya Sanstha Limited
+MLBSL
+0.04172
+0.05165
+5189
+5050
+4952
+National Hydropower Company Ltd.
+NHPC
+0.008812
+0.038123
+213
+212
+211
+Panchathar Power Company Ltd.
+PPCL
+0.00628
+0.037646
+321
+315
+311
+Ajod Insurance Limited
+AIL
+0.005197
+0.031839
+783
+782
+782
+IME General Insurance Ltd.
+IGI
+0.00569
+0.031051
+1211
+1207
+1202
+Rastriya Beema Company Limited
+RBCL
+0.005152
+0.029831
+20337
+20155
+19916
+Sanima General Insurance Limited
+SGI
+0.006092
+0.033703
+691
+676
+664
+United Insurance Co. (Nepal) Ltd.
+UIC
+0.004002
+0.027219
+694
+692
+690
+Citizen Investment Trust
+CIT
+0.003276
+0.037648
+3475
+3430
+3418
+Hydroelectricity Investment and Development Company Ltd
+HIDCL
+0.006446
+0.042939
+271
+268
+266
+Nepal Infrastructure Bank Limited
+NIFRA
+0.004871
+0.037555
+423
+421
+420
+Nepal Reinsurance Company Limited
+NRIC
+0.006016
+0.030804
+1728
+1711
+1706
+NRN Infrastructure and Development Limited
+NRN
+0.004369
+0.036569
+599
+594
+587
+Bishal Bazar Company Limited
+BBC
+0.010787
+0.051444
+4904
+4856
+4844
+Salt Trading Trading
+STC
+0.007177
+0.040152
+8758
+8618
+8523
+The information in the above table answer the question, What is my worst-case scenario in the next 30 days? If one has invested in any of the companies above, this will give you an idea of what the share price might like in the next 30 days. Many people don’t like surprises. Losing money can be a catastrophe. Therefore, risk management is very important to identify the potential losses and develop strategies to minimize such losses.
+Like last year, 2021 is not a normal year as Nepal is facing a second wave. Despite this, the stock market is touching a record high. SEBON responded firmly to this phenomenon.  I won’t argue whether SEBON did right or wrong, but the least I can say is better late than never, however it hit my mind where on earth SEBON has been all this time and let the madness happen. As a regulatory body why there is no early intervention/investigation from the fact that stocks are rising abnormally. I am certain that Pandora’s box of stock market problems will be opened up soon.
+Adhikari is a Risk Analyst, Alpha Analytics Operations, State Street Bank International GmbH. He can be contacted at
+santosh-adhikari@outlook.com
+."
+2021-06-15,"This Is the Red List of 51 Companies That Are Overvalued, According to SEBON",https://www.sharesansar.com/newsdetail/this-is-the-red-list-of-51-companies-that-are-overvalued-according-to-sebon-2021-06-15,"The Securities Board of Nepal has unveiled a list of 51 companies trading in NEPSE to better inform investors about their real financial picture.
+The list contains the closing price of the companies as of Shrawan 12, 2073, when the NEPSE index was at 1,881.45. Alongside is a list that has the closing price of the respective companies as of Baisakh 30, 2077. The NEPSE index closed at 1,221.31 that day. On the right, the list has the closing price of the same companies yesterday, i.e. Jestha 31, 2078, when the index closed at 3,025.83.
+The regulatory board prepared this list based on the abnormality in percentage gain of the stock price of such companies in relation to their current financial health. These are stocks that have gained more than 300% in recent times, have a P/E ratio higher than 100, and various other factors.
+With this, the board has urged investors to invest not on rumor or stock tips, but only after analyzing the financials of the scrips. Nonetheless, the board has thanked investors for utilizing the online platform during the pandemic that made the recent surge in intraday activity possible. The board has stated that the capital market will endure only as high as the confidence among investors. As such, SEBON has requested investors to maintain stability by taking informed financial decisions.
+These are all the companies that have made it to the list:
+1) Corporate Development Bank Limited (CORBL)
+2) Narayani Development Bank Limited
+3) Gurkhas Finance Ltd. (GUFL)
+4) Multipurpose Finance Company Limited (MPFL)
+5) Nepal Finance Ltd. (NFS)
+6) Samriddhi Finance Company Limited (SFCL)
+7) Chandragiri Hills Limited (CGH)
+8) Soaltee Hotel Limited (SHL)
+9) Ankhu Khola Jalvidhyut Company Ltd. (AKJCL)
+10) Arun Valley Hydropower Development Co. Ltd. (AHPC)
+11) Barun Hydropower Co. Ltd. (BARUN)
+12) Chhyangdi Hydropower Ltd. (CHL)
+13) Dibyashwori Hydropower Ltd. (DHPL)
+14) Himalaya Urja Bikas Company Limited
+15) Khanikhola Hydropower Co. Ltd. (KKHC)
+16) (LEC) Liberty Energy Company Limited
+17) Mountain Energy Nepal Limited (MEN)
+18) Mountain Hydro Nepal Limited (MHNL)
+19) Panchakanya Mai Hydropower Ltd. (PMHPL)
+20) Radhi Bidyut Company Ltd. (RADHI)
+21) Rairang Hydropower Development Company Ltd. (RRHP)
+22) RASUWAGADHI HYDROPOWER COMPANY LIMITED (RHPL)
+23) Ridi Hydropower Development Company Ltd. (RHPC)
+24) SANJEN JALAVIDHYUT COMPANY LIMITED (SJCL)
+25) Synergy Power Development Ltd. (SPDL)
+26) Union Hydropower Limited (UNHPL)
+28) UNIVERSAL POWER COMPANY LTD
+27) Upper Tamakoshi Hydropower Ltd (UPPER)
+29) Asian Life Insurance Co. Limited (ALICL)
+30) Gurans Life Insurance Company Ltd. (GLICL)
+31) Life Insurance Co. Nepal (LICN)
+32) Nepal Life Insurance Co. Ltd. (NLIC)
+33) Reliance Life Insurance Limited (RLI)
+34) Himalayan Distillery Limited (HDL)
+35) SHIVAM CEMENTS LTD (SHIVM)
+36) Ghodighoda Laghubitta Bittiya Sanstha Ltd.
+37) Mahila Lagubitta Bittiya Sanstha Limited (MLBSL)
+38) National Hydropower Company Ltd. (NHPC)
+39) Panchathar Power Company Ltd. (PPCL)
+40) Ajod Insurance Limited (AIL)
+41) IME General Insurance Ltd. (IGI)
+42) Rastriya Beema Company Limited (RBCL)
+43) (SGI) Sanima General Insurance Limited
+44) United Insurance Co. (Nepal) Ltd. (UIC)
+45) Citizen Investment Trust (CIT)
+46) Hydroelectricity Investment and Development Company Ltd (HIDCL)
+47) Nepal Infrastructure Bank Limited (NIFRA)
+48) Nepal Reinsurance Company Limited (NRIC)
+49) NRN Infrastructure and Development Limited (NRN)
+50) Bishal Bazar Company Limited (BBC)
+51) Salt Trading Trading
+This is the original document.
+Your browser does not support pdfs,
+click here to download the file."
+2021-04-22,Bishal Bazar Company (BBC) Gains 10% and Hits Positive Circuit Breaker on First Day of Trading Resumption,https://www.sharesansar.com/newsdetail/bishal-bazar-company-bbc-gains-10-and-hits-positive-circuit-breaker-on-first-day-of-trading-resumption-2021-04-22,"After a long trading halt,
+Bishal Bazar Company Limited (BBC)
+has hit the 10% positive circuit breaker today on its first day of trading resumption.
+The shares of Bishal Bazar Company Limited (BBC) were freed for trading by NEPSE's notice published yesterday. NEPSE had halted the trading of Bishal Bazar Company Limited (BBC) and Rastriya Beema Company Limited (RBCL) at the same time.
+Before the trading was halted, BBC had a closing price of Rs. 2,880 per share. BBC opened today at Rs. 3,024. Only 210 shares were traded today and the company immediately gained 10%, which is the maximum intraday gain allowed for any stock in NEPSE. With this, the stock now has an LTP of Rs. 3168 per share.
+Companies listed in the Nepal Stock Exchange (NEPSE) are required to present the audited financial reports and the auditor's report within five months after the end of a fiscal year. Although NEPSE had submitted a request to both the companies to present their respective financial reports, both the companies failed to submit the reports on time. Thus, the trading of both companies was halted.
+BBC has now uploaded the financial reports from the fiscal year 2073/74 to 2076/77. The partial reports of the fiscal year 2077/78 have also been submitted. With this, the exchange has lifted the suspension with a warning to not break the rules of the capital market hereafter.
+As of 2077 Poush 30, Bishal Bazar Company Limited (BBC) has a paid-up capital of Rs. 5 crores. The company has a reserve and surplus of Rs. 79,26,61,098 with a net worth per share of Rs. 1,685.32. The PE ratio of the company is Rs. 10.73 and the EPS (annualized) is Rs. 250.25."
+2021-04-21,Heads Up: Shares of Bishal Bazar Company (BBC) Can Now Be Traded,https://www.sharesansar.com/newsdetail/heads-up-shares-of-bishal-bazar-company-bbc-can-now-be-traded-2021-04-21,"The shares of Bishal Bazar Company Limited (BBC) are now freed for trading.
+NEPSE had halted the trading of Bishal Bazar Company Limited (BBC) and Rastriya Beema Company Limited (RBCL) at the same time.
+Companies listed in the Nepal Stock Exchange (NEPSE) are required to present the audited financial reports and the auditor's report within five months after the end of a fiscal year. Although NEPSE had submitted a request to both the companies to present their respective financial reports, both the companies failed to submit the reports on time. Thus, the trading of both companies was halted.
+BBC has now uploaded the financial reports from the fiscal year 2073/74 to 2076/77. The partial reports of the fiscal year 2077/78 have also been submitted. With this, the exchange has lifted the suspension with a warning to not break the rules of the capital market hereafter.
+Before the trading was halted, BBC had a closing price of Rs. 2,880 per share."
+2021-01-31,BBC and RBCL Won't Trade in NEPSE From Tomorrow; This is Why,https://www.sharesansar.com/newsdetail/bbc-and-rbcl-wont-trade-in-nepse-from-tomorrow-this-is-why-2021-01-31,"NEPSE has halted the trading of
+Bishal Bazar Company Limited (BBC)
+and
+Rastriya Beema Company Limited (RBCL).
+Companies listed in the Nepal Stock Exchange (NEPSE) are required to present the audited financial reports and the auditor's report within five months after the end of a fiscal year. Although NEPSE had submitted a request to both the companies to present their respective financial reports, both the companies failed to submit the reports on time. Thus, the trading of both the companies is now halted.
+While writing this article, BBC has a closing price of Rs. 2,880 per share while RBCL has the closing price of Rs. 16,670 per share."
+2019-01-25,"Who are the defaulters from hydropower, manufacturing, hotels, others and trading sector in the matter of AGM? For how long have they delayed it in the past?",https://www.sharesansar.com/newsdetail/who-are-the-defaulters-from-hydropower-manufacturing-hotels-others-and-trading-sector-in-the-matter-of-agm-for-how-long-have-they-delayed-it-in-the-past,"~Rishab Agrawal
+There have been defaulters in all sectors regarding the issue of AGM. There are a few companies in each sector who have taken their duty to conduct AGM within the stipulated time for granted. The importance of conducting AGM timely cannot be stressed enough. And all the efforts to bring this issue to the concerned authorities notice have gone in vain. The companies continue to deprive stakeholders of their rights and the authorities continue to overlook the fact and refuse to have a clear stand regarding the matter.
+Similar to the BFI and insurance sector, the reaming sectors also have some defaulters when it comes to the issue of AGM. To know about the matter, a sector-wise list has been compiled reflecting the AGM date of respective companies for FY 74/75 as well as FY 73/74.
+A total of 10 hydropower companies have not conducted or even proposed their AGM for FY 74/75. While 3 companies have not conducted their AGM for FY 73/74. They are- Joshi Hydropower Company (JOSHI), Kalika Power Company (KPCL) and Panchakanya Mai Hydropower (PMHPL). However, three companies, namely Chhyangdi Group Power Company (CHL), Arun Kabeli Power Limited (AKPL) and Dibyashwari Hydropower Company (DHPL), conducted joint AGM for FY 73/74 and FY 74/75. Out of the remaining companies to conduct AGM for FY 74/75, only Nepal Hydro Developer (NHDL) has proposed dividend. Hydropower companies have a history of delaying their AGM up to a period of July.
+Among manufacturing companies, only one company is at default for not only FY 74/75 but also for FY 73/74. This company is Shree Ram Sugar Mills (SRS). The company has neither conducted AGM, nor declared any dividends for both the years. The reaming companies in this sector have successfully conducted AGM on time and have endorsed dividends. SRS lags behind its competitors in both these aspects.
+Looking at the Hotels sector, only Taragaon Regency Hotel (TRH) has not conducted the AGM for FY 74/75 while the remaining two have conducted it timely. Even for the previous year, TRH was the only hotel to delay their AGM up to a period of March. However, all three have endorsed dividends for FY 74/75.
+Similarly, among Others, only Citizen Investment Trust (CIT) has defaulted in this matter and has not endorsed any dividend for FY 74/75 yet. The remaining companies have successfully conducted their AGM. CIT had recently conducted the AGM for FY 73/74 on 21
+st
+December, 2018 and endorsed 23.22% dividend for the mentioned fiscal year.
+Finally, looking at the Trading sector, both the companies i.e. Salt Trading Corporation (STC) and Bishal Bazar Company (BBC) haven’t conducted their AGM for FY 74/75 yet while only STC has endorsed dividend of 35% for that period. BBC defaulted in this matter for FY 73/74 as well while STC delayed their AGM until 6
+th
+March, 2018.
+To conclude, the list of defaulters in this matter is ever growing while an appropriate reason for this cannot be ascertained. However, with the authorities turning a blind eye towards the matter, these public companies are functioning under improper authority. In this scenario, the stakeholders of these companies are losing the most while the companies are running without any retribution for their actions.
+Look at defaulter companies from
+Commercial Banks
+,
+Development Banks
+,
+Insurance Sector
+,
+Finance Sector
+and
+Microfinance Sector
+."
+2018-12-12,Market Capitalization: What is it good for? Does the size of a company actually matter?,https://www.sharesansar.com/newsdetail/market-capitalization-what-is-it-good-for-does-the-size-of-a-company-actually-matter,"~Rishab Agrawal
+Investors look at a number of aspects relating to a particular company before investing in that company. These aspects include past performance of the company, fundamentals and financials of the company, dividend history etc. But do investors consider the market capitalization of that company before investing?
+Market Capitalization is the current value of a company calculated on the basis of its outstanding shares and current market price. The outstanding shares include ordinary shares held by individual investors, block shares held by various institutions and restricted shares held by the promoters and insiders of the company. The value of market capitalization depends on the number of outstanding shares and the current market price of the shares of a particular company. The value is bound to change in case the company issues shares through various way or if the price of shares fluctuate. The total market capitalization of NEPSE as of 11
+th
+December 2018, stands at Rs.13.61 Kharba.
+Considering market capitalization before investing will give an idea about the size of the company in the market. It shows how large the company is compared to its competitors and other players of the market. It would not be correct to say that the companies with largest market capitalization are the safest investment and will provide the most return, but it will give a picture about the risk absorbing ability of a company. Along with other indicators, this indicator holds equal importance while investing in a company.
+Considering the importance of market capitalization, a list has been prepared containing the companies with largest market cap in each sector and top ten companies on the basis of market cap.
+First we look at companies with highest market capitalization in each sector. The market capitalization of each of the following companies has been calculated on the basis of their LTP as on 11
+th
+December 2018. The list is as follows:
+The above mentioned companies are the market leaders in their respective sectors in terms of market capitalization. These companies have a total market capitalization of Rs.3.30 Kharba, making up 24.30% of the total market capitalization of NEPSE. High disparity can be seen between market leaders of different sectors indicating the inequitable development of different sectors.
+Similarly, a list of top ten companies in terms of market capitalization, calculated on the basis of LTP of 11
+th
+December 2018, is as follows:
+As it is clear, commercial banks have dominated the list with 8 out of 10 companies being commercial banks. Nepal Doorsanchar Company (NTC) stands at top with a massive market capitalization of Rs.1.15 Kharba. NMB Bank (NMB) stands at the tenth position with market capitalization of Rs.31.73 Arba. The list features other commercial banks like Nepal Investment Bank (NIB), Nabil Bank (NABIL), Standard Chartered (SCB), Everest Bank Limited (EBL), Himalayan Bank (HBL), NIC Asia Bank (NICA) and Nepal SBI Bank (SBI) as top companies in terms of market capitalization. Only one life insurance company, namely, Nepal Life Insurance Company (NLIC) has made it to seventh position with market capitalization of Rs.40.53 Arba.
+The top ten companies have total market capitalization worth Rs.5.23 Kharba, constituting a huge 38.46% of the total market capitalization of NEPSE.
+The above mentioned companies hold a lot of significance in their respective sectors and it would be safe to say that the market will take a huge hit if any one of the above mentioned companies were to fall due to some reason."
+2018-09-27,Which stocks performed worst in last six years? What are their common traits?,https://www.sharesansar.com/newsdetail/which-stocks-performed-worst-in-last-six-years-what-are-their-common-traits,"~Krishna Khatiwada
+In this research, we have taken a stock purchased date as 1
+st
+January, 2012. However, considering the availability of the stock on the said date, we have considered stocks which are available between 2012 and 2013. CAGR is calculated by adjusting the time period, dividends and right shares. In this article, we have focused on operating profit, net profit, AGM, and dividend history. There are various factors which change the market price. Here is the list of those company:
+Bottlers Nepal (Balaju)
+It has started its operation from 1973 AD. Bottlers Nepal operates in two parts of the country namely Bharatpur, Chitwan as the name of Bottlers Nepal (Tarai) and other operating in the heart of the country at Kathmandu with the name: Bottlers Nepal (Balaju).
+The stock of Bottlers Nepal (Balaju) was available on 12
+th
+April 2012 at Rs 1690 and its current market price is Rs 1660. Bottlers Nepal (Balaju) has distributed 60% cash dividend from the profit of 2069/70 and has conducted AGM regularly without missing a single year in the past six years. The company has announced a 20% bonus from the profit of 074/75 and in between, it has not distributed dividends to its investor. Cash dividend adjusted CAGR of the company is 1.069% in the past 6 years.
+The company's official website is
+http://www.khetan.com.np/bottlers_nepal.htm
+but the clear information of the company is not available. Furthermore, the company's annual report and quarterly reports are not easily available. The company is lacking in transparency and has not distributed dividends regularly. The figures on the balance sheet are looking fine and the company has conducted a regular AGM. The reason for its worst performance could be due to the shortage of share supply.
+World Merchant banking and finance limited
+It has started its operation from the year 2058 BS. However, there is no information of its listing on NEPSE. Annual report and quarterly report of the company are not easily available and the company does not have its website. The WMBF has conducted its AGM in 2017 for the financial result from the year 2068 to 2072. AGM for the financial result of FY 2072/73 is conducted in 2018. The company has not distributed any dividend in the past 6 years. Irregularity in AGM has been observed further leading to lack of transparency.
+The stock was available on 8
+th
+January, 2012 at Rs 89 and after six years its price stands at Rs 95 with the CAGR of 0.86%.
+Progressive Finance Limited (PROFL)
+It is a ""C""-class licensed financial institution registered on 14th Ashwin, 2051 under the Company Act, 2021 BS.  The company went public on 28
+th
+Shrawan, 2064.
+The stock of PROFL was available on 16
+th
+January, 2012 at Rs 129 and its current market price is Rs 101. The company had issued right share in 2015 and 2018. The right adjusted CAGR of the stock is (-3.57%). The figure below shows the performance of the company in the last six years.
+The company is struggling in making profits through its operation and numbers in the profit and operating profit is absolutely random. The company has not distributed any dividends in last 6 years. We can get a sound information about the company on its official website
+http://www.pfltd.com.np/
+but the financials of the company have not been uploaded. We can say that the company is losing through its operation, AGM were not regularly conducted, and the dividend is not distributed.
+Corporate Development Bank Limited (CORBL)
+Corporate Development Bank Limited is a ""B"" class licensed financial institute operating since November 2007.  Corporate Development Bank's stock was available on 12
+th
+January, 2012 at Rs 124 and its current market price is Rs 100.
+Company's official website is
+http://www.corporatebank.com.np/
+but the financial statement of the last six years are not available. In past 6 years, company has neither distributed any dividends nor issued right shares. The company has conducted its last AGM in 2014. If we have invested in this company on the said date then our investment would have shrunk by (-3.15%) annually. We can say that the company is lacking transparency, is irregular in conducting AGM and no dividend distribution policy.
+Bishal Bazaar Limited (BBC)
+The information regarding the company's profile is not easily available. The stock of the company was available on 10
+th
+January 2012 at Rs 2598 and its current market price is Rs 1700. If we had invested in (BBC) then our capital would have shrunk by (-6.12%) annually.  The company has a website
+http://www.bishalbazar.com.np/
+but it is currently under maintenance. I have considered the data of 3
+rd
+quarter of the respected year as the 4
+th
+quarter result was not available.
+From the table above, we can say that the company is making decent profit with the positive growth but the company has not distributed dividends in past 6 years. Investors are wary about irregular AGM and lack of transparency.
+Multipurpose Finance Company Limited
+The stock of the company was available on 12
+th
+January, 2012 at Rs 415 and the current market value of its stock is Rs 183. The company has distributed bonus from the profit of the fiscal year 69/70/, 70/71, and 71/72. The company doesn't have its official website so the information about the finance company is not available easily.  The bonus adjusted CAGR of the company in the past six years is (-8.18%).
+The company has conducted regular AGM but has irregular dividend history. However, the company has not conducted AGM for the financial of fiscal year 73/74 and 74/75. The figure of profit and operating profit is highly fluctuating.  The company is looking decent by its performance and management operation but has been listed in worst performer stocks.
+Best Finance Company
+The BFC is incorporated under Company Act, 2063 and duly licensed by Nepal Rastra Bank (the Central Bank of Nepal) as a ""C"" class financial Institution as per Banks and Financial Institutions Act, 2073.  The company was started as the General Finance and later, the company has changed its name to Best Finance. During the course of its operation, it faced a huge crisis of loss in the paid-up capital of the company due to the then malpractices of corporate governance. The company was declared as the problematic financial institution by Nepal Rastra Bank due to this reason (taken from the company's official website
+http://bestfinance.com.np/
+.)
+The information on the company is transparent, though all the financial data are not uploaded to its website. The stock was available on 2
+nd
+January, 2012 at Rs 503 and its current value is Rs 100.
+From the table above we can say that the company was not able to make a profit through its operation and it has not distributed any dividends in past six years. If we have invested in the Best finance on the said date then we would lose more than 80% of our investment capital with the CAGR of (-21.33%).
+If we include the average inflation rate of the last six years which is around the 7%, then we would have lost much more than the said value. Inflation-adjusted annual loss in best finance company is (-21.33%)-(7%) =-26.16%. Such losses can destroy the person's mental and financial health.
+Key things to remember:
+Avoid stock that conducts AGM irregularly.
+Avoid stock with negative and highly fluctuating operating profit instead choose the company with stable operating profit growth.
+Choose dividend-paying stocks and avoid the stocks which escape dividend and AGM.
+Avoid stocks that provide an incomplete information. Instead, go with the transparent companies which provide clear information.
+(Note: We have researched only on the worst performer and there is a possibility that very few high performing stocks could share the same traits. However, it is suggested to avoid a company that has the above-said character)"
+2017-08-15,Bishal Bazar 34th AGM today; to add Rs 3.96 arba capital on behalf of Government,https://www.sharesansar.com/newsdetail/bishal-bazar-34th-agm-today-to-add-rs-3-96-arba-capital-on-behalf-of-government,"Bishal Bazar Company Limited (BBC) is convening its 34
+th
+Annual General Meeting (AGM) today (Shrawan 31, 2074). The AGM is being held at Mahendra Police Club, Bhrikuti Mandap, Kathmandu at 11:00 AM.
+
+The main agendas of the AGM are:
+As per the order given by Supreme Court and Patan Appellate Court the company need to change its share structure. Currently, the company has paid-up capital of Rs 5 crore. Now the company required to add Rs 3.96 arba capital on behalf of the government, for this the company is increasing its authorized capital to Rs 4.01 arba. Its paid up and issued capital will also be increased accordingly.
+To amend article of association and memorandum of association.
+Other agendas include endorsement of financial statements of the FY 2072/73 and appointment of auditor.
+
+The register of their shareholders was closed from Shrawan 10, 2074 to Shrawan 31, 2074 for the purpose of this AGM. Only those shares traded till Shrawan 9,i.e one day ahead of the book closure date are eligible for participation in the AGM.
+
+Bishal Bazaar Company Limited (BBC), one of the oldest supermarkets of the country. The share trading of Bishal Bazaar has been suspended in Nepal Stock Exchange (NEPSE) due to an investigation of Commission for the Investigation of Abuse of Authority (CIAA) on the irregularities of the company."
+2017-07-25,Bishal Bazar 34th AGM on Shrawan 31; to add Rs 3.96 arba capital on behalf of Government,https://www.sharesansar.com/newsdetail/bishal-bazar-34th-agm-on-shrawan-31-to-add-rs-3-96-arba-capital-on-behalf-of-government,"Bishal Bazar Company Limited (BBC) will be convening its 34
+th
+Annual General Meeting (AGM) on Shrawan 31, 2074. The AGM will be held at Mahendra Police Club, Bhrikuti Mandap, Kathmandu at 11:00 AM.
+
+The main agendas of the AGM are:
+As per the order given by Supreme Court and Patan Appellate Court the company need to change its share structure. Currently, the company has paid-up capital of Rs 5 crore. Now the company required to add Rs 3.96 arba capital on behalf of the government, for this the company is increasing its authorized capital to Rs 4.01 arba. Its paid up and issued capital will also be increased accordingly.
+To amend article of association and memorandum of association.
+Other agendas include endorsement of financial statements of the FY 2072/73 and appointment of auditor.
+
+The register of their shareholders was closed from Shrawan 10, 2074 to Shrawan 31, 2074 for the purpose of this AGM. Only those shares traded till today are eligible for participation in the AGM.
+
+Bishal Bazaar Company Limited (BBC), one of the oldest supermarkets of the country. The share trading of Bishal Bazaar has been suspended in Nepal Stock Exchange (NEPSE) due to an investigation of Commission for the Investigation of Abuse of Authority (CIAA) on the irregularities of the company."
+2016-05-17,Bishal Bazar reports outstanding profit growth of 36.77% in Q3;  EPS at Rs 110.66 & Net worth Rs 732 per share,https://www.sharesansar.com/newsdetail/bishal-bazar-reports-outstanding-profit-growth-of-36-77-in-q3-eps-at-rs-110-66,"Bishal Bazaar Company Limited (BBC), one of the oldest supermarkets of the country has reported a profit growth of 36.77 percent profit in the third quarter of the fiscal year 2072/73.
+
+As per the unaudited report published today, the company has stated that its profit after tax has increased from Rs 4.04 crore in the corresponding quarter of the previous fiscal year 2071/72 to Rs 5.53 crore in the third quarter of the fiscal year 2072/73.
+
+The company operational income has risen to Rs 7.31 crore in Q3 to Rs 5.53 crore in the corresponding quarter. Its sales income from rent and electricity slightly grew to Rs 10.31 crore in Q3 up from Rs 10.06 crore in previous fiscal year quarter.
+
+The company has paid up capital of Rs 5 crore with reserve of  Rs 32.69 crore in Q3.
+
+Bishal Bazaar’s EPS stands at Rs 110.66, net worth per share at Rs 732.27, P/E ratio at 18.93 times."
+2016-04-20,Bishal Bazar net profit upsurges by 26.66 % in Q2; EPS at Rs 72.77,https://www.sharesansar.com/newsdetail/bishal-bazar-net-profit-upsurges-by-26-66-in-q2-eps-at-rs-72-77,"Bishal Bazar Company Limited (BBC) has posted a net profit growth of 26.66 percent profit in the second quarter of the fiscal year 2072/73.
+
+As per the unaudited report published today, the company has stated that its profit after tax increased to Rs 3.63 crore in Q2 as compared to Rs 2.87 crore in the corresponding quarter of the previous fiscal year.
+
+The company operational income rose from Rs 3.98 crore to Rs 4.79 crore in the second quarter compared to last year .Its sales income from rent and electricity grew to Rs 7.01 crore in Q2 up from Rs 6.74 crore in previous fiscal year quarter.
+
+The paid up capital of the company remains at Rs 5 crore whereas the company has Rs 30.80 crore in reserve fund.
+
+Bishal Bazar’s EPS stands at Rs 72.77, net worth per share at Rs 694.38, P/E ratio at 28.79 times."
+2015-07-17,Bishal Bazar reports 68.19 % growth in net profit; earns Rs4.04 crore in Q3,https://www.sharesansar.com/newsdetail/bishal-bazar-reports-68-19-growth-in-net-profit-earns-rs4-04-crore-in-q3,"ShareSansar, July 17:
+Bishal Bazar Company Limited, one of the oldest supermarkets of the country has reported a massive growth of 68.19 percent profit in the third quarter of the fiscal year 2071/72.
+As per the unaudited report published on Ashad 31, the company has stated that its profit after tax has increased from Rs 2.40 crore in the corresponding quarter of the previous fiscal year 2070/71 to Rs 4.04 crore.
+The company operational income rose from Rs 3.36 crore to Rs5.53 crore in the third quarter compared to last year and its sales income from rent and electricity grew to Rs 10.06 crore in Q3 up from Rs 8.55 crore in previous fiscal year quarter.
+The paid up capital of the company stands at Rs 5 crore whereas the company has Rs 24.39 crore in reserve fund. Bishal Bazar’s EPS stands at Rs 80.90, net worth per share at Rs 583.09, P/E ratio at 24.69 times."
+2015-02-05,Bishal Bazaar reports marginal growth in net profit; earns Rs 1.28 crore in Q1,https://www.sharesansar.com/newsdetail/bishal-bazaar-reports-marginal-growth-in-net-profit-earns-rs-1-28-crore-in-q1,"ShareSansar, February 5:
+Bishal Bazaar Company Limited has published its financial statement for the first quarter today, as per which it has posted 7.19 percent growth in net profit.
+One of the oldest supermarkets of the country has stated that its profit has increased from Rs 1.19 crore in the corresponding quarter of the last fiscal year 2070/71 to Rs 1.28 crore by the end of the second quarter.
+Its operational income has increased from Rs 1.6 crore to Rs 1.96 crore by the end of first quarter.
+However, the company has stated that its business is satisfactory, though it has cited power crisis and inadequate parking space in and around the supermarket for the fall in business.
+The company stated that due to power crises, companies operating income has increased drastically this quarter.
+Bishal Bazaar’s EPS stands at 25.71, net worth per share at Rs 527.90, P/E ratio at 75.06 times."
+2015-02-01,Bishal Bazaar traders start lobbying to avoid punishment,https://www.sharesansar.com/newsdetail/bishal-bazaar-traders-start-lobbying-to-avoid-punishment,"KATHMANDU, Jan 31:
+Traders of Bishal Bazaar, who were found charging customers 10-12 times higher than the cost price in September, have started lobbying with government officials, saying that they became victim of the structural problem of minimum ‘reference prices’ at the customs.
+Six traders have intensified visits to government officials and lawmakers after the Department of Commerce and Supply Management (DoCSM) forwarded investigation files to Metropolitan Police Range Hanumandhoka recently to file cases against them at District Administration Office, Kathmandu under black-marketing act.
+Kumar Rajbhandari, president of Bishal Bazaar Byapar Sangh (BBBS), told Republica that they had drawn attention of the Director General of DoCSM Shambu Koirala and some lawmakers toward their concern.
+They, however, have not made any formal request to any government bodies so far.
+DoCSM has already confirmed that the six traders would be charge-sheeted under black-marketing laws.
+This, however, is not the first time that the traders are lobbying with the government officials for the overcharging case. BBBS and other 16 organizations had organized a discussion program in Nagarkot three months ago to draw attention of different government agencies. At the program, they had argued that the traders were not cheating customers saying that importers do not give them ‘real’ bill.
+Among others, officials from the Ministry of Finance, Inland Revenue Department and DoCSM, had participated in the discussion.
+“Officials of Department of Customs (DoC) and DoCSM clearly know that the problem is the outcome of the existing practice of self-declaration of price of imported goods on the basis of reference price prepared by DoC,” said Rajbhandari. “We were targeted intentionally as traders in other department stores across the country are doing the same.”
+Talking to Republica, Koirala said acknowledged that ‘under invoicing’ at customs point was creating problems. “We, however, have to comply with existing laws,” he added.
+The Bishal Bazaar traders had even misbehaved with market inspectors at the time of monitoring.
+When Republica asked Koirala why other apparel stores were not monitored after the Bishal Bazaar incident, he said: “We know the main problem the minimum reference prices at customs points. Also, importers do not issue genuine bills to retailers,” he added.
+Importers also blame minimum reference price at the customs point for the problem. Nayan Bahadur Pandit, president of National Trade Association, said the existing minimum reference price under product-wise system should be scrapped.
+Importers say they will make self-declaration at customs point if the government decreases customs tax. Along with customs tax, importers also need to pay 13 percent Value Added Tax (VAT) and 1.5 percent local tax at the customs point. That is why they choose minimum ‘reference price’ to avoid high taxes.
+Shishir Dhungana, director general of Department of Customs, however, sees no problem with reference price and self-declaration systems. “They are adopted in developed countries as well. The main problem here is dishonesty,” he added.
+DoC has already started maximum retail price (MRP) declaration system for ten different products. It is adding new products gradually.
+Officials say the implementation of new Automated System for Customs Data (ASYCUDA) by the end of this year will make importers more accountable.
+Under the new system, customs offices will have direct networking with IRD. Officials say self-declaration made by importers will be recorded and later compared with their sales prices.
+Source: Republica"
+2014-12-11,"Thanks to increased Administrative expenses, Bishal Bazaar profit slides by 6%",https://www.sharesansar.com/newsdetail/thanks-to-increased-administrative-expenses-bishal-bazaar-profit-slides-by-6,"ShareSansar, December 11:
+Bishal Bazaar Company limited (BBC) has earned 37 million profits in the first quarter of this fiscal year. It is around 6 percent less compared to the profit in the corresponding period of the last fiscal year. It has earned 39 million profits previous year.
+According to the unaudited financial statement of the company published today, increased administrative expenses impact on profits. Administrative expenses rose by 35 percent than earlier. It stood at 48 million. Thank to increased Administrative expenses, Operating income slides by 6.35 percentages.
+There is nominal growth of 5.6 percent in company’s sales income. It has achieved 116 million sales incomes, which include fare of rent and electricity. Company has to be paid 0.79 million as Trade and receivable. The amount has jumped by 34 percent than earlier.
+During the review period, Company was able to reduce Business expenditure by 14.2 percentages. The other sources of incomes came down to 10 million from 11 million. Company’s Paid up capital remain the same and it is 50 million.
+The earnings per share (EPS) of the company stood at Rs 74.85 and net-worth per share is Rs 515.33. Price earnings ratio is 25.54 times."
+2014-09-26,Bishal Bazaar traders told to submit bills,https://www.sharesansar.com/newsdetail/bishal-bazaar-traders-told-to-submit-bills,"KATHMANDU, SEP 25 -
+The Department of Commerce and Supply Management (DoCSM) has asked the shopkeepers at Bishal Bazaar accused of overcharging to come with paperwork including the purchase and sales bills by Sunday.
+Checks conducted by the department on September 16 and 21 revealed that the goods at six shops were massively overpriced. During the inspection, the government team had found the shops charging customers up to 10 times the cost price. The traders there had obstructed the inspection team by pulling down their shutters after it had checked out a few stores.
+“We have sent official letters asking them to provide clarification,” said Heramba Raj Pokharel, monitoring officer at the department. “We will call the police if they neglect the notice of the department,” he added.
+During the first inspection, the department checked Ankit Stores and B Ohm Stores on the ground floor of Bishal Bazaar following which the traders even surrounded the department officials. According to an official, they could have been severely beaten up by the store owners if the police had not arrived promptly.
+During the second inspection, the traders obstructed the inspection process by shutting down their shops immediately after the department checked four stores, namely RSA Trisa, Intershop, Readymade Store and Oakland. The shopkeepers have been saying that the cost prices mentioned by the authorities were under-invoiced and not the actual prices, which resulted in the great difference between the cost and selling prices. Importers usually under-price goods at the customs office to evade taxes.
+“We have asked them to reveal their suppliers and the prices they paid for their stock,” said a DoCSM official. “Our intention is not to give the shopkeepers a hard time. We also want to nab those suppliers who have under-invoiced imports causing huge revenue losses to the government.”
+During the investigation, Ankit Stores was found to have purchased goods from Anish Traders while and B Ohm Stores was found selling goods purchased from Subhasait International Business. DoCSM officials said they were planning to
+scrutinize these suppliers too and would forward the case to the Department of Revenue Investigation if they were found to have engaged in under-invoicing.
+Apart from the retailers at Bishal Bazaar, the department said it would step up checking of apparel stores at other big shopping malls too.
+On Tuesday, the department checked Shiva Shakti Fabrics, Naxal; Bhat Bhateni Supermarket, Anamnagar and Bling Exclusive Store, Kumaripati and found they had been overcharging customers. “We have also asked them to provide a clarification within three days,” said the official.
+Similarly, on Wednesday, the department asked Pranab Collection, a clothing store at Shantinagar for clarification. These shops have been accused of charging prices much higher than the cost price.
+Meanwhile, the Department of Food Technology and Quality Control (DFTQC) has also increased its market inspection aggressively. On Wednesday, the department sealed Swastik Dairy Udyog, Ghattekulo and AB Beverage, Lalitpur after they were caught selling substandard products.
+“We have barred production at these factories for not complying
+with the basic standards set by the department besides hygiene violations,” said DFTQC Spokesperson Pramod Koirala, adding that they
+were preparing to file cases against these factories at the District Administration Office.
+Last month, the DFTQC filed four cases against food sellers and it is preparing to file another four cases against wrongdoers. Koirala said another five cases were under investigation. According to him, most of them are related to dairy products."
+2014-09-23,Appellate court upholds suspension of Bishal Bazaar board members,https://www.sharesansar.com/newsdetail/appellate-court-upholds-suspension-of-bishal-bazaar-board-members,"KATHMANDU Sept 23:
+Patan Appellate Court on Sunday issued an interim order to suspend eight board members of Bishal Bazaar Company Ltd, including the chairman Rabindra Lal Shrestha, until final verdict.
+A two-member bench of Judges Binod Sharma and Nityanand Pande issued the interim order responding to a writ petition filed by the eight board members. It also revoked a short-term decision issued by the court against suspending the board members.
+The eight members had moved the appellate court after the Commission for the Investigation of Abuse of Authority (CIAA) suspended them in a corruption case.
+Joint Attorney General Gopi Chandra Bhattarai had pleaded on behalf of CIAA.
+In their writ petition, the eight board members had demanded their suspension be lifted as they were not public office holders.
+CIAA had registered a corruption case against the eight board members at the Special Court on June 6.  The constitutional anti-graft body had filed the case against Chairman Shrestha and board members Ashokjiv Tuladhar, Nirmal Kumar Dhanuka, Gautamlal Shrestha, Pramod Kumar Agrawal, Bhawaniraj Pandey, Bijaya Kumar Baniya and Basudev Bista for causing loss of Rs 97.4 million to the company.
+According to the CIAA Act Article 17, accused are automatically suspended when corruption cases are filed against them at the Special Court.
+The Special Court had released the eight members on bail after Chairman Shrestha (Rs 3 million) and seven members (Rs 2.5 million each) furnished the required bail amount.
+The board members were found not provide shops as shares to three government offices --Nepal Food Corporation, Agricultural Inputs Company Limited and National Trading Limited, which jointly hold 34.41% stake in the company.
+The company has a total of 869 shareholders. It operates a shopping complex in the government-owned land in New Road.
+The eight board members were also found to have involved in financial irregularities while leasing out shops at the shopping complex. Of the total of 360 shops at Bishal Bazaar, 247 are run by non-shareholders.
+Source: Republica"
+2014-06-22,Crisis-ridden Bishal Bazaar reports 22.5% drop in net profit by Q3,https://www.sharesansar.com/newsdetail/crisis-ridden-bishal-bazaar-reports-22-5-drop-in-net-profit-by-q3,"ShareSansar, June 22:
+In less than a month after publishing its second quarterly report, Bishal Bazaar Company Limited has come up with its financial statement for the third quarter today, as per which it has posted 22.5 percent drop in net profit.
+One of the oldest supermarkets of the country has stated that its profit has dropped from Rs 2.94 crore in the corresponding quarter of the last fiscal year 2069/70 to Rs 2.40 crore by the end of the third quarter.
+As in the second quarter, the profit of the company, which is under the scanner of the Commission for Investigation of Abuse of Authority, was stunted by its falling operational income. Its operational income has dropped drastically from Rs 4.52 crore to Rs 3.36 crore by the third quarter.
+The CIAA has filed a corruption case against eight Board of Directors of the company, including its Chairperson in connection with a scam involving the rent of the stalls in the supermarket.
+However, the company has stated that its business is satisfactory, though it has cited power crisis and inadequate parking space in and around the supermarket for the fall in business.
+In view of the rent scandal, Bishal Bazaar has also expressed commitment to remain active when it comes to corporate good governance and transparency of the financial deals.
+Bishal Bazaar had reported marginal net profit rise of 1 percent in its unaudited financial report for the second quarter last month.
+Despite the recent problems, Bishal Bazaar’s EPS stands at 48.10, net worth per share at 488.58, P/E ratio at 38.70."
+2014-05-28,"Citing power and parking crisis, Bishal Bazaar reports stagnant growth",https://www.sharesansar.com/newsdetail/citing-power-and-parking-crisis-bishal-bazaar-reports-stagnant-growth,"ShareSansar, May 28:
+Even though the fourth quarter is drawing to an end, Bishal Bazaar Company Limited has come up with its financial statement for the second quarter today, as per which it has posted a very marginal net profit rise of 1 percent.
+One of the oldest supermarkets of the country has stated that it posted Rs 2.23 crore in profit after tax by the end of the second quarter, up from Rs 2.22 crore in the corresponding quarter of the last fiscal year 2069/70.
+The growth was stunted by drop in the operational income which stood at Rs 3.01 crore at the second quarter, down from Rs 3.25 crore in the corresponding quarter.
+It has managed to post the marginal growth mainly due to lesser amount it provisioned for 25 percent income tax, provision for staff bonus in the second quarter as compared to the corresponding quarter, while its expenses (depreciation and interest) have also fallen in the second quarter.
+Though the company has stated that its growth remains satisfactory, it has added that the biggest challenges it faces are surging operational cost due to load shedding, parking lot problem in New Road area where the supermarket is located.
+Bishal Bazaar’s EPS stood at 44.77, net worth per share at 485.23, P/E ratio at 38.78."
+2013-06-05,Bishal Bazar Company Limited has posted net profit of Rs.29.44 million and published its 3rd quarter company analysis of the fiscal year 2069/70.,https://www.sharesansar.com/newsdetail/bishal-bazar-company-limited-has-posted-net-profit-of-rs-29-44-million-and-published-its-3rd-quarter-company-analysis-of-the-fiscal-year-206970,Bishal Bazar Company Limited has posted net profit of Rs.29.44 million and published its 3rd quarter company analysis of the fiscal year 2069/70.
+2013-05-03,"Bishal Bazar Company Limited has published a important notice regarding rescheduling its 32nd AGM on 28th Baisakh, 2070.",https://www.sharesansar.com/newsdetail/bishal-bazar-company-limited-has-published-a-important-notice-regarding-rescheduling-its-32nd-agm-on-28th-baisakh-2070,"Bishal Bazar Company Limited has published a important notice regarding rescheduling its 32nd AGM on 28th Baisakh, 2070."
+2013-04-09,"Bishal Bazar Company Limited has announced its 32nd AGM going to be held on 19th Baishak, 2070.",https://www.sharesansar.com/newsdetail/bishal-bazar-company-limited-has-announced-its-32nd-agm-going-to-be-held-on-19th-baishak-2070,"Bishal Bazar Company Limited has announced its 32nd AGM going to be held on 19th Baishak, 2070."
+2013-03-05,Bishal Bazar Company Limited has posted net profit of Rs.22.22 million and published its 2nd quarter company analysis of the fiscal year 2069/70.,https://www.sharesansar.com/newsdetail/bishal-bazar-company-limited-has-posted-net-profit-of-rs-22-22-million-and-published-its-2nd-quarter-company-analysis-of-the-fiscal-year-206970,Bishal Bazar Company Limited has posted net profit of Rs.22.22 million and published its 2nd quarter company analysis of the fiscal year 2069/70.
+2012-12-21,Bishal Bazar Co. Limited has posted net profit of Rs.11.219 million and published its 1st quarter company analysis of the fiscal year 2069/70.,https://www.sharesansar.com/newsdetail/bishal-bazar-co-limited-has-posted-net-profit-of-rs-11-219-million-and-published-its-1st-quarter-company-analysis-of-the-fiscal-year-206970,"Bishal
+Bazar
+Co. Limited has posted net profit of Rs.11.219 million and published its 1st quarter company analysis of the fiscal year 2069/70."
+2012-07-09,Bishal Bazar Company Limited has posted net profit of Rs 31.26 million and published its 3rd quarter company analysis of the fiscal year 2068/69.,https://www.sharesansar.com/newsdetail/bishal-bazar-company-limited-has-posted-net-profit-of-rs-31-26-million-and-published-its-3rd-quarter-company-analysis-of-the-fiscal-year-206869,Bishal Bazar Company Limited has posted net profit of Rs 31.26 million and published its 3rd quarter company analysis of the fiscal year 2068/69.
+2011-12-08,Bishal Bazaar Company Limited has announced its 30th and 31st Annual General Meeting going to be held on 2nd Poush 2068.,https://www.sharesansar.com/newsdetail/bishal-bazaar-company-limited-has-announced-its-30th-and-31st-annual-general-meeting-going-to-be-held-on-2nd-poush-2068,"Bishal Bazaar Company Limited has announced its 30
+th
+and 31
+st
+Annual General Meeting going to be held on 2
+nd
+Poush 2068."
+2011-12-02,Bishal Bazaar Co. Limited has published a notice regarding cancellation of its AGM schedule of 16th Mangsir 2068.,https://www.sharesansar.com/newsdetail/bishal-bazaar-co-limited-has-published-a-notice-regarding-cancellation-of-its-agm-schedule-of-16th-mangsir-2068,Bishal Bazaar Co. Limited has published a notice regarding cancellation of its AGM schedule of 16th Mangsir 2068.
+2011-10-14,Bishal Bazar Company Limited has posted net profit of Rs.43.42 million during the fourth quarter of the fiscal year 2067/68.,https://www.sharesansar.com/newsdetail/bishal-bazar-company-limited-has-posted-net-profit-of-rs-43-42-million-during-the-fourth-quarter-of-the-fiscal-year-206768,Bishal Bazar Company Limited has posted net profit of Rs.43.42 million during the fourth quarter of the fiscal year 2067/68.
+2011-07-07,Bishal Bazar Company Limited has published its unaudited 3rd quarter  financial report of the fiscal Year 2067/68 and posted a net profit of Rs.28.22 million during this period.,https://www.sharesansar.com/newsdetail/bishal-bazar-company-limited-has-published-its-unaudited-3rd-quarter-financial-report-of-the-fiscal-year-206768-and-posted-a-net-profit-of-rs-28-22-million-during-this-period,Bishal Bazar Company Limited has published its unaudited 3rd quarter  financial report of the fiscal Year 2067/68 and posted a net profit of Rs.28.22 million during this period.
+2011-04-29,Bishal Bazar Company Limited has published a notice regarding cancellation of meeting to its existing share holders.,https://www.sharesansar.com/newsdetail/bishal-bazar-company-limited-has-published-a-notice-regarding-cancellation-of-meeting-to-its-existing-share-holders,Bishal Bazar Company Limited has published a notice regarding cancellation of meeting to its existing share holders.
+2011-04-28,Bishal Bazar Company Limited has published a notice to its existing shareholders.,https://www.sharesansar.com/newsdetail/bishal-bazar-company-limited-has-published-a-notice-to-its-existing-shareholders,Bishal Bazar Company Limited has published a notice to its existing shareholders.
