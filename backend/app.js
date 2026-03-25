@@ -2,6 +2,7 @@ import express, { urlencoded } from "express"
 const app = express()
 import dotenv from 'dotenv/config'
 import startDbServer from "./db/dbInit.js"
+import startServerPP from "./db//dbInitPredictionTable.js"
 import dashboard from './routes/dashboard.route.js'
 import cors from 'cors'
 import cookieParser from 'cookie-parser'
@@ -16,6 +17,7 @@ app.use(urlencoded({extended: true}))
 const startservers = async ()=>{
     try{
         await startDbServer();
+        await startServerPP();
     } catch(err){
         console.error("Error in DB occure", err)
         return

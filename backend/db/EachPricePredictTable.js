@@ -8,8 +8,6 @@ const Each_Price_Table_Creation = async (stockname) => {
             date date,
             predicted_price float,
             current_price varchar(50),
-            confidence_level varchar(50),
-            Stock_decision_status varchar(4),
             created_at timestamp default current_timestamp,
             updated_at timestamp null default null on update current_timestamp
         )`)

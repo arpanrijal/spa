@@ -21,7 +21,7 @@ router.post('/register',
 
 router.get("/me", authUserMiddleware, getUser)  
 router.get('/logout', authUserMiddleware, logOutUser)  
-router.post('/predicted_price', authUserMiddleware, predicted_Price)
+router.post('/predicted_price', predicted_Price)
 router.get('/stockinfo', authUserMiddleware, stockinfo)
 
 
