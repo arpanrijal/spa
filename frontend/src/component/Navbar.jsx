@@ -42,8 +42,8 @@ function Navbar() {
     <nav className="navbar relative" onClick={() => setNavProfilecard(false)}>
       <div className="left select-none">
         <div>
-          <h2 className="title">NEPSE Stock Trading</h2>
-          <p className="subtitle">Trading Signals</p>
+          <h2 className="title">Stock Price Analysis</h2>
+          <p className="subtitle">NEPSE Stock</p>
         </div>
       </div>
       <div className="icons">
