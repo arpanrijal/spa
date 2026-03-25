@@ -8,9 +8,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 
-# Images
-*.png
-
 # OS / Editor
 .DS_Store
 .vscode/
