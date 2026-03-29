@@ -1,0 +1,3 @@
+Date_Stock,Close,Date_News,Sentiment_Score,Prediction,Decayed_Sentiment,Decayed_Prediction
+2019-02-14,265.0,,0,Neutral,0.0,Neutral
+2014-02-17,1045.0,,0,Neutral,0.0,Neutral

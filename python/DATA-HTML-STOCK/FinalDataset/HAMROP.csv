@@ -1,7 +1,7 @@
-Date_Stock,Close,Date_News,Sentiment_Score,Prediction,Decayed_Sentiment,Decayed_Prediction
-2018-07-03,108.0,,0,Neutral,0.0,Neutral
-2018-05-06,108.0,,0,Neutral,0.0,Neutral
-2018-04-08,108.0,,0,Neutral,0.0,Neutral
-2018-04-04,110.0,,0,Neutral,0.0,Neutral
-2017-07-17,140.0,,0,Neutral,0.0,Neutral
-2017-07-13,140.0,,0,Neutral,0.0,Neutral
+Date_Stock,Open,High,Low,Close,Volume,Sentiment_Score,MA_5,MA_10,MA_20,RSI_14,MACD,MACD_signal,Volatility_10,Decayed_Sentiment,Decayed_Prediction
+2018-07-03,108.0,108.0,108.0,108.0,30000.0,0,114.8,,,,-7.048244600789147,-3.165627705156308,,0.0,Neutral
+2018-05-06,108.0,108.0,108.0,108.0,11289.0,0,121.2,,,,-5.922908412401171,-2.1949734812480983,,0.0,Neutral
+2018-04-08,108.0,108.0,108.0,108.0,27688.0,0,,,,,-4.4004188277692435,-1.2629897484598303,,0.0,Neutral
+2018-04-04,110.0,110.0,110.0,110.0,37077.0,0,,,,,-2.3931623931623847,-0.47863247863247693,,0.0,Neutral
+2017-07-17,140.0,140.0,140.0,140.0,25000.0,0,,,,,0.0,0.0,,0.0,Neutral
+2017-07-13,140.0,140.0,140.0,140.0,2750.0,0,,,,,0.0,0.0,,0.0,Neutral

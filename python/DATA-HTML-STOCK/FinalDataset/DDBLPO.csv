@@ -1,5 +1,5 @@
-Date_Stock,Close,Date_News,Sentiment_Score,Prediction,Decayed_Sentiment,Decayed_Prediction
-2023-07-13,440.0,,0.0,Neutral,0.0,Neutral
-2021-09-23,545.0,,0.0,Neutral,0.0,Neutral
-2021-03-17,545.0,,0.0,Neutral,0.0,Neutral
-2014-06-18,600.0,,0.0,Neutral,0.0,Neutral
+Date_Stock,Open,High,Low,Close,Volume,Sentiment_Score,MA_5,MA_10,MA_20,RSI_14,MACD,MACD_signal,Volatility_10,Decayed_Sentiment,Decayed_Prediction
+2023-07-13,440.0,440.0,440.0,440.0,119000.0,0.0,,,,,-18.716404672687418,-5.548866278812267,,0.0,Neutral
+2021-09-23,545.0,545.0,545.0,545.0,35000.0,0.0,,,,,-7.774936891745938,-2.256981680343479,,0.0,Neutral
+2021-03-17,545.0,545.0,545.0,545.0,24000.0,0.0,,,,,-4.38746438746432,-0.877492877492864,,0.0,Neutral
+2014-06-18,600.0,600.0,600.0,600.0,4200.0,0.0,,,,,0.0,0.0,,0.0,Neutral

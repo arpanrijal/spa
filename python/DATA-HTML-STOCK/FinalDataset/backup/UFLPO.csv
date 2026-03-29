@@ -1,0 +1,5 @@
+Date_Stock,Close,Date_News,Sentiment_Score,Prediction,Decayed_Sentiment,Decayed_Prediction
+2020-10-18,107.0,,0,Neutral,0.0,Neutral
+2020-08-03,107.0,,0,Neutral,0.0,Neutral
+2014-06-15,274.0,,0,Neutral,0.0,Neutral
+2014-05-18,100.0,,0,Neutral,0.0,Neutral

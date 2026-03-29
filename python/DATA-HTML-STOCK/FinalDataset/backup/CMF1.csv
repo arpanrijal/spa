@@ -1,0 +1,1372 @@
+Date_Stock,Close,Date_News,Sentiment_Score,Prediction,Decayed_Sentiment,Decayed_Prediction
+2025-02-27,10.85,2025-02-27,0.9049759209156036,Strongly Positive,0.9049759209156036,Strongly Positive
+2025-02-25,10.72,,0.0,Neutral,0.0,Neutral
+2025-02-24,10.67,,0.0,Neutral,0.0,Neutral
+2025-02-23,10.72,,0.0,Neutral,0.22861456871032715,Positive
+2025-02-20,10.75,,0.0,Neutral,0.4572291374206543,Positive
+2025-02-18,10.75,2025-02-18,0.9144582748413086,Strongly Positive,0.9144582748413086,Strongly Positive
+2025-02-17,10.7,,0.0,Neutral,0.0,Neutral
+2025-02-16,10.62,,0.0,Neutral,0.0,Neutral
+2025-02-13,10.7,,0.0,Neutral,0.0,Neutral
+2025-02-12,10.62,,0.0,Neutral,0.0,Neutral
+2025-02-11,10.58,,0.0,Neutral,0.0,Neutral
+2025-02-10,10.58,,0.0,Neutral,0.0,Neutral
+2025-02-09,10.63,,0.0,Neutral,0.0,Neutral
+2025-02-06,10.52,,0.0,Neutral,0.0,Neutral
+2025-02-05,10.55,,0.0,Neutral,0.0,Neutral
+2025-02-04,10.7,,0.0,Neutral,0.0,Neutral
+2025-02-03,10.56,,0.0,Neutral,0.0403897538781166,Neutral
+2025-02-02,10.46,,0.0,Neutral,0.0807795077562332,Slightly Positive
+2025-01-28,10.51,2025-01-28,0.1615590155124664,Slightly Positive,0.1615590155124664,Slightly Positive
+2025-01-27,10.45,,0.0,Neutral,0.0,Neutral
+2025-01-26,10.41,,0.0,Neutral,0.0,Neutral
+2025-01-23,10.7,,0.0,Neutral,0.0,Neutral
+2025-01-22,10.73,,0.0,Neutral,0.0,Neutral
+2025-01-21,10.61,,0.0,Neutral,0.0,Neutral
+2025-01-20,10.71,,0.0,Neutral,0.0,Neutral
+2025-01-19,10.58,,0.0,Neutral,0.0,Neutral
+2025-01-16,10.74,,0.0,Neutral,0.0,Neutral
+2025-01-15,10.53,,0.0,Neutral,0.0,Neutral
+2025-01-13,10.66,,0.0,Neutral,0.0,Neutral
+2025-01-12,10.7,,0.0,Neutral,0.0,Neutral
+2025-01-09,10.66,,0.0,Neutral,0.0,Neutral
+2025-01-08,10.74,,0.0,Neutral,0.0,Neutral
+2025-01-07,10.59,,0.0,Neutral,0.0,Neutral
+2025-01-06,10.67,,0.0,Neutral,0.0,Neutral
+2025-01-05,10.53,,0.0,Neutral,0.18197424709796906,Slightly Positive
+2025-01-02,10.34,,0.0,Neutral,0.3639484941959381,Positive
+2025-01-01,10.46,2025-01-01,0.7278969883918762,Strongly Positive,0.7435243409126997,Strongly Positive
+2024-12-31,10.41,,0.0,Neutral,0.03125470504164695,Neutral
+2024-12-29,10.5,2024-12-29,0.0625094100832939,Slightly Positive,0.0625094100832939,Slightly Positive
+2024-12-26,10.39,,0.0,Neutral,0.0,Neutral
+2024-12-24,10.82,,0.0,Neutral,0.0,Neutral
+2024-12-23,10.8,,0.0,Neutral,0.0,Neutral
+2024-12-22,10.5,,0.0,Neutral,0.0,Neutral
+2024-12-19,10.6,,0.0,Neutral,0.0,Neutral
+2024-12-18,10.56,,0.0,Neutral,0.0,Neutral
+2024-12-17,10.6,,0.0,Neutral,0.0,Neutral
+2024-12-16,10.6,,0.0,Neutral,0.0,Neutral
+2024-12-12,10.62,,0.0,Neutral,0.0,Neutral
+2024-12-11,10.59,,0.0,Neutral,0.0,Neutral
+2024-12-10,10.5,,0.0,Neutral,0.0,Neutral
+2024-12-09,10.62,,0.0,Neutral,0.0,Neutral
+2024-12-08,10.58,,0.0,Neutral,0.0,Neutral
+2024-12-05,10.73,,0.0,Neutral,0.0,Neutral
+2024-12-04,10.8,,0.0,Neutral,0.19399355351924896,Slightly Positive
+2024-12-03,11.0,,0.0,Neutral,0.3879871070384979,Positive
+2024-12-02,11.0,2024-12-02,0.7759742140769958,Strongly Positive,0.7759742140769958,Strongly Positive
+2024-12-01,10.58,,0.0,Neutral,0.0,Neutral
+2024-11-28,10.67,,0.0,Neutral,0.0,Neutral
+2024-11-27,10.75,,0.0,Neutral,0.0,Neutral
+2024-11-26,10.62,,0.0,Neutral,0.0,Neutral
+2024-11-25,10.62,,0.0,Neutral,0.0,Neutral
+2024-11-24,10.79,,0.0,Neutral,0.0,Neutral
+2024-11-21,11.0,,0.0,Neutral,0.0,Neutral
+2024-11-20,10.8,,0.0,Neutral,0.0,Neutral
+2024-11-19,10.6,,0.0,Neutral,0.0,Neutral
+2024-11-17,10.6,,0.0,Neutral,0.0,Neutral
+2024-11-14,10.71,,0.0,Neutral,0.0,Neutral
+2024-11-13,10.83,,0.0,Neutral,0.0,Neutral
+2024-11-12,10.76,,0.0,Neutral,0.0,Neutral
+2024-11-11,10.7,,0.0,Neutral,0.0,Neutral
+2024-11-06,10.81,,0.0,Neutral,0.03271953761577605,Neutral
+2024-11-05,10.4,,0.0,Neutral,0.0654390752315521,Slightly Positive
+2024-10-30,10.61,2024-10-30,0.1308781504631042,Slightly Positive,0.1308781504631042,Slightly Positive
+2024-10-29,10.8,,0.0,Neutral,0.0,Neutral
+2024-10-28,10.69,,0.0,Neutral,0.0,Neutral
+2024-10-27,10.52,,0.0,Neutral,0.0,Neutral
+2024-10-24,10.7,,0.0,Neutral,0.0,Neutral
+2024-10-23,10.5,,0.0,Neutral,0.0,Neutral
+2024-10-22,10.7,,0.0,Neutral,0.0,Neutral
+2024-10-21,10.47,,0.0,Neutral,0.0,Neutral
+2024-10-20,10.6,,0.0,Neutral,0.0,Neutral
+2024-10-17,10.36,,0.0,Neutral,0.0,Neutral
+2024-10-16,10.54,,0.0,Neutral,0.0,Neutral
+2024-10-15,10.25,,0.0,Neutral,0.22474104166030884,Positive
+2024-10-09,10.17,,0.0,Neutral,0.4494820833206177,Positive
+2024-10-08,10.8,2024-10-08,0.8989641666412354,Strongly Positive,0.8989641666412354,Strongly Positive
+2024-10-07,10.72,,0.0,Neutral,0.0,Neutral
+2024-10-06,10.75,,0.0,Neutral,0.0498751476407051,Neutral
+2024-10-02,10.58,,0.0,Neutral,0.3311886787414551,Positive
+2024-10-01,10.58,2024-10-01,0.1995005905628204,Slightly Positive,0.6623773574829102,Strongly Positive
+2024-09-30,10.5,2024-09-30,0.9257535338401794,Strongly Positive,0.9257535338401794,Strongly Positive
+2024-09-29,10.5,,0.0,Neutral,0.0,Neutral
+2024-09-26,10.19,,0.0,Neutral,0.0,Neutral
+2024-09-25,10.2,,0.0,Neutral,0.0,Neutral
+2024-09-24,10.55,,0.0,Neutral,0.0,Neutral
+2024-09-23,10.35,,0.0,Neutral,0.0,Neutral
+2024-09-22,10.35,,0.0,Neutral,0.0,Neutral
+2024-09-18,10.33,,0.0,Neutral,0.0,Neutral
+2024-09-16,10.74,,0.0,Neutral,0.0,Neutral
+2024-09-15,10.74,,0.0,Neutral,0.0,Neutral
+2024-09-12,10.3,,0.0,Neutral,0.0,Neutral
+2024-09-11,10.3,,0.0,Neutral,0.0,Neutral
+2024-09-10,10.32,,0.0,Neutral,0.0,Neutral
+2024-09-09,10.23,,0.0,Neutral,0.19714760780334473,Slightly Positive
+2024-09-08,10.33,,0.0,Neutral,0.39429521560668945,Positive
+2024-09-05,10.5,2024-09-05,0.7885904312133789,Strongly Positive,0.7885904312133789,Strongly Positive
+2024-09-04,10.5,,0.0,Neutral,0.0,Neutral
+2024-09-03,10.59,,0.0,Neutral,0.0,Neutral
+2024-09-02,10.45,,0.0,Neutral,0.0,Neutral
+2024-09-01,10.54,,0.0,Neutral,0.0,Neutral
+2024-08-29,10.86,,0.0,Neutral,0.0,Neutral
+2024-08-28,10.86,,0.0,Neutral,0.0,Neutral
+2024-08-27,10.32,,0.0,Neutral,0.0,Neutral
+2024-08-25,10.28,,0.0,Neutral,0.0,Neutral
+2024-08-22,10.6,,0.0,Neutral,0.0,Neutral
+2024-08-21,10.66,,0.0,Neutral,0.0,Neutral
+2024-08-18,10.65,,0.0,Neutral,0.0,Neutral
+2024-08-15,10.6,,0.0,Neutral,0.0,Neutral
+2024-08-14,10.4,,0.0,Neutral,0.0,Neutral
+2024-08-13,10.6,,0.0,Neutral,0.0,Neutral
+2024-08-12,10.7,,0.0,Neutral,0.0,Neutral
+2024-08-11,10.7,,0.0,Neutral,0.0,Neutral
+2024-08-08,10.36,,0.0,Neutral,0.0,Neutral
+2024-08-07,10.38,,0.0,Neutral,0.0,Neutral
+2024-08-06,10.15,,0.0,Neutral,0.0,Neutral
+2024-08-05,10.07,,0.0,Neutral,0.0,Neutral
+2024-08-01,10.62,,0.0,Neutral,0.2180330753326416,Positive
+2024-07-31,10.45,,0.0,Neutral,0.4360661506652832,Positive
+2024-07-30,10.26,2024-07-30,0.8721323013305664,Strongly Positive,0.8721323013305664,Strongly Positive
+2024-07-29,9.93,,0.0,Neutral,0.0,Neutral
+2024-07-28,10.08,,0.0,Neutral,0.0,Neutral
+2024-07-25,9.81,,0.0,Neutral,0.0,Neutral
+2024-07-24,10.0,,0.0,Neutral,0.0,Neutral
+2024-07-23,10.07,,0.0,Neutral,0.0,Neutral
+2024-07-22,9.9,,0.0,Neutral,0.0,Neutral
+2024-07-21,10.1,,0.0,Neutral,0.0,Neutral
+2024-07-18,9.85,,0.0,Neutral,0.0,Neutral
+2024-07-17,10.0,,0.0,Neutral,0.0,Neutral
+2024-07-16,9.9,,0.0,Neutral,0.0,Neutral
+2024-07-15,9.64,,0.0,Neutral,0.0,Neutral
+2024-07-14,9.67,,0.0,Neutral,0.0,Neutral
+2024-07-11,9.38,,0.0,Neutral,0.0,Neutral
+2024-07-10,9.2,,0.0,Neutral,0.0,Neutral
+2024-07-09,9.14,,0.0,Neutral,0.0,Neutral
+2024-07-08,9.13,,0.0,Neutral,0.0,Neutral
+2024-07-07,8.97,,0.0,Neutral,0.0,Neutral
+2024-07-04,9.12,,0.0,Neutral,0.0,Neutral
+2024-07-03,9.0,,0.0,Neutral,0.0,Neutral
+2024-07-02,9.11,,0.0,Neutral,0.0,Neutral
+2024-06-30,8.95,,0.0,Neutral,0.0,Neutral
+2024-06-27,9.02,,0.0,Neutral,0.0,Neutral
+2024-06-26,8.9,,0.0,Neutral,0.0,Neutral
+2024-06-25,9.25,,0.0,Neutral,0.0,Neutral
+2024-06-24,9.07,,0.0,Neutral,0.0,Neutral
+2024-06-23,9.0,,0.0,Neutral,0.0,Neutral
+2024-06-20,8.92,,0.0,Neutral,0.0,Neutral
+2024-06-19,9.0,,0.0,Neutral,0.0,Neutral
+2024-06-18,9.0,,0.0,Neutral,0.0,Neutral
+2024-06-16,8.99,,0.0,Neutral,0.0,Neutral
+2024-06-13,9.0,,0.0,Neutral,0.0,Neutral
+2024-06-12,9.03,,0.0,Neutral,0.0,Neutral
+2024-06-11,9.03,,0.0,Neutral,0.0,Neutral
+2024-06-10,9.12,,0.0,Neutral,0.0,Neutral
+2024-06-06,9.25,,0.0,Neutral,0.0,Neutral
+2024-06-03,9.33,,0.0,Neutral,0.0,Neutral
+2024-06-02,9.16,,0.0,Neutral,0.2077486217021942,Positive
+2024-05-30,9.16,,0.0,Neutral,0.4369381908327341,Positive
+2024-05-29,9.13,2024-05-29,0.8309944868087769,Strongly Positive,0.8738763816654682,Strongly Positive
+2024-05-27,9.28,2024-05-27,0.0857637897133827,Slightly Positive,0.0857637897133827,Slightly Positive
+2024-05-26,9.0,,0.0,Neutral,0.0,Neutral
+2024-05-22,9.0,,0.0,Neutral,0.0,Neutral
+2024-05-21,8.99,,0.0,Neutral,0.0,Neutral
+2024-05-20,9.11,,0.0,Neutral,0.0,Neutral
+2024-05-19,8.81,,0.0,Neutral,0.0,Neutral
+2024-05-16,8.7,,0.0,Neutral,0.0,Neutral
+2024-05-15,8.83,,0.0,Neutral,0.0,Neutral
+2024-05-14,8.94,,0.0,Neutral,0.0,Neutral
+2024-05-13,9.12,,0.0,Neutral,0.0,Neutral
+2024-05-12,8.99,,0.0,Neutral,0.0,Neutral
+2024-05-09,8.79,,0.0,Neutral,0.0,Neutral
+2024-05-08,8.53,,0.0,Neutral,0.0,Neutral
+2024-05-07,8.63,,0.0,Neutral,0.0,Neutral
+2024-05-06,8.75,,0.0,Neutral,0.0,Neutral
+2024-05-05,8.63,,0.0,Neutral,0.0,Neutral
+2024-05-02,8.46,,0.0,Neutral,0.0,Neutral
+2024-04-30,8.53,,0.0,Neutral,0.20459848642349243,Positive
+2024-04-29,8.7,,0.0,Neutral,0.40919697284698486,Positive
+2024-04-28,8.66,2024-04-28,0.8183939456939697,Strongly Positive,0.8183939456939697,Strongly Positive
+2024-04-25,8.79,,0.0,Neutral,0.0,Neutral
+2024-04-24,8.96,,0.0,Neutral,0.0,Neutral
+2024-04-22,8.8,,0.0,Neutral,0.0,Neutral
+2024-04-21,8.65,,0.0,Neutral,0.0,Neutral
+2024-04-18,8.75,,0.0,Neutral,0.0,Neutral
+2024-04-16,8.8,,0.0,Neutral,0.0,Neutral
+2024-04-15,8.9,,0.0,Neutral,0.0,Neutral
+2024-04-14,8.88,,0.0,Neutral,0.0,Neutral
+2024-04-10,8.98,,0.0,Neutral,0.0,Neutral
+2024-04-09,8.94,,0.0,Neutral,0.0,Neutral
+2024-04-07,9.0,,0.0,Neutral,0.0,Neutral
+2024-04-04,9.0,,0.0,Neutral,0.0,Neutral
+2024-04-03,8.99,,0.0,Neutral,0.0,Neutral
+2024-04-02,8.93,,0.0,Neutral,0.0,Neutral
+2024-04-01,9.03,,0.0,Neutral,0.13473379611968994,Slightly Positive
+2024-03-31,9.02,,0.0,Neutral,0.2694675922393799,Positive
+2024-03-28,9.38,2024-03-28,0.5389351844787598,Positive,0.5389351844787598,Positive
+2024-03-27,9.2,,0.0,Neutral,0.0,Neutral
+2024-03-26,9.14,,0.0,Neutral,0.0,Neutral
+2024-03-25,8.97,,0.0,Neutral,0.0,Neutral
+2024-03-21,8.8,,0.0,Neutral,0.0,Neutral
+2024-03-20,8.88,,0.0,Neutral,0.0,Neutral
+2024-03-19,9.0,,0.0,Neutral,0.0,Neutral
+2024-03-18,8.99,,0.0,Neutral,0.0,Neutral
+2024-03-17,8.9,,0.0,Neutral,0.0,Neutral
+2024-03-14,8.87,,0.0,Neutral,0.0,Neutral
+2024-03-13,8.95,,0.0,Neutral,0.0,Neutral
+2024-03-12,8.81,,0.0,Neutral,0.0,Neutral
+2024-03-10,8.68,,0.0,Neutral,0.0,Neutral
+2024-03-07,8.51,,0.0,Neutral,0.0,Neutral
+2024-03-06,8.61,,0.0,Neutral,0.0,Neutral
+2024-03-05,8.45,,0.0,Neutral,0.20466725528240204,Positive
+2024-03-03,8.35,,0.0,Neutral,0.44961633160710335,Positive
+2024-02-28,8.6,2024-02-28,0.8186690211296082,Strongly Positive,0.8992326632142067,Strongly Positive
+2024-02-27,8.5,2024-02-27,0.161127284169197,Slightly Positive,0.161127284169197,Slightly Positive
+2024-02-26,8.43,,0.0,Neutral,0.0,Neutral
+2024-02-25,8.53,,0.0,Neutral,0.0,Neutral
+2024-02-22,8.46,,0.0,Neutral,0.0,Neutral
+2024-02-21,8.56,,0.0,Neutral,0.0,Neutral
+2024-02-20,8.8,,0.0,Neutral,0.0,Neutral
+2024-02-18,8.92,,0.0,Neutral,0.0,Neutral
+2024-02-15,9.0,,0.0,Neutral,0.0,Neutral
+2024-02-13,8.96,,0.0,Neutral,0.0,Neutral
+2024-02-12,9.1,,0.0,Neutral,0.0,Neutral
+2024-02-11,8.86,,0.0,Neutral,0.0,Neutral
+2024-02-08,8.8,,0.0,Neutral,0.0,Neutral
+2024-02-07,8.97,,0.0,Neutral,0.0,Neutral
+2024-02-06,9.0,,0.0,Neutral,0.0,Neutral
+2024-02-05,8.91,,0.0,Neutral,0.0,Neutral
+2024-02-04,8.85,,0.0,Neutral,0.0,Neutral
+2024-02-01,8.82,,0.0,Neutral,0.20090995728969574,Positive
+2024-01-31,8.9,,0.0,Neutral,0.6181929111480713,Strongly Positive
+2024-01-30,8.9,2024-01-30,0.803639829158783,Strongly Positive,1.2363858222961426,Strongly Positive
+2024-01-29,8.7,2024-01-29,0.8654919862747192,Strongly Positive,0.8654919862747192,Strongly Positive
+2024-01-28,8.65,,0.0,Neutral,0.0,Neutral
+2024-01-25,8.5,,0.0,Neutral,0.0,Neutral
+2024-01-24,8.35,,0.0,Neutral,0.0,Neutral
+2024-01-23,8.35,,0.0,Neutral,0.0,Neutral
+2024-01-22,8.43,,0.0,Neutral,0.0,Neutral
+2024-01-21,8.41,,0.0,Neutral,0.0,Neutral
+2024-01-18,8.35,,0.0,Neutral,0.0,Neutral
+2024-01-17,8.45,,0.0,Neutral,0.0,Neutral
+2024-01-16,8.33,,0.0,Neutral,0.0,Neutral
+2024-01-14,8.39,,0.0,Neutral,0.0,Neutral
+2024-01-11,8.23,,0.0,Neutral,0.0,Neutral
+2024-01-10,8.34,,0.0,Neutral,0.0,Neutral
+2024-01-09,8.25,,0.0,Neutral,0.0,Neutral
+2024-01-08,8.2,,0.0,Neutral,0.0,Neutral
+2024-01-07,8.1,,0.0,Neutral,0.0,Neutral
+2024-01-04,8.22,,0.0,Neutral,0.16107791662216187,Slightly Positive
+2024-01-03,8.3,,0.0,Neutral,0.32215583324432373,Positive
+2024-01-02,8.3,2024-01-02,0.6443116664886475,Strongly Positive,0.6443116664886475,Strongly Positive
+2024-01-01,8.46,,0.0,Neutral,0.0,Neutral
+2023-12-28,8.25,,0.0,Neutral,0.0,Neutral
+2023-12-27,8.21,,0.0,Neutral,0.0,Neutral
+2023-12-24,8.48,,0.0,Neutral,0.0,Neutral
+2023-12-21,8.62,,0.0,Neutral,0.0,Neutral
+2023-12-20,8.72,,0.0,Neutral,0.0,Neutral
+2023-12-19,8.28,,0.0,Neutral,0.0,Neutral
+2023-12-18,8.35,,0.0,Neutral,0.0,Neutral
+2023-12-17,8.3,,0.0,Neutral,0.0,Neutral
+2023-12-14,8.4,,0.0,Neutral,0.0,Neutral
+2023-12-13,8.18,,0.0,Neutral,0.0,Neutral
+2023-12-12,8.08,,0.0,Neutral,0.0,Neutral
+2023-12-11,7.95,,0.0,Neutral,0.0,Neutral
+2023-12-07,7.86,,0.0,Neutral,0.0,Neutral
+2023-12-06,8.04,,0.0,Neutral,0.21407721936702728,Positive
+2023-12-05,8.05,,0.0,Neutral,0.42815443873405457,Positive
+2023-12-04,8.11,2023-12-04,0.8563088774681091,Strongly Positive,0.9495314881205559,Strongly Positive
+2023-12-03,7.96,,0.0,Neutral,0.1864452213048935,Slightly Positive
+2023-11-30,8.05,2023-11-30,0.372890442609787,Positive,0.372890442609787,Positive
+2023-11-29,7.91,,0.0,Neutral,0.0,Neutral
+2023-11-28,7.96,,0.0,Neutral,0.0,Neutral
+2023-11-27,8.0,,0.0,Neutral,0.0,Neutral
+2023-11-26,8.0,,0.0,Neutral,0.0,Neutral
+2023-11-23,7.85,,0.0,Neutral,0.0,Neutral
+2023-11-22,7.85,,0.0,Neutral,0.0,Neutral
+2023-11-21,7.88,,0.0,Neutral,0.0,Neutral
+2023-11-20,7.74,,0.0,Neutral,0.222315713763237,Positive
+2023-11-09,7.45,,0.0,Neutral,0.444631427526474,Positive
+2023-11-08,7.5,2023-11-08,0.889262855052948,Strongly Positive,0.9459884613752365,Strongly Positive
+2023-11-05,7.52,,0.0,Neutral,0.113451212644577,Slightly Positive
+2023-11-01,7.96,2023-11-01,0.226902425289154,Positive,0.226902425289154,Positive
+2023-10-31,7.96,,0.0,Neutral,0.0,Neutral
+2023-10-30,7.82,,0.0,Neutral,0.0,Neutral
+2023-10-29,7.83,,0.0,Neutral,0.0,Neutral
+2023-10-19,7.85,,0.0,Neutral,0.0,Neutral
+2023-10-18,8.0,,0.0,Neutral,0.0,Neutral
+2023-10-17,8.25,,0.0,Neutral,0.0,Neutral
+2023-10-16,8.15,,0.0,Neutral,0.0,Neutral
+2023-10-12,7.85,,0.0,Neutral,0.0,Neutral
+2023-10-11,7.7,,0.0,Neutral,0.0,Neutral
+2023-10-10,7.89,,0.0,Neutral,0.0,Neutral
+2023-10-09,7.75,,0.0,Neutral,0.0,Neutral
+2023-10-08,7.8,,0.0,Neutral,0.0,Neutral
+2023-10-05,7.86,,0.0,Neutral,0.19070717692375183,Slightly Positive
+2023-10-04,7.9,,0.0,Neutral,0.46321558207273483,Positive
+2023-10-03,7.9,2023-10-03,0.7628287076950073,Strongly Positive,0.9264311641454697,Strongly Positive
+2023-10-02,8.02,2023-10-02,0.3272049129009247,Positive,0.3272049129009247,Positive
+2023-10-01,8.0,,0.0,Neutral,0.0,Neutral
+2023-09-27,7.92,,0.0,Neutral,0.0,Neutral
+2023-09-26,7.83,,0.0,Neutral,0.0,Neutral
+2023-09-25,7.95,,0.0,Neutral,0.0,Neutral
+2023-09-24,7.76,,0.0,Neutral,0.0,Neutral
+2023-09-21,8.03,,0.0,Neutral,0.0,Neutral
+2023-09-19,8.06,,0.0,Neutral,0.0,Neutral
+2023-09-18,7.76,,0.0,Neutral,0.0,Neutral
+2023-09-17,7.81,,0.0,Neutral,0.0,Neutral
+2023-09-13,7.96,,0.0,Neutral,0.0,Neutral
+2023-09-12,7.81,,0.0,Neutral,0.0,Neutral
+2023-09-11,7.9,,0.0,Neutral,0.0,Neutral
+2023-09-10,7.9,,0.0,Neutral,0.0,Neutral
+2023-09-07,7.5,,0.0,Neutral,0.21143871545791626,Positive
+2023-09-05,7.76,,0.0,Neutral,0.4228774309158325,Positive
+2023-09-04,7.9,2023-09-04,0.845754861831665,Strongly Positive,0.845754861831665,Strongly Positive
+2023-09-03,7.75,,0.0,Neutral,0.0,Neutral
+2023-08-30,7.8,,0.0,Neutral,0.0,Neutral
+2023-08-29,7.86,,0.0,Neutral,0.0,Neutral
+2023-08-28,7.81,,0.0,Neutral,0.0,Neutral
+2023-08-27,7.66,,0.0,Neutral,0.0,Neutral
+2023-08-24,7.9,,0.0,Neutral,0.0,Neutral
+2023-08-23,8.06,,0.0,Neutral,0.0,Neutral
+2023-08-22,7.7,,0.0,Neutral,0.0,Neutral
+2023-08-21,7.78,,0.0,Neutral,0.0,Neutral
+2023-08-20,7.85,,0.0,Neutral,0.0,Neutral
+2023-08-17,7.9,,0.0,Neutral,0.0,Neutral
+2023-08-16,7.84,,0.0,Neutral,0.0,Neutral
+2023-08-15,8.13,,0.0,Neutral,0.0,Neutral
+2023-08-14,7.99,,0.0,Neutral,0.0,Neutral
+2023-08-13,7.89,,0.0,Neutral,0.0,Neutral
+2023-08-10,8.05,,0.0,Neutral,0.0,Neutral
+2023-08-09,7.9,,0.0,Neutral,0.0,Neutral
+2023-07-11,8.33,,0.0,Neutral,0.0,Neutral
+2023-07-10,8.63,,0.0,Neutral,0.0,Neutral
+2023-07-09,8.64,,0.0,Neutral,0.0,Neutral
+2023-07-06,8.0,,0.0,Neutral,0.0,Neutral
+2023-07-05,7.95,,0.0,Neutral,0.0,Neutral
+2023-07-04,8.64,,0.0,Neutral,-0.0526956170797348,Slightly Negative
+2023-07-03,8.33,,0.0,Neutral,-0.1053912341594696,Slightly Negative
+2023-07-02,8.2,2023-07-02,-0.2107824683189392,Negative,-0.2107824683189392,Negative
+2023-06-28,8.25,,0.0,Neutral,0.0,Neutral
+2023-06-27,8.24,,0.0,Neutral,0.0,Neutral
+2023-06-26,7.95,,0.0,Neutral,0.0,Neutral
+2023-06-25,7.94,,0.0,Neutral,0.0,Neutral
+2023-06-22,7.51,,0.0,Neutral,0.0,Neutral
+2023-06-21,8.2,,0.0,Neutral,0.0,Neutral
+2023-06-20,7.96,,0.0,Neutral,0.0,Neutral
+2023-06-19,7.95,,0.0,Neutral,0.0,Neutral
+2023-06-18,7.84,,0.0,Neutral,0.0,Neutral
+2023-06-15,8.28,,0.0,Neutral,0.0,Neutral
+2023-06-14,8.22,,0.0,Neutral,0.0,Neutral
+2023-06-13,8.19,,0.0,Neutral,0.0,Neutral
+2023-06-12,8.2,,0.0,Neutral,0.0,Neutral
+2023-06-11,8.4,,0.0,Neutral,0.0,Neutral
+2023-06-08,8.0,,0.0,Neutral,0.0,Neutral
+2023-06-07,8.0,,0.0,Neutral,0.0,Neutral
+2023-06-06,7.7,,0.0,Neutral,0.0,Neutral
+2023-06-05,7.55,,0.0,Neutral,0.0,Neutral
+2023-06-04,7.68,,0.0,Neutral,0.0,Neutral
+2023-06-01,7.63,,0.0,Neutral,0.19997476041316986,Slightly Positive
+2023-05-31,7.48,,0.0,Neutral,0.3999495208263397,Positive
+2023-05-30,7.09,2023-05-30,0.7998990416526794,Strongly Positive,0.7998990416526794,Strongly Positive
+2023-05-28,7.8,,0.0,Neutral,0.0,Neutral
+2023-05-24,7.65,,0.0,Neutral,0.0,Neutral
+2023-05-23,7.78,,0.0,Neutral,0.0,Neutral
+2023-05-22,7.6,,0.0,Neutral,0.0,Neutral
+2023-05-21,7.62,,0.0,Neutral,0.0,Neutral
+2023-05-18,7.5,,0.0,Neutral,0.0,Neutral
+2023-05-17,7.5,,0.0,Neutral,0.0,Neutral
+2023-05-16,7.66,,0.0,Neutral,0.0,Neutral
+2023-05-15,7.8,,0.0,Neutral,0.0,Neutral
+2023-05-14,7.57,,0.0,Neutral,0.0,Neutral
+2023-05-11,7.73,,0.0,Neutral,0.0,Neutral
+2023-05-10,7.3,,0.0,Neutral,0.0,Neutral
+2023-05-09,7.4,,0.0,Neutral,0.0,Neutral
+2023-05-08,7.27,,0.0,Neutral,0.0,Neutral
+2023-05-07,7.23,,0.0,Neutral,0.0,Neutral
+2023-05-04,7.37,,0.0,Neutral,0.0,Neutral
+2023-05-03,7.52,,0.0,Neutral,0.1828157603740692,Slightly Positive
+2023-05-02,7.5,,0.0,Neutral,0.3656315207481384,Positive
+2023-04-30,7.61,2023-04-30,0.7312630414962769,Strongly Positive,0.7312630414962769,Strongly Positive
+2023-04-27,7.73,,0.0,Neutral,0.0,Neutral
+2023-04-26,7.88,,0.0,Neutral,0.0,Neutral
+2023-04-25,8.2,,0.0,Neutral,0.0,Neutral
+2023-04-24,7.8,,0.0,Neutral,0.0,Neutral
+2023-04-23,7.65,,0.0,Neutral,0.0,Neutral
+2023-04-20,7.71,,0.0,Neutral,0.0,Neutral
+2023-04-19,7.65,,0.0,Neutral,0.0,Neutral
+2023-04-18,7.82,,0.0,Neutral,0.0,Neutral
+2023-04-17,8.1,,0.0,Neutral,0.0,Neutral
+2023-04-16,8.2,,0.0,Neutral,0.0,Neutral
+2023-04-13,8.53,,0.0,Neutral,0.0,Neutral
+2023-04-12,8.32,,0.0,Neutral,0.0,Neutral
+2023-04-11,7.56,,0.0,Neutral,0.0,Neutral
+2023-04-10,7.28,,0.0,Neutral,0.0,Neutral
+2023-04-09,7.1,,0.0,Neutral,0.0,Neutral
+2023-04-06,7.03,,0.0,Neutral,0.0,Neutral
+2023-04-05,7.28,,0.0,Neutral,0.0,Neutral
+2023-04-04,7.84,,0.0,Neutral,0.0,Neutral
+2023-04-03,7.69,,0.0,Neutral,0.22048045694828033,Positive
+2023-04-02,8.0,,0.0,Neutral,0.4572286456823349,Positive
+2023-03-30,7.54,2023-03-30,0.8819218277931213,Strongly Positive,0.9144572913646698,Strongly Positive
+2023-03-29,7.4,2023-03-29,0.0650709271430969,Slightly Positive,0.0650709271430969,Slightly Positive
+2023-03-28,7.37,,0.0,Neutral,0.0,Neutral
+2023-03-27,7.37,,0.0,Neutral,0.0,Neutral
+2023-03-26,7.37,,0.0,Neutral,0.0,Neutral
+2023-03-23,7.37,,0.0,Neutral,0.0,Neutral
+2023-03-22,7.39,,0.0,Neutral,0.0,Neutral
+2023-03-20,7.38,,0.0,Neutral,0.0,Neutral
+2023-03-19,7.38,,0.0,Neutral,0.0,Neutral
+2023-03-16,7.53,,0.0,Neutral,0.0,Neutral
+2023-03-15,7.51,,0.0,Neutral,0.0,Neutral
+2023-03-14,7.5,,0.0,Neutral,0.0,Neutral
+2023-03-13,7.35,,0.0,Neutral,0.0,Neutral
+2023-03-12,7.47,,0.0,Neutral,0.0,Neutral
+2023-03-09,7.33,,0.0,Neutral,0.0,Neutral
+2023-03-07,7.47,,0.0,Neutral,0.0,Neutral
+2023-03-05,7.47,,0.0,Neutral,0.0,Neutral
+2023-03-02,7.55,,0.0,Neutral,0.0,Neutral
+2023-03-01,8.0,,0.0,Neutral,0.20614778995513916,Positive
+2023-02-28,8.0,,0.0,Neutral,0.4361511003226042,Positive
+2023-02-27,8.04,2023-02-27,0.8245911598205566,Strongly Positive,0.8723022006452084,Strongly Positive
+2023-02-26,7.75,2023-02-26,0.0954220816493034,Slightly Positive,0.0954220816493034,Slightly Positive
+2023-02-23,8.41,,0.0,Neutral,0.0,Neutral
+2023-02-22,8.27,,0.0,Neutral,0.0,Neutral
+2023-02-20,8.27,,0.0,Neutral,0.0,Neutral
+2023-02-16,8.48,,0.0,Neutral,0.0,Neutral
+2023-02-14,9.0,,0.0,Neutral,0.1263493448495865,Slightly Positive
+2023-02-12,9.0,,0.0,Neutral,0.252698689699173,Positive
+2023-02-09,9.01,2023-02-09,0.505397379398346,Positive,0.505397379398346,Positive
+2023-02-08,9.01,,0.0,Neutral,0.0,Neutral
+2023-02-07,9.0,,0.0,Neutral,0.0,Neutral
+2023-02-06,9.0,,0.0,Neutral,0.0,Neutral
+2023-02-05,8.8,,0.0,Neutral,0.0,Neutral
+2023-02-02,8.85,,0.0,Neutral,0.0,Neutral
+2023-02-01,8.85,,0.0,Neutral,0.2161986231803894,Positive
+2023-01-31,9.0,,0.0,Neutral,0.5965984910726547,Positive
+2023-01-30,9.0,2023-01-30,0.8647944927215576,Strongly Positive,1.1931969821453094,Strongly Positive
+2023-01-29,9.08,2023-01-29,0.6568049788475037,Strongly Positive,0.6568049788475037,Strongly Positive
+2023-01-26,8.95,,0.0,Neutral,0.0,Neutral
+2023-01-25,9.0,,0.0,Neutral,0.0,Neutral
+2023-01-24,8.95,,0.0,Neutral,0.0,Neutral
+2023-01-23,9.0,,0.0,Neutral,0.0,Neutral
+2023-01-19,8.99,,0.0,Neutral,0.0,Neutral
+2023-01-18,8.5,,0.0,Neutral,0.0,Neutral
+2023-01-17,8.39,,0.0,Neutral,0.0,Neutral
+2023-01-12,8.52,,0.0,Neutral,0.0,Neutral
+2023-01-10,8.27,,0.0,Neutral,0.0,Neutral
+2023-01-09,8.36,,0.0,Neutral,0.0,Neutral
+2023-01-08,8.3,,0.0,Neutral,0.0,Neutral
+2023-01-05,7.84,,0.0,Neutral,0.0,Neutral
+2023-01-04,7.7,,0.0,Neutral,0.0,Neutral
+2023-01-03,7.5,,0.0,Neutral,0.17775098979473114,Slightly Positive
+2023-01-02,7.74,,0.0,Neutral,0.3626051149331033,Positive
+2023-01-01,7.6,2023-01-01,0.7110039591789246,Strongly Positive,0.7252102298662066,Strongly Positive
+2022-12-29,7.51,2022-12-29,0.0284125413745641,Neutral,0.0284125413745641,Neutral
+2022-12-28,7.6,,0.0,Neutral,0.0,Neutral
+2022-12-27,7.2,,0.0,Neutral,0.0,Neutral
+2022-12-26,7.2,,0.0,Neutral,0.0,Neutral
+2022-12-22,7.2,,0.0,Neutral,0.0,Neutral
+2022-12-21,7.15,,0.0,Neutral,0.0,Neutral
+2022-12-20,7.15,,0.0,Neutral,0.0,Neutral
+2022-12-19,7.0,,0.0,Neutral,0.0,Neutral
+2022-12-18,7.35,,0.0,Neutral,0.0,Neutral
+2022-12-15,7.65,,0.0,Neutral,0.0,Neutral
+2022-12-14,7.6,,0.0,Neutral,0.0,Neutral
+2022-12-13,7.65,,0.0,Neutral,0.0,Neutral
+2022-12-12,7.52,,0.0,Neutral,0.0,Neutral
+2022-12-11,7.4,,0.0,Neutral,0.0,Neutral
+2022-12-07,7.21,,0.0,Neutral,0.0,Neutral
+2022-12-06,7.8,,0.0,Neutral,0.0,Neutral
+2022-12-05,7.35,,0.0,Neutral,0.0,Neutral
+2022-12-04,7.8,,0.0,Neutral,0.13639084994792938,Slightly Positive
+2022-12-01,7.95,,0.0,Neutral,0.27278169989585876,Positive
+2022-11-30,8.25,2022-11-30,0.5455633997917175,Positive,0.5455633997917175,Positive
+2022-11-28,8.3,,0.0,Neutral,0.0,Neutral
+2022-11-27,7.99,,0.0,Neutral,0.0,Neutral
+2022-11-24,8.0,,0.0,Neutral,0.0,Neutral
+2022-11-23,7.93,,0.0,Neutral,0.0,Neutral
+2022-11-22,7.81,,0.0,Neutral,0.0,Neutral
+2022-11-17,8.14,,0.0,Neutral,0.0,Neutral
+2022-11-15,8.0,,0.0,Neutral,0.0,Neutral
+2022-11-14,7.65,,0.0,Neutral,0.0,Neutral
+2022-11-13,7.5,,0.0,Neutral,0.0,Neutral
+2022-11-10,7.93,,0.0,Neutral,0.0,Neutral
+2022-11-09,8.09,,0.0,Neutral,0.0,Neutral
+2022-11-08,8.26,,0.0,Neutral,0.0,Neutral
+2022-11-07,8.6,,0.0,Neutral,0.0,Neutral
+2022-11-06,8.5,,0.0,Neutral,0.19910727441310883,Slightly Positive
+2022-11-03,8.23,,0.0,Neutral,0.41474925354123116,Positive
+2022-11-02,8.39,2022-11-02,0.7964290976524353,Strongly Positive,0.8294985070824623,Strongly Positive
+2022-11-01,8.26,2022-11-01,0.066138818860054,Slightly Positive,0.066138818860054,Slightly Positive
+2022-10-31,8.58,,0.0,Neutral,0.0,Neutral
+2022-10-23,8.57,,0.0,Neutral,0.0,Neutral
+2022-10-20,7.95,,0.0,Neutral,0.0,Neutral
+2022-10-17,7.75,,0.0,Neutral,0.0,Neutral
+2022-10-16,7.75,,0.0,Neutral,0.0,Neutral
+2022-10-13,7.95,,0.0,Neutral,0.0,Neutral
+2022-10-12,8.1,,0.0,Neutral,0.0,Neutral
+2022-10-11,8.15,,0.0,Neutral,0.17995496094226837,Slightly Positive
+2022-10-10,7.51,,0.0,Neutral,0.38907162472605705,Positive
+2022-10-09,7.51,2022-10-09,0.7198198437690735,Strongly Positive,0.7781432494521141,Strongly Positive
+2022-09-29,7.65,2022-09-29,0.1166468113660812,Slightly Positive,0.1166468113660812,Slightly Positive
+2022-09-28,7.54,,0.0,Neutral,0.0,Neutral
+2022-09-27,7.48,,0.0,Neutral,0.23014479875564575,Positive
+2022-09-25,7.63,,0.0,Neutral,0.4602895975112915,Positive
+2022-09-22,7.67,2022-09-22,0.920579195022583,Strongly Positive,0.920579195022583,Strongly Positive
+2022-09-21,7.67,,0.0,Neutral,0.0,Neutral
+2022-09-20,7.7,,0.0,Neutral,0.0,Neutral
+2022-09-18,7.99,,0.0,Neutral,0.0,Neutral
+2022-09-15,7.95,,0.0,Neutral,0.0,Neutral
+2022-09-14,8.2,,0.0,Neutral,0.0,Neutral
+2022-09-13,8.35,,0.0,Neutral,0.0,Neutral
+2022-09-12,8.14,,0.0,Neutral,0.0,Neutral
+2022-09-11,8.3,,0.0,Neutral,0.0,Neutral
+2022-09-08,8.23,,0.0,Neutral,0.0,Neutral
+2022-09-07,8.18,,0.0,Neutral,0.0,Neutral
+2022-09-06,7.86,,0.0,Neutral,0.0,Neutral
+2022-09-05,8.1,,0.0,Neutral,0.0,Neutral
+2022-09-04,8.09,,0.0,Neutral,0.17824092507362366,Slightly Positive
+2022-09-02,8.1,,0.0,Neutral,0.3564818501472473,Positive
+2022-09-01,8.0,2022-09-01,0.7129637002944946,Strongly Positive,0.7129637002944946,Strongly Positive
+2022-08-31,8.1,,0.0,Neutral,0.030344121158123,Neutral
+2022-08-30,8.24,,0.0,Neutral,0.060688242316246,Slightly Positive
+2022-08-29,8.05,2022-08-29,0.121376484632492,Slightly Positive,0.121376484632492,Slightly Positive
+2022-08-28,8.2,,0.0,Neutral,0.0,Neutral
+2022-08-26,8.07,,0.0,Neutral,0.0,Neutral
+2022-08-25,8.34,,0.0,Neutral,0.0,Neutral
+2022-08-24,8.24,,0.0,Neutral,0.0,Neutral
+2022-08-23,7.99,,0.0,Neutral,0.0,Neutral
+2022-08-22,8.47,,0.0,Neutral,0.0,Neutral
+2022-08-21,7.9,,0.0,Neutral,0.0,Neutral
+2022-08-18,8.1,,0.0,Neutral,0.0,Neutral
+2022-08-17,8.2,,0.0,Neutral,0.0,Neutral
+2022-08-16,8.36,,0.0,Neutral,0.0,Neutral
+2022-08-15,8.68,,0.0,Neutral,0.0,Neutral
+2022-08-14,8.69,,0.0,Neutral,0.0,Neutral
+2022-08-11,8.49,,0.0,Neutral,0.0,Neutral
+2022-08-10,8.33,,0.0,Neutral,0.0,Neutral
+2022-08-09,8.01,,0.0,Neutral,0.0,Neutral
+2022-08-08,8.5,,0.0,Neutral,0.20786109566688538,Positive
+2022-08-07,8.42,,0.0,Neutral,0.41572219133377075,Positive
+2022-08-05,8.63,2022-08-05,0.8314443826675415,Strongly Positive,0.8314443826675415,Strongly Positive
+2022-08-04,8.77,,0.0,Neutral,0.0,Neutral
+2022-08-03,8.87,,0.0,Neutral,0.19565239548683167,Slightly Positive
+2022-08-02,8.6,,0.0,Neutral,0.39130479097366333,Positive
+2022-08-01,8.72,2022-08-01,0.7826095819473267,Strongly Positive,0.949877068400383,Strongly Positive
+2022-07-31,8.53,,0.0,Neutral,0.33453497290611267,Positive
+2022-07-29,8.73,2022-07-29,0.6690699458122253,Strongly Positive,0.6690699458122253,Strongly Positive
+2022-07-28,8.81,,0.0,Neutral,0.0,Neutral
+2022-07-27,8.65,,0.0,Neutral,0.0,Neutral
+2022-07-26,8.79,,0.0,Neutral,0.0,Neutral
+2022-07-25,8.84,,0.0,Neutral,0.0,Neutral
+2022-07-24,8.4,,0.0,Neutral,0.0,Neutral
+2022-07-22,8.3,,0.0,Neutral,0.0,Neutral
+2022-07-21,8.4,,0.0,Neutral,0.0,Neutral
+2022-07-20,8.4,,0.0,Neutral,0.0,Neutral
+2022-07-19,8.59,,0.0,Neutral,0.0,Neutral
+2022-07-18,8.55,,0.0,Neutral,0.0,Neutral
+2022-07-17,8.57,,0.0,Neutral,0.0,Neutral
+2022-07-15,8.8,,0.0,Neutral,0.0,Neutral
+2022-07-14,8.3,,0.0,Neutral,0.0,Neutral
+2022-07-13,8.25,,0.0,Neutral,0.0,Neutral
+2022-07-12,8.1,,0.0,Neutral,0.0,Neutral
+2022-07-11,7.95,,0.0,Neutral,0.0,Neutral
+2022-07-08,8.25,,0.0,Neutral,0.0,Neutral
+2022-07-07,8.41,,0.0,Neutral,0.0,Neutral
+2022-07-06,8.25,,0.0,Neutral,0.0,Neutral
+2022-07-05,8.55,,0.0,Neutral,0.0,Neutral
+2022-07-04,8.67,,0.0,Neutral,0.0,Neutral
+2022-07-03,8.5,,0.0,Neutral,0.0,Neutral
+2022-07-01,8.69,,0.0,Neutral,0.12293855845928192,Slightly Positive
+2022-06-30,8.64,,0.0,Neutral,0.24587711691856384,Positive
+2022-06-29,8.0,2022-06-29,0.4917542338371277,Positive,0.5081889070570469,Positive
+2022-06-28,8.0,,0.0,Neutral,0.0328693464398384,Neutral
+2022-06-27,7.96,2022-06-27,0.0657386928796768,Slightly Positive,0.0657386928796768,Slightly Positive
+2022-06-26,8.0,,0.0,Neutral,0.0,Neutral
+2022-06-24,7.9,,0.0,Neutral,0.0,Neutral
+2022-06-23,8.06,,0.0,Neutral,0.0,Neutral
+2022-06-22,8.51,,0.0,Neutral,0.0,Neutral
+2022-06-21,8.35,,0.0,Neutral,0.0,Neutral
+2022-06-20,8.25,,0.0,Neutral,0.0,Neutral
+2022-06-19,8.4,,0.0,Neutral,0.0,Neutral
+2022-06-17,8.45,,0.0,Neutral,0.0,Neutral
+2022-06-16,8.61,,0.0,Neutral,0.0,Neutral
+2022-06-15,8.5,,0.0,Neutral,0.0,Neutral
+2022-06-14,8.5,,0.0,Neutral,0.0,Neutral
+2022-06-13,8.66,,0.0,Neutral,0.0,Neutral
+2022-06-10,8.8,,0.0,Neutral,0.0,Neutral
+2022-06-09,8.84,,0.0,Neutral,0.0,Neutral
+2022-06-08,8.67,,0.0,Neutral,0.0,Neutral
+2022-06-07,8.71,,0.0,Neutral,0.0,Neutral
+2022-06-06,8.58,,0.0,Neutral,0.0,Neutral
+2022-06-03,8.58,,0.0,Neutral,0.0,Neutral
+2022-06-02,8.75,,0.0,Neutral,0.20777097344398499,Positive
+2022-06-01,9.1,,0.0,Neutral,0.41554194688796997,Positive
+2022-05-31,9.19,2022-05-31,0.8310838937759399,Strongly Positive,0.8589221835136414,Strongly Positive
+2022-05-30,9.2,,0.0,Neutral,0.0556765794754028,Slightly Positive
+2022-05-27,9.2,2022-05-27,0.1113531589508056,Slightly Positive,0.1113531589508056,Slightly Positive
+2022-05-26,9.23,,0.0,Neutral,0.0,Neutral
+2022-05-25,9.1,,0.0,Neutral,0.0,Neutral
+2022-05-20,9.1,,0.0,Neutral,0.0,Neutral
+2022-05-18,8.99,,0.0,Neutral,0.0,Neutral
+2022-05-17,9.0,,0.0,Neutral,0.0,Neutral
+2022-05-12,9.15,,0.0,Neutral,0.0,Neutral
+2022-05-11,9.19,,0.0,Neutral,0.0,Neutral
+2022-05-10,9.1,,0.0,Neutral,0.0,Neutral
+2022-05-09,9.0,,0.0,Neutral,0.0,Neutral
+2022-05-08,9.0,,0.0,Neutral,0.0,Neutral
+2022-05-05,9.0,,0.0,Neutral,0.0,Neutral
+2022-05-04,9.0,,0.0,Neutral,0.0,Neutral
+2022-05-02,9.0,,0.0,Neutral,0.0,Neutral
+2022-04-28,9.1,,0.0,Neutral,0.0,Neutral
+2022-04-27,8.91,,0.0,Neutral,0.0,Neutral
+2022-04-26,9.0,,0.0,Neutral,0.0,Neutral
+2022-04-25,9.01,,0.0,Neutral,0.0,Neutral
+2022-04-24,9.3,,0.0,Neutral,0.0,Neutral
+2022-04-21,9.25,,0.0,Neutral,0.0,Neutral
+2022-04-20,9.25,,0.0,Neutral,0.0,Neutral
+2022-04-19,9.4,,0.0,Neutral,0.0,Neutral
+2022-04-18,9.5,,0.0,Neutral,0.0,Neutral
+2022-04-17,9.49,,0.0,Neutral,0.0,Neutral
+2022-04-13,9.5,,0.0,Neutral,0.0,Neutral
+2022-04-12,9.49,,0.0,Neutral,0.0,Neutral
+2022-04-11,9.65,,0.0,Neutral,0.0,Neutral
+2022-04-07,9.78,,0.0,Neutral,0.0,Neutral
+2022-04-06,9.54,,0.0,Neutral,0.0,Neutral
+2022-04-05,9.71,,0.0,Neutral,0.0,Neutral
+2022-04-04,9.6,,0.0,Neutral,0.0,Neutral
+2022-04-03,9.71,,0.0,Neutral,0.0,Neutral
+2022-03-31,9.85,,0.0,Neutral,0.0,Neutral
+2022-03-30,9.71,,0.0,Neutral,0.015035277232527724,Neutral
+2022-03-29,9.7,,0.0,Neutral,0.03007055446505545,Neutral
+2022-03-28,9.71,2022-03-28,0.0601411089301109,Slightly Positive,0.0601411089301109,Slightly Positive
+2022-03-27,9.9,,0.0,Neutral,0.0,Neutral
+2022-03-24,9.9,,0.0,Neutral,0.0,Neutral
+2022-03-23,9.89,,0.0,Neutral,0.0,Neutral
+2022-03-22,9.74,,0.0,Neutral,0.0,Neutral
+2022-03-21,9.72,,0.0,Neutral,0.22706396877765656,Positive
+2022-03-20,9.8,,0.0,Neutral,0.4541279375553131,Positive
+2022-03-16,9.87,2022-03-16,0.9082558751106262,Strongly Positive,0.9082558751106262,Strongly Positive
+2022-03-15,9.88,,0.0,Neutral,0.0,Neutral
+2022-03-14,9.88,,0.0,Neutral,0.0,Neutral
+2022-03-13,9.87,,0.0,Neutral,0.0,Neutral
+2022-03-10,9.87,,0.0,Neutral,0.0,Neutral
+2022-03-09,9.55,,0.0,Neutral,0.0,Neutral
+2022-03-07,9.7,,0.0,Neutral,0.13428284227848053,Slightly Positive
+2022-03-06,9.76,,0.0,Neutral,0.26856568455696106,Positive
+2022-03-02,9.6,2022-03-02,0.5371313691139221,Positive,0.5371313691139221,Positive
+2022-02-28,9.66,,0.0,Neutral,0.0110025107860565,Neutral
+2022-02-27,9.65,,0.0,Neutral,0.022005021572113,Neutral
+2022-02-24,9.89,2022-02-24,0.044010043144226,Neutral,0.044010043144226,Neutral
+2022-02-23,10.09,,0.0,Neutral,0.0,Neutral
+2022-02-22,10.1,,0.0,Neutral,0.0,Neutral
+2022-02-21,10.0,,0.0,Neutral,0.0,Neutral
+2022-02-20,9.89,,0.0,Neutral,0.0,Neutral
+2022-02-17,10.08,,0.0,Neutral,0.0,Neutral
+2022-02-16,9.84,,0.0,Neutral,0.0,Neutral
+2022-02-15,9.65,,0.0,Neutral,0.0,Neutral
+2022-02-14,9.8,,0.0,Neutral,0.0,Neutral
+2022-02-13,9.83,,0.0,Neutral,0.0,Neutral
+2022-02-10,10.0,,0.0,Neutral,0.0,Neutral
+2022-02-09,10.07,,0.0,Neutral,0.0,Neutral
+2022-02-08,10.09,,0.0,Neutral,0.0,Neutral
+2022-02-07,9.93,,0.0,Neutral,0.0,Neutral
+2022-02-06,10.13,,0.0,Neutral,0.0,Neutral
+2022-02-03,10.13,,0.0,Neutral,0.0,Neutral
+2022-02-01,9.94,,0.0,Neutral,0.0,Neutral
+2022-01-31,10.0,,0.0,Neutral,0.0,Neutral
+2022-01-30,10.1,,0.0,Neutral,0.0,Neutral
+2022-01-27,10.0,,0.0,Neutral,0.22783489525318146,Positive
+2022-01-26,10.0,,0.0,Neutral,0.4556697905063629,Positive
+2022-01-25,10.09,2022-01-25,0.9113395810127258,Strongly Positive,0.9113395810127258,Strongly Positive
+2022-01-24,10.09,,0.0,Neutral,0.0,Neutral
+2022-01-23,10.29,,0.0,Neutral,0.0,Neutral
+2022-01-20,10.24,,0.0,Neutral,0.0,Neutral
+2022-01-19,10.4,,0.0,Neutral,0.0,Neutral
+2022-01-18,10.34,,0.0,Neutral,0.0,Neutral
+2022-01-17,10.2,,0.0,Neutral,0.0,Neutral
+2022-01-16,9.98,,0.0,Neutral,0.0,Neutral
+2022-01-13,9.85,,0.0,Neutral,0.0,Neutral
+2022-01-12,9.75,,0.0,Neutral,0.0,Neutral
+2022-01-11,9.75,,0.0,Neutral,0.0,Neutral
+2022-01-10,9.7,,0.0,Neutral,0.0,Neutral
+2022-01-09,9.87,,0.0,Neutral,0.0,Neutral
+2022-01-06,9.6,,0.0,Neutral,0.0,Neutral
+2022-01-05,9.6,,0.0,Neutral,0.0,Neutral
+2022-01-04,9.57,,0.0,Neutral,0.0,Neutral
+2022-01-03,9.49,,0.0,Neutral,0.0093587152659893,Neutral
+2022-01-02,9.39,,0.0,Neutral,0.0187174305319786,Neutral
+2021-12-29,9.55,2021-12-29,0.0374348610639572,Neutral,0.0374348610639572,Neutral
+2021-12-28,9.55,,0.0,Neutral,0.0,Neutral
+2021-12-27,9.65,,0.0,Neutral,0.0,Neutral
+2021-12-26,9.6,,0.0,Neutral,0.0,Neutral
+2021-12-23,9.44,,0.0,Neutral,0.0,Neutral
+2021-12-22,9.45,,0.0,Neutral,0.0,Neutral
+2021-12-21,9.41,,0.0,Neutral,0.0,Neutral
+2021-12-20,9.35,,0.0,Neutral,0.0,Neutral
+2021-12-16,9.47,,0.0,Neutral,0.0,Neutral
+2021-12-15,9.5,,0.0,Neutral,0.0,Neutral
+2021-12-14,9.3,,0.0,Neutral,0.0,Neutral
+2021-12-13,9.18,,0.0,Neutral,0.0,Neutral
+2021-12-12,9.1,,0.0,Neutral,0.0,Neutral
+2021-12-09,9.25,,0.0,Neutral,0.0,Neutral
+2021-12-08,9.26,,0.0,Neutral,0.0,Neutral
+2021-12-07,9.75,,0.0,Neutral,0.0,Neutral
+2021-12-06,9.42,,0.0,Neutral,0.0,Neutral
+2021-12-05,9.45,,0.0,Neutral,0.0,Neutral
+2021-12-02,9.63,,0.0,Neutral,0.0,Neutral
+2021-12-01,9.59,,0.0,Neutral,0.0,Neutral
+2021-11-30,9.78,,0.0,Neutral,0.0,Neutral
+2021-11-29,9.8,,0.0,Neutral,0.0,Neutral
+2021-11-28,9.49,,0.0,Neutral,0.0,Neutral
+2021-11-25,9.67,,0.0,Neutral,0.0,Neutral
+2021-11-24,9.75,,0.0,Neutral,0.0,Neutral
+2021-11-23,9.71,,0.0,Neutral,0.0,Neutral
+2021-11-22,9.87,,0.0,Neutral,0.0,Neutral
+2021-11-21,9.59,,0.0,Neutral,0.0,Neutral
+2021-11-18,9.65,,0.0,Neutral,0.0,Neutral
+2021-11-17,9.75,,0.0,Neutral,0.0,Neutral
+2021-11-16,9.67,,0.0,Neutral,0.0,Neutral
+2021-11-15,9.67,,0.0,Neutral,0.0,Neutral
+2021-11-14,9.7,,0.0,Neutral,0.0,Neutral
+2021-11-11,9.89,,0.0,Neutral,0.0,Neutral
+2021-11-09,9.9,,0.0,Neutral,0.0,Neutral
+2021-11-08,9.96,,0.0,Neutral,0.0,Neutral
+2021-11-03,9.99,,0.0,Neutral,0.0,Neutral
+2021-11-02,10.1,,0.0,Neutral,0.0,Neutral
+2021-11-01,9.95,,0.0,Neutral,0.0,Neutral
+2021-10-31,10.3,,0.0,Neutral,0.0,Neutral
+2021-10-28,10.3,,0.0,Neutral,0.0,Neutral
+2021-10-27,10.0,,0.0,Neutral,0.0,Neutral
+2021-10-26,10.0,,0.0,Neutral,0.0,Neutral
+2021-10-25,10.1,,0.0,Neutral,0.0,Neutral
+2021-10-24,9.95,,0.0,Neutral,0.0,Neutral
+2021-10-21,10.1,,0.0,Neutral,0.0,Neutral
+2021-10-20,9.8,,0.0,Neutral,0.0,Neutral
+2021-10-19,9.52,,0.0,Neutral,0.0,Neutral
+2021-10-18,10.0,,0.0,Neutral,0.0,Neutral
+2021-10-17,10.0,,0.0,Neutral,0.0,Neutral
+2021-10-11,10.39,,0.0,Neutral,0.0,Neutral
+2021-10-10,10.2,,0.0,Neutral,0.19428950548171997,Slightly Positive
+2021-10-06,10.1,,0.0,Neutral,0.38857901096343994,Positive
+2021-10-05,10.01,2021-10-05,0.7771580219268799,Strongly Positive,0.7771580219268799,Strongly Positive
+2021-10-04,10.01,,0.0,Neutral,0.012314448133111,Neutral
+2021-10-03,10.1,,0.0,Neutral,0.024628896266222,Neutral
+2021-09-30,10.28,2021-09-30,0.049257792532444,Neutral,0.049257792532444,Neutral
+2021-09-29,10.35,,0.0,Neutral,0.0,Neutral
+2021-09-28,10.07,,0.0,Neutral,0.0,Neutral
+2021-09-27,10.27,,0.0,Neutral,0.0,Neutral
+2021-09-26,10.35,,0.0,Neutral,0.0,Neutral
+2021-09-23,10.01,,0.0,Neutral,0.0,Neutral
+2021-09-22,9.96,,0.0,Neutral,0.0,Neutral
+2021-09-21,9.83,,0.0,Neutral,0.0,Neutral
+2021-09-20,10.0,,0.0,Neutral,0.0,Neutral
+2021-09-16,10.31,,0.0,Neutral,0.0,Neutral
+2021-09-15,10.5,,0.0,Neutral,0.0,Neutral
+2021-09-14,10.65,,0.0,Neutral,0.0,Neutral
+2021-09-13,10.8,,0.0,Neutral,0.0,Neutral
+2021-09-12,10.51,,0.0,Neutral,0.2222457379102707,Positive
+2021-09-09,10.9,,0.0,Neutral,0.4444914758205414,Positive
+2021-09-08,15.2,2021-09-08,0.8889829516410828,Strongly Positive,0.8889829516410828,Strongly Positive
+2021-09-07,15.2,,0.0,Neutral,0.18513473868370056,Slightly Positive
+2021-09-06,15.4,,0.0,Neutral,0.3702694773674011,Positive
+2021-09-05,15.3,2021-09-05,0.7405389547348022,Strongly Positive,0.7405389547348022,Strongly Positive
+2021-09-02,15.49,,0.0,Neutral,0.2289855480194092,Positive
+2021-09-01,15.59,,0.0,Neutral,0.4579710960388184,Positive
+2021-08-31,15.59,2021-08-31,0.9159421920776368,Strongly Positive,0.9159421920776368,Strongly Positive
+2021-08-29,15.16,,0.0,Neutral,0.0,Neutral
+2021-08-26,15.44,,0.0,Neutral,0.0,Neutral
+2021-08-25,15.3,,0.0,Neutral,0.0,Neutral
+2021-08-24,15.5,,0.0,Neutral,0.19411729276180267,Slightly Positive
+2021-08-19,15.47,,0.0,Neutral,0.38823458552360535,Positive
+2021-08-18,15.42,2021-08-18,0.7764691710472107,Strongly Positive,0.7764691710472107,Strongly Positive
+2021-08-17,14.5,,0.0,Neutral,0.0,Neutral
+2021-08-16,14.7,,0.0,Neutral,0.0,Neutral
+2021-08-15,14.45,,0.0,Neutral,0.0,Neutral
+2021-08-12,14.34,,0.0,Neutral,0.0,Neutral
+2021-08-11,14.3,,0.0,Neutral,0.0,Neutral
+2021-08-10,14.32,,0.0,Neutral,0.0,Neutral
+2021-08-09,14.35,,0.0,Neutral,0.0,Neutral
+2021-08-08,14.5,,0.0,Neutral,0.0,Neutral
+2021-08-05,14.7,,0.0,Neutral,0.0,Neutral
+2021-08-04,14.88,,0.0,Neutral,0.0,Neutral
+2021-08-03,14.79,,0.0,Neutral,0.0,Neutral
+2021-08-02,14.94,,0.0,Neutral,0.05611341446638107,Slightly Positive
+2021-08-01,14.9,,0.0,Neutral,0.11222682893276215,Slightly Positive
+2021-07-29,15.17,2021-07-29,0.2244536578655243,Positive,0.2244536578655243,Positive
+2021-07-28,14.5,,0.0,Neutral,0.0,Neutral
+2021-07-27,14.88,,0.0,Neutral,0.0,Neutral
+2021-07-26,14.77,,0.0,Neutral,0.0,Neutral
+2021-07-25,15.04,,0.0,Neutral,0.0,Neutral
+2021-07-22,15.4,,0.0,Neutral,0.0,Neutral
+2021-07-20,14.15,,0.0,Neutral,0.0,Neutral
+2021-07-19,13.1,,0.0,Neutral,0.0,Neutral
+2021-07-18,12.91,,0.0,Neutral,0.0,Neutral
+2021-07-15,12.58,,0.0,Neutral,0.0,Neutral
+2021-07-14,12.49,,0.0,Neutral,0.0,Neutral
+2021-07-13,12.45,,0.0,Neutral,0.0,Neutral
+2021-07-12,12.55,,0.0,Neutral,0.0,Neutral
+2021-07-11,12.6,,0.0,Neutral,0.0,Neutral
+2021-07-08,12.3,,0.0,Neutral,0.0,Neutral
+2021-07-07,12.34,,0.0,Neutral,0.0,Neutral
+2021-07-06,12.67,,0.0,Neutral,0.10664603859186172,Slightly Positive
+2021-07-05,12.43,,0.0,Neutral,0.21329207718372345,Positive
+2021-07-04,12.19,2021-07-04,0.4265841543674469,Positive,0.4265841543674469,Positive
+2021-07-01,12.2,,0.0,Neutral,0.0,Neutral
+2021-06-30,12.4,,0.0,Neutral,0.10277942568063735,Slightly Positive
+2021-06-29,12.45,,0.0,Neutral,0.2055588513612747,Positive
+2021-06-28,12.99,2021-06-28,0.4111177027225494,Positive,0.4111177027225494,Positive
+2021-06-27,12.38,,0.0,Neutral,0.0,Neutral
+2021-06-24,12.29,,0.0,Neutral,0.0,Neutral
+2021-06-23,12.49,,0.0,Neutral,0.0,Neutral
+2021-06-22,12.5,,0.0,Neutral,0.0,Neutral
+2021-06-21,12.39,,0.0,Neutral,0.0,Neutral
+2021-06-20,12.49,,0.0,Neutral,0.0,Neutral
+2021-06-17,12.85,,0.0,Neutral,0.0,Neutral
+2021-06-16,12.6,,0.0,Neutral,0.0,Neutral
+2021-06-15,12.86,,0.0,Neutral,0.0,Neutral
+2021-06-14,12.8,,0.0,Neutral,0.0,Neutral
+2021-06-13,13.0,,0.0,Neutral,0.0,Neutral
+2021-06-10,13.11,,0.0,Neutral,0.0,Neutral
+2021-06-09,12.96,,0.0,Neutral,0.0,Neutral
+2021-06-08,12.5,,0.0,Neutral,0.0,Neutral
+2021-06-07,12.2,,0.0,Neutral,0.0,Neutral
+2021-06-06,12.13,,0.0,Neutral,0.0,Neutral
+2021-06-03,11.92,,0.0,Neutral,0.0,Neutral
+2021-06-02,11.5,,0.0,Neutral,0.17455902695655823,Slightly Positive
+2021-06-01,11.38,,0.0,Neutral,0.34911805391311646,Positive
+2021-05-31,11.46,2021-05-31,0.6982361078262329,Strongly Positive,0.6982361078262329,Strongly Positive
+2021-05-30,11.62,,0.0,Neutral,0.0,Neutral
+2021-05-27,11.2,,0.0,Neutral,0.0,Neutral
+2021-05-25,11.2,,0.0,Neutral,0.0,Neutral
+2021-05-24,11.2,,0.0,Neutral,0.0,Neutral
+2021-05-23,11.1,,0.0,Neutral,0.0,Neutral
+2021-05-20,11.03,,0.0,Neutral,0.0,Neutral
+2021-05-19,11.0,,0.0,Neutral,0.0,Neutral
+2021-05-18,10.99,,0.0,Neutral,0.0,Neutral
+2021-05-17,10.96,,0.0,Neutral,0.0,Neutral
+2021-05-16,11.08,,0.0,Neutral,0.0,Neutral
+2021-05-13,10.7,,0.0,Neutral,0.0,Neutral
+2021-05-12,10.7,,0.0,Neutral,0.0,Neutral
+2021-05-11,10.68,,0.0,Neutral,0.0,Neutral
+2021-05-10,10.81,,0.0,Neutral,0.0,Neutral
+2021-05-09,10.6,,0.0,Neutral,0.0,Neutral
+2021-05-06,10.6,,0.0,Neutral,0.0,Neutral
+2021-05-05,10.7,,0.0,Neutral,0.0,Neutral
+2021-05-04,10.62,,0.0,Neutral,0.0,Neutral
+2021-05-03,10.6,,0.0,Neutral,0.18119016289710999,Slightly Positive
+2021-05-02,10.7,,0.0,Neutral,0.3368794843554497,Positive
+2021-04-29,10.66,2021-04-29,0.7247606515884399,Strongly Positive,0.6737589687108994,Strongly Positive
+2021-04-28,10.6,2021-04-28,-0.1020033657550811,Slightly Negative,-0.1020033657550811,Slightly Negative
+2021-04-27,10.55,,0.0,Neutral,0.20521248877048492,Positive
+2021-04-26,10.52,,0.0,Neutral,0.41042497754096985,Positive
+2021-04-25,10.6,2021-04-25,0.8208499550819397,Strongly Positive,0.8208499550819397,Strongly Positive
+2021-04-22,10.65,,0.0,Neutral,0.0,Neutral
+2021-04-21,10.65,,0.0,Neutral,0.0,Neutral
+2021-04-20,10.69,,0.0,Neutral,0.22151514887809753,Positive
+2021-04-19,10.7,,0.0,Neutral,0.44303029775619507,Positive
+2021-04-18,10.85,2021-04-18,0.8860605955123901,Strongly Positive,0.8860605955123901,Strongly Positive
+2021-04-15,10.79,,0.0,Neutral,0.0,Neutral
+2021-04-13,10.81,,0.0,Neutral,0.0,Neutral
+2021-04-12,10.6,,0.0,Neutral,0.0,Neutral
+2021-04-08,10.55,,0.0,Neutral,0.0,Neutral
+2021-04-07,10.51,,0.0,Neutral,0.0,Neutral
+2021-04-06,10.65,,0.0,Neutral,0.0,Neutral
+2021-04-05,10.6,,0.0,Neutral,0.0,Neutral
+2021-04-04,10.46,,0.0,Neutral,0.0,Neutral
+2021-04-01,10.6,,0.0,Neutral,0.0,Neutral
+2021-03-31,10.63,,0.0,Neutral,0.1699398159980774,Slightly Positive
+2021-03-30,10.7,,0.0,Neutral,0.2904721722006798,Positive
+2021-03-29,10.55,2021-03-29,0.6797592639923096,Strongly Positive,0.5809443444013596,Positive
+2021-03-25,10.45,2021-03-25,-0.1976298391819,Slightly Negative,-0.1976298391819,Slightly Negative
+2021-03-24,10.45,,0.0,Neutral,0.0,Neutral
+2021-03-23,10.4,,0.0,Neutral,0.0,Neutral
+2021-03-22,10.4,,0.0,Neutral,0.0,Neutral
+2021-03-21,10.5,,0.0,Neutral,0.0,Neutral
+2021-03-18,10.39,,0.0,Neutral,0.0,Neutral
+2021-03-17,10.4,,0.0,Neutral,0.0,Neutral
+2021-03-16,10.31,,0.0,Neutral,0.0,Neutral
+2021-03-15,10.3,,0.0,Neutral,0.0,Neutral
+2021-03-14,10.32,,0.0,Neutral,0.0,Neutral
+2021-03-10,10.45,,0.0,Neutral,0.0,Neutral
+2021-03-09,10.39,,0.0,Neutral,0.0,Neutral
+2021-03-07,10.5,,0.0,Neutral,0.0,Neutral
+2021-03-04,10.55,,0.0,Neutral,0.0,Neutral
+2021-03-03,10.43,,0.0,Neutral,0.13245578110218048,Slightly Positive
+2021-03-02,10.5,,0.0,Neutral,0.26491156220436096,Positive
+2021-03-01,10.73,2021-03-01,0.5298231244087219,Positive,0.751271665096283,Strongly Positive
+2021-02-28,10.7,,0.0,Neutral,0.44289708137512207,Positive
+2021-02-25,10.85,2021-02-25,0.8857941627502441,Strongly Positive,0.8857941627502441,Strongly Positive
+2021-02-24,10.5,,0.0,Neutral,0.0,Neutral
+2021-02-23,10.2,,0.0,Neutral,0.0,Neutral
+2021-02-22,10.36,,0.0,Neutral,0.0,Neutral
+2021-02-21,10.55,,0.0,Neutral,0.0,Neutral
+2021-02-18,10.1,,0.0,Neutral,0.0,Neutral
+2021-02-17,10.05,,0.0,Neutral,0.0,Neutral
+2021-02-16,10.01,,0.0,Neutral,0.0,Neutral
+2021-02-15,10.1,,0.0,Neutral,0.0,Neutral
+2021-02-14,9.92,,0.0,Neutral,0.0,Neutral
+2021-02-11,10.02,,0.0,Neutral,0.0,Neutral
+2021-02-10,10.0,,0.0,Neutral,0.0,Neutral
+2021-02-09,10.03,,0.0,Neutral,0.0,Neutral
+2021-02-08,10.01,,0.0,Neutral,0.0,Neutral
+2021-02-07,9.99,,0.0,Neutral,0.0,Neutral
+2021-02-04,10.14,,0.0,Neutral,0.18242277204990387,Slightly Positive
+2021-02-03,10.14,,0.0,Neutral,0.36484554409980774,Positive
+2021-02-02,9.98,2021-02-02,0.7296910881996155,Strongly Positive,0.7296910881996155,Strongly Positive
+2021-02-01,10.1,,0.0,Neutral,0.0060199350118637,Neutral
+2021-01-31,10.15,,0.0,Neutral,0.0120398700237274,Neutral
+2021-01-28,10.03,2021-01-28,0.0240797400474548,Neutral,0.0240797400474548,Neutral
+2021-01-27,10.1,,0.0,Neutral,0.0,Neutral
+2021-01-26,10.3,,0.0,Neutral,0.0,Neutral
+2021-01-25,10.15,,0.0,Neutral,0.0,Neutral
+2021-01-24,10.11,,0.0,Neutral,0.0,Neutral
+2021-01-21,10.16,,0.0,Neutral,0.0,Neutral
+2021-01-20,10.2,,0.0,Neutral,0.0,Neutral
+2021-01-19,10.08,,0.0,Neutral,0.0,Neutral
+2021-01-18,10.08,,0.0,Neutral,0.0,Neutral
+2021-01-17,10.18,,0.0,Neutral,0.0,Neutral
+2021-01-13,10.0,,0.0,Neutral,0.0,Neutral
+2021-01-12,10.0,,0.0,Neutral,0.0,Neutral
+2021-01-11,10.1,,0.0,Neutral,0.0,Neutral
+2021-01-10,10.1,,0.0,Neutral,0.22468441724777222,Positive
+2021-01-07,10.1,,0.0,Neutral,0.44936883449554443,Positive
+2021-01-06,10.1,2021-01-06,0.8987376689910889,Strongly Positive,0.8987376689910889,Strongly Positive
+2021-01-05,9.91,,0.0,Neutral,0.0,Neutral
+2021-01-04,10.06,,0.0,Neutral,0.0,Neutral
+2021-01-03,9.87,,0.0,Neutral,-0.03891826421022415,Neutral
+2020-12-31,9.99,,0.0,Neutral,-0.0778365284204483,Slightly Negative
+2020-12-30,9.9,2020-12-30,-0.1556730568408966,Slightly Negative,-0.1556730568408966,Slightly Negative
+2020-12-29,9.85,,0.0,Neutral,0.0,Neutral
+2020-12-28,9.81,,0.0,Neutral,0.0,Neutral
+2020-12-27,10.0,,0.0,Neutral,0.0,Neutral
+2020-12-24,10.13,,0.0,Neutral,0.0,Neutral
+2020-12-23,10.13,,0.0,Neutral,0.0,Neutral
+2020-12-22,10.06,,0.0,Neutral,0.0,Neutral
+2020-12-21,9.77,,0.0,Neutral,0.0,Neutral
+2020-12-20,9.93,,0.0,Neutral,0.0,Neutral
+2020-12-17,10.14,,0.0,Neutral,0.0,Neutral
+2020-12-16,10.0,,0.0,Neutral,0.0,Neutral
+2020-12-15,10.14,,0.0,Neutral,0.0,Neutral
+2020-12-14,10.33,,0.0,Neutral,0.0,Neutral
+2020-12-13,10.08,,0.0,Neutral,0.0,Neutral
+2020-12-10,9.6,,0.0,Neutral,0.0,Neutral
+2020-12-09,9.58,,0.0,Neutral,0.0,Neutral
+2020-12-08,9.67,,0.0,Neutral,0.0,Neutral
+2020-12-07,9.82,,0.0,Neutral,0.0,Neutral
+2020-12-06,9.82,,0.0,Neutral,0.0,Neutral
+2020-12-03,10.0,,0.0,Neutral,0.18641595542430878,Slightly Positive
+2020-12-02,10.14,,0.0,Neutral,0.327903114259243,Positive
+2020-12-01,10.14,2020-12-01,0.7456638216972351,Strongly Positive,0.655806228518486,Strongly Positive
+2020-11-30,10.14,2020-11-30,-0.1797151863574981,Slightly Negative,-0.1797151863574981,Slightly Negative
+2020-11-29,10.15,,0.0,Neutral,0.0,Neutral
+2020-11-26,10.2,,0.0,Neutral,0.0,Neutral
+2020-11-25,10.1,,0.0,Neutral,0.0,Neutral
+2020-11-24,10.1,,0.0,Neutral,0.0,Neutral
+2020-11-23,10.0,,0.0,Neutral,0.0,Neutral
+2020-11-22,10.45,,0.0,Neutral,0.0,Neutral
+2020-11-19,10.35,,0.0,Neutral,0.0,Neutral
+2020-11-18,10.22,,0.0,Neutral,0.0,Neutral
+2020-11-12,10.59,,0.0,Neutral,0.0,Neutral
+2020-11-11,10.73,,0.0,Neutral,0.0,Neutral
+2020-11-10,9.98,,0.0,Neutral,0.0,Neutral
+2020-11-09,9.79,,0.0,Neutral,0.0,Neutral
+2020-11-08,10.09,,0.0,Neutral,0.0,Neutral
+2020-11-05,9.9,,0.0,Neutral,0.0,Neutral
+2020-11-04,9.98,,0.0,Neutral,0.0,Neutral
+2020-11-03,9.81,,0.0,Neutral,0.10944201610982418,Slightly Positive
+2020-11-02,9.79,,0.0,Neutral,0.21888403221964836,Positive
+2020-11-01,9.69,2020-11-01,0.4377680644392967,Positive,0.4377680644392967,Positive
+2020-10-29,9.7,,0.0,Neutral,0.0,Neutral
+2020-10-28,9.8,,0.0,Neutral,0.0,Neutral
+2020-10-22,9.74,,0.0,Neutral,0.0,Neutral
+2020-10-21,9.64,,0.0,Neutral,0.0,Neutral
+2020-10-20,9.7,,0.0,Neutral,0.0,Neutral
+2020-10-19,9.56,,0.0,Neutral,0.0,Neutral
+2020-10-18,9.55,,0.0,Neutral,0.0,Neutral
+2020-10-15,9.65,,0.0,Neutral,0.0,Neutral
+2020-10-14,9.65,,0.0,Neutral,0.0,Neutral
+2020-10-13,9.81,,0.0,Neutral,0.0,Neutral
+2020-10-12,9.64,,0.0,Neutral,0.0,Neutral
+2020-10-11,9.52,,0.0,Neutral,0.0,Neutral
+2020-10-08,9.62,,0.0,Neutral,0.0,Neutral
+2020-10-07,9.62,,0.0,Neutral,0.0,Neutral
+2020-10-06,9.68,,0.0,Neutral,0.0,Neutral
+2020-10-05,9.71,,0.0,Neutral,0.11261958628892897,Slightly Positive
+2020-10-04,9.55,,0.0,Neutral,0.45034846663475037,Positive
+2020-10-01,10.11,2020-10-01,0.4504783451557159,Positive,0.9006969332695007,Strongly Positive
+2020-09-30,11.45,2020-09-30,0.9004371762275696,Strongly Positive,0.9004371762275696,Strongly Positive
+2020-09-29,11.3,,0.0,Neutral,0.0,Neutral
+2020-09-28,10.9,,0.0,Neutral,0.0,Neutral
+2020-09-27,11.1,,0.0,Neutral,0.22970615327358246,Positive
+2020-09-24,11.08,,0.0,Neutral,0.4594123065471649,Positive
+2020-09-23,11.32,2020-09-23,0.9188246130943298,Strongly Positive,0.9188246130943298,Strongly Positive
+2020-09-22,11.18,,0.0,Neutral,0.0,Neutral
+2020-09-21,11.21,,0.0,Neutral,0.0,Neutral
+2020-09-20,11.22,,0.0,Neutral,0.0,Neutral
+2020-09-17,11.3,,0.0,Neutral,0.2216939479112625,Positive
+2020-09-16,11.33,,0.0,Neutral,0.443387895822525,Positive
+2020-09-15,11.14,2020-09-15,0.88677579164505,Strongly Positive,0.88677579164505,Strongly Positive
+2020-09-14,10.57,,0.0,Neutral,0.0,Neutral
+2020-09-13,10.26,,0.0,Neutral,0.0,Neutral
+2020-09-10,10.52,,0.0,Neutral,0.0,Neutral
+2020-09-09,10.32,,0.0,Neutral,0.0,Neutral
+2020-09-08,10.45,,0.0,Neutral,0.0,Neutral
+2020-09-07,10.45,,0.0,Neutral,0.0,Neutral
+2020-09-06,10.25,,0.0,Neutral,0.20419928431510925,Positive
+2020-09-03,10.3,,0.0,Neutral,0.5864826142787933,Positive
+2020-09-02,10.29,2020-09-02,0.816797137260437,Strongly Positive,1.1729652285575867,Strongly Positive
+2020-08-31,10.25,2020-08-31,0.7123361825942993,Strongly Positive,0.7123361825942993,Strongly Positive
+2020-08-30,10.22,,0.0,Neutral,0.0,Neutral
+2020-08-27,10.25,,0.0,Neutral,0.0,Neutral
+2020-08-26,10.2,,0.0,Neutral,0.0,Neutral
+2020-08-25,10.1,,0.0,Neutral,0.0,Neutral
+2020-08-24,10.16,,0.0,Neutral,0.0,Neutral
+2020-08-23,10.14,,0.0,Neutral,0.0,Neutral
+2020-08-20,10.29,,0.0,Neutral,0.0,Neutral
+2020-08-19,10.25,,0.0,Neutral,0.0,Neutral
+2020-08-18,10.11,,0.0,Neutral,0.0,Neutral
+2020-08-17,10.03,,0.0,Neutral,0.0,Neutral
+2020-08-16,10.11,,0.0,Neutral,0.0,Neutral
+2020-08-13,10.05,,0.0,Neutral,0.0,Neutral
+2020-08-12,10.15,,0.0,Neutral,0.0,Neutral
+2020-08-11,10.1,,0.0,Neutral,0.0,Neutral
+2020-08-10,10.0,,0.0,Neutral,0.0,Neutral
+2020-08-09,10.08,,0.0,Neutral,0.0,Neutral
+2020-08-06,9.98,,0.0,Neutral,0.0,Neutral
+2020-08-05,9.8,,0.0,Neutral,0.0,Neutral
+2020-08-03,9.82,,0.0,Neutral,0.22424547374248505,Positive
+2020-08-02,9.84,,0.0,Neutral,0.4484909474849701,Positive
+2020-07-30,9.87,2020-07-30,0.8969818949699402,Strongly Positive,0.8969818949699402,Strongly Positive
+2020-07-29,9.84,,0.0,Neutral,0.0,Neutral
+2020-07-28,9.85,,0.0,Neutral,0.0,Neutral
+2020-07-27,9.78,,0.0,Neutral,0.0,Neutral
+2020-07-26,9.79,,0.0,Neutral,0.0,Neutral
+2020-07-23,9.8,,0.0,Neutral,0.0,Neutral
+2020-07-22,9.83,,0.0,Neutral,0.0,Neutral
+2020-07-21,10.0,,0.0,Neutral,0.0,Neutral
+2020-07-20,10.0,,0.0,Neutral,0.0,Neutral
+2020-07-19,10.0,,0.0,Neutral,0.0,Neutral
+2020-07-16,9.91,,0.0,Neutral,0.0,Neutral
+2020-07-15,10.06,,0.0,Neutral,0.0,Neutral
+2020-07-14,9.77,,0.0,Neutral,0.0,Neutral
+2020-07-13,9.7,,0.0,Neutral,0.0,Neutral
+2020-07-12,9.51,,0.0,Neutral,0.0,Neutral
+2020-07-09,9.05,,0.0,Neutral,0.0,Neutral
+2020-07-08,9.18,,0.0,Neutral,0.0,Neutral
+2020-07-07,8.89,,0.0,Neutral,0.0,Neutral
+2020-07-06,8.89,,0.0,Neutral,0.0,Neutral
+2020-07-05,8.99,,0.0,Neutral,0.0,Neutral
+2020-06-29,9.0,,0.0,Neutral,0.0,Neutral
+2020-03-19,9.0,,0.0,Neutral,0.0,Neutral
+2020-03-18,8.84,,0.0,Neutral,0.0,Neutral
+2020-03-17,8.92,,0.0,Neutral,0.0,Neutral
+2020-03-16,9.1,,0.0,Neutral,0.0,Neutral
+2020-03-15,9.39,,0.0,Neutral,0.0,Neutral
+2020-03-12,9.95,,0.0,Neutral,0.0,Neutral
+2020-03-11,9.99,,0.0,Neutral,0.0,Neutral
+2020-03-10,9.8,,0.0,Neutral,0.0,Neutral
+2020-03-05,9.64,,0.0,Neutral,0.0,Neutral
+2020-03-04,9.47,,0.0,Neutral,0.0,Neutral
+2020-03-03,9.64,,0.0,Neutral,0.19437143206596375,Slightly Positive
+2020-03-01,9.81,,0.0,Neutral,0.3887428641319275,Positive
+2020-02-27,10.37,2020-02-27,0.777485728263855,Strongly Positive,0.777485728263855,Strongly Positive
+2020-02-26,10.35,,0.0,Neutral,0.0,Neutral
+2020-02-25,9.99,,0.0,Neutral,0.0,Neutral
+2020-02-24,9.9,,0.0,Neutral,0.0,Neutral
+2020-02-23,9.95,,0.0,Neutral,0.0,Neutral
+2020-02-20,9.63,,0.0,Neutral,0.0,Neutral
+2020-02-19,9.5,,0.0,Neutral,0.0,Neutral
+2020-02-18,9.68,,0.0,Neutral,0.0,Neutral
+2020-02-17,9.5,,0.0,Neutral,0.0,Neutral
+2020-02-16,9.42,,0.0,Neutral,0.0,Neutral
+2020-02-13,9.5,,0.0,Neutral,0.0,Neutral
+2020-02-12,9.63,,0.0,Neutral,0.0,Neutral
+2020-02-11,9.8,,0.0,Neutral,0.0,Neutral
+2020-02-10,9.6,,0.0,Neutral,0.0,Neutral
+2020-02-09,9.46,,0.0,Neutral,0.0,Neutral
+2020-02-06,9.56,,0.0,Neutral,0.0,Neutral
+2020-02-05,9.7,,0.0,Neutral,0.0,Neutral
+2020-02-04,9.66,,0.0,Neutral,0.0,Neutral
+2020-02-03,9.85,,0.0,Neutral,0.190323144197464,Slightly Positive
+2020-02-02,9.7,,0.0,Neutral,0.586248442530632,Positive
+2020-01-30,9.67,2020-01-30,0.761292576789856,Strongly Positive,1.172496885061264,Strongly Positive
+2020-01-29,9.71,2020-01-29,0.8224086165428162,Strongly Positive,0.8224086165428162,Strongly Positive
+2020-01-27,9.74,,0.0,Neutral,0.0,Neutral
+2020-01-26,9.55,,0.0,Neutral,0.0,Neutral
+2020-01-23,9.74,,0.0,Neutral,0.0,Neutral
+2020-01-22,9.89,,0.0,Neutral,0.0,Neutral
+2020-01-21,9.89,,0.0,Neutral,0.0,Neutral
+2020-01-20,9.95,,0.0,Neutral,0.0,Neutral
+2020-01-19,10.0,,0.0,Neutral,0.0,Neutral
+2020-01-16,9.89,,0.0,Neutral,0.0,Neutral
+2020-01-15,9.51,,0.0,Neutral,0.0,Neutral
+2020-01-14,9.33,,0.0,Neutral,0.0,Neutral
+2020-01-13,9.31,,0.0,Neutral,0.0,Neutral
+2020-01-12,9.29,,0.0,Neutral,0.0,Neutral
+2020-01-09,9.27,,0.0,Neutral,0.1926828920841217,Slightly Positive
+2020-01-08,9.45,,0.0,Neutral,0.3853657841682434,Positive
+2020-01-07,9.47,2020-01-07,0.7707315683364868,Strongly Positive,0.7707315683364868,Strongly Positive
+2020-01-06,9.14,,0.0,Neutral,0.18877200782299042,Slightly Positive
+2020-01-02,8.85,,0.0,Neutral,0.37754401564598083,Positive
+2019-12-31,8.9,2019-12-31,0.7550880312919617,Strongly Positive,0.7550880312919617,Strongly Positive
+2019-12-30,8.99,,0.0,Neutral,0.0,Neutral
+2019-12-29,8.82,,0.0,Neutral,0.0,Neutral
+2019-12-24,8.99,,0.0,Neutral,0.0,Neutral
+2019-12-23,8.83,,0.0,Neutral,0.0,Neutral
+2019-12-22,9.0,,0.0,Neutral,0.0,Neutral
+2019-12-18,8.85,,0.0,Neutral,0.0,Neutral
+2019-12-16,9.0,,0.0,Neutral,0.0,Neutral
+2019-12-15,9.02,,0.0,Neutral,0.0,Neutral
+2019-12-12,9.0,,0.0,Neutral,0.0,Neutral
+2019-12-11,9.08,,0.0,Neutral,0.0,Neutral
+2019-12-09,9.25,,0.0,Neutral,0.1749885082244873,Slightly Positive
+2019-12-08,8.75,,0.0,Neutral,0.3499770164489746,Positive
+2019-12-04,8.6,2019-12-04,0.6999540328979492,Strongly Positive,0.75458163022995,Strongly Positive
+2019-12-03,8.75,,0.0,Neutral,0.10925519466400145,Slightly Positive
+2019-12-01,8.63,2019-12-01,0.2185103893280029,Positive,0.2185103893280029,Positive
+2019-11-28,8.62,,0.0,Neutral,0.0,Neutral
+2019-11-27,8.68,,0.0,Neutral,0.0,Neutral
+2019-11-26,8.68,,0.0,Neutral,0.0,Neutral
+2019-11-25,8.68,,0.0,Neutral,0.0,Neutral
+2019-11-24,8.8,,0.0,Neutral,0.0,Neutral
+2019-11-21,8.9,,0.0,Neutral,0.0,Neutral
+2019-11-20,8.97,,0.0,Neutral,0.0,Neutral
+2019-11-19,8.8,,0.0,Neutral,0.0,Neutral
+2019-11-18,8.74,,0.0,Neutral,0.0,Neutral
+2019-11-14,8.91,,0.0,Neutral,0.0,Neutral
+2019-11-13,8.73,,0.0,Neutral,0.0,Neutral
+2019-11-12,8.68,,0.0,Neutral,0.0,Neutral
+2019-11-11,8.72,,0.0,Neutral,0.0,Neutral
+2019-09-10,9.55,,0.0,Neutral,0.0,Neutral
+2019-09-09,9.62,,0.0,Neutral,0.0,Neutral
+2019-09-05,9.89,,0.0,Neutral,-0.04578152298927305,Neutral
+2019-09-04,9.7,,0.0,Neutral,0.021829500794410747,Neutral
+2019-09-02,9.67,2019-09-02,-0.1831260919570922,Slightly Negative,0.043659001588821494,Neutral
+2019-09-01,9.7,2019-09-01,0.4535701870918274,Positive,0.4535701870918274,Positive
+2019-08-29,9.66,,0.0,Neutral,0.0,Neutral
+2019-08-28,9.64,,0.0,Neutral,0.0,Neutral
+2019-08-27,9.6,,0.0,Neutral,0.0,Neutral
+2019-08-25,9.9,,0.0,Neutral,0.0,Neutral
+2019-08-22,9.8,,0.0,Neutral,0.0,Neutral
+2019-08-21,9.7,,0.0,Neutral,0.0,Neutral
+2019-08-20,9.75,,0.0,Neutral,0.0,Neutral
+2019-08-19,9.84,,0.0,Neutral,0.0,Neutral
+2019-08-18,9.85,,0.0,Neutral,0.0,Neutral
+2019-08-14,9.85,,0.0,Neutral,0.0,Neutral
+2019-08-12,10.08,,0.0,Neutral,0.0,Neutral
+2019-08-08,9.9,,0.0,Neutral,0.0,Neutral
+2019-08-07,10.0,,0.0,Neutral,0.0,Neutral
+2019-08-05,10.0,,0.0,Neutral,0.1691584587097168,Slightly Positive
+2019-08-04,10.0,,0.0,Neutral,0.35147732496261597,Positive
+2019-08-01,10.0,2019-08-01,0.6766338348388672,Strongly Positive,0.7029546499252319,Strongly Positive
+2019-07-31,10.0,2019-07-31,0.0526416301727294,Slightly Positive,0.0526416301727294,Slightly Positive
+2019-07-30,9.92,,0.0,Neutral,0.0,Neutral
+2019-07-29,9.8,,0.0,Neutral,0.0,Neutral
+2019-07-28,9.8,,0.0,Neutral,0.0,Neutral
+2019-07-24,9.87,,0.0,Neutral,0.0,Neutral
+2019-07-23,10.0,,0.0,Neutral,0.0,Neutral
+2019-07-22,9.9,,0.0,Neutral,0.0,Neutral
+2019-07-21,10.05,,0.0,Neutral,0.0,Neutral
+2019-07-16,10.18,,0.0,Neutral,0.0,Neutral
+2019-07-15,9.4,,0.0,Neutral,0.0,Neutral
+2019-07-14,9.45,,0.0,Neutral,0.0,Neutral
+2019-07-11,9.45,,0.0,Neutral,0.0,Neutral
+2019-07-10,9.35,,0.0,Neutral,0.0,Neutral
+2019-07-09,9.33,,0.0,Neutral,0.0,Neutral
+2019-07-08,9.5,,0.0,Neutral,0.0,Neutral
+2019-07-07,9.42,,0.0,Neutral,0.0,Neutral
+2019-07-04,9.34,,0.0,Neutral,0.0,Neutral
+2019-07-02,9.53,,0.0,Neutral,0.1090659238398075,Slightly Positive
+2019-07-01,9.53,,0.0,Neutral,0.218131847679615,Positive
+2019-06-30,9.47,2019-06-30,0.43626369535923,Positive,0.43626369535923,Positive
+2019-06-27,9.65,,0.0,Neutral,0.0,Neutral
+2019-06-26,9.59,,0.0,Neutral,0.0,Neutral
+2019-06-25,9.43,,0.0,Neutral,0.0,Neutral
+2019-06-24,9.6,,0.0,Neutral,0.0,Neutral
+2019-06-23,9.55,,0.0,Neutral,0.0,Neutral
+2019-06-20,9.65,,0.0,Neutral,0.0,Neutral
+2019-06-19,9.84,,0.0,Neutral,0.0,Neutral
+2019-06-18,9.65,,0.0,Neutral,0.0,Neutral
+2019-06-17,9.55,,0.0,Neutral,0.0,Neutral
+2019-06-16,9.45,,0.0,Neutral,0.0,Neutral
+2019-06-13,9.42,,0.0,Neutral,0.0,Neutral
+2019-06-12,9.5,,0.0,Neutral,0.0,Neutral
+2019-06-11,9.5,,0.0,Neutral,0.15877558290958405,Slightly Positive
+2019-06-10,9.58,,0.0,Neutral,0.3175511658191681,Positive
+2019-06-04,9.76,2019-06-04,0.6351023316383362,Strongly Positive,0.6351023316383362,Strongly Positive
+2019-06-03,9.76,,0.0,Neutral,0.0,Neutral
+2019-05-30,9.95,,0.0,Neutral,0.0,Neutral
+2019-05-29,9.92,,0.0,Neutral,0.0,Neutral
+2019-05-28,9.54,,0.0,Neutral,0.0,Neutral
+2019-05-27,9.18,,0.0,Neutral,-0.12799838185310364,Slightly Negative
+2019-05-26,9.9,,0.0,Neutral,-0.2559967637062073,Negative
+2019-05-23,9.93,2019-05-23,-0.5119935274124146,Negative,-0.5119935274124146,Negative
+2019-05-22,9.73,,0.0,Neutral,0.0,Neutral
+2019-05-21,9.72,,0.0,Neutral,0.0,Neutral
+2019-05-20,9.9,,0.0,Neutral,0.0,Neutral
+2019-05-19,10.08,,0.0,Neutral,0.0,Neutral
+2019-05-16,9.89,,0.0,Neutral,0.0,Neutral
+2019-05-15,9.83,,0.0,Neutral,0.0,Neutral
+2019-05-14,9.89,,0.0,Neutral,0.0,Neutral
+2019-05-13,9.7,,0.0,Neutral,0.0,Neutral
+2019-05-12,9.7,,0.0,Neutral,0.0,Neutral
+2019-05-09,9.7,,0.0,Neutral,0.0,Neutral
+2019-05-08,9.7,,0.0,Neutral,0.0,Neutral
+2019-05-07,9.82,,0.0,Neutral,0.0,Neutral
+2019-05-06,10.0,,0.0,Neutral,0.19855308532714844,Slightly Positive
+2019-05-05,9.99,,0.0,Neutral,0.3971061706542969,Positive
+2019-05-02,9.66,2019-05-02,0.7942123413085938,Strongly Positive,0.7942123413085938,Strongly Positive
+2019-04-30,9.64,,0.0,Neutral,-0.14517317712306976,Slightly Negative
+2019-04-29,9.89,,0.0,Neutral,-0.2903463542461395,Negative
+2019-04-28,9.7,2019-04-28,-0.580692708492279,Negative,-0.580692708492279,Negative
+2019-04-25,9.5,,0.0,Neutral,0.0,Neutral
+2019-04-24,9.75,,0.0,Neutral,0.0,Neutral
+2019-04-22,9.89,,0.0,Neutral,0.0,Neutral
+2019-04-21,9.58,,0.0,Neutral,0.0,Neutral
+2019-04-18,9.5,,0.0,Neutral,0.0,Neutral
+2019-04-17,9.41,,0.0,Neutral,0.0,Neutral
+2019-04-16,9.23,,0.0,Neutral,0.0,Neutral
+2019-04-15,9.0,,0.0,Neutral,0.0,Neutral
+2019-04-11,9.0,,0.0,Neutral,0.0,Neutral
+2019-04-10,9.0,,0.0,Neutral,0.0,Neutral
+2019-04-09,9.0,,0.0,Neutral,0.0,Neutral
+2019-04-08,9.05,,0.0,Neutral,0.0,Neutral
+2019-04-07,8.9,,0.0,Neutral,0.0,Neutral
+2019-04-04,8.94,,0.0,Neutral,0.0,Neutral
+2019-04-03,8.94,,0.0,Neutral,0.0,Neutral
+2019-04-02,8.75,,0.0,Neutral,-0.20154879987239838,Negative
+2019-03-31,9.0,,0.0,Neutral,-0.40309759974479675,Negative
+2019-03-28,9.0,2019-03-28,-0.8061951994895935,Strongly Negative,-0.8061951994895935,Strongly Negative
+2019-03-26,8.89,,0.0,Neutral,0.0,Neutral
+2019-03-24,8.85,,0.0,Neutral,0.0,Neutral
+2019-03-21,8.83,,0.0,Neutral,0.0,Neutral
+2019-03-19,9.0,,0.0,Neutral,0.0,Neutral
+2019-03-14,8.96,,0.0,Neutral,0.0,Neutral
+2019-03-13,8.79,,0.0,Neutral,0.0,Neutral
+2019-03-12,8.66,,0.0,Neutral,0.13569584488868713,Slightly Positive
+2019-03-07,8.83,,0.0,Neutral,0.27139168977737427,Positive
+2019-03-06,8.66,2019-03-06,0.5427833795547485,Positive,0.5427833795547485,Positive
+2019-03-05,8.7,,0.0,Neutral,0.01288128085434435,Neutral
+2019-03-03,8.7,,0.0,Neutral,0.0257625617086887,Neutral
+2019-02-27,8.82,2019-02-27,0.0515251234173774,Slightly Positive,0.0515251234173774,Slightly Positive
+2019-02-26,9.1,,0.0,Neutral,0.0,Neutral
+2019-02-25,9.2,,0.0,Neutral,0.0,Neutral
+2019-02-24,9.18,,0.0,Neutral,0.0,Neutral
+2019-02-19,9.0,,0.0,Neutral,0.0,Neutral
+2019-02-13,8.96,,0.0,Neutral,0.0,Neutral
+2019-02-11,8.95,,0.0,Neutral,0.0,Neutral
+2019-02-10,8.95,,0.0,Neutral,0.0,Neutral
+2019-02-07,9.15,,0.0,Neutral,0.0,Neutral
+2019-02-05,9.0,,0.0,Neutral,0.0,Neutral
+2019-02-04,9.02,,0.0,Neutral,0.14392712712287903,Slightly Positive
+2019-02-03,9.05,,0.0,Neutral,0.28785425424575806,Positive
+2019-01-31,9.0,2019-01-31,0.5757085084915161,Positive,0.4569295719265938,Positive
+2019-01-30,9.08,,0.0,Neutral,-0.23755787312984464,Negative
+2019-01-29,9.02,2019-01-29,-0.4751157462596893,Negative,-0.2549812644720077,Negative
+2019-01-28,9.2,,0.0,Neutral,0.44026896357536316,Positive
+2019-01-24,9.2,2019-01-24,0.8805379271507263,Strongly Positive,0.8805379271507263,Strongly Positive
+2019-01-21,9.23,,0.0,Neutral,0.0,Neutral
+2019-01-16,9.11,,0.0,Neutral,0.0,Neutral
+2019-01-15,9.19,,0.0,Neutral,0.0,Neutral
+2019-01-10,9.19,,0.0,Neutral,0.0,Neutral
+2019-01-09,9.0,,0.0,Neutral,0.0,Neutral
+2019-01-08,9.1,,0.0,Neutral,0.0,Neutral
+2019-01-07,9.0,,0.0,Neutral,0.0,Neutral
+2019-01-06,9.0,,0.0,Neutral,0.0,Neutral
+2019-01-01,9.06,,0.0,Neutral,0.0,Neutral
+2018-12-31,9.18,,0.0,Neutral,0.0,Neutral
+2018-12-25,9.0,,0.0,Neutral,0.0,Neutral
+2018-12-24,9.0,,0.0,Neutral,0.0,Neutral
+2018-12-20,9.05,,0.0,Neutral,0.0,Neutral
+2018-12-18,8.99,,0.0,Neutral,0.0,Neutral
+2018-12-17,8.74,,0.0,Neutral,0.20420829951763153,Positive
+2018-12-12,8.8,,0.0,Neutral,0.40841659903526306,Positive
+2018-12-06,8.67,2018-12-06,0.8168331980705261,Strongly Positive,0.8168331980705261,Strongly Positive
+2018-12-04,8.7,,0.0,Neutral,0.0,Neutral
+2018-12-03,8.67,,0.0,Neutral,0.0,Neutral
+2018-11-29,8.5,,0.0,Neutral,0.0,Neutral
+2018-11-28,8.65,,0.0,Neutral,0.0,Neutral
+2018-11-27,8.32,,0.0,Neutral,0.0,Neutral
+2018-11-25,8.16,,0.0,Neutral,0.0,Neutral
+2018-11-15,8.0,,0.0,Neutral,0.0,Neutral
+2018-11-14,9.0,,0.0,Neutral,0.0,Neutral
+2018-11-13,9.0,,0.0,Neutral,0.0,Neutral
+2018-11-01,9.64,,0.0,Neutral,0.0,Neutral
+2018-10-31,9.45,,0.0,Neutral,0.0,Neutral
+2018-10-25,9.52,,0.0,Neutral,0.0,Neutral
+2018-10-24,9.6,,0.0,Neutral,0.0,Neutral
+2018-10-23,9.61,,0.0,Neutral,0.0,Neutral
+2018-10-22,9.65,,0.0,Neutral,0.0,Neutral
+2018-10-21,9.65,,0.0,Neutral,0.0,Neutral
+2018-10-11,9.65,,0.0,Neutral,0.0,Neutral
+2018-10-09,9.75,,0.0,Neutral,0.0,Neutral
+2018-10-08,9.65,,0.0,Neutral,0.0,Neutral
+2018-10-04,9.61,,0.0,Neutral,0.0,Neutral
+2018-10-03,9.61,,0.0,Neutral,0.22209401428699493,Positive
+2018-10-02,9.65,,0.0,Neutral,0.407878041267395,Positive
+2018-10-01,9.52,2018-10-01,0.8883760571479797,Strongly Positive,0.81575608253479,Strongly Positive
+2018-09-30,9.69,2018-09-30,-0.1452399492263794,Slightly Negative,-0.1452399492263794,Slightly Negative
+2018-09-26,9.5,,0.0,Neutral,0.0,Neutral
+2018-09-25,9.52,,0.0,Neutral,0.0,Neutral
+2018-09-18,9.8,,0.0,Neutral,0.0,Neutral
+2018-09-17,9.8,,0.0,Neutral,0.0,Neutral
+2018-09-16,9.69,,0.0,Neutral,0.0,Neutral
+2018-09-13,9.69,,0.0,Neutral,0.0,Neutral
+2018-09-12,9.5,,0.0,Neutral,0.0,Neutral
+2018-09-10,9.55,,0.0,Neutral,0.0,Neutral
+2018-09-09,9.55,,0.0,Neutral,0.0,Neutral
+2018-09-06,9.65,,0.0,Neutral,0.22000953555107117,Positive
+2018-09-05,9.35,,0.0,Neutral,0.44001907110214233,Positive
+2018-09-04,9.5,2018-09-04,0.8800381422042847,Strongly Positive,0.8800381422042847,Strongly Positive
+2018-09-03,9.5,,0.0,Neutral,0.0,Neutral
+2018-08-30,8.95,,0.0,Neutral,0.0,Neutral
+2018-08-23,8.95,,0.0,Neutral,0.0,Neutral
+2018-08-20,8.95,,0.0,Neutral,0.0,Neutral
+2018-08-19,9.01,,0.0,Neutral,0.0,Neutral
+2018-08-09,9.0,,0.0,Neutral,0.0,Neutral
+2018-08-08,9.15,,0.0,Neutral,0.0,Neutral
+2018-08-07,9.0,,0.0,Neutral,0.0,Neutral
+2018-08-06,8.98,,0.0,Neutral,0.0,Neutral
+2018-08-05,8.97,,0.0,Neutral,0.0,Neutral
+2018-08-01,8.94,,0.0,Neutral,0.0,Neutral
+2018-07-31,9.1,,0.0,Neutral,-0.11947567760944365,Slightly Negative
+2018-07-30,9.08,,0.0,Neutral,-0.2389513552188873,Negative
+2018-07-29,9.27,2018-07-29,-0.4779027104377746,Negative,-0.4779027104377746,Negative
+2018-07-26,9.45,,0.0,Neutral,0.0,Neutral
+2018-07-25,9.55,,0.0,Neutral,0.0,Neutral
+2018-07-22,9.37,,0.0,Neutral,0.0,Neutral
+2018-07-19,9.4,,0.0,Neutral,0.0,Neutral
+2018-07-18,9.4,,0.0,Neutral,0.0,Neutral
+2018-07-17,9.4,,0.0,Neutral,0.0,Neutral
+2018-07-16,9.28,,0.0,Neutral,0.0,Neutral
+2018-07-15,9.1,,0.0,Neutral,0.21844623982906342,Positive
+2018-07-12,9.07,,0.0,Neutral,0.43689247965812683,Positive
+2018-07-11,9.07,2018-07-11,0.8737849593162537,Strongly Positive,0.8737849593162537,Strongly Positive
+2018-07-10,9.07,,0.0,Neutral,0.0,Neutral
+2018-07-08,9.07,,0.0,Neutral,0.2237117439508438,Positive
+2018-07-04,9.07,,0.0,Neutral,0.4474234879016876,Positive
+2018-07-02,9.17,2018-07-02,0.8948469758033752,Strongly Positive,0.7872767597436905,Strongly Positive
+2018-07-01,9.17,,0.0,Neutral,-0.2151404321193695,Negative
+2018-06-27,9.36,2018-06-27,-0.430280864238739,Negative,-0.430280864238739,Negative
+2018-06-21,9.36,,0.0,Neutral,0.0,Neutral
+2018-06-19,9.36,,0.0,Neutral,0.0,Neutral
+2018-06-18,9.42,,0.0,Neutral,0.0,Neutral
+2018-06-17,9.42,,0.0,Neutral,0.0,Neutral
+2018-06-12,9.6,,0.0,Neutral,0.0,Neutral
+2018-06-11,9.5,,0.0,Neutral,0.0,Neutral
+2018-06-10,9.32,,0.0,Neutral,0.0,Neutral
+2018-06-04,9.48,,0.0,Neutral,0.0,Neutral
+2018-05-31,9.6,,0.0,Neutral,0.0,Neutral
+2018-05-29,9.6,,0.0,Neutral,0.0,Neutral
+2018-05-22,9.35,,0.0,Neutral,0.0,Neutral
+2018-05-16,9.35,,0.0,Neutral,0.0,Neutral
+2018-05-10,9.32,,0.0,Neutral,0.0,Neutral
+2018-05-09,9.3,,0.0,Neutral,0.0,Neutral
+2018-05-08,9.51,,0.0,Neutral,0.0,Neutral
+2018-05-06,9.51,,0.0,Neutral,0.0,Neutral
+2018-05-03,9.85,,0.0,Neutral,0.2286085933446884,Positive
+2018-05-02,9.79,,0.0,Neutral,0.47844048589467997,Positive
+2018-04-29,9.8,2018-04-29,0.9144343733787536,Strongly Positive,0.9568809717893599,Strongly Positive
+2018-04-24,10.0,2018-04-24,0.0848931968212127,Slightly Positive,0.0848931968212127,Slightly Positive

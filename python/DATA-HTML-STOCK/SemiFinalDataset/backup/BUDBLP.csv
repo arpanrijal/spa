@@ -1,0 +1,5 @@
+Date_Stock,Close,Date_News,Sentiment_Score,Prediction
+2015-05-26,105.0,,0,Neutral
+2015-06-29,105.0,,0,Neutral
+2015-11-08,130.0,,0,Neutral
+2015-11-18,134.0,,0,Neutral

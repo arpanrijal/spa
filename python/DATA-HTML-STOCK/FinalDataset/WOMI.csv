@@ -1,866 +1,866 @@
-Date_Stock,Close,Date_News,Sentiment_Score,Prediction,Decayed_Sentiment,Decayed_Prediction
-2021-08-31,1609.0,,0.0,Neutral,0.0,Neutral
-2021-08-29,1640.0,,0.0,Neutral,0.0,Neutral
-2021-08-26,1660.0,,0.0,Neutral,0.0,Neutral
-2021-08-25,1684.9,,0.0,Neutral,0.0,Neutral
-2021-08-24,1696.0,,0.0,Neutral,0.0,Neutral
-2021-08-19,1715.0,,0.0,Neutral,0.0,Neutral
-2021-08-18,1717.0,,0.0,Neutral,0.0,Neutral
-2021-08-17,1725.0,,0.0,Neutral,0.0,Neutral
-2021-08-16,1750.0,,0.0,Neutral,0.0,Neutral
-2021-08-15,1776.5,,0.0,Neutral,0.0,Neutral
-2021-08-12,1735.0,,0.0,Neutral,0.0,Neutral
-2021-08-11,1745.0,,0.0,Neutral,0.0,Neutral
-2021-08-10,1768.2,,0.0,Neutral,0.0,Neutral
-2021-08-09,1740.0,,0.0,Neutral,0.0,Neutral
-2021-08-08,1755.0,,0.0,Neutral,0.0,Neutral
-2021-08-05,1800.0,,0.0,Neutral,0.0,Neutral
-2021-08-04,1857.0,,0.0,Neutral,0.0,Neutral
-2021-08-03,1850.0,,0.0,Neutral,0.0,Neutral
-2021-08-02,1725.0,,0.0,Neutral,0.0,Neutral
-2021-08-01,1675.0,,0.0,Neutral,0.0,Neutral
-2021-07-29,1674.0,,0.0,Neutral,0.0,Neutral
-2021-07-28,1673.0,,0.0,Neutral,0.0,Neutral
-2021-07-27,1665.5,,0.0,Neutral,0.0,Neutral
-2021-07-26,1705.0,,0.0,Neutral,0.0,Neutral
-2021-07-25,1674.0,,0.0,Neutral,0.0,Neutral
-2021-07-22,1668.0,,0.0,Neutral,0.0,Neutral
-2021-07-20,1687.0,,0.0,Neutral,0.0,Neutral
-2021-07-19,1691.0,,0.0,Neutral,0.0,Neutral
-2021-07-18,1674.9,,0.0,Neutral,0.0,Neutral
-2021-07-15,1620.0,,0.0,Neutral,0.0,Neutral
-2021-07-14,1610.0,,0.0,Neutral,0.0,Neutral
-2021-07-13,1622.0,,0.0,Neutral,0.0,Neutral
-2021-07-12,1610.0,,0.0,Neutral,0.0,Neutral
-2021-07-11,1640.0,,0.0,Neutral,0.0,Neutral
-2021-07-08,1587.0,,0.0,Neutral,0.0,Neutral
-2021-07-07,1560.0,,0.0,Neutral,0.0,Neutral
-2021-07-06,1570.0,,0.0,Neutral,0.0,Neutral
-2021-07-05,1540.0,,0.0,Neutral,0.0,Neutral
-2021-07-04,1552.0,,0.0,Neutral,0.0,Neutral
-2021-07-01,1578.0,,0.0,Neutral,0.0,Neutral
-2021-06-30,1583.0,,0.0,Neutral,0.0,Neutral
-2021-06-29,1590.0,,0.0,Neutral,0.0,Neutral
-2021-06-28,1577.0,,0.0,Neutral,0.0,Neutral
-2021-06-27,1565.0,,0.0,Neutral,0.0,Neutral
-2021-06-24,1550.0,,0.0,Neutral,0.0,Neutral
-2021-06-23,1571.0,,0.0,Neutral,0.0,Neutral
-2021-06-22,1605.0,,0.0,Neutral,0.0,Neutral
-2021-06-21,1590.0,,0.0,Neutral,0.0,Neutral
-2021-06-20,1626.0,,0.0,Neutral,0.0,Neutral
-2021-06-17,1654.0,,0.0,Neutral,0.0,Neutral
-2021-06-16,1660.0,,0.0,Neutral,0.0,Neutral
-2021-06-15,1607.0,,0.0,Neutral,0.0,Neutral
-2021-06-14,1619.0,,0.0,Neutral,0.0,Neutral
-2021-06-13,1620.0,,0.0,Neutral,0.0,Neutral
-2021-06-10,1621.0,,0.0,Neutral,0.0,Neutral
-2021-06-09,1622.0,,0.0,Neutral,0.0,Neutral
-2021-06-08,1625.0,,0.0,Neutral,0.0,Neutral
-2021-06-07,1628.0,,0.0,Neutral,0.0,Neutral
-2021-06-06,1643.0,,0.0,Neutral,0.0,Neutral
-2021-06-03,1645.0,,0.0,Neutral,0.0,Neutral
-2021-06-02,1632.0,,0.0,Neutral,0.0,Neutral
-2021-06-01,1626.0,,0.0,Neutral,0.0,Neutral
-2021-05-31,1617.0,,0.0,Neutral,0.0,Neutral
-2021-05-30,1635.0,,0.0,Neutral,0.0,Neutral
-2021-05-27,1634.0,,0.0,Neutral,0.0,Neutral
-2021-05-25,1707.0,,0.0,Neutral,0.0,Neutral
-2021-05-24,1710.0,,0.0,Neutral,0.0,Neutral
-2021-05-23,1710.0,,0.0,Neutral,0.0,Neutral
-2021-05-20,1711.0,,0.0,Neutral,0.0,Neutral
-2021-05-19,1729.0,,0.0,Neutral,0.0,Neutral
-2021-05-18,1752.0,,0.0,Neutral,0.2234872728586197,Positive
-2021-05-17,1714.0,,0.0,Neutral,0.4469745457172394,Positive
-2021-05-16,1717.0,2021-05-16,0.8939490914344788,Strongly Positive,0.8939490914344788,Strongly Positive
-2021-05-13,1694.0,,0.0,Neutral,0.0,Neutral
-2021-05-12,1694.0,,0.0,Neutral,0.0,Neutral
-2021-05-11,1710.0,,0.0,Neutral,0.0,Neutral
-2021-05-10,1699.0,,0.0,Neutral,0.0,Neutral
-2021-05-09,1686.0,,0.0,Neutral,0.0,Neutral
-2021-05-06,1713.0,,0.0,Neutral,0.0,Neutral
-2021-05-05,1736.0,,0.0,Neutral,0.0,Neutral
-2021-05-04,1719.0,,0.0,Neutral,0.0,Neutral
-2021-05-03,1690.0,,0.0,Neutral,0.0,Neutral
-2021-05-02,1699.0,,0.0,Neutral,0.0,Neutral
-2021-04-29,1674.0,,0.0,Neutral,0.0,Neutral
-2021-04-28,1645.0,,0.0,Neutral,0.0,Neutral
-2021-04-27,1690.0,,0.0,Neutral,0.0,Neutral
-2021-04-26,1615.0,,0.0,Neutral,0.0,Neutral
-2021-04-25,1670.0,,0.0,Neutral,0.0,Neutral
-2021-04-22,1729.0,,0.0,Neutral,0.0,Neutral
-2021-04-21,1710.0,,0.0,Neutral,0.0,Neutral
-2021-04-20,1738.0,,0.0,Neutral,0.0,Neutral
-2021-04-19,1730.0,,0.0,Neutral,0.0,Neutral
-2021-04-18,1766.0,,0.0,Neutral,0.0,Neutral
-2021-04-15,1796.0,,0.0,Neutral,0.0,Neutral
-2021-04-13,1805.0,,0.0,Neutral,0.0,Neutral
-2021-04-12,1824.0,,0.0,Neutral,0.0,Neutral
-2021-04-08,1809.0,,0.0,Neutral,0.0,Neutral
-2021-04-07,1806.0,,0.0,Neutral,0.0,Neutral
-2021-04-06,1823.0,,0.0,Neutral,0.0,Neutral
-2021-04-05,1658.0,,0.0,Neutral,0.0,Neutral
-2021-04-04,1508.0,,0.0,Neutral,0.0,Neutral
-2021-04-01,1371.0,,0.0,Neutral,0.0,Neutral
-2021-03-31,1247.0,,0.0,Neutral,0.0,Neutral
-2021-03-30,1134.0,,0.0,Neutral,0.0,Neutral
-2021-03-29,1031.0,,0.0,Neutral,0.0,Neutral
-2021-03-25,973.0,,0.0,Neutral,0.0,Neutral
-2021-03-24,885.0,,0.0,Neutral,0.0,Neutral
-2021-03-23,819.0,,0.0,Neutral,0.2062000036239624,Positive
-2021-03-22,745.0,,0.0,Neutral,0.4124000072479248,Positive
-2020-09-10,914.0,2020-09-10,0.8248000144958496,Strongly Positive,0.8248000144958496,Strongly Positive
-2020-09-09,898.0,,0.0,Neutral,0.0,Neutral
-2020-09-08,884.0,,0.0,Neutral,0.0,Neutral
-2020-09-07,876.0,,0.0,Neutral,0.0,Neutral
-2020-09-06,883.0,,0.0,Neutral,0.0,Neutral
-2020-09-03,890.0,,0.0,Neutral,0.0,Neutral
-2020-09-02,890.0,,0.0,Neutral,0.0,Neutral
-2020-08-31,900.0,,0.0,Neutral,0.0,Neutral
-2020-08-30,896.0,,0.0,Neutral,0.0,Neutral
-2020-08-27,909.0,,0.0,Neutral,0.0,Neutral
-2020-08-26,910.0,,0.0,Neutral,0.0,Neutral
-2020-08-25,900.0,,0.0,Neutral,-0.17222028970718384,Slightly Negative
-2020-08-24,890.0,,0.0,Neutral,-0.3444405794143677,Negative
-2020-08-23,864.0,2020-08-23,-0.6888811588287354,Strongly Negative,-0.6888811588287354,Strongly Negative
-2020-08-20,860.0,,0.0,Neutral,0.0,Neutral
-2020-08-19,860.0,,0.0,Neutral,-0.09255364537239075,Slightly Negative
-2020-08-18,873.0,,0.0,Neutral,-0.1851072907447815,Slightly Negative
-2020-08-17,860.0,2020-08-17,-0.370214581489563,Negative,-0.370214581489563,Negative
-2020-08-16,864.0,,0.0,Neutral,0.0,Neutral
-2020-08-13,900.0,,0.0,Neutral,0.0,Neutral
-2020-08-12,896.0,,0.0,Neutral,0.0,Neutral
-2020-08-11,910.0,,0.0,Neutral,0.0,Neutral
-2020-08-10,934.0,,0.0,Neutral,0.0,Neutral
-2020-08-09,894.0,,0.0,Neutral,0.0,Neutral
-2020-08-06,880.0,,0.0,Neutral,0.0,Neutral
-2020-08-05,877.0,,0.0,Neutral,0.0,Neutral
-2020-08-03,896.0,,0.0,Neutral,0.0,Neutral
-2020-08-02,899.0,,0.0,Neutral,0.0,Neutral
-2020-07-30,940.0,,0.0,Neutral,0.0,Neutral
-2020-07-29,941.0,,0.0,Neutral,0.0,Neutral
-2020-07-28,984.0,,0.0,Neutral,0.0,Neutral
-2020-07-27,985.0,,0.0,Neutral,0.0,Neutral
-2020-07-26,985.0,,0.0,Neutral,0.0,Neutral
-2020-07-23,975.0,,0.0,Neutral,0.0,Neutral
-2020-07-22,962.0,,0.0,Neutral,0.0,Neutral
-2020-07-21,975.0,,0.0,Neutral,0.0,Neutral
-2020-07-20,997.0,,0.0,Neutral,0.0,Neutral
-2020-07-19,1060.0,,0.0,Neutral,0.0,Neutral
-2020-07-16,1000.0,,0.0,Neutral,0.0,Neutral
-2020-07-15,1001.0,,0.0,Neutral,0.21790727972984314,Positive
-2020-07-14,1022.0,,0.0,Neutral,0.4358145594596863,Positive
-2020-07-13,1020.0,2020-07-13,0.8716291189193726,Strongly Positive,1.0027339458465576,Strongly Positive
-2020-07-12,1032.0,,0.0,Neutral,0.43829603493213654,Positive
-2020-07-09,944.0,2020-07-09,0.5244193077087402,Positive,1.0730021595954895,Strongly Positive
-2020-03-16,859.0,2020-03-16,0.7043455243110657,Strongly Positive,1.3249718844890594,Strongly Positive
-2020-03-15,860.0,2020-03-15,0.7856403589248657,Strongly Positive,1.2412527203559875,Strongly Positive
-2020-03-12,1070.0,2020-03-12,0.9112247228622437,Strongly Positive,0.9112247228622437,Strongly Positive
-2020-03-11,1080.0,,0.0,Neutral,0.0,Neutral
-2020-03-10,994.0,,0.0,Neutral,0.0,Neutral
-2020-03-05,1051.0,,0.0,Neutral,0.0,Neutral
-2020-03-04,1035.0,,0.0,Neutral,0.08937187492847443,Slightly Positive
-2020-03-03,1132.0,,0.0,Neutral,0.40834657847881317,Positive
-2020-03-02,1181.0,2020-03-02,0.3574874997138977,Positive,0.8166931569576263,Strongly Positive
-2020-03-01,1260.0,2020-03-01,0.9184113144874572,Strongly Positive,0.9184113144874572,Strongly Positive
-2020-02-27,1350.0,,0.0,Neutral,0.0,Neutral
-2020-02-26,1235.0,,0.0,Neutral,0.0749826654791832,Slightly Positive
-2020-02-25,1200.0,,0.0,Neutral,0.1499653309583664,Slightly Positive
-2020-02-24,1182.0,2020-02-24,0.2999306619167328,Positive,0.2999306619167328,Positive
-2020-02-23,1187.0,,0.0,Neutral,0.0,Neutral
-2020-02-20,1180.0,,0.0,Neutral,0.0,Neutral
-2020-02-19,1122.0,,0.0,Neutral,0.0,Neutral
-2020-02-18,1100.0,,0.0,Neutral,0.17740939557552338,Slightly Positive
-2020-02-17,1113.0,,0.0,Neutral,0.35481879115104675,Positive
-2020-02-16,1116.0,2020-02-16,0.7096375823020935,Strongly Positive,0.7096375823020935,Strongly Positive
-2020-02-13,1089.0,,0.0,Neutral,0.0,Neutral
-2020-02-12,1032.0,,0.0,Neutral,0.0,Neutral
-2020-02-11,1015.0,,0.0,Neutral,0.0,Neutral
-2020-02-10,1008.0,,0.0,Neutral,0.0,Neutral
-2020-02-09,980.0,,0.0,Neutral,0.0,Neutral
-2020-02-06,998.0,,0.0,Neutral,0.0,Neutral
-2020-02-05,1000.0,,0.0,Neutral,0.0,Neutral
-2020-02-04,1005.0,,0.0,Neutral,0.0,Neutral
-2020-02-03,1017.0,,0.0,Neutral,0.0,Neutral
-2020-02-02,1033.0,,0.0,Neutral,-0.22474974393844604,Negative
-2020-01-30,999.0,,0.0,Neutral,-0.4494994878768921,Negative
-2020-01-29,981.0,2020-01-29,-0.8989989757537842,Strongly Negative,-0.8989989757537842,Strongly Negative
-2020-01-28,974.0,,0.0,Neutral,0.0,Neutral
-2020-01-27,963.0,,0.0,Neutral,0.0,Neutral
-2020-01-26,927.0,,0.0,Neutral,0.0,Neutral
-2020-01-23,941.0,,0.0,Neutral,0.0,Neutral
-2020-01-22,950.0,,0.0,Neutral,0.0,Neutral
-2020-01-21,960.0,,0.0,Neutral,0.0,Neutral
-2020-01-20,950.0,,0.0,Neutral,0.0,Neutral
-2020-01-19,970.0,,0.0,Neutral,0.0,Neutral
-2020-01-16,980.0,,0.0,Neutral,0.0,Neutral
-2020-01-15,959.0,,0.0,Neutral,0.0,Neutral
-2020-01-14,946.0,,0.0,Neutral,0.0,Neutral
-2020-01-13,950.0,,0.0,Neutral,0.0,Neutral
-2020-01-12,943.0,,0.0,Neutral,0.0,Neutral
-2020-01-09,891.0,,0.0,Neutral,0.0,Neutral
-2020-01-08,895.0,,0.0,Neutral,0.2240561693906784,Positive
-2020-01-07,816.0,,0.0,Neutral,0.4481123387813568,Positive
-2020-01-06,742.0,2020-01-06,0.8962246775627136,Strongly Positive,0.8962246775627136,Strongly Positive
-2020-01-05,675.0,,0.0,Neutral,0.0,Neutral
-2019-03-07,1128.0,,0.0,Neutral,0.21152231097221375,Positive
-2019-03-06,1119.0,,0.0,Neutral,0.4230446219444275,Positive
-2019-03-05,1100.0,2019-03-05,0.846089243888855,Strongly Positive,0.846089243888855,Strongly Positive
-2019-03-03,1096.0,,0.0,Neutral,0.18925577402114868,Slightly Positive
-2019-02-27,1118.0,,0.0,Neutral,0.37851154804229736,Positive
-2019-02-26,1122.0,2019-02-26,0.7570230960845947,Strongly Positive,0.7570230960845947,Strongly Positive
-2019-02-25,1123.0,,0.0,Neutral,0.0,Neutral
-2019-02-24,1107.0,,0.0,Neutral,0.0,Neutral
-2019-02-21,1157.0,,0.0,Neutral,0.2155914604663849,Positive
-2019-02-20,1125.0,,0.0,Neutral,0.4311829209327698,Positive
-2019-02-19,1132.0,2019-02-19,0.8623658418655396,Strongly Positive,0.8623658418655396,Strongly Positive
-2019-02-18,1117.0,,0.0,Neutral,0.0,Neutral
-2019-02-17,1104.0,,0.0,Neutral,0.22485199570655823,Positive
-2019-02-14,1110.0,,0.0,Neutral,0.44970399141311646,Positive
-2019-02-13,1124.0,2019-02-13,0.8994079828262329,Strongly Positive,1.1159150302410126,Strongly Positive
-2019-02-12,1121.0,,0.0,Neutral,0.4330140948295593,Positive
-2019-02-10,1120.0,2019-02-10,0.8660281896591187,Strongly Positive,0.8660281896591187,Strongly Positive
-2019-02-07,1148.0,,0.0,Neutral,0.0,Neutral
-2019-02-06,1136.0,,0.0,Neutral,0.0,Neutral
-2019-02-05,1159.0,,0.0,Neutral,0.22176390886306763,Positive
-2019-02-04,1155.0,,0.0,Neutral,0.44352781772613525,Positive
-2019-02-03,1145.0,2019-02-03,0.8870556354522705,Strongly Positive,0.8870556354522705,Strongly Positive
-2019-01-31,1130.0,,0.0,Neutral,0.0,Neutral
-2019-01-30,1140.0,,0.0,Neutral,0.0,Neutral
-2019-01-29,1130.0,,0.0,Neutral,0.0,Neutral
-2019-01-28,1135.0,,0.0,Neutral,0.0,Neutral
-2019-01-27,1125.0,,0.0,Neutral,0.0,Neutral
-2019-01-24,1135.0,,0.0,Neutral,0.21253621578216553,Positive
-2019-01-23,1135.0,,0.0,Neutral,0.5780794620513916,Positive
-2019-01-22,1142.0,2019-01-22,0.8501448631286621,Strongly Positive,1.1561589241027832,Strongly Positive
-2019-01-21,1130.0,2019-01-21,0.6120281219482422,Strongly Positive,0.7227657637558877,Strongly Positive
-2019-01-20,1156.0,,0.0,Neutral,0.2214752836152911,Positive
-2019-01-17,1150.0,2019-01-17,0.4429505672305822,Positive,0.4429505672305822,Positive
-2019-01-16,1129.0,,0.0,Neutral,0.0,Neutral
-2019-01-15,1137.0,,0.0,Neutral,0.22444960474967957,Positive
-2019-01-14,1134.0,,0.0,Neutral,0.44889920949935913,Positive
-2019-01-13,1061.0,2019-01-13,0.8977984189987183,Strongly Positive,0.8977984189987183,Strongly Positive
-2019-01-10,965.0,,0.0,Neutral,0.0,Neutral
-2019-01-09,965.0,,0.0,Neutral,0.0,Neutral
-2019-01-08,956.0,,0.0,Neutral,0.0,Neutral
-2019-01-07,962.0,,0.0,Neutral,0.0,Neutral
-2019-01-06,944.0,,0.0,Neutral,0.0,Neutral
-2019-01-03,962.0,,0.0,Neutral,0.0,Neutral
-2019-01-02,962.0,,0.0,Neutral,0.1993231475353241,Slightly Positive
-2019-01-01,953.0,,0.0,Neutral,0.3986462950706482,Positive
-2018-12-31,930.0,2018-12-31,0.7972925901412964,Strongly Positive,0.7972925901412964,Strongly Positive
-2018-12-30,947.0,,0.0,Neutral,0.0,Neutral
-2018-12-27,981.0,,0.0,Neutral,0.0,Neutral
-2018-12-26,988.0,,0.0,Neutral,0.0,Neutral
-2018-12-25,942.0,,0.0,Neutral,0.0,Neutral
-2018-12-24,958.0,,0.0,Neutral,0.0,Neutral
-2018-12-23,974.0,,0.0,Neutral,0.0,Neutral
-2018-12-20,886.0,,0.0,Neutral,0.0,Neutral
-2018-12-19,875.0,,0.0,Neutral,0.0,Neutral
-2018-12-18,885.0,,0.0,Neutral,0.0,Neutral
-2018-12-17,915.0,,0.0,Neutral,0.0,Neutral
-2018-12-16,850.0,,0.0,Neutral,0.0,Neutral
-2018-12-13,809.0,,0.0,Neutral,0.0,Neutral
-2018-12-12,825.0,,0.0,Neutral,0.0,Neutral
-2018-12-11,820.0,,0.0,Neutral,0.0,Neutral
-2018-12-10,820.0,,0.0,Neutral,0.0,Neutral
-2018-12-06,791.0,,0.0,Neutral,0.0,Neutral
-2018-12-05,775.0,,0.0,Neutral,0.2040773183107376,Positive
-2018-12-04,790.0,,0.0,Neutral,0.4081546366214752,Positive
-2018-12-03,788.0,2018-12-03,0.8163092732429504,Strongly Positive,0.8163092732429504,Strongly Positive
-2018-12-02,800.0,,0.0,Neutral,0.0,Neutral
-2018-11-29,835.0,,0.0,Neutral,0.20782852172851562,Positive
-2018-11-28,870.0,,0.0,Neutral,0.41565704345703125,Positive
-2018-11-27,885.0,2018-11-27,0.8313140869140625,Strongly Positive,0.8313140869140625,Strongly Positive
-2018-11-26,875.0,,0.0,Neutral,0.0,Neutral
-2018-11-25,885.0,,0.0,Neutral,0.21898223459720612,Positive
-2018-11-22,926.0,,0.0,Neutral,0.43796446919441223,Positive
-2018-11-21,964.0,2018-11-21,0.8759289383888245,Strongly Positive,0.8759289383888245,Strongly Positive
-2018-11-20,980.0,,0.0,Neutral,0.0,Neutral
-2018-11-18,980.0,,0.0,Neutral,0.0,Neutral
-2018-11-15,986.0,,0.0,Neutral,0.215395987033844,Positive
-2018-11-14,1005.0,,0.0,Neutral,0.430791974067688,Positive
-2018-11-13,980.0,2018-11-13,0.861583948135376,Strongly Positive,1.0197254419326782,Strongly Positive
-2018-11-12,975.0,,0.0,Neutral,0.3162829875946045,Positive
-2018-11-06,1005.0,2018-11-06,0.632565975189209,Strongly Positive,0.632565975189209,Strongly Positive
-2018-11-05,1015.0,,0.0,Neutral,0.0,Neutral
-2018-11-04,994.0,,0.0,Neutral,0.0,Neutral
-2018-11-01,1010.0,,0.0,Neutral,0.0,Neutral
-2018-10-31,1010.0,,0.0,Neutral,0.0,Neutral
-2018-10-30,1030.0,,0.0,Neutral,0.0,Neutral
-2018-10-29,1030.0,,0.0,Neutral,0.0,Neutral
-2018-10-28,1015.0,,0.0,Neutral,-0.01354848127812145,Neutral
-2018-10-25,1035.0,,0.0,Neutral,-0.0270969625562429,Neutral
-2018-10-24,1050.0,2018-10-24,-0.0541939251124858,Slightly Negative,-0.0541939251124858,Slightly Negative
-2018-10-23,1015.0,,0.0,Neutral,0.0,Neutral
-2018-10-21,1021.0,,0.0,Neutral,0.20871274173259735,Positive
-2018-10-15,1037.0,,0.0,Neutral,0.4174254834651947,Positive
-2018-10-11,1035.0,2018-10-11,0.8348509669303894,Strongly Positive,0.8348509669303894,Strongly Positive
-2018-10-10,1020.0,,0.0,Neutral,0.0,Neutral
-2018-10-09,1013.0,,0.0,Neutral,0.0,Neutral
-2018-10-08,1010.0,,0.0,Neutral,0.0,Neutral
-2018-10-07,1008.0,,0.0,Neutral,0.0,Neutral
-2018-10-04,1025.0,,0.0,Neutral,0.0,Neutral
-2018-10-03,1040.0,,0.0,Neutral,0.0,Neutral
-2018-10-02,1044.0,,0.0,Neutral,0.2334708422422409,Positive
-2018-10-01,1055.0,,0.0,Neutral,0.4669416844844818,Positive
-2018-09-30,1101.0,2018-09-30,0.9338833689689636,Strongly Positive,0.9338833689689636,Strongly Positive
-2018-09-27,1145.0,,0.0,Neutral,0.0,Neutral
-2018-09-26,1150.0,,0.0,Neutral,0.0,Neutral
-2018-09-25,1150.0,,0.0,Neutral,0.0,Neutral
-2018-09-23,1143.0,,0.0,Neutral,0.0,Neutral
-2018-09-20,1129.0,,0.0,Neutral,0.0,Neutral
-2018-09-18,1128.0,,0.0,Neutral,0.0,Neutral
-2018-09-17,1120.0,,0.0,Neutral,0.0,Neutral
-2018-09-16,1130.0,,0.0,Neutral,0.0,Neutral
-2018-09-13,1109.0,,0.0,Neutral,0.0,Neutral
-2018-09-12,1122.0,,0.0,Neutral,0.0,Neutral
-2018-09-11,1100.0,,0.0,Neutral,-0.0545857548713684,Slightly Negative
-2018-09-10,1107.0,,0.0,Neutral,-0.1091715097427368,Slightly Negative
-2018-09-09,1086.0,2018-09-09,-0.2183430194854736,Negative,-0.2183430194854736,Negative
-2018-09-06,1081.0,,0.0,Neutral,0.0,Neutral
-2018-09-05,1100.0,,0.0,Neutral,0.0,Neutral
-2018-09-04,1100.0,,0.0,Neutral,0.0,Neutral
-2018-09-03,1114.0,,0.0,Neutral,0.0,Neutral
-2018-09-02,1111.0,,0.0,Neutral,0.0,Neutral
-2018-08-30,1075.0,,0.0,Neutral,0.0,Neutral
-2018-08-29,1055.0,,0.0,Neutral,0.0,Neutral
-2018-08-28,1075.0,,0.0,Neutral,0.21094736456871033,Positive
-2018-08-26,1068.0,,0.0,Neutral,0.42189472913742065,Positive
-2018-08-23,1065.0,2018-08-23,0.8437894582748413,Strongly Positive,0.8437894582748413,Strongly Positive
-2018-08-22,1075.0,,0.0,Neutral,0.0,Neutral
-2018-08-21,1080.0,,0.0,Neutral,0.0,Neutral
-2018-08-20,1095.0,,0.0,Neutral,0.15877923369407654,Slightly Positive
-2018-08-19,1117.0,,0.0,Neutral,0.3175584673881531,Positive
-2018-08-16,1150.0,2018-08-16,0.6351169347763062,Strongly Positive,0.6351169347763062,Strongly Positive
-2018-08-15,1143.0,,0.0,Neutral,0.21930891275405884,Positive
-2018-08-14,1270.0,,0.0,Neutral,0.4386178255081177,Positive
-2018-08-13,1270.0,2018-08-13,0.8772356510162354,Strongly Positive,0.8772356510162354,Strongly Positive
-2018-08-12,1255.0,,0.0,Neutral,0.0,Neutral
-2018-08-09,1285.0,,0.0,Neutral,0.2275393456220627,Positive
-2018-08-08,1300.0,,0.0,Neutral,0.4550786912441254,Positive
-2018-08-07,1300.0,2018-08-07,0.9101573824882508,Strongly Positive,0.9101573824882508,Strongly Positive
-2018-08-06,1311.0,,0.0,Neutral,0.0,Neutral
-2018-08-05,1308.0,,0.0,Neutral,0.0,Neutral
-2018-08-02,1319.0,,0.0,Neutral,0.2260932773351669,Positive
-2018-08-01,1345.0,,0.0,Neutral,0.4521865546703338,Positive
-2018-07-31,1326.0,2018-07-31,0.9043731093406676,Strongly Positive,0.9043731093406676,Strongly Positive
-2018-07-30,1325.0,,0.0,Neutral,0.0,Neutral
-2018-07-29,1372.0,,0.0,Neutral,-0.02522991225123405,Neutral
-2018-07-26,1346.0,,0.0,Neutral,0.1753290668129921,Slightly Positive
-2018-07-25,1370.0,2018-07-25,-0.1009196490049362,Slightly Negative,0.3506581336259842,Positive
-2018-07-24,1365.0,2018-07-24,0.9031555652618408,Strongly Positive,0.9031555652618408,Strongly Positive
-2018-07-23,1345.0,,0.0,Neutral,0.0,Neutral
-2018-07-22,1319.0,,0.0,Neutral,0.0,Neutral
-2018-07-19,1343.0,,0.0,Neutral,0.0,Neutral
-2018-07-18,1370.0,,0.0,Neutral,0.22403119504451752,Positive
-2018-07-16,1385.0,,0.0,Neutral,0.44806239008903503,Positive
-2018-07-15,1375.0,2018-07-15,0.8961247801780701,Strongly Positive,0.8961247801780701,Strongly Positive
-2018-07-12,1348.0,,0.0,Neutral,0.0,Neutral
-2018-07-11,1420.0,,0.0,Neutral,0.0,Neutral
-2018-07-10,1400.0,,0.0,Neutral,0.0,Neutral
-2018-07-09,1400.0,,0.0,Neutral,0.0,Neutral
-2018-07-08,1444.0,,0.0,Neutral,0.0,Neutral
-2018-07-05,1468.0,,0.0,Neutral,0.23109009861946106,Positive
-2018-07-04,1355.0,,0.0,Neutral,0.4621801972389221,Positive
-2018-07-03,1310.0,2018-07-03,0.9243603944778442,Strongly Positive,0.9243603944778442,Strongly Positive
-2018-07-02,1350.0,,0.0,Neutral,0.0,Neutral
-2018-07-01,1325.0,,0.0,Neutral,0.0,Neutral
-2018-06-28,1342.0,,0.0,Neutral,0.0,Neutral
-2018-06-27,1333.0,,0.0,Neutral,0.0,Neutral
-2018-06-26,1338.0,,0.0,Neutral,0.0,Neutral
-2018-06-25,1380.0,,0.0,Neutral,0.0,Neutral
-2018-06-24,1428.0,,0.0,Neutral,0.0,Neutral
-2018-06-21,1417.0,,0.0,Neutral,0.22321495413780212,Positive
-2018-06-20,1383.0,,0.0,Neutral,0.44642990827560425,Positive
-2018-06-19,1411.0,2018-06-19,0.8928598165512085,Strongly Positive,0.8928598165512085,Strongly Positive
-2018-06-18,1419.0,,0.0,Neutral,0.0,Neutral
-2018-06-17,1410.0,,0.0,Neutral,0.0,Neutral
-2018-06-14,1435.0,,0.0,Neutral,0.0,Neutral
-2018-06-13,1435.0,,0.0,Neutral,0.0,Neutral
-2018-06-12,1450.0,,0.0,Neutral,0.0,Neutral
-2018-06-11,1435.0,,0.0,Neutral,0.0,Neutral
-2018-06-10,1375.0,,0.0,Neutral,0.0,Neutral
-2018-06-07,1448.0,,0.0,Neutral,0.0,Neutral
-2018-06-06,1476.0,,0.0,Neutral,0.0,Neutral
-2018-06-04,1441.0,,0.0,Neutral,0.0,Neutral
-2018-06-03,1482.0,,0.0,Neutral,0.2301260679960251,Positive
-2018-05-31,1520.0,,0.0,Neutral,0.6598463356494904,Strongly Positive
-2018-05-30,1512.0,2018-05-30,0.9205042719841005,Strongly Positive,1.3196926712989807,Strongly Positive
-2018-05-29,1528.0,2018-05-29,0.7983767986297607,Strongly Positive,0.7983767986297607,Strongly Positive
-2018-05-28,1511.0,,0.0,Neutral,0.0,Neutral
-2018-05-27,1500.0,,0.0,Neutral,0.0,Neutral
-2018-05-24,1577.0,,0.0,Neutral,0.0,Neutral
-2018-05-23,1592.0,,0.0,Neutral,0.0,Neutral
-2018-05-22,1520.0,,0.0,Neutral,0.0,Neutral
-2018-05-21,1470.0,,0.0,Neutral,0.2307221442461014,Positive
-2018-05-20,1470.0,,0.0,Neutral,0.6668585538864136,Strongly Positive
-2018-05-17,1830.0,2018-05-17,0.9228885769844056,Strongly Positive,1.5513009279966354,Strongly Positive
-2018-05-16,1860.0,2018-05-16,0.8216570615768433,Strongly Positive,1.4387773424386978,Strongly Positive
-2018-05-15,1751.0,2018-05-15,0.8703352808952332,Strongly Positive,1.234240561723709,Strongly Positive
-2018-05-14,1736.0,2018-05-14,0.7278105616569519,Strongly Positive,0.9567851424217224,Strongly Positive
-2018-05-10,1763.0,,0.0,Neutral,0.457949161529541,Positive
-2018-05-09,1784.0,2018-05-09,0.915898323059082,Strongly Positive,0.915898323059082,Strongly Positive
-2018-05-08,1758.0,,0.0,Neutral,0.21129271388053894,Positive
-2018-05-07,1760.0,,0.0,Neutral,0.4225854277610779,Positive
-2018-05-06,1760.0,2018-05-06,0.8451708555221558,Strongly Positive,0.8451708555221558,Strongly Positive
-2018-05-03,1745.0,,0.0,Neutral,0.0,Neutral
-2018-05-02,1744.0,,0.0,Neutral,0.0,Neutral
-2018-04-29,1698.0,,0.0,Neutral,0.0,Neutral
-2018-04-26,1699.0,,0.0,Neutral,0.0,Neutral
-2018-04-25,1715.0,,0.0,Neutral,-0.03000623919069765,Neutral
-2018-04-24,1720.0,,0.0,Neutral,-0.0600124783813953,Slightly Negative
-2018-04-23,1739.0,2018-04-23,-0.1200249567627906,Slightly Negative,-0.1200249567627906,Slightly Negative
-2018-04-22,1690.0,,0.0,Neutral,0.0,Neutral
-2018-04-19,1537.0,,0.0,Neutral,0.0,Neutral
-2018-04-18,1503.0,,0.0,Neutral,0.19130298495292664,Slightly Positive
-2018-04-17,1528.0,,0.0,Neutral,0.5848449766635895,Positive
-2018-04-16,1405.0,2018-04-16,0.7652119398117065,Strongly Positive,1.169689953327179,Strongly Positive
-2018-04-15,1371.0,2018-04-15,0.8089560270309448,Strongly Positive,0.8089560270309448,Strongly Positive
-2018-04-12,1360.0,,0.0,Neutral,0.0,Neutral
-2018-04-11,1353.0,,0.0,Neutral,0.0,Neutral
-2018-04-10,1351.0,,0.0,Neutral,0.0,Neutral
-2018-04-09,1381.0,,0.0,Neutral,0.0,Neutral
-2018-04-08,1431.0,,0.0,Neutral,0.0,Neutral
-2018-04-05,1307.0,,0.0,Neutral,0.0,Neutral
-2018-04-04,1306.0,,0.0,Neutral,0.0,Neutral
-2018-04-03,1240.0,,0.0,Neutral,0.0,Neutral
-2018-04-02,1213.0,,0.0,Neutral,0.0,Neutral
-2018-04-01,1215.0,,0.0,Neutral,0.0,Neutral
-2018-03-29,1222.0,,0.0,Neutral,0.0,Neutral
-2018-03-28,1245.0,,0.0,Neutral,0.0,Neutral
-2018-03-27,1270.0,,0.0,Neutral,0.0,Neutral
-2018-03-26,1178.0,,0.0,Neutral,0.228836715221405,Positive
-2018-03-22,1300.0,,0.0,Neutral,0.45767343044281,Positive
-2018-03-21,1315.0,2018-03-21,0.91534686088562,Strongly Positive,0.91534686088562,Strongly Positive
-2018-03-20,1375.0,,0.0,Neutral,0.0,Neutral
-2018-03-19,1400.0,,0.0,Neutral,0.0,Neutral
-2018-03-18,1417.0,,0.0,Neutral,0.0,Neutral
-2018-03-15,1445.0,,0.0,Neutral,0.0,Neutral
-2018-03-14,1445.0,,0.0,Neutral,0.0,Neutral
-2018-03-13,1456.0,,0.0,Neutral,0.0,Neutral
-2018-03-12,1395.0,,0.0,Neutral,0.0,Neutral
-2018-03-11,1413.0,,0.0,Neutral,0.0,Neutral
-2018-03-07,1476.0,,0.0,Neutral,0.0,Neutral
-2018-03-06,1345.0,,0.0,Neutral,0.0,Neutral
-2018-03-05,1345.0,,0.0,Neutral,0.0,Neutral
-2018-03-04,1393.0,,0.0,Neutral,0.0,Neutral
-2018-02-28,1446.0,,0.0,Neutral,0.0,Neutral
-2018-02-27,1500.0,,0.0,Neutral,0.0,Neutral
-2018-02-26,1481.0,,0.0,Neutral,0.0,Neutral
-2018-02-25,1535.0,,0.0,Neutral,0.0,Neutral
-2018-02-22,1550.0,,0.0,Neutral,0.0,Neutral
-2018-02-21,1539.0,,0.0,Neutral,0.0,Neutral
-2018-02-20,1570.0,,0.0,Neutral,0.0,Neutral
-2018-02-18,1590.0,,0.0,Neutral,0.0,Neutral
-2018-02-15,1649.0,,0.0,Neutral,0.0,Neutral
-2018-02-14,1590.0,,0.0,Neutral,0.0,Neutral
-2018-02-12,1550.0,,0.0,Neutral,0.0,Neutral
-2018-02-11,1540.0,,0.0,Neutral,0.0,Neutral
-2018-02-08,1570.0,,0.0,Neutral,0.0,Neutral
-2018-02-07,1560.0,,0.0,Neutral,0.0,Neutral
-2018-02-06,1557.0,,0.0,Neutral,0.0,Neutral
-2018-02-05,1580.0,,0.0,Neutral,0.0,Neutral
-2018-02-04,1595.0,,0.0,Neutral,0.0,Neutral
-2018-02-01,1580.0,,0.0,Neutral,0.0,Neutral
-2018-01-31,1520.0,,0.0,Neutral,0.0,Neutral
-2018-01-29,1517.0,,0.0,Neutral,0.0,Neutral
-2018-01-28,1497.0,,0.0,Neutral,0.0,Neutral
-2018-01-25,1470.0,,0.0,Neutral,0.0,Neutral
-2018-01-24,1451.0,,0.0,Neutral,0.0,Neutral
-2018-01-23,1460.0,,0.0,Neutral,0.0,Neutral
-2018-01-22,1470.0,,0.0,Neutral,0.0,Neutral
-2018-01-21,1499.0,,0.0,Neutral,0.0,Neutral
-2018-01-17,1500.0,,0.0,Neutral,0.0,Neutral
-2018-01-16,1475.0,,0.0,Neutral,0.0,Neutral
-2018-01-14,1500.0,,0.0,Neutral,0.0,Neutral
-2018-01-10,1501.0,,0.0,Neutral,0.0,Neutral
-2018-01-09,1531.0,,0.0,Neutral,0.0,Neutral
-2018-01-08,1500.0,,0.0,Neutral,0.0,Neutral
-2018-01-07,1525.0,,0.0,Neutral,0.0,Neutral
-2018-01-04,1522.0,,0.0,Neutral,0.0,Neutral
-2018-01-03,1535.0,,0.0,Neutral,0.0,Neutral
-2018-01-02,1535.0,,0.0,Neutral,0.0,Neutral
-2018-01-01,1492.0,,0.0,Neutral,0.0,Neutral
-2017-12-31,1465.0,,0.0,Neutral,0.0,Neutral
-2017-12-28,1519.0,,0.0,Neutral,0.0,Neutral
-2017-12-27,1500.0,,0.0,Neutral,0.0,Neutral
-2017-12-26,1545.0,,0.0,Neutral,0.0,Neutral
-2017-12-24,1550.0,,0.0,Neutral,0.0,Neutral
-2017-12-21,1555.0,,0.0,Neutral,0.0,Neutral
-2017-12-20,1561.0,,0.0,Neutral,0.0,Neutral
-2017-12-19,1580.0,,0.0,Neutral,0.0,Neutral
-2017-12-18,1592.0,,0.0,Neutral,0.0,Neutral
-2017-12-17,1590.0,,0.0,Neutral,0.0,Neutral
-2017-12-14,1601.0,,0.0,Neutral,0.0,Neutral
-2017-12-13,1599.0,,0.0,Neutral,0.0,Neutral
-2017-12-12,1580.0,,0.0,Neutral,0.0,Neutral
-2017-12-11,1600.0,,0.0,Neutral,0.0,Neutral
-2017-12-10,1630.0,,0.0,Neutral,0.0,Neutral
-2017-12-06,1658.0,,0.0,Neutral,0.0,Neutral
-2017-12-05,1626.0,,0.0,Neutral,0.0,Neutral
-2017-12-04,1600.0,,0.0,Neutral,0.0,Neutral
-2017-11-30,1600.0,,0.0,Neutral,0.0,Neutral
-2017-11-29,1590.0,,0.0,Neutral,0.0,Neutral
-2017-11-28,1547.0,,0.0,Neutral,0.0,Neutral
-2017-11-27,1517.0,,0.0,Neutral,0.0,Neutral
-2017-11-26,1510.0,,0.0,Neutral,0.0,Neutral
-2017-11-23,1528.0,,0.0,Neutral,0.0,Neutral
-2017-11-22,1475.0,,0.0,Neutral,0.0,Neutral
-2017-11-21,1468.0,,0.0,Neutral,0.0,Neutral
-2017-11-20,1440.0,,0.0,Neutral,0.21558412909507751,Positive
-2017-11-19,1445.0,,0.0,Neutral,0.43116825819015503,Positive
-2017-11-16,1500.0,2017-11-16,0.8623365163803101,Strongly Positive,0.8623365163803101,Strongly Positive
-2017-11-15,1529.0,,0.0,Neutral,0.0,Neutral
-2017-11-14,1555.0,,0.0,Neutral,0.0,Neutral
-2017-11-13,1464.0,,0.0,Neutral,0.0,Neutral
-2017-11-12,1450.0,,0.0,Neutral,0.0,Neutral
-2017-11-09,1430.0,,0.0,Neutral,0.0,Neutral
-2017-11-08,1460.0,,0.0,Neutral,0.0,Neutral
-2017-11-07,1480.0,,0.0,Neutral,0.0,Neutral
-2017-11-06,1480.0,,0.0,Neutral,0.0,Neutral
-2017-11-05,1510.0,,0.0,Neutral,0.2317899763584137,Positive
-2017-11-02,1540.0,,0.0,Neutral,0.4635799527168274,Positive
-2017-11-01,1860.0,2017-11-01,0.9271599054336548,Strongly Positive,0.9271599054336548,Strongly Positive
-2017-10-31,1895.0,,0.0,Neutral,0.0,Neutral
-2017-10-30,1925.0,,0.0,Neutral,0.0,Neutral
-2017-10-29,1990.0,,0.0,Neutral,0.0,Neutral
-2017-10-25,1980.0,,0.0,Neutral,0.0,Neutral
-2017-10-24,2020.0,,0.0,Neutral,0.0,Neutral
-2017-10-23,2024.0,,0.0,Neutral,0.22546423226594925,Positive
-2017-10-22,2020.0,,0.0,Neutral,0.4509284645318985,Positive
-2017-10-18,2008.0,2017-10-18,0.901856929063797,Strongly Positive,0.901856929063797,Strongly Positive
-2017-10-17,1925.0,,0.0,Neutral,0.0,Neutral
-2017-10-16,1969.0,,0.0,Neutral,0.0,Neutral
-2017-10-15,1940.0,,0.0,Neutral,0.0,Neutral
-2017-10-12,1830.0,,0.0,Neutral,0.0,Neutral
-2017-10-11,1880.0,,0.0,Neutral,0.0,Neutral
-2017-10-10,1821.0,,0.0,Neutral,0.0,Neutral
-2017-10-09,1850.0,,0.0,Neutral,0.0,Neutral
-2017-10-08,1918.0,,0.0,Neutral,0.0,Neutral
-2017-10-04,1928.0,,0.0,Neutral,0.0,Neutral
-2017-09-26,1928.0,,0.0,Neutral,0.0,Neutral
-2017-09-25,1920.0,,0.0,Neutral,0.0,Neutral
-2017-09-24,1905.0,,0.0,Neutral,0.0,Neutral
-2017-09-20,1927.0,,0.0,Neutral,0.0,Neutral
-2017-09-18,1871.0,,0.0,Neutral,0.0,Neutral
-2017-09-17,1871.0,,0.0,Neutral,0.0,Neutral
-2017-09-14,1901.0,,0.0,Neutral,0.0,Neutral
-2017-09-13,1860.0,,0.0,Neutral,0.19627997279167175,Slightly Positive
-2017-09-12,1930.0,,0.0,Neutral,0.3925599455833435,Positive
-2017-09-11,1944.0,2017-09-11,0.785119891166687,Strongly Positive,0.785119891166687,Strongly Positive
-2017-09-10,2040.0,,0.0,Neutral,0.0,Neutral
-2017-09-07,2055.0,,0.0,Neutral,0.0,Neutral
-2017-09-06,2094.0,,0.0,Neutral,0.0,Neutral
-2017-09-04,2031.0,,0.0,Neutral,0.0,Neutral
-2017-08-31,2070.0,,0.0,Neutral,0.0,Neutral
-2017-08-30,2070.0,,0.0,Neutral,0.0,Neutral
-2017-08-28,2031.0,,0.0,Neutral,0.0,Neutral
-2017-08-27,2008.0,,0.0,Neutral,0.0,Neutral
-2017-08-24,1900.0,,0.0,Neutral,0.0,Neutral
-2017-08-23,1905.0,,0.0,Neutral,0.0,Neutral
-2017-08-22,1901.0,,0.0,Neutral,0.0,Neutral
-2017-08-21,1894.0,,0.0,Neutral,0.0,Neutral
-2017-08-20,1927.0,,0.0,Neutral,0.0,Neutral
-2017-08-17,1900.0,,0.0,Neutral,0.0,Neutral
-2017-08-16,1950.0,,0.0,Neutral,0.0,Neutral
-2017-08-15,1910.0,,0.0,Neutral,0.0,Neutral
-2017-08-13,1935.0,,0.0,Neutral,0.0,Neutral
-2017-08-10,1961.0,,0.0,Neutral,0.0,Neutral
-2017-08-09,1960.0,,0.0,Neutral,0.0,Neutral
-2017-08-07,1966.0,,0.0,Neutral,0.0,Neutral
-2017-08-06,2000.0,,0.0,Neutral,0.0,Neutral
-2017-08-03,2010.0,,0.0,Neutral,0.0,Neutral
-2017-08-02,2084.0,,0.0,Neutral,0.0,Neutral
-2017-08-01,2099.0,,0.0,Neutral,0.0,Neutral
-2017-07-31,2050.0,,0.0,Neutral,0.0,Neutral
-2017-07-30,2080.0,,0.0,Neutral,0.0,Neutral
-2017-07-27,1950.0,,0.0,Neutral,0.0,Neutral
-2017-07-26,1941.0,,0.0,Neutral,-0.0477578192949295,Neutral
-2017-07-25,1940.0,,0.0,Neutral,-0.095515638589859,Slightly Negative
-2017-07-24,1935.0,2017-07-24,-0.191031277179718,Slightly Negative,-0.191031277179718,Slightly Negative
-2017-07-23,1967.0,,0.0,Neutral,0.0,Neutral
-2017-07-20,1970.0,,0.0,Neutral,0.0,Neutral
-2017-07-19,1985.0,,0.0,Neutral,0.0,Neutral
-2017-07-18,1999.0,,0.0,Neutral,0.0,Neutral
-2017-07-17,1968.0,,0.0,Neutral,0.0,Neutral
-2017-07-16,1942.0,,0.0,Neutral,0.0,Neutral
-2017-07-13,1979.0,,0.0,Neutral,0.0,Neutral
-2017-07-12,1963.0,,0.0,Neutral,0.0,Neutral
-2017-07-11,1990.0,,0.0,Neutral,0.0,Neutral
-2017-07-10,1980.0,,0.0,Neutral,0.0,Neutral
-2017-07-09,1941.0,,0.0,Neutral,0.0,Neutral
-2017-07-06,2050.0,,0.0,Neutral,0.0,Neutral
-2017-07-05,2005.0,,0.0,Neutral,0.0,Neutral
-2017-07-04,1992.0,,0.0,Neutral,0.0,Neutral
-2017-07-03,1954.0,,0.0,Neutral,0.0,Neutral
-2017-07-02,1984.0,,0.0,Neutral,0.0,Neutral
-2017-06-28,1985.0,,0.0,Neutral,0.0,Neutral
-2017-06-27,1991.0,,0.0,Neutral,0.0,Neutral
-2017-06-25,2015.0,,0.0,Neutral,0.0,Neutral
-2017-06-22,2040.0,,0.0,Neutral,0.0,Neutral
-2017-06-21,2000.0,,0.0,Neutral,0.0,Neutral
-2017-06-20,1998.0,,0.0,Neutral,0.0,Neutral
-2017-06-19,1960.0,,0.0,Neutral,0.0,Neutral
-2017-06-18,1980.0,,0.0,Neutral,0.0,Neutral
-2017-06-15,2030.0,,0.0,Neutral,0.0,Neutral
-2017-06-14,1990.0,,0.0,Neutral,0.0,Neutral
-2017-06-13,1975.0,,0.0,Neutral,0.0,Neutral
-2017-06-12,1990.0,,0.0,Neutral,0.0,Neutral
-2017-06-11,2021.0,,0.0,Neutral,0.0,Neutral
-2017-06-08,2041.0,,0.0,Neutral,0.0,Neutral
-2017-06-07,2040.0,,0.0,Neutral,0.0,Neutral
-2017-06-06,2080.0,,0.0,Neutral,0.0,Neutral
-2017-06-05,2065.0,,0.0,Neutral,0.0,Neutral
-2017-06-04,2011.0,,0.0,Neutral,0.0,Neutral
-2017-06-01,2040.0,,0.0,Neutral,0.0,Neutral
-2017-05-31,2065.0,,0.0,Neutral,0.0,Neutral
-2017-05-30,2020.0,,0.0,Neutral,0.0,Neutral
-2017-05-28,2030.0,,0.0,Neutral,0.0,Neutral
-2017-05-24,2050.0,,0.0,Neutral,0.0,Neutral
-2017-05-23,2051.0,,0.0,Neutral,0.0,Neutral
-2017-05-22,2060.0,,0.0,Neutral,0.0,Neutral
-2017-05-21,2051.0,,0.0,Neutral,0.0,Neutral
-2017-05-18,2060.0,,0.0,Neutral,0.0,Neutral
-2017-05-17,2045.0,,0.0,Neutral,0.0,Neutral
-2017-05-16,2043.0,,0.0,Neutral,0.0,Neutral
-2017-05-15,2068.0,,0.0,Neutral,0.0,Neutral
-2017-05-11,2100.0,,0.0,Neutral,0.0,Neutral
-2017-05-09,2070.0,,0.0,Neutral,0.0,Neutral
-2017-05-08,2039.0,,0.0,Neutral,0.0,Neutral
-2017-05-07,2020.0,,0.0,Neutral,-0.21735365688800812,Negative
-2017-05-04,2120.0,,0.0,Neutral,-0.43470731377601624,Negative
-2017-05-03,2150.0,2017-05-03,-0.8694146275520325,Strongly Negative,-0.8694146275520325,Strongly Negative
-2017-05-02,2079.0,,0.0,Neutral,0.0,Neutral
-2017-04-30,1890.0,,0.0,Neutral,0.0,Neutral
-2017-04-27,1895.0,,0.0,Neutral,0.0,Neutral
-2017-04-26,1853.0,,0.0,Neutral,0.0,Neutral
-2017-04-25,1750.0,,0.0,Neutral,0.0,Neutral
-2017-04-24,1770.0,,0.0,Neutral,0.0,Neutral
-2017-04-23,1877.0,,0.0,Neutral,0.0,Neutral
-2017-04-20,1805.0,,0.0,Neutral,0.0,Neutral
-2017-04-19,1800.0,,0.0,Neutral,0.0,Neutral
-2017-04-18,1720.0,,0.0,Neutral,0.0,Neutral
-2017-04-16,1890.0,,0.0,Neutral,0.0,Neutral
-2017-04-13,1870.0,,0.0,Neutral,0.0,Neutral
-2017-04-12,1872.0,,0.0,Neutral,0.0,Neutral
-2017-04-11,1800.0,,0.0,Neutral,0.0,Neutral
-2017-04-10,1700.0,,0.0,Neutral,0.0,Neutral
-2017-04-09,1571.0,,0.0,Neutral,0.0,Neutral
-2017-04-06,1599.0,,0.0,Neutral,0.0,Neutral
-2017-04-04,1610.0,,0.0,Neutral,0.0,Neutral
-2017-04-03,1664.0,,0.0,Neutral,0.0,Neutral
-2017-04-02,1632.0,,0.0,Neutral,0.0,Neutral
-2017-03-30,1510.0,,0.0,Neutral,0.0,Neutral
-2017-03-29,1551.0,,0.0,Neutral,0.0,Neutral
-2017-03-28,1590.0,,0.0,Neutral,0.0,Neutral
-2017-03-26,1500.0,,0.0,Neutral,0.0,Neutral
-2017-03-23,1442.0,,0.0,Neutral,0.0,Neutral
-2017-03-22,1350.0,,0.0,Neutral,0.0,Neutral
-2017-03-21,1282.0,,0.0,Neutral,0.0,Neutral
-2017-03-20,1166.0,,0.0,Neutral,0.0,Neutral
-2017-03-19,1060.0,,0.0,Neutral,0.0,Neutral
-2017-03-15,1060.0,,0.0,Neutral,0.0,Neutral
-2017-03-14,1059.0,,0.0,Neutral,0.0,Neutral
-2017-03-09,1080.0,,0.0,Neutral,0.0,Neutral
-2017-03-07,1070.0,,0.0,Neutral,0.0,Neutral
-2017-03-06,1060.0,,0.0,Neutral,0.0,Neutral
-2017-03-05,1099.0,,0.0,Neutral,0.0,Neutral
-2017-03-02,1089.0,,0.0,Neutral,0.0,Neutral
-2017-03-01,1020.0,,0.0,Neutral,0.0,Neutral
-2017-02-28,1000.0,,0.0,Neutral,0.0,Neutral
-2017-02-26,1059.0,,0.0,Neutral,0.0,Neutral
-2017-02-23,1080.0,,0.0,Neutral,-0.13653816282749176,Slightly Negative
-2017-02-22,1099.0,,0.0,Neutral,-0.2730763256549835,Negative
-2017-02-21,1100.0,2017-02-21,-0.546152651309967,Negative,-0.546152651309967,Negative
-2017-02-20,1091.0,,0.0,Neutral,0.0,Neutral
-2017-02-19,1015.0,,0.0,Neutral,0.0,Neutral
-2017-02-16,923.0,,0.0,Neutral,0.0,Neutral
-2017-02-15,925.0,,0.0,Neutral,0.0,Neutral
-2017-02-14,874.0,,0.0,Neutral,0.0,Neutral
-2017-02-13,795.0,,0.0,Neutral,0.0,Neutral
-2017-02-12,825.0,,0.0,Neutral,0.0,Neutral
-2017-02-09,906.0,,0.0,Neutral,0.0,Neutral
-2017-02-08,990.0,,0.0,Neutral,0.0,Neutral
-2017-02-07,1015.0,,0.0,Neutral,0.0,Neutral
-2017-02-05,1071.0,,0.0,Neutral,0.0,Neutral
-2017-02-02,1098.0,,0.0,Neutral,0.0,Neutral
-2017-02-01,1110.0,,0.0,Neutral,-0.16314619779586792,Slightly Negative
-2017-01-31,1050.0,,0.0,Neutral,-0.32629239559173584,Negative
-2017-01-26,1095.0,2017-01-26,-0.6525847911834717,Strongly Negative,-0.6525847911834717,Strongly Negative
-2017-01-25,1120.0,,0.0,Neutral,0.0,Neutral
-2017-01-24,1184.0,,0.0,Neutral,0.0,Neutral
-2017-01-23,1165.0,,0.0,Neutral,0.0,Neutral
-2017-01-22,1181.0,,0.0,Neutral,0.0,Neutral
-2017-01-19,1205.0,,0.0,Neutral,0.0,Neutral
-2017-01-18,1200.0,,0.0,Neutral,0.0,Neutral
-2017-01-17,1235.0,,0.0,Neutral,0.0,Neutral
-2017-01-16,1280.0,,0.0,Neutral,0.0,Neutral
-2017-01-15,1325.0,,0.0,Neutral,0.0,Neutral
-2017-01-12,1340.0,,0.0,Neutral,0.0,Neutral
-2017-01-10,1360.0,,0.0,Neutral,0.0,Neutral
-2017-01-09,1280.0,,0.0,Neutral,0.0,Neutral
-2017-01-08,1294.0,,0.0,Neutral,0.0,Neutral
-2017-01-05,1294.0,,0.0,Neutral,0.0,Neutral
-2017-01-04,1340.0,,0.0,Neutral,0.0,Neutral
-2017-01-02,1340.0,,0.0,Neutral,0.0,Neutral
-2017-01-01,1240.0,,0.0,Neutral,0.23027411103248596,Positive
-2016-12-29,1260.0,,0.0,Neutral,0.4605482220649719,Positive
-2016-12-28,1205.0,2016-12-28,0.9210964441299438,Strongly Positive,0.9210964441299438,Strongly Positive
-2016-12-27,1224.0,,0.0,Neutral,0.0,Neutral
-2016-12-26,1201.0,,0.0,Neutral,0.0,Neutral
-2016-12-22,1249.0,,0.0,Neutral,0.0,Neutral
-2016-12-21,1224.0,,0.0,Neutral,0.0,Neutral
-2016-12-20,1265.0,,0.0,Neutral,0.0,Neutral
-2016-12-19,1274.0,,0.0,Neutral,0.2178306132555008,Positive
-2016-12-18,1325.0,,0.0,Neutral,0.4356612265110016,Positive
-2016-12-15,1408.0,2016-12-15,0.8713224530220032,Strongly Positive,0.8713224530220032,Strongly Positive
-2016-12-14,1408.0,,0.0,Neutral,0.0,Neutral
-2016-12-12,1408.0,,0.0,Neutral,0.0,Neutral
-2016-12-11,1419.0,,0.0,Neutral,0.0,Neutral
-2016-12-08,1392.0,,0.0,Neutral,0.0,Neutral
-2016-12-07,1421.0,,0.0,Neutral,0.0,Neutral
-2016-12-05,1450.0,,0.0,Neutral,0.0,Neutral
-2016-12-04,1425.0,,0.0,Neutral,0.22436220943927765,Positive
-2016-12-01,1461.0,,0.0,Neutral,0.6438636034727097,Strongly Positive
-2016-11-30,1595.0,2016-11-30,0.8974488377571106,Strongly Positive,1.2877272069454193,Strongly Positive
-2016-11-29,1450.0,2016-11-29,0.7805567383766174,Strongly Positive,1.0043318420648575,Strongly Positive
-2016-11-28,1319.0,,0.0,Neutral,0.4475502073764801,Positive
-2016-11-27,1345.0,2016-11-27,0.8951004147529602,Strongly Positive,0.8951004147529602,Strongly Positive
-2016-11-24,1470.0,,0.0,Neutral,0.22105546295642853,Positive
-2016-11-23,1630.0,,0.0,Neutral,0.44211092591285706,Positive
-2016-11-22,1720.0,2016-11-22,0.8842218518257141,Strongly Positive,0.8842218518257141,Strongly Positive
-2016-11-21,1790.0,,0.0,Neutral,0.0,Neutral
-2016-11-17,1820.0,,0.0,Neutral,0.0,Neutral
-2016-11-15,1850.0,,0.0,Neutral,0.229956716299057,Positive
-2016-11-14,1850.0,,0.0,Neutral,0.459913432598114,Positive
-2016-11-13,1835.0,2016-11-13,0.919826865196228,Strongly Positive,0.919826865196228,Strongly Positive
-2016-11-10,1850.0,,0.0,Neutral,-0.2325507998466492,Negative
-2016-11-09,1855.0,,0.0,Neutral,-0.4651015996932984,Negative
-2016-11-08,1960.0,2016-11-08,-0.9302031993865968,Strongly Negative,-0.9302031993865968,Strongly Negative
-2016-11-07,1850.0,,0.0,Neutral,0.0,Neutral
-2016-11-03,1810.0,,0.0,Neutral,0.0,Neutral
-2016-10-27,1805.0,,0.0,Neutral,0.0,Neutral
-2016-10-25,1820.0,,0.0,Neutral,0.0,Neutral
-2016-10-23,1850.0,,0.0,Neutral,0.0,Neutral
-2016-10-20,1891.0,,0.0,Neutral,0.0,Neutral
-2016-10-18,1890.0,,0.0,Neutral,0.0,Neutral
-2016-10-16,1900.0,,0.0,Neutral,0.0,Neutral
-2016-10-04,1925.0,,0.0,Neutral,0.2211562842130661,Positive
-2016-10-03,1960.0,,0.0,Neutral,0.4423125684261322,Positive
-2016-10-02,1995.0,2016-10-02,0.8846251368522644,Strongly Positive,0.8846251368522644,Strongly Positive
-2016-09-29,2030.0,,0.0,Neutral,0.0,Neutral
-2016-09-28,2050.0,,0.0,Neutral,0.0,Neutral
-2016-09-27,2060.0,,0.0,Neutral,0.0,Neutral
-2016-09-26,2060.0,,0.0,Neutral,0.0,Neutral
-2016-09-25,2100.0,,0.0,Neutral,0.0,Neutral
-2016-09-22,2240.0,,0.0,Neutral,0.0,Neutral
-2016-09-21,2240.0,,0.0,Neutral,0.0,Neutral
-2016-09-20,2250.0,,0.0,Neutral,0.0,Neutral
-2016-09-18,2330.0,,0.0,Neutral,0.0,Neutral
-2016-09-14,2350.0,,0.0,Neutral,0.0,Neutral
-2016-09-12,2262.0,,0.0,Neutral,0.0,Neutral
-2016-09-11,2225.0,,0.0,Neutral,0.0,Neutral
-2016-09-08,2220.0,,0.0,Neutral,0.0,Neutral
-2016-09-07,2181.0,,0.0,Neutral,0.0,Neutral
-2016-09-06,2180.0,,0.0,Neutral,0.0,Neutral
-2016-09-05,2172.0,,0.0,Neutral,0.0,Neutral
-2016-09-04,2172.0,,0.0,Neutral,0.0,Neutral
-2016-09-03,2172.0,,0.0,Neutral,0.0,Neutral
-2016-09-01,2215.0,,0.0,Neutral,-0.21069888770580292,Negative
-2016-08-31,2320.0,,0.0,Neutral,-0.18933564424514773,Slightly Negative
-2016-08-30,2332.0,2016-08-30,-0.8427955508232117,Strongly Negative,-0.37867128849029547,Negative
-2016-08-29,2120.0,2016-08-29,0.9282485246658324,Strongly Positive,0.9282485246658324,Strongly Positive
-2016-08-28,2000.0,,0.0,Neutral,0.0,Neutral
-2016-08-24,1932.0,,0.0,Neutral,0.0,Neutral
-2016-08-23,2030.0,,0.0,Neutral,0.0,Neutral
-2016-08-22,2070.0,,0.0,Neutral,0.0,Neutral
-2016-08-21,2140.0,,0.0,Neutral,0.0,Neutral
-2016-08-17,2240.0,,0.0,Neutral,0.0,Neutral
-2016-08-16,2281.0,,0.0,Neutral,0.0,Neutral
-2016-08-15,2325.0,,0.0,Neutral,0.0,Neutral
-2016-08-14,2330.0,,0.0,Neutral,0.0,Neutral
-2016-08-11,2360.0,,0.0,Neutral,0.0,Neutral
-2016-08-10,2310.0,,0.0,Neutral,0.0,Neutral
-2016-08-08,2254.0,,0.0,Neutral,0.227866917848587,Positive
-2016-08-07,2449.0,,0.0,Neutral,0.455733835697174,Positive
-2016-08-04,3300.0,2016-08-04,0.911467671394348,Strongly Positive,0.911467671394348,Strongly Positive
-2016-08-03,3350.0,,0.0,Neutral,0.0,Neutral
-2016-08-02,3397.0,,0.0,Neutral,0.0,Neutral
-2016-08-01,3400.0,,0.0,Neutral,0.0,Neutral
-2016-07-31,3392.0,,0.0,Neutral,0.22847503423690796,Positive
-2016-07-28,3260.0,,0.0,Neutral,0.4569500684738159,Positive
-2016-07-27,3220.0,2016-07-27,0.9139001369476318,Strongly Positive,0.9139001369476318,Strongly Positive
-2016-07-26,3235.0,,0.0,Neutral,0.0,Neutral
-2016-07-25,3162.0,,0.0,Neutral,0.0,Neutral
-2016-07-21,2952.0,,0.0,Neutral,0.0,Neutral
-2016-07-20,2940.0,,0.0,Neutral,0.0,Neutral
-2016-07-19,3020.0,,0.0,Neutral,0.0,Neutral
-2016-07-18,3011.0,,0.0,Neutral,0.0,Neutral
-2016-07-17,3051.0,,0.0,Neutral,0.22768837213516235,Positive
-2016-07-14,3390.0,,0.0,Neutral,0.4553767442703247,Positive
-2016-07-13,3260.0,2016-07-13,0.9107534885406494,Strongly Positive,0.9107534885406494,Strongly Positive
-2016-07-12,3150.0,,0.0,Neutral,0.0,Neutral
-2016-07-11,3150.0,,0.0,Neutral,0.0,Neutral
-2016-07-10,3175.0,,0.0,Neutral,0.0,Neutral
-2016-07-06,3175.0,,0.0,Neutral,0.0,Neutral
-2016-07-05,3260.0,,0.0,Neutral,0.0,Neutral
-2016-07-04,3289.0,,0.0,Neutral,0.0,Neutral
-2016-07-03,3260.0,,0.0,Neutral,0.0,Neutral
-2016-06-30,3188.0,,0.0,Neutral,0.0,Neutral
-2016-06-29,3209.0,,0.0,Neutral,0.0,Neutral
-2016-06-28,3100.0,,0.0,Neutral,0.0,Neutral
-2016-06-27,3080.0,,0.0,Neutral,0.0,Neutral
-2016-06-26,3075.0,,0.0,Neutral,0.0,Neutral
-2016-06-23,3171.0,,0.0,Neutral,0.0,Neutral
-2016-06-22,3208.0,,0.0,Neutral,0.0,Neutral
-2016-06-21,3155.0,,0.0,Neutral,0.0,Neutral
-2016-06-20,3150.0,,0.0,Neutral,0.0,Neutral
-2016-06-19,3150.0,,0.0,Neutral,0.0,Neutral
-2016-06-16,3155.0,,0.0,Neutral,0.17922662198543549,Slightly Positive
-2016-06-15,3199.0,,0.0,Neutral,0.35845324397087097,Positive
-2016-06-14,3200.0,2016-06-14,0.7169064879417419,Strongly Positive,0.7169064879417419,Strongly Positive
-2016-06-13,3080.0,,0.0,Neutral,0.0,Neutral
-2016-06-12,3060.0,,0.0,Neutral,0.0,Neutral
-2016-06-09,3159.0,,0.0,Neutral,0.0,Neutral
-2016-06-08,2872.0,,0.0,Neutral,0.0,Neutral
-2016-06-07,2611.0,,0.0,Neutral,0.0,Neutral
-2016-06-06,2374.0,,0.0,Neutral,0.0,Neutral
-2016-06-05,2159.0,,0.0,Neutral,0.0,Neutral
-2016-06-02,2076.0,,0.0,Neutral,0.0,Neutral
-2016-06-01,1958.0,,0.0,Neutral,0.0,Neutral
-2016-05-31,1780.0,,0.0,Neutral,0.0,Neutral
-2016-05-30,1712.0,,0.0,Neutral,0.0,Neutral
-2016-05-29,1647.0,,0.0,Neutral,0.0,Neutral
-2016-05-24,1615.0,,0.0,Neutral,0.0,Neutral
-2016-05-22,1469.0,,0.0,Neutral,0.0,Neutral
-2016-05-19,1386.0,,0.0,Neutral,0.0,Neutral
-2016-05-18,1333.0,,0.0,Neutral,0.0,Neutral
-2016-05-17,1221.0,,0.0,Neutral,0.0,Neutral
-2016-05-16,1163.0,,0.0,Neutral,0.0,Neutral
-2016-05-12,1108.0,,0.0,Neutral,0.0,Neutral
-2016-05-11,1066.0,,0.0,Neutral,0.0,Neutral
-2016-05-10,978.0,,0.0,Neutral,0.0,Neutral
-2016-05-09,932.0,,0.0,Neutral,0.0,Neutral
-2016-04-12,914.0,,0.0,Neutral,0.0,Neutral
-2016-04-10,871.0,,0.0,Neutral,0.0,Neutral
-2016-04-03,854.0,,0.0,Neutral,0.0,Neutral
-2016-03-13,822.0,,0.0,Neutral,0.0,Neutral
-2016-02-25,806.0,,0.0,Neutral,0.0,Neutral
-2016-02-22,761.0,,0.0,Neutral,0.0,Neutral
-2016-02-18,747.0,,0.0,Neutral,0.0,Neutral
-2016-01-17,733.0,,0.0,Neutral,0.22657063603401184,Positive
-2016-01-14,719.0,,0.0,Neutral,0.4531412720680237,Positive
-2016-01-13,654.0,2016-01-13,0.9062825441360474,Strongly Positive,0.9062825441360474,Strongly Positive
-2016-01-11,630.0,,0.0,Neutral,0.0,Neutral
-2016-01-07,606.0,,0.0,Neutral,0.2240736037492752,Positive
-2016-01-03,595.0,,0.0,Neutral,0.4481472074985504,Positive
-2015-12-29,687.0,2015-12-29,0.8962944149971008,Strongly Positive,0.8962944149971008,Strongly Positive
-2015-12-27,625.0,,0.0,Neutral,0.0,Neutral
-2015-12-24,569.0,,0.0,Neutral,0.21627287566661835,Positive
-2015-12-23,558.0,,0.0,Neutral,0.4325457513332367,Positive
-2015-12-22,518.0,2015-12-22,0.8650915026664734,Strongly Positive,0.8650915026664734,Strongly Positive
-2015-12-21,499.0,,0.0,Neutral,0.0,Neutral
-2015-12-17,481.0,,0.0,Neutral,0.0,Neutral
-2015-12-15,463.0,,0.0,Neutral,0.0,Neutral
-2015-12-13,438.0,,0.0,Neutral,0.0,Neutral
-2015-12-10,399.0,,0.0,Neutral,0.0,Neutral
+Date_Stock,Open,High,Low,Close,Volume,Sentiment_Score,MA_5,MA_10,MA_20,RSI_14,MACD,MACD_signal,Volatility_10,Decayed_Sentiment,Decayed_Prediction
+2021-08-31,1630.0,1650.0,1600.0,1609.0,6296.0,0.0,1657.98,1697.3400000000001,1731.1799999999998,24.42186405045551,-8.290528951316674,11.212611902357649,50.71215501901061,0.0,Neutral
+2021-08-29,1670.0,1670.0,1636.0,1640.0,3565.0,0.0,1679.1799999999998,1709.94,1734.4299999999998,23.279893119572492,-0.9294844158634987,16.088397115776228,41.05852733199491,0.0,Neutral
+2021-08-26,1671.0,1706.0,1660.0,1660.0,4964.0,0.0,1694.58,1720.44,1736.08,20.719381688466115,5.323041291799882,20.342867498686157,34.005430938878696,0.0,Neutral
+2021-08-25,1690.0,1700.0,1660.0,1684.9,5422.0,0.0,1707.58,1731.2600000000002,1736.355,24.081632653061234,11.189748048973343,24.097824050407727,29.56090511328495,0.0,Neutral
+2021-08-24,1695.0,1725.0,1695.0,1696.0,5439.0,0.0,1720.6,1736.77,1737.36,46.64662349676226,15.979766520144267,27.324843050766322,24.694041116678303,0.0,Neutral
+2021-08-19,1700.0,1740.0,1700.0,1715.0,6073.0,0.0,1736.7,1742.67,1736.2599999999998,54.315925766076816,20.730957128509317,30.16111218342183,20.575608537105396,0.0,Neutral
+2021-08-18,1700.0,1750.0,1695.0,1717.0,8426.0,0.0,1740.7,1751.17,1733.9099999999999,54.64965397923875,24.559117401317053,32.51865094714996,24.963976268147984,0.0,Neutral
+2021-08-17,1760.0,1760.0,1711.0,1725.0,6043.0,0.0,1746.3,1765.17,1732.4099999999999,55.709266578831794,28.884382078226963,34.50853433360818,38.98888873063711,0.0,Neutral
+2021-08-16,1780.0,1812.0,1750.0,1750.0,5524.0,0.0,1754.94,1777.67,1730.7099999999998,59.648321534596946,33.170310708344914,35.91457239745349,44.348620171507896,0.0,Neutral
+2021-08-15,1740.0,1803.0,1721.0,1776.5,10252.0,0.0,1752.94,1775.17,1726.955,57.92858726990464,35.612782367756154,36.600637819730636,46.72282454367349,0.0,Neutral
+2021-08-12,1765.0,1765.0,1730.0,1735.0,6421.0,0.0,1748.64,1765.02,1719.1299999999999,56.925522252497736,35.51407845132803,36.84760168272426,56.420283980586255,0.0,Neutral
+2021-08-11,1769.0,1771.0,1730.0,1745.0,6153.0,0.0,1761.64,1758.92,1712.8799999999999,58.82218148487625,39.09698249324947,37.180982490573314,62.946693497178764,0.0,Neutral
+2021-08-10,1720.0,1795.0,1705.2,1768.2,7752.0,0.0,1784.0400000000002,1751.72,1706.73,59.3937991670523,42.08320572503703,36.70198248990427,68.58138393345352,0.0,Neutral
+2021-08-09,1743.0,1749.0,1730.0,1740.0,4181.0,0.0,1800.4,1741.45,1698.8200000000002,56.004901960784316,42.920411293972165,35.35667668112107,73.36228595133552,0.0,Neutral
+2021-08-08,1800.0,1800.0,1740.0,1755.0,11546.0,0.0,1797.4,1737.95,1693.8200000000002,59.78978244927889,46.235965874046315,33.465743027908296,74.26845075658503,0.0,Neutral
+2021-08-05,1890.0,1890.0,1795.0,1800.0,17225.0,0.0,1781.4,1729.85,1685.42,71.47971360381862,48.268023307172825,30.273187316373786,76.5833061298824,0.0,Neutral
+2021-08-04,1887.0,2000.0,1855.0,1857.0,41925.0,0.0,1756.2,1716.65,1673.42,83.1989247311828,45.577769000986336,25.774478318674028,74.49610355213173,0.0,Neutral
+2021-08-03,1759.5,1850.0,1745.1,1850.0,45066.0,0.0,1719.4,1699.65,1659.0700000000002,80.23872679045093,35.677440501076035,20.82365564809595,56.01391196246521,0.0,Neutral
+2021-08-02,1708.5,1776.8,1702.0,1725.0,30198.0,0.0,1682.5,1683.75,1643.5700000000002,71.78030303030303,23.234803899356166,17.110209434850926,18.796054550679422,0.0,Neutral
+2021-08-01,1707.0,1710.0,1672.0,1675.0,4118.0,0.0,1678.5,1678.7400000000002,1634.92,57.17213114754098,19.742786943716283,15.579060818724615,12.043366085613727,0.0,Neutral
+2021-07-29,1681.0,1690.0,1665.1,1674.0,3774.0,0.0,1678.3,1673.2400000000002,1630.0700000000002,64.69594594594594,20.08944476479087,14.538129287476696,22.20931736418787,0.0,Neutral
+2021-07-28,1665.0,1680.0,1665.0,1673.0,3229.0,0.0,1677.1,1666.8400000000001,1625.52,67.54658385093168,20.341514278019986,13.150300418148152,29.867120532356694,0.0,Neutral
+2021-07-27,1670.9,1699.5,1635.0,1665.5,9285.0,0.0,1679.9,1661.7400000000002,1621.3700000000001,64.71494607087827,20.469188249042872,11.352496953180193,32.89880781367293,0.0,Neutral
+2021-07-26,1685.0,1720.0,1685.0,1705.0,16483.0,0.0,1685.0,1656.19,1616.9450000000002,76.19047619047619,21.098049379344275,9.073324129214523,36.660376733302286,0.0,Neutral
+2021-07-25,1695.0,1701.0,1668.1,1674.0,7743.0,0.0,1678.98,1649.69,1609.9450000000002,70.6081081081081,17.572005958320233,6.067142816682085,32.579900074959035,0.0,Neutral
+2021-07-22,1690.0,1695.0,1668.0,1668.0,4306.0,0.0,1668.1799999999998,1640.9900000000002,1603.7450000000001,64.24050632911391,15.972263177910463,3.1909270312725475,36.71997488508098,0.0,Neutral
+2021-07-20,1675.0,1700.0,1667.0,1687.0,2516.0,0.0,1656.58,1630.19,1598.895,67.21854304635761,14.30899492832691,-0.004407005386931395,43.20320075597377,0.0,Neutral
+2021-07-19,1680.0,1728.0,1680.0,1691.0,11396.0,0.0,1643.58,1618.49,1594.795,66.55737704918033,10.043383527173773,-3.582757488815392,41.93276231732137,0.0,Neutral
+2021-07-18,1630.0,1675.0,1630.0,1674.9,8473.0,0.0,1627.3799999999999,1603.3899999999999,1589.7450000000001,66.21397813845645,4.045553942034076,-6.989292742812683,40.066734608994885,0.0,Neutral
+2021-07-15,1610.0,1621.0,1598.0,1620.0,3515.0,0.0,1620.4,1591.1,1587.3,60.61776061776062,-2.029429331246547,-9.748004414024372,34.099364608040254,0.0,Neutral
+2021-07-14,1600.0,1640.0,1600.0,1610.0,3075.0,0.0,1613.8,1586.9,1589.0,61.36363636363636,-4.163979918870382,-11.677648184718826,32.70219156782516,0.0,Neutral
+2021-07-13,1610.0,1640.0,1610.0,1622.0,2716.0,0.0,1603.8,1584.2,1591.5,59.34065934065934,-5.8096938700718965,-13.556065251180938,31.681750793457354,0.0,Neutral
+2021-07-12,1641.0,1672.0,1597.0,1610.0,7438.0,0.0,1593.4,1581.0,1590.75,50.847457627118644,-9.047536856950273,-15.492658096458198,28.936712552374292,0.0,Neutral
+2021-07-11,1610.0,1641.0,1610.0,1640.0,8651.0,0.0,1579.4,1577.7,1591.2,58.92857142857143,-11.82678318773742,-17.10393840633518,27.084435875093828,0.0,Neutral
+2021-07-08,1540.0,1588.0,1540.0,1587.0,4295.0,0.0,1561.8,1570.2,1590.2,42.585551330798474,-18.256631658120796,-18.423227210984617,16.054075287562874,0.0,Neutral
+2021-07-07,1550.0,1570.0,1532.0,1560.0,4198.0,0.0,1560.0,1566.5,1591.9,32.1969696969697,-20.801541790746114,-18.46487609920057,16.0156173782157,0.0,Neutral
+2021-07-06,1536.0,1570.0,1536.0,1570.0,2783.0,0.0,1564.6,1567.6,1595.0,32.69230769230769,-20.998113752159043,-17.880709676314183,15.89688998252537,0.0,Neutral
+2021-07-05,1552.0,1560.0,1533.0,1540.0,2747.0,0.0,1568.6,1571.1,1597.75,38.1625441696113,-21.96176576469452,-17.101358657352968,19.846354269315587,0.0,Neutral
+2021-07-04,1584.0,1590.0,1551.0,1552.0,3833.0,0.0,1576.0,1576.1,1602.15,38.1625441696113,-19.81774683138974,-15.886256880517577,17.272006896351805,0.0,Neutral
+2021-07-01,1586.0,1591.0,1576.0,1578.0,3217.0,0.0,1578.6,1583.5,1606.7,41.86046511627907,-18.01475907533336,-14.903384392799534,21.2040352555006,0.0,Neutral
+2021-06-30,1582.0,1608.0,1561.0,1583.0,4472.0,0.0,1573.0,1591.1,1610.05,42.519685039370074,-18.09873093468923,-14.125540722166075,30.566684841958644,0.0,Neutral
+2021-06-29,1608.0,1640.0,1590.0,1590.0,7526.0,0.0,1570.6,1598.8,1612.5,43.54838709677419,-18.451746203399125,-13.132243169035286,37.264221744558526,0.0,Neutral
+2021-06-28,1596.0,1620.0,1550.0,1577.0,7420.0,0.0,1573.6,1600.5,1614.3,39.91596638655462,-19.346660292502975,-11.802367410444324,37.205883644703086,0.0,Neutral
+2021-06-27,1541.0,1649.0,1540.0,1565.0,4191.0,0.0,1576.2,1604.7,1616.3,36.24454148471616,-18.883853761977434,-9.91629418992966,36.62436954337717,0.0,Neutral
+2021-06-24,1565.0,1568.0,1540.0,1550.0,5900.0,0.0,1588.4,1610.2,1619.8,29.6943231441048,-16.796651917386953,-7.674404296917716,34.03854024818975,0.0,Neutral
+2021-06-23,1625.0,1625.0,1569.0,1571.0,4832.0,0.0,1609.2,1617.3,1624.0,32.38095238095238,-12.361035716947526,-5.393842391800407,26.70018726536228,0.0,Neutral
+2021-06-22,1620.0,1620.0,1590.0,1605.0,5130.0,0.0,1627.0,1622.4,1630.8,42.857142857142854,-8.657961428867111,-3.6520440605136266,21.172308959395146,0.0,Neutral
+2021-06-21,1627.0,1657.0,1586.0,1590.0,8495.0,0.0,1627.4,1624.4,1636.05,40.0,-7.267376262206426,-2.4005647184252554,20.27149065408738,0.0,Neutral
+2021-06-20,1685.0,1685.0,1620.0,1626.0,13334.0,0.0,1633.2,1628.2,1642.05,52.94117647058823,-3.8595039038548293,-1.1838618324799624,16.274042043999597,0.0,Neutral
+2021-06-17,1693.0,1693.0,1640.0,1654.0,5842.0,0.0,1632.0,1629.9,1646.3,56.64335664335665,-3.1191358551393478,-0.5149513146362455,16.89477236717789,0.0,Neutral
+2021-06-16,1610.0,1730.0,1610.0,1660.0,19457.0,0.0,1625.4,1629.0,1650.05,59.42028985507247,-4.979696842340445,0.13609482048953003,15.663120166134092,0.0,Neutral
+2021-06-15,1611.0,1628.0,1607.0,1607.0,8404.0,0.0,1617.8,1626.2,1654.65,18.35443037974683,-7.892926366479514,1.4150427361970237,11.43872564798471,0.0,Neutral
+2021-06-14,1700.0,1700.0,1605.0,1619.0,6725.0,0.0,1621.4,1628.1,1660.0,19.463087248322154,-6.100096757413667,3.7420350118661583,9.26702637220804,0.0,Neutral
+2021-06-13,1640.0,1700.0,1616.0,1620.0,7840.0,0.0,1623.2,1627.9,1664.9,19.594594594594597,-4.944883739916349,6.202567954186114,9.503800409712069,0.0,Neutral
+2021-06-10,1622.0,1630.0,1610.0,1621.0,9325.0,0.0,1627.8,1629.4,1668.6,19.594594594594597,-3.5003044522754863,8.98943087771173,9.299940262943231,0.0,Neutral
+2021-06-09,1649.0,1655.0,1619.0,1622.0,7443.0,0.0,1632.6,1630.7,1672.25,17.575757575757578,-1.7074006421987633,12.111864710208533,8.895067297533416,0.0,Neutral
+2021-06-08,1650.0,1650.0,1610.0,1625.0,7618.0,0.0,1634.6,1639.2,1676.65,15.675675675675677,0.504013321094817,15.566681048310354,25.244581376888235,0.0,Neutral
+2021-06-07,1643.0,1650.0,1628.0,1628.0,4196.0,0.0,1634.8,1647.7,1680.35,30.454545454545453,3.01379604048293,19.332347980114235,33.038866001606735,0.0,Neutral
+2021-06-06,1670.0,1677.0,1630.0,1643.0,6025.0,0.0,1632.6,1655.9,1683.25,32.21153846153845,5.867899859912768,23.411985965022062,37.48318141372691,0.0,Neutral
+2021-06-03,1630.0,1660.0,1630.0,1645.0,6745.0,0.0,1631.0,1662.7,1686.75,39.301310043668124,7.898150191477498,27.79800749129938,40.895666708846335,0.0,Neutral
+2021-06-02,1658.0,1658.0,1612.0,1632.0,6053.0,0.0,1628.8,1671.1,1691.3,35.64814814814815,10.170969339162184,32.77297181625485,45.25102822656144,0.0,Neutral
+2021-06-01,1600.0,1645.0,1600.0,1626.0,6634.0,0.0,1643.8,1683.1,1695.65,31.415929203539818,14.247608042728189,38.42347243552802,49.446828906355755,0.0,Neutral
+2021-05-31,1615.0,1652.0,1610.0,1617.0,10670.0,0.0,1660.6,1691.9,1698.85,32.01754385964912,19.854552598294504,44.46743853372798,45.8559338218318,0.0,Neutral
+2021-05-30,1651.0,1680.0,1625.0,1635.0,13302.0,0.0,1679.2,1701.9,1702.95,38.56502242152466,27.638622884151346,50.620660017586346,37.9252188158196,0.0,Neutral
+2021-05-27,1622.0,1700.0,1580.0,1634.0,29205.0,0.0,1694.4,1707.8,1704.9,34.13654618473896,35.33918353432978,56.366169300945096,30.15441740267049,0.0,Neutral
+2021-05-25,1710.0,1720.0,1706.0,1707.0,4317.0,0.0,1713.4,1713.8,1705.45,42.713567839195974,44.75569282187644,61.62291574259892,16.890496999629498,0.0,Neutral
+2021-05-24,1744.0,1744.0,1699.0,1710.0,7657.0,0.0,1722.4,1714.1,1704.6,47.88732394366197,48.690863689663274,65.83972147277954,16.782596806250233,0.0,Neutral
+2021-05-23,1690.0,1720.0,1690.0,1710.0,7117.0,0.0,1723.2,1713.0,1699.85,54.132231404958674,52.699887398152896,70.12693591855862,17.42922195002921,0.0,Neutral
+2021-05-20,1730.0,1735.0,1705.0,1711.0,6425.0,0.0,1724.6,1710.6,1697.85,52.4,57.050315660288106,74.48369804866005,19.426213675942474,0.0,Neutral
+2021-05-19,1760.0,1764.0,1715.0,1729.0,8898.0,0.0,1721.2,1710.8,1698.75,60.700389105058356,61.67140314162725,78.84204364575302,19.441079073990533,0.0,Neutral
+2021-05-18,1715.0,1752.0,1711.0,1752.0,16655.0,0.0,1714.2,1711.5,1697.8,70.34220532319392,64.8398252993859,83.13470377178447,20.27724504641262,0.2234872728586197,Positive
+2021-05-17,1721.0,1748.0,1710.0,1714.0,4873.0,0.0,1705.8,1708.2,1697.1,54.44444444444445,65.59894121275215,87.70842338988412,14.935416521552343,0.4469745457172394,Positive
+2021-05-16,1724.0,1750.0,1700.0,1717.0,5440.0,0.8939490914344788,1702.8,1705.8,1697.9,64.91228070175438,69.48277365180888,93.2357939341671,15.802953310660648,0.8939490914344788,Strongly Positive
+2021-05-13,1700.0,1719.0,1690.0,1694.0,4781.0,0.0,1696.6,1704.0,1700.35,53.208556149732615,73.12384307545108,99.17404900475667,15.405626677902998,0.0,Neutral
+2021-05-12,1712.0,1739.0,1690.0,1694.0,4376.0,0.0,1700.4,1702.0,1705.45,45.95842956120092,79.04937033143847,105.68660048708306,17.938165396253797,0.0,Neutral
+2021-05-11,1616.0,1729.0,1616.0,1710.0,5670.0,0.0,1708.8,1697.1,1711.0,50.0,85.46268882425966,112.34590802599419,25.47526033025879,0.0,Neutral
+2021-05-10,1661.0,1709.0,1661.0,1699.0,5411.0,0.0,1710.6,1695.1,1716.7,45.69536423841059,90.77623077219869,119.06671282642782,25.13275861422935,0.0,Neutral
+2021-05-09,1680.0,1700.0,1680.0,1686.0,3575.0,0.0,1708.8,1686.7,1722.2,45.08928571428571,97.35786095633603,126.13933333998509,35.559183842730455,0.0,Neutral
+2021-05-06,1736.0,1736.0,1706.0,1713.0,8660.0,0.0,1711.4,1685.1,1728.2,44.20131291028446,105.66593641381564,133.33470143589733,35.95197413842512,0.0,Neutral
+2021-05-05,1740.0,1786.0,1706.0,1736.0,22108.0,0.0,1703.6,1686.7,1733.7,43.53448275862068,111.98401183170654,140.25189269141777,37.64763531020231,0.0,Neutral
+2021-05-04,1680.0,1732.0,1670.0,1719.0,16000.0,0.0,1685.4,1684.1,1729.8,40.570175438596486,116.077497011172,147.31886290634554,34.64245949706143,0.0,Neutral
+2021-05-03,1700.0,1732.0,1681.0,1690.0,8481.0,0.0,1679.6,1686.0,1719.25,34.977578475336315,121.34478177461801,155.12920438013893,37.19617662557675,0.0,Neutral
+2021-05-02,1680.0,1712.0,1670.0,1699.0,14678.0,0.0,1664.6,1690.0,1703.3,37.83185840707964,129.255464774149,163.57531003151917,39.738031042273164,0.0,Neutral
+2021-04-29,1657.0,1680.0,1638.0,1674.0,8861.0,0.0,1658.8,1696.7,1680.7,34.65116279069767,136.5559297695629,172.1552713458617,46.49743123137748,0.0,Neutral
+2021-04-28,1774.0,1774.0,1644.0,1645.0,10550.0,0.0,1669.8,1708.9,1653.7,28.708133971291872,146.43316429433412,181.05510673993638,55.09073323976074,0.0,Neutral
+2021-04-27,1647.0,1700.0,1628.0,1690.0,13474.0,0.0,1682.8,1724.9,1623.0,52.97397769516729,159.86289760712407,189.71059235133694,57.64537179075618,0.0,Neutral
+2021-04-26,1637.0,1670.0,1612.0,1615.0,12386.0,0.0,1692.4,1738.3,1587.15,58.727569331158236,170.09702416116352,197.17251603739012,63.86974592442095,0.0,Neutral
+2021-04-25,1710.0,1715.0,1670.0,1670.0,11280.0,0.0,1715.4,1757.7,1550.65,71.51079136690647,188.32171624779312,203.94138900644674,50.27270078730717,0.0,Neutral
+2021-04-22,1700.0,1734.0,1685.0,1729.0,11220.0,0.0,1734.6,1771.3,1508.1,81.71052631578948,203.2438255474874,207.8463071961101,41.55063844950216,0.0,Neutral
+2021-04-21,1760.0,1760.0,1705.0,1710.0,8347.0,0.0,1748.0,1780.7,1458.9,83.72365339578454,213.3263166820425,208.99692760826576,41.550638449502316,0.0,Neutral
+2021-04-20,1759.0,1764.0,1707.0,1738.0,9509.0,0.0,1767.0,1775.5,1419.1,88.05166846071045,225.02685894204524,207.91458033982155,53.04557788674782,0.0,Neutral
+2021-04-19,1742.0,1788.0,1730.0,1730.0,14534.0,0.0,1784.2,1752.5,1377.1,88.66189989785495,233.8369785692912,203.6365106892656,100.1024475225539,0.0,Neutral
+2021-04-18,1800.0,1800.0,1765.0,1766.0,14164.0,0.0,1800.0,1716.6,1334.8,92.725509214355,242.4951752052409,196.0863937192592,157.17378916347857,0.0,Neutral
+2021-04-15,1820.0,1820.0,1790.0,1796.0,13885.0,0.0,1808.0,1664.7,1290.3,95.7825679475164,246.35352545395904,184.48419834776377,214.34139435335135,0.0,Neutral
+2021-04-13,1915.0,1915.0,1801.0,1805.0,18540.0,0.0,1813.4,1598.5,1244.65,96.81978798586573,244.6403139466288,169.01686657121493,265.4259679165735,0.0,Neutral
+2021-04-12,1899.0,1899.0,1817.0,1824.0,30318.0,0.0,1784.0,1521.1,1198.9,85.49141965678628,237.9788648744127,150.11100472736146,307.9619204454502,0.0,Neutral
+2021-04-08,1896.0,1896.0,1784.0,1809.0,27138.0,0.0,1720.8,1436.0,1152.2,85.50272798129384,224.08037729679268,128.14403969059865,331.6306513109035,0.0,Neutral
+2021-04-07,1914.0,2005.0,1780.0,1806.0,100624.0,0.0,1633.2,1343.6,1106.75,85.6259659969088,204.60877493704083,104.15995528905012,344.62610979953416,0.0,Neutral
+2021-04-06,1691.0,1823.0,1691.0,1823.0,22996.0,0.0,1521.4,1244.9,1061.25,86.84824902723736,177.08525665332786,79.04775037705244,338.768833014826,0.0,Neutral
+2021-04-05,1538.0,1658.0,1538.0,1658.0,2156.0,0.0,1383.6,1137.1,1015.55,84.38331854480923,137.6485441289767,54.538373807983575,304.1145434791967,0.0,Neutral
+2021-04-04,1439.0,1508.0,1439.0,1508.0,399.0,0.0,1258.2,1062.7,978.15,81.40243902439025,102.11079768329239,33.760831227735295,248.4293103122632,0.0,Neutral
+2021-04-01,1271.0,1371.0,1271.0,1371.0,848.0,0.0,1151.2,1001.7,947.75,78.39433293978749,70.53918970813481,16.673339613846018,196.37778217847801,0.0,Neutral
+2021-03-31,1156.0,1247.0,1156.0,1247.0,245.0,0.0,1054.0,953.0,923.7,73.66984993178717,43.165403678633425,3.206877090273818,149.38094479106425,0.0,Neutral
+2021-03-30,1051.0,1134.0,1051.0,1134.0,500.0,0.0,968.4,915.9,904.55,69.07051282051282,20.224092729289737,-6.782754556816083,108.81222357807162,0.0,Neutral
+2021-03-29,992.0,1031.0,992.0,1031.0,61.0,0.0,890.6,890.8,890.85,61.423220973782776,2.1539235869742015,-13.534466378342536,77.298555398344,0.0,Neutral
+2021-03-25,902.0,973.0,902.0,973.0,77.0,0.0,867.2,876.7,882.3,56.60377358490565,-10.45424027957381,-17.45656386967172,59.751429550576404,0.0,Neutral
+2021-03-24,835.0,885.0,835.0,885.0,41.0,0.0,852.2,868.4,877.3,48.1203007518797,-20.489325937901185,-19.207144767196194,49.82904106379608,0.0,Neutral
+2021-03-23,759.0,819.0,759.0,819.0,405.0,0.0,852.0,869.9,876.05,39.65014577259475,-24.03971780088773,-18.886599474519944,50.60401828581218,0.2062000036239624,Positive
+2021-03-22,717.0,745.0,717.0,745.0,34.0,0.0,863.4,877.6,878.3,29.830508474576263,-21.501640247086698,-17.598319892927996,47.77772609820685,0.4124000072479248,Positive
+2020-09-10,915.0,951.0,896.0,914.0,4308.0,0.8248000144958496,891.0,894.0,886.05,70.76923076923077,-10.414833765732169,-16.62248980438832,11.822765234156476,0.8248000144958496,Strongly Positive
+2020-09-09,890.0,905.0,884.0,898.0,6551.0,0.0,886.2,893.6,885.15,66.66666666666666,-13.319821365665348,-18.174403814052354,11.117553687938743,0.0,Neutral
+2020-09-08,870.0,885.0,866.0,884.0,2434.0,0.0,884.6,893.8,885.75,54.86725663716815,-15.204808136988504,-19.388049426149102,11.222992272997264,0.0,Neutral
+2020-09-07,880.0,889.0,870.0,876.0,4444.0,0.0,887.8,894.4,888.25,56.77966101694915,-15.964121315848274,-20.433859748439247,10.793001848100038,0.0,Neutral
+2020-09-06,900.0,905.0,882.0,883.0,4001.0,0.0,891.8,893.2,889.15,58.26086956521739,-15.886530190453527,-21.55129435658699,13.414751416249027,0.0,Neutral
+2020-09-03,876.0,905.0,876.0,890.0,1089.0,0.0,897.0,890.9,889.0,46.52777777777778,-16.269146169452142,-22.967485398120353,16.881613930341018,0.0,Neutral
+2020-09-02,916.0,934.0,890.0,890.0,3504.0,0.0,901.0,887.9,888.35,47.972972972972975,-17.233588438363768,-24.642070205287403,19.518936674242212,0.0,Neutral
+2020-08-31,905.0,905.0,897.0,900.0,3436.0,0.0,903.0,886.2,888.65,46.71052631578947,-18.21389710248934,-26.494190647018307,20.048829281525162,0.0,Neutral
+2020-08-30,927.0,927.0,896.0,896.0,820.0,0.0,901.0,882.2,888.6,38.95348837209302,-20.21837983957346,-28.564264033150547,20.9592196632667,0.0,Neutral
+2020-08-27,910.0,914.0,901.0,909.0,2037.0,0.0,894.6,879.0,890.8,53.76884422110553,-22.075470462694284,-30.650735081544816,21.06075866534075,0.0,Neutral
+2020-08-26,918.0,918.0,901.0,910.0,4599.0,0.0,884.8,878.1,892.4,57.075471698113205,-25.448332014929292,-32.79455123625745,19.790289425870547,0.0,Neutral
+2020-08-25,907.0,924.0,890.0,900.0,2704.0,0.0,874.8,876.7,896.1,55.609756097560975,-29.484990475928385,-34.63110604158949,17.663836251371798,-0.17222028970718384,Slightly Negative
+2020-08-24,863.0,900.0,863.0,890.0,2200.0,0.0,869.4,877.7,900.35,48.598130841121495,-33.19018014104472,-35.91763493300476,19.33362068762746,-0.3444405794143677,Negative
+2020-08-23,850.0,868.0,850.0,864.0,1797.0,-0.6888811588287354,863.4,882.1,905.1,40.83769633507853,-36.41840142065075,-36.59949863099477,26.223187364615555,-0.6888811588287354,Strongly Negative
+2020-08-20,850.0,866.0,850.0,860.0,996.0,0.0,863.4,885.1,910.65,32.45614035087719,-37.36179074232018,-36.644772933580775,25.631794492252645,0.0,Neutral
+2020-08-19,863.0,864.0,855.0,860.0,3336.0,0.0,871.4,887.1,915.75,32.31441048034935,-37.61518161118079,-36.46551848139592,24.195729650860333,-0.09255364537239075,Slightly Negative
+2020-08-18,860.0,876.0,859.0,873.0,1011.0,0.0,878.6,888.8,921.5,28.57142857142857,-37.391470587636604,-36.1781026989497,22.62643488399681,-0.1851072907447815,Slightly Negative
+2020-08-17,864.0,865.0,855.0,860.0,3128.0,-0.370214581489563,886.0,891.1,927.7,24.696356275303643,-37.8856943999474,-35.87476072677797,22.002272609987294,-0.370214581489563,Negative
+2020-08-16,882.0,882.0,845.0,864.0,5455.0,0.0,900.8,895.0,937.7,25.102880658436206,-36.64180269275221,-35.37202730848561,19.148542155236562,0.0,Neutral
+2020-08-13,890.0,904.0,882.0,900.0,4662.0,0.0,906.8,902.6,944.5,32.718894009216584,-34.92844560185574,-35.05458346241896,20.511243529228825,0.0,Neutral
+2020-08-12,900.0,911.0,880.0,896.0,3743.0,0.0,902.8,906.7,949.55,35.39823008849558,-35.898983342539054,-35.08611792755977,23.772299472841294,0.0,Neutral
+2020-08-11,935.0,935.0,910.0,910.0,1305.0,0.0,899.0,915.5,955.85,35.55555555555556,-36.20830266475616,-34.88290157381495,33.619604069382255,0.0,Neutral
+2020-08-10,901.0,946.0,883.0,934.0,7132.0,0.0,896.2,923.0,961.35,35.87443946188341,-37.501894924534895,-34.55155130107964,40.013886478513584,0.0,Neutral
+2020-08-09,885.0,894.0,872.0,894.0,3057.0,0.0,889.2,928.1,966.25,16.260162601626007,-41.05114330084109,-33.813965395215824,44.56318859531989,0.0,Neutral
+2020-08-06,871.0,885.0,870.0,880.0,1461.0,0.0,898.4,936.2,968.75,29.45205479452055,-40.91144005313254,-32.0046709188095,45.0352948006568,0.0,Neutral
+2020-08-05,898.0,898.0,872.0,877.0,3503.0,0.0,910.6,944.4,967.7,28.620689655172413,-38.712597870738705,-29.77797863522874,40.94494949188717,0.0,Neutral
+2020-08-03,882.0,916.0,882.0,896.0,2255.0,0.0,932.0,954.2,966.85,28.424657534246577,-35.03752878890907,-27.54432382635125,34.19161690635567,0.0,Neutral
+2020-08-02,940.0,943.0,899.0,899.0,6728.0,0.0,949.8,964.3,975.55,29.209621993127143,-31.771712923898804,-25.671022585711793,29.713633234667494,0.0,Neutral
+2020-07-30,959.0,966.0,923.0,940.0,3260.0,0.0,967.0,980.4,984.6,32.44274809160305,-27.446664850028924,-24.145850001165037,33.74479383720507,0.0,Neutral
+2020-07-29,985.0,985.0,941.0,941.0,4168.0,0.0,974.0,986.4,987.3,49.570200573065904,-25.701652001561797,-23.320646288949064,30.984583980567113,0.0,Neutral
+2020-07-28,980.0,994.0,974.0,984.0,2393.0,0.0,978.2,992.4,992.8,65.9846547314578,-23.202357027677408,-22.725394860795877,26.734081452623208,0.0,Neutral
+2020-07-27,1002.0,990.0,1000.0,985.0,3256.0,0.0,976.4,996.2,995.35,65.9846547314578,-24.053040795153265,-22.606154319075493,28.074504052292085,0.0,Neutral
+2020-07-26,970.0,1013.0,966.0,985.0,2395.0,0.0,978.8,999.7,1002.7,42.928452579034946,-24.89077839225672,-22.24443270005605,28.697851255295376,0.0,Neutral
+2020-07-23,960.0,984.0,958.0,975.0,2791.0,0.0,993.8,1004.4,1012.5,41.26455906821963,-25.59798851230869,-21.582846277005878,29.84850638369919,0.0,Neutral
+2020-07-22,980.0,995.0,962.0,962.0,2587.0,0.0,998.8,1001.3,1026.75,47.62611275964392,-25.110129596268507,-20.579060718180173,34.4900951966077,0.0,Neutral
+2020-07-21,990.0,1000.0,975.0,975.0,3382.0,0.0,1006.6,991.0,1046.15,44.707520891364894,-22.798569603849728,-19.446293498658086,56.12486080164818,0.0,Neutral
+2020-07-20,1080.0,1102.0,990.0,997.0,2700.0,0.0,1016.0,979.5,1059.15,47.331460674157306,-20.840199292015654,-18.608224472360174,69.86693702240898,0.0,Neutral
+2020-07-19,1000.0,1060.0,1000.0,1060.0,237.0,0.0,1020.6,986.8,1069.3,45.17426273458445,-20.277476467936253,-18.0502307674463,75.48627542661087,0.0,Neutral
+2020-07-16,1002.0,1006.0,996.0,1000.0,2399.0,0.0,1015.0,988.8,1075.4,37.687074829931966,-25.67883786021389,-17.493419342323815,77.86855020555791,0.0,Neutral
+2020-07-15,1022.0,1022.0,1000.0,1001.0,3819.0,0.0,1003.8,988.2,1084.75,34.071340713407125,-26.090337850208925,-15.447064712851295,77.79574395673684,0.21790727972984314,Positive
+2020-07-14,1012.0,1022.0,1012.0,1022.0,4019.0,0.0,975.4,993.2,1093.7,31.40589569160997,-26.337883832344914,-12.786246428511886,80.27702037323249,0.4358145594596863,Positive
+2020-07-13,1020.0,1040.0,1015.0,1020.0,4631.0,0.8716291189193726,943.0,994.5,1098.7,39.19597989949749,-28.408927848346252,-9.398337077553627,80.89808403172714,1.0027339458465576,Strongly Positive
+2020-07-12,962.0,1038.0,962.0,1032.0,10947.0,0.0,953.0,1005.7,1102.7,41.74852652259332,-30.43547598733926,-4.64568938485547,91.8344525037911,0.43829603493213654,Positive
+2020-07-09,876.0,944.0,876.0,944.0,632.0,0.5244193077087402,962.6,1020.6,1106.75,37.44725738396624,-33.80120868856534,1.8017572657654775,107.35217225977917,1.0730021595954895,Strongly Positive
+2020-03-16,843.0,859.0,827.0,859.0,1562.0,0.7043455243110657,972.6,1052.2,1115.35,31.105990783410135,-28.645453573569284,10.702498754348182,127.00813622233463,1.3249718844890594,Strongly Positive
+2020-03-15,873.0,907.0,849.0,860.0,17705.0,0.7856403589248657,1011.0,1101.3,1126.85,31.693363844393602,-12.99362862935891,20.539486836327548,138.41567830272868,1.2412527203559875,Strongly Positive
+2020-03-12,1101.0,1155.0,1050.0,1070.0,43213.0,0.9112247228622437,1046.0,1138.8,1135.45,46.398891966759,7.070971624951426,28.92276570274916,114.5122991938908,0.9112247228622437,Strongly Positive
+2020-03-11,990.0,1085.0,980.0,1080.0,12877.0,0.0,1058.4,1151.8,1132.7,48.63760217983651,11.196029089544481,34.385714222198594,113.20561430916584,0.0,Neutral
+2020-03-10,1050.0,1080.0,994.0,994.0,5515.0,0.0,1078.6,1162.0,1129.1,40.998487140695914,15.280069284867977,40.18313550536212,110.58229715668307,0.0,Neutral
+2020-03-05,1015.0,1114.0,957.0,1051.0,11238.0,0.0,1131.8,1181.3,1128.4,44.64579901153213,29.026897762755198,46.40890206048565,93.53080300690056,0.0,Neutral
+2020-03-04,1115.0,1137.0,1035.0,1035.0,20797.0,0.0,1191.6,1194.2,1125.75,45.63106796116505,40.34700396161861,50.75440313491826,81.71196022889782,0.08937187492847443,Slightly Positive
+2020-03-03,1160.0,1203.0,1063.0,1132.0,28009.0,0.0,1231.6,1202.9,1124.0,58.65051903114187,55.83780127054456,53.35625292824317,65.99907406761338,0.40834657847881317,Positive
+2020-03-02,1301.0,1301.0,1181.0,1181.0,18964.0,0.3574874997138977,1245.2,1199.7,1117.65,65.2014652014652,64.92114181727493,52.73586584266782,70.44469856249009,0.8166931569576263,Strongly Positive
+2020-03-01,1377.0,1377.0,1243.0,1260.0,28830.0,0.9184113144874572,1245.4,1192.9,1109.45,76.58227848101265,70.58138896139576,49.68954684901604,75.54755676617125,0.9184113144874572,Strongly Positive
+2020-02-27,1235.0,1358.0,1190.0,1350.0,23670.0,0.0,1230.8,1178.5,1098.1,94.90291262135922,68.73564784045311,44.46658632092111,75.05886578771268,0.0,Neutral
+2020-02-26,1224.0,1260.0,1204.0,1235.0,21486.0,0.0,1196.8,1152.4,1080.55,87.61904761904762,56.21638338658909,38.399320941038106,49.98933219535806,0.0749826654791832,Slightly Positive
+2020-02-25,1160.0,1208.0,1119.0,1200.0,11817.0,0.0,1174.2,1132.1,1067.85,85.46099290780143,51.12864754348857,33.94505532965036,53.792709130142164,0.1499653309583664,Slightly Positive
+2020-02-24,1200.0,1200.0,1167.0,1182.0,9122.0,0.2999306619167328,1154.2,1113.6,1056.55,82.8996282527881,47.45479346675302,29.649157276190806,59.36927750205178,0.2999306619167328,Positive
+2020-02-23,1203.0,1226.0,1180.0,1187.0,16575.0,0.0,1140.4,1096.2,1045.6,80.79710144927536,43.908095449294024,25.197748228550246,62.510088074771026,0.0,Neutral
+2020-02-20,1143.0,1190.0,1125.0,1180.0,13275.0,0.0,1126.2,1075.5,1032.6,75.78947368421052,38.23346495502028,20.520161423364303,63.36884969064557,0.0,Neutral
+2020-02-19,1094.0,1126.0,1085.0,1122.0,9038.0,0.0,1108.0,1057.3,1020.65,73.5632183908046,31.147177088438184,16.091835540450308,55.691710933236614,0.0,Neutral
+2020-02-18,1120.0,1120.0,1060.0,1100.0,8093.0,0.0,1090.0,1045.1,1012.05,73.15175097276264,27.554901635623196,12.328000153453338,53.252960272479655,0.17740939557552338,Slightly Positive
+2020-02-17,1118.0,1135.0,1105.0,1113.0,12366.0,0.0,1073.0,1035.6,1005.05,77.68924302788845,24.80905330660312,8.521274782910872,50.787575033489205,0.35481879115104675,Positive
+2020-02-16,1097.0,1119.0,1080.0,1116.0,17018.0,0.7096375823020935,1052.0,1026.0,996.9,79.53667953667954,19.619857027648663,4.449330151987811,43.00904297682398,0.7096375823020935,Strongly Positive
+2020-02-13,1040.0,1110.0,1040.0,1089.0,23350.0,0.0,1024.8,1017.7,989.6,80.22388059701493,12.405721311199045,0.6566984330725978,29.642499519815935,0.0,Neutral
+2020-02-12,1028.0,1034.0,1015.0,1032.0,9288.0,0.0,1006.6,1008.7,984.15,70.22222222222223,5.766504868585912,-2.280557286459014,16.207337158900735,0.0,Neutral
+2020-02-11,1020.0,1030.0,1008.0,1015.0,11965.0,0.0,1000.2,1003.6,980.5,64.97695852534562,3.012210356471428,-4.2923228252202446,16.084499094333538,0.0,Neutral
+2020-02-10,990.0,1017.0,990.0,1008.0,6528.0,0.0,998.2,999.5,977.05,60.909090909090914,1.1838241194600414,-6.118456120643162,17.9706550923707,0.0,Neutral
+2020-02-09,990.0,999.0,980.0,980.0,5403.0,0.0,1000.0,995.0,974.15,57.42574257425742,-0.4543535738812352,-7.9440261806689625,20.986768318370217,0.0,Neutral
+2020-02-06,1000.0,1020.0,980.0,998.0,7402.0,0.0,1010.6,989.7,972.3,56.86274509803922,0.3122538586017072,-9.816444332365894,29.966833518335108,0.0,Neutral
+2020-02-05,995.0,995.0,1000.0,1000.0,2183.0,0.0,1010.8,984.0,966.95,54.716981132075475,-0.5465454382454027,-12.348618880107793,33.43318378172018,0.0,Neutral
+2020-02-04,1000.0,999.0,1000.0,1005.0,4298.0,0.0,1007.0,979.0,961.7,60.08771929824562,-1.8383722434828087,-15.29913724057339,34.49637662138588,0.0,Neutral
+2020-02-03,1033.0,1033.0,1000.0,1017.0,8136.0,0.0,1000.8,974.5,952.25,65.50218340611353,-3.9695639513536207,-18.664328489846035,33.652637340994495,0.0,Neutral
+2020-02-02,1000.0,1049.0,995.0,1033.0,15167.0,0.0,990.0,967.8,938.5,69.12442396313364,-7.853818619198023,-22.338019624469137,30.799711398432244,-0.22474974393844604,Negative
+2020-01-30,990.0,1014.0,980.0,999.0,19331.0,0.0,968.8,961.5,920.6,64.73684210526315,-14.326393578967554,-25.959069875786913,20.801976401936308,-0.4494994878768921,Negative
+2020-01-29,966.0,982.0,957.0,981.0,12037.0,-0.8989989757537842,957.2,959.6,927.05,70.08928571428571,-18.91755080283383,-28.86723894999175,17.6206949038164,-0.8989989757537842,Strongly Negative
+2020-01-28,963.0,974.0,956.0,974.0,12161.0,0.0,951.0,957.4,933.95,67.87330316742081,-22.669645284163607,-31.35466098678123,15.945741333382989,0.0,Neutral
+2020-01-27,925.0,963.0,925.0,963.0,7396.0,0.0,948.2,954.6,940.25,75.4325259515571,-26.416214672564024,-33.52591491243563,15.145222936037282,0.0,Neutral
+2020-01-26,941.0,942.0,925.0,927.0,6580.0,0.0,945.6,953.3,946.9,78.2874617737003,-29.693963751248702,-35.30333997240353,14.900037285711846,0.0,Neutral
+2020-01-23,966.0,973.0,941.0,941.0,7862.0,0.0,954.2,954.9,956.45,85.0,-29.78019673893357,-36.70568402769223,12.413702107127106,0.0,Neutral
+2020-01-22,969.0,970.0,945.0,950.0,2404.0,0.0,962.0,949.9,965.5,39.19902912621359,-30.88254943610309,-38.437055849881894,23.633544898066763,0.0,Neutral
+2020-01-21,967.0,967.0,937.0,960.0,7554.0,0.0,963.8,944.4,974.15,40.34021871202916,-32.756715250510865,-40.32568245332659,29.32272535469233,0.0,Neutral
+2020-01-20,989.0,989.0,940.0,950.0,8473.0,0.0,961.0,930.0,981.5,40.98557692307693,-35.690552849983874,-42.21792425403052,49.33783763225461,0.0,Neutral
+2020-01-19,980.0,999.0,1000.0,970.0,12612.0,0.0,961.0,909.2,991.85,42.279411764705884,-37.897879344584226,-43.849767105042176,76.39488057312664,0.0,Neutral
+2020-01-16,978.0,983.0,954.0,980.0,18726.0,0.0,955.6,879.7,999.6,41.66666666666667,-42.20035237086199,-45.33773904515666,102.72730893002363,0.0,Neutral
+2020-01-15,929.0,963.0,929.0,959.0,11061.0,0.0,937.8,894.5,1007.2,39.95067817509247,-48.0962309990075,-46.12208571373032,126.65723649109063,0.0,Neutral
+2020-01-14,949.0,960.0,910.0,946.0,10967.0,0.0,925.0,910.5,1015.1,38.92365456821027,-52.783752724400415,-45.628549392411024,144.55237420704435,0.0,Neutral
+2020-01-13,960.0,998.0,925.0,950.0,22975.0,0.0,899.0,925.9,1023.0,40.32059186189889,-56.67533495972884,-43.83974855941368,156.46685840069222,0.0,Neutral
+2020-01-12,906.0,949.0,900.0,943.0,28133.0,0.0,857.4,940.5,1031.0,37.470725995316165,-61.22531323158853,-40.63085195933488,165.51552461595068,0.0,Neutral
+2020-01-09,879.0,900.0,878.0,891.0,19312.0,0.0,803.8,958.0,1040.05,35.97122302158273,-65.42946276066618,-35.48223664127147,174.80020340696285,0.0,Neutral
+2020-01-08,832.0,897.0,832.0,895.0,81380.0,0.0,851.2,981.1,1051.55,35.84229390681004,-64.54923961035206,-27.995430111422785,180.14404730043748,0.2240561693906784,Positive
+2020-01-07,745.0,816.0,745.0,816.0,8658.0,0.0,896.0,1003.9,1062.8,30.530401034928843,-62.894129485982376,-18.856977736690467,182.44965820133027,0.4481123387813568,Positive
+2020-01-06,688.0,742.0,688.0,742.0,1181.0,0.8962246775627136,952.8,1033.0,1079.4,24.578651685393254,-51.823147043808945,-7.847689799367489,172.0613585646573,0.8962246775627136,Strongly Positive
+2020-01-05,626.0,675.0,626.0,675.0,116.0,0.0,1023.6,1074.5,1099.1,16.58986175115207,-29.404210951524874,3.146174511742876,141.38933638874212,0.0,Neutral
+2019-03-07,1097.0,1128.0,1065.0,1128.0,1966.0,0.0,1112.2,1119.5,1123.3,50.94339622641509,6.460019638285303,11.283770877559814,17.05709366946357,0.21152231097221375,Positive
+2019-03-06,1080.0,1119.0,1080.0,1119.0,1519.0,0.0,1111.0,1119.9,1124.65,49.51456310679612,6.018219123631752,12.489708687378439,17.32339458663946,0.4230446219444275,Positive
+2019-03-05,1115.0,1115.0,1080.0,1100.0,352.0,0.846089243888855,1111.8,1119.7,1125.95,44.680851063829785,6.283146915857515,14.107581078315109,17.34646938153149,0.846089243888855,Strongly Positive
+2019-03-03,1118.0,1118.0,1096.0,1096.0,185.0,0.0,1113.2,1120.1,1127.45,37.73584905660377,8.464445342794988,16.063689618929505,16.881613930347353,0.18925577402114868,Slightly Positive
+2019-02-27,1100.0,1118.0,1100.0,1118.0,368.0,0.0,1125.4,1121.5,1129.65,45.54455445544555,11.532728857281654,17.963500687963133,15.15292417705305,0.37851154804229736,Positive
+2019-02-26,1120.0,1122.0,1101.0,1122.0,894.0,0.7570230960845947,1126.8,1122.1,1130.25,41.6289592760181,13.041225577847854,19.571193645633503,15.1176864780578,0.7570230960845947,Strongly Positive
+2019-02-25,1112.0,1123.0,1112.0,1123.0,349.0,0.0,1128.8,1122.0,1130.9,42.857142857142854,14.369652656420158,21.203685662579915,15.121728296430735,0.0,Neutral
+2019-02-24,1134.0,1134.0,1105.0,1107.0,472.0,0.0,1127.6,1121.7,1131.0,41.28440366972477,15.754377361704428,22.912193914119854,15.129441496777323,0.0,Neutral
+2019-02-21,1181.0,1228.0,1157.0,1157.0,100.0,0.0,1127.0,1125.8,1132.4,57.37704918032787,18.921725951187682,24.701648052223707,16.219330031510832,0.2155914604663849,Positive
+2019-02-20,1125.0,1125.0,1106.0,1125.0,745.0,0.0,1117.6,1123.7,1131.3,45.3416149068323,17.598280318838306,26.14662857748271,12.710887721598052,0.4311829209327698,Positive
+2019-02-19,1139.0,1139.0,1102.0,1132.0,709.0,0.8623658418655396,1117.4,1127.1,1132.15,50.609756097560975,18.911289270729412,28.283715642143807,16.94074640897768,0.8623658418655396,Strongly Positive
+2019-02-18,1105.0,1117.0,1095.0,1117.0,331.0,0.0,1115.2,1129.4,1132.05,44.15584415584415,19.59936557993251,30.626822234997405,19.103228348573232,0.0,Neutral
+2019-02-17,1103.0,1110.0,1103.0,1104.0,715.0,0.0,1115.8,1132.2,1134.0,43.04635761589404,21.719792206152533,33.38368639876363,19.135772202400755,0.22485199570655823,Positive
+2019-02-14,1120.0,1120.0,1102.0,1110.0,1549.0,0.0,1124.6,1134.8,1136.3,41.935483870967744,25.433939758802126,36.2996599469164,16.45735229156978,0.44970399141311646,Positive
+2019-02-13,1130.0,1130.0,1120.0,1124.0,255.0,0.8994079828262329,1129.8,1137.8,1137.25,46.09929078014184,29.193685329510572,39.016089993944966,13.98252878114325,1.1159150302410126,Strongly Positive
+2019-02-12,1142.0,1142.0,1113.0,1121.0,1365.0,0.0,1136.8,1138.4,1137.9,42.758620689655174,32.14239788951295,41.47169116005356,13.442883288770249,0.4330140948295593,Positive
+2019-02-10,1148.0,1155.0,1120.0,1120.0,1650.0,0.8660281896591187,1143.6,1139.8,1138.55,46.79487179487179,35.74395613315937,43.80401447768871,12.090400232505269,0.8660281896591187,Strongly Positive
+2019-02-07,1127.0,1149.0,1125.0,1148.0,1964.0,0.0,1148.6,1140.3,1135.6,47.4025974025974,39.92276020220379,45.819029063821034,11.25512229085774,0.0,Neutral
+2019-02-06,1143.0,1150.0,1136.0,1136.0,1016.0,0.0,1145.0,1139.0,1126.45,45.270270270270274,41.82482997466127,47.29309627922534,11.01514109477132,0.0,Neutral
+2019-02-05,1169.0,1169.0,1145.0,1159.0,1140.0,0.0,1145.8,1138.9,1117.9,60.273972602739725,44.866019684602634,48.66016285536635,11.049886877447511,0.22176390886306763,Positive
+2019-02-04,1145.0,1175.0,1136.0,1155.0,2897.0,0.0,1140.0,1137.2,1107.75,55.99999999999999,45.753268809879046,49.60869864805728,8.664102184938455,0.44352781772613525,Positive
+2019-02-03,1152.0,1175.0,1130.0,1145.0,3064.0,0.8870556354522705,1136.0,1134.7,1098.1,53.846153846153854,46.62749196527011,50.57255610760183,6.219146065350885,0.8870556354522705,Strongly Positive
+2019-01-31,1140.0,1140.0,1127.0,1130.0,635.0,0.0,1132.0,1135.8,1088.05,67.16417910447761,48.08328236411057,51.558822143184756,8.715248450844426,0.0,Neutral
+2019-01-30,1125.0,1140.0,1125.0,1140.0,979.0,0.0,1133.0,1137.8,1079.65,80.48780487804878,50.76927982060738,52.427707087953294,9.496198069868107,0.0,Neutral
+2019-01-29,1135.0,1135.0,1125.0,1130.0,412.0,0.0,1132.0,1136.7,1070.75,79.78339350180505,52.44094523132708,52.84231390478977,9.843779762082765,0.0,Neutral
+2019-01-28,1147.0,1149.0,1127.0,1135.0,434.0,0.0,1134.4,1137.4,1061.9,81.85053380782918,54.83000260673566,52.94265607315543,9.559172442328215,0.0,Neutral
+2019-01-27,1130.0,1134.0,1120.0,1125.0,1160.0,0.0,1133.4,1137.3,1051.65,79.42238267148014,56.572690346159106,52.47081943976037,9.592242236072886,0.0,Neutral
+2019-01-24,1120.0,1135.0,1120.0,1135.0,369.0,0.0,1139.6,1130.9,1042.75,83.50877192982456,58.992299928533384,51.44535171316068,26.010467978274466,0.21253621578216553,Positive
+2019-01-23,1142.0,1142.0,1125.0,1135.0,126.0,0.0,1142.6,1113.9,1035.05,78.54785478547855,60.204349978349,49.558614659317506,58.409379003375584,0.5780794620513916,Positive
+2019-01-22,1120.0,1142.0,1120.0,1142.0,1641.0,0.8501448631286621,1141.4,1096.9,1027.7,80.4054054054054,60.875666951337735,46.89718082955963,74.19261718290359,1.1561589241027832,Strongly Positive
+2019-01-21,1133.0,1133.0,1116.0,1130.0,1153.0,0.6120281219482422,1140.4,1078.3,1017.7,80.20477815699658,60.13432000484204,43.402559299115104,84.26156366407858,0.7227657637558877,Strongly Positive
+2019-01-20,1140.0,1156.0,1135.0,1156.0,327.0,0.0,1141.2,1061.5,1009.1,88.9655172413793,59.53522888397174,39.21961912268337,89.39954014301333,0.2214752836152911,Positive
+2019-01-17,1151.0,1197.0,1140.0,1150.0,3368.0,0.4429505672305822,1122.2,1040.3,1000.0,83.72093023255815,55.2573310695667,34.14071668236127,89.6363641486103,0.4429505672305822,Positive
+2019-01-16,1132.0,1151.0,1110.0,1129.0,1905.0,0.0,1085.2,1021.5,986.8,73.56687898089172,49.60434395271409,28.86156308555991,83.58262711568753,0.0,Neutral
+2019-01-15,1150.0,1169.0,1132.0,1137.0,2290.0,0.0,1052.4,1004.8,974.1,73.80191693290735,43.805740847892025,23.675867868771363,76.06254736146846,0.22444960474967957,Positive
+2019-01-14,1082.0,1165.0,1082.0,1134.0,8267.0,0.0,1016.2,986.4,961.5,76.96629213483146,34.95289483631336,18.643399623991193,61.3644848426558,0.44889920949935913,Positive
+2019-01-13,984.0,1061.0,984.0,1061.0,532.0,0.8977984189987183,981.8,966.0,950.55,67.22408026755852,23.45049291118835,14.56602582091065,35.15679166255857,0.8977984189987183,Strongly Positive
+2019-01-10,955.0,965.0,955.0,965.0,224.0,0.0,958.4,954.6,940.0,47.945205479452056,15.8608745571388,12.344909048341226,11.354881476170906,0.0,Neutral
+2019-01-09,975.0,990.0,953.0,965.0,221.0,0.0,957.8,956.2,932.2,62.86644951140065,15.71760350077534,11.465917671141831,13.838753958202524,0.0,Neutral
+2019-01-08,957.0,957.0,956.0,956.0,366.0,0.0,957.2,958.5,925.2,63.10679611650486,15.306117847005567,10.402996213733452,17.01143406340108,0.0,Neutral
+2019-01-07,945.0,962.0,944.0,962.0,516.0,0.0,956.6,957.1,918.4,62.30031948881789,15.474641716601127,9.177215805415424,17.79793995582694,0.0,Neutral
+2019-01-06,981.0,981.0,944.0,944.0,250.0,0.0,950.2,956.7,911.3,54.46153846153845,14.85374466700705,7.602859327618996,17.72035866216217,0.0,Neutral
+2019-01-03,952.0,962.0,951.0,962.0,93.0,0.0,950.8,959.7,903.65,65.05376344086021,15.677927055823261,5.790137992771983,17.870211091338494,0.0,Neutral
+2019-01-02,962.0,962.0,962.0,962.0,12.0,0.0,954.6,952.1,894.3,68.5230024213075,14.669113638554904,3.318190727009164,29.29334395395235,0.1993231475353241,Slightly Positive
+2019-01-01,934.0,953.0,934.0,953.0,49.0,0.0,959.8,943.4,885.7,65.23809523809524,13.168131951226087,0.48045999912272874,37.730624166644276,0.3986462950706482,Positive
+2018-12-31,950.0,950.0,930.0,930.0,592.0,0.7972925901412964,957.6,936.6,877.45,63.681592039801,11.977160678290375,-2.6914579889031107,41.72449320648362,0.7972925901412964,Strongly Positive
+2018-12-30,970.0,970.0,947.0,947.0,504.0,0.0,963.2,935.1,870.95,66.49350649350649,12.62465318915008,-6.3586126557014815,42.25438833231288,0.0,Neutral
+2018-12-27,1007.0,1029.0,981.0,981.0,2115.0,0.0,968.6,925.4,865.35,75.0,11.536548674805204,-11.104429116914371,49.697305985604416,0.0,Neutral
+2018-12-26,940.0,989.0,940.0,988.0,1024.0,0.0,949.6,908.2,859.8,77.37789203084833,6.518109113953301,-16.764673564844266,57.472312174396144,0.0,Neutral
+2018-12-25,940.0,953.0,924.0,942.0,1026.0,0.0,927.0,891.9,854.65,71.22905027932961,-0.6947807853732684,-22.585369234543656,55.402466852459874,0.0,Neutral
+2018-12-24,975.0,999.0,940.0,958.0,1283.0,0.0,915.6,879.7,851.3,74.70930232558139,-5.207308899999248,-28.058016346836254,56.56471220355719,0.0,Neutral
+2018-12-23,903.0,974.0,900.0,974.0,858.0,0.0,907.0,865.9,847.65,75.58823529411765,-12.520283927758328,-33.7706932085455,51.98813967311446,0.0,Neutral
+2018-12-20,892.0,892.0,886.0,886.0,405.0,0.0,882.2,847.6,845.25,58.88501742160279,-23.3012770151488,-39.08329552874229,40.68906487011713,0.0,Neutral
+2018-12-19,875.0,891.0,875.0,875.0,384.0,0.0,866.8,836.5,849.15,50.80385852090032,-27.762816890106933,-43.028800157140665,44.05110668308579,0.0,Neutral
+2018-12-18,900.0,910.0,860.0,885.0,2671.0,0.0,856.8,828.0,854.4,50.0,-31.933541357561126,-46.84529597389909,43.99747467505821,0.0,Neutral
+2018-12-17,855.0,933.0,850.0,915.0,771.0,0.0,843.8,818.3,859.15,56.75675675675676,-37.8105963490018,-50.57323462798358,40.59570311148368,0.0,Neutral
+2018-12-16,825.0,856.0,825.0,850.0,367.0,0.0,824.8,806.8,862.7,42.73858921161825,-47.81642877300044,-53.76389419772902,22.344773189574067,0.0,Neutral
+2018-12-13,811.0,834.0,809.0,809.0,331.0,0.0,813.0,805.3,870.45,25.726141078838168,-53.27381592111499,-55.250760553911164,19.43679214514341,0.0,Neutral
+2018-12-12,804.0,825.0,804.0,825.0,293.0,0.0,806.2,811.4,879.0,23.574144486692006,-55.289989104037886,-55.7449967121102,28.285056910832992,0.0,Neutral
+2018-12-11,810.0,820.0,803.0,820.0,263.0,0.0,799.2,817.4,886.5,20.802919708029208,-58.68823212509153,-55.858748614128274,36.62482461094376,0.0,Neutral
+2018-12-10,806.0,822.0,800.0,820.0,311.0,0.0,792.8,822.9,895.75,20.802919708029208,-61.66288802287147,-55.15137773638746,40.93477196174625,0.0,Neutral
+2018-12-06,761.0,795.0,761.0,791.0,410.0,0.0,788.8,829.4,905.5,11.155378486055767,-64.56271590661424,-53.523500164766446,45.34607664033655,0.0,Neutral
+2018-12-05,790.0,790.0,775.0,775.0,162.0,0.0,797.6,842.9,915.65,4.7244094488189035,-64.37212944685882,-50.763696229304486,52.21845140054682,0.2040773183107376,Positive
+2018-12-04,800.0,810.0,788.0,790.0,1102.0,0.0,816.6,861.8,927.4,14.015151515151516,-61.56345902808948,-47.3615879249159,58.71172512089269,0.4081546366214752,Positive
+2018-12-03,800.0,801.0,788.0,788.0,475.0,0.8163092732429504,835.6,880.8,938.4,14.981273408239701,-58.61037847136072,-43.81112014912251,63.446915694269165,0.8163092732429504,Strongly Positive
+2018-12-02,830.0,830.0,792.0,800.0,1323.0,0.0,853.0,900.0,950.5,14.035087719298247,-53.78502287391632,-40.111305568562955,61.257199123442,0.0,Neutral
+2018-11-29,853.0,853.0,834.0,835.0,774.0,0.0,870.0,918.6,962.0,15.384615384615387,-48.06560503319383,-36.692876242224614,55.48613440415253,0.20782852172851562,Positive
+2018-11-28,868.0,880.0,855.0,870.0,677.0,0.0,888.2,935.6,971.0,24.796747967479675,-43.63004837055246,-33.849694044482305,53.01404426086967,0.41565704345703125,Positive
+2018-11-27,880.0,885.0,875.0,885.0,651.0,0.8313140869140625,907.0,946.6,979.25,24.696356275303643,-40.89768261757297,-31.404605462964767,49.16231619175287,0.8313140869140625,Strongly Positive
+2018-11-26,875.0,881.0,870.0,875.0,3706.0,0.0,926.0,955.6,987.5,21.518987341772146,-38.3425876729691,-29.031336174312717,44.66467657263267,0.0,Neutral
+2018-11-25,910.0,910.0,883.0,885.0,210.0,0.0,947.0,968.6,994.5,20.647773279352222,-33.505465213886055,-26.703523299648616,36.830542880786176,0.21898223459720612,Positive
+2018-11-22,960.0,960.0,926.0,926.0,198.0,0.0,967.2,981.6,1001.3,24.75728155339806,-27.862367599363665,-25.003037821089254,25.12723179704265,0.43796446919441223,Positive
+2018-11-21,963.0,970.0,962.0,964.0,373.0,0.8759289383888245,983.0,988.4,1006.85,36.0655737704918,-24.4289976608369,-24.288205376520647,15.92482339005773,0.8759289383888245,Strongly Positive
+2018-11-20,980.0,980.0,980.0,980.0,50.0,0.0,986.2,993.0,1010.4,35.294117647058826,-23.56052915514158,-24.25300730544158,14.689376357841253,0.0,Neutral
+2018-11-18,970.0,980.0,970.0,980.0,232.0,0.0,985.2,996.0,1012.4,32.67326732673267,-23.738439838342856,-24.42612684301658,14.802402207602569,0.0,Neutral
+2018-11-15,1010.0,1010.0,986.0,986.0,359.0,0.0,990.2,1001.0,1014.05,43.72294372294372,-23.620232167252993,-24.598048594185006,17.06848948612199,0.215395987033844,Positive
+2018-11-14,990.0,1005.0,980.0,1005.0,67.0,0.0,996.0,1005.4,1015.25,46.3302752293578,-23.7366982719019,-24.842502700918008,18.39202725833094,0.430791974067688,Positive
+2018-11-13,990.0,990.0,971.0,980.0,126.0,0.861583948135376,993.8,1006.4,1015.4,36.363636363636374,-25.47463576151722,-25.118953808172034,18.63807333879495,1.0197254419326782,Strongly Positive
+2018-11-12,1000.0,1005.0,975.0,975.0,250.0,0.0,999.8,1011.9,1017.65,35.4368932038835,-24.776881273549407,-25.030033319835734,18.088977613884918,0.3162829875946045,Positive
+2018-11-06,1015.0,1005.0,994.0,1005.0,50.0,0.632565975189209,1006.8,1019.4,1020.9,46.07329842931937,-23.016810908564366,-25.093321331407314,16.574411335417807,0.632565975189209,Strongly Positive
+2018-11-05,1013.0,1015.0,1013.0,1015.0,112.0,0.0,1011.8,1020.4,1022.85,50.53191489361702,-23.49007657494974,-25.612448937118046,15.896889982497388,0.0,Neutral
+2018-11-04,1010.0,1010.0,994.0,994.0,240.0,0.0,1014.8,1021.0,1024.85,45.29411764705882,-24.770643638955107,-26.14304202766012,15.783254135811966,0.0,Neutral
+2018-11-01,1010.0,1010.0,1010.0,1010.0,23.0,0.0,1019.0,1025.3,1030.2,50.64102564102565,-23.90663078408261,-26.486141624836367,13.266917920738921,0.0,Neutral
+2018-10-31,1040.0,1040.0,1010.0,1010.0,1629.0,0.0,1024.0,1027.8,1036.95,45.664739884393065,-24.08519429245871,-27.131019335024803,12.389960093382966,0.0,Neutral
+2018-10-30,1040.0,1040.0,1010.0,1030.0,809.0,0.0,1032.0,1028.8,1043.95,47.023809523809526,-23.96277616253201,-27.892475595666323,11.133532932545105,0.0,Neutral
+2018-10-29,1010.0,1030.0,1010.0,1030.0,808.0,0.0,1029.0,1027.1,1049.95,45.93023255813954,-25.49434027797065,-28.8749004539499,12.178761112146598,0.0,Neutral
+2018-10-28,1035.0,1035.0,1010.0,1015.0,358.0,0.0,1027.2,1025.1,1055.6,38.095238095238095,-27.078346253996415,-29.720040497944705,13.245124889477154,-0.01354848127812145,Neutral
+2018-10-25,1035.0,1035.0,1029.0,1035.0,562.0,0.0,1031.6,1024.4,1061.3,32.98969072164948,-27.17897429970185,-30.380464058931775,14.001587211775627,-0.0270969625562429,Neutral
+2018-10-24,1035.0,1081.0,1035.0,1050.0,610.0,-0.0541939251124858,1031.6,1023.4,1065.95,28.699551569506724,-28.948445379134,-31.180836498739254,13.508844839341519,-0.0541939251124858,Slightly Negative
+2018-10-23,1015.0,1015.0,1015.0,1015.0,25.0,0.0,1025.6,1022.4,1069.45,15.025906735751292,-32.31313835136734,-31.738934278640563,11.54892972453697,0.0,Neutral
+2018-10-21,1030.0,1030.0,1021.0,1021.0,200.0,0.0,1025.2,1025.3,1075.2,15.508021390374338,-32.57406445990682,-31.595383260458863,13.030306554083916,0.20871274173259735,Positive
+2018-10-15,1035.0,1037.0,1030.0,1037.0,174.0,0.0,1023.0,1028.7,1079.6,20.224719101123597,-33.04420557357162,-31.350712960596873,15.902829936980078,0.4174254834651947,Positive
+2018-10-11,1020.0,1035.0,1020.0,1035.0,901.0,0.8348509669303894,1017.2,1035.1,1083.85,25.263157894736835,-34.79272451394263,-30.927339807353185,27.938225506444546,0.8348509669303894,Strongly Positive
+2018-10-10,1013.0,1020.0,1013.0,1020.0,195.0,0.0,1015.2,1046.1,1087.1,19.318181818181813,-36.314758150358784,-29.96099363070582,44.58811500842455,0.0,Neutral
+2018-10-09,1029.0,1030.0,1013.0,1013.0,1255.0,0.0,1019.2,1059.1,1091.45,19.774011299435017,-36.201939145924825,-28.372552500792576,54.07494798892075,0.0,Neutral
+2018-10-08,1010.0,1020.0,1002.0,1010.0,344.0,0.0,1025.4,1072.8,1095.1,17.391304347826093,-34.81864013814288,-26.415205839509515,58.28817299517616,0.0,Neutral
+2018-10-07,1015.0,1015.0,1008.0,1008.0,467.0,0.0,1034.4,1086.1,1098.65,25.1231527093596,-32.24114009347386,-24.314347264851172,57.53539973118012,0.0,Neutral
+2018-10-04,1020.0,1055.0,1020.0,1025.0,722.0,0.0,1053.0,1098.2,1103.25,25.628140703517587,-28.27871436237274,-22.332649057695498,51.71460141975811,0.0,Neutral
+2018-10-03,1035.0,1055.0,1035.0,1040.0,1313.0,0.0,1077.0,1108.5,1107.0,35.4368932038835,-24.540800583951295,-20.846132731526186,45.38538678184608,0.0,Neutral
+2018-10-02,1060.0,1065.0,1037.0,1044.0,781.0,0.0,1099.0,1116.5,1110.7,34.92822966507177,-20.940178989181277,-19.922465768419908,38.49747466470994,0.2334708422422409,Positive
+2018-10-01,1123.0,1139.0,1053.0,1055.0,2226.0,0.0,1120.2,1125.1,1114.05,42.922374429223744,-16.44716482292324,-19.668037463229563,28.915393824127992,0.4669416844844818,Positive
+2018-09-30,1126.0,1127.0,1101.0,1101.0,1896.0,0.9338833689689636,1137.8,1130.5,1115.05,55.61797752808988,-11.593213435111466,-20.47325562330614,16.926310879941084,0.9338833689689636,Strongly Positive
+2018-09-27,1150.0,1150.0,1136.0,1145.0,1216.0,0.0,1143.4,1132.6,1112.75,64.70588235294117,-9.912814195611418,-22.693266170354807,13.890044396536032,0.0,Neutral
+2018-09-26,1131.0,1153.0,1131.0,1150.0,1475.0,0.0,1140.0,1128.1,1109.25,66.89189189189189,-12.103827323440782,-25.88837916404065,16.475233938786662,0.0,Neutral
+2018-09-25,1165.0,1165.0,1141.0,1150.0,769.0,0.0,1134.0,1123.8,1105.15,61.11111111111111,-15.2333920455294,-29.334517124190615,15.71835445175758,0.0,Neutral
+2018-09-23,1130.0,1150.0,1110.0,1143.0,1184.0,0.0,1130.0,1117.4,1100.9,60.12658227848101,-19.006278042878193,-32.85979839385592,16.853618141184814,0.0,Neutral
+2018-09-20,1130.0,1150.0,1118.0,1129.0,2348.0,0.0,1123.2,1111.2,1097.5,65.0,-22.832670307961735,-36.323178481600344,17.768886665679698,0.0,Neutral
+2018-09-18,1118.0,1131.0,1103.0,1128.0,1440.0,0.0,1121.8,1108.3,1095.05,68.34170854271356,-25.958972140007063,-39.695805525009995,16.885562538057837,0.0,Neutral
+2018-09-17,1120.0,1120.0,1110.0,1120.0,799.0,0.0,1116.2,1105.5,1093.4,60.66350710900473,-29.469866883599252,-43.13001387126072,15.52238526930988,0.0,Neutral
+2018-09-16,1090.0,1130.0,1067.0,1130.0,725.0,0.0,1113.6,1104.9,1093.25,64.90384615384616,-32.70784720165898,-46.54505061817609,15.007035387296055,0.0,Neutral
+2018-09-13,1120.0,1120.0,1100.0,1109.0,360.0,0.0,1104.8,1103.0,1094.25,61.57894736842105,-37.38311884832228,-50.004351472305366,12.463279397405023,0.0,Neutral
+2018-09-12,1082.0,1122.0,1082.0,1122.0,645.0,0.0,1099.2,1099.6,1095.95,62.5668449197861,-40.668529294087875,-53.159659628301135,15.019986684563104,0.0,Neutral
+2018-09-11,1120.0,1142.0,1098.0,1100.0,733.0,0.0,1094.8,1092.9,1103.35,55.88235294117647,-45.594001836951065,-56.282442211854445,18.465884460088926,-0.0545857548713684,Slightly Negative
+2018-09-10,1080.0,1107.0,1080.0,1107.0,235.0,0.0,1094.8,1090.4,1111.85,53.37078651685393,-48.97751040130447,-58.954552305580286,19.079948753833527,-0.1091715097427368,Slightly Negative
+2018-09-09,1077.0,1086.0,1071.0,1086.0,178.0,-0.2183430194854736,1096.2,1086.5,1119.25,41.340782122905026,-53.296424817605384,-61.44881278164924,19.2945012317565,-0.2183430194854736,Negative
+2018-09-06,1105.0,1123.0,1081.0,1081.0,720.0,0.0,1101.2,1084.4,1129.2,33.33333333333333,-55.89552758433729,-63.486909772660205,20.462431700938915,0.0,Neutral
+2018-09-05,1122.0,1122.0,1100.0,1100.0,240.0,0.0,1100.0,1083.8,1140.15,38.97435897435897,-57.89081107810284,-65.38475531974093,20.66021404654183,0.0,Neutral
+2018-09-04,1105.0,1105.0,1100.0,1100.0,750.0,0.0,1091.0,1081.8,1150.15,23.602484472049696,-61.530015667191265,-67.25824138015045,19.870693104391908,0.0,Neutral
+2018-09-03,1115.0,1150.0,1093.0,1114.0,1105.0,0.0,1086.0,1081.3,1160.7,24.675324675324674,-65.27998202392291,-68.69029780839024,19.4196349663609,0.0,Neutral
+2018-09-02,1065.0,1111.0,1065.0,1111.0,231.0,0.0,1076.8,1081.6,1170.4,27.5,-70.54223025344004,-69.54287675450708,19.99555506173076,0.0,Neutral
+2018-08-30,1070.0,1075.0,1070.0,1075.0,71.0,0.0,1067.6,1085.5,1180.8,16.56050955414014,-75.92724918997351,-69.29303837977383,28.40285588152538,0.0,Neutral
+2018-08-29,1070.0,1070.0,1055.0,1055.0,595.0,0.0,1067.6,1092.3,1194.3,10.355987055016186,-78.03064064438581,-67.63448567722392,33.32349854922235,0.0,Neutral
+2018-08-28,1070.0,1075.0,1070.0,1075.0,692.0,0.0,1072.6,1113.8,1207.85,11.07266435986159,-77.54397823682643,-65.03544693543344,62.8557431301936,0.21094736456871033,Positive
+2018-08-26,1080.0,1080.0,1068.0,1068.0,160.0,0.0,1076.6,1133.3,1220.35,8.532423208191133,-77.8312712622785,-61.908314110085186,77.9231102505253,0.42189472913742065,Positive
+2018-08-23,1070.0,1080.0,1065.0,1065.0,1153.0,0.8437894582748413,1086.4,1152.0,1235.55,8.532423208191133,-76.35314314185894,-57.92757482203685,82.7969403621759,0.8437894582748413,Strongly Positive
+2018-08-22,1075.0,1075.0,1075.0,1075.0,54.0,0.0,1103.4,1174.0,1249.6,8.503401360544217,-73.05046844064191,-53.32118274208133,86.267027304784,0.0,Neutral
+2018-08-21,1080.0,1090.0,1074.0,1080.0,1018.0,0.0,1117.0,1196.5,1264.35,7.936507936507937,-68.79068409922456,-48.388861317441176,86.91662671781685,0.0,Neutral
+2018-08-20,1100.0,1105.0,1095.0,1095.0,671.0,0.0,1155.0,1218.5,1278.6,13.793103448275858,-62.862149407462994,-43.288405621995324,81.84707963298828,0.15877923369407654,Slightly Positive
+2018-08-19,1129.0,1129.0,1101.0,1117.0,765.0,0.0,1190.0,1240.1,1291.1,15.10067114093961,-55.90809750041535,-38.39496967562841,73.73292646063013,0.3175584673881531,Positive
+2018-08-16,1121.0,1165.0,1060.0,1150.0,3535.0,0.6351169347763062,1217.6,1259.2,1301.2,14.42307692307692,-48.45898982995914,-34.01668771943167,62.12675215507038,0.6351169347763062,Strongly Positive
+2018-08-15,1250.0,1259.0,1143.0,1143.0,6215.0,0.0,1244.6,1276.1,1310.85,19.335347432024165,-41.60636164214111,-30.40611219179981,51.13478920139242,0.21930891275405884,Positive
+2018-08-14,1270.0,1295.0,1270.0,1270.0,235.0,0.0,1276.0,1296.3,1322.2,28.070175438596493,-31.542005494894966,-27.606049829214484,26.841303164333887,0.4386178255081177,Positive
+2018-08-13,1245.0,1270.0,1240.0,1270.0,365.0,0.8772356510162354,1282.0,1301.9,1327.95,29.61373390557941,-31.16834356884783,-26.62206091279436,26.58508353702837,0.8772356510162354,Strongly Positive
+2018-08-12,1262.0,1265.0,1246.0,1255.0,983.0,0.0,1290.2,1307.4,1333.2,31.09243697478992,-30.238057349509972,-25.485490248780987,24.887301536765165,0.0,Neutral
+2018-08-09,1299.0,1299.0,1283.0,1285.0,747.0,0.0,1300.8,1319.1,1337.85,42.73504273504273,-27.083574831744045,-24.29734847359874,25.017549396010835,0.2275393456220627,Positive
+2018-08-08,1286.0,1300.0,1286.0,1300.0,110.0,0.0,1307.6,1325.2,1344.6,41.1522633744856,-25.71791060242458,-23.60079188406241,23.145913966343624,0.4550786912441254,Positive
+2018-08-07,1320.0,1320.0,1300.0,1300.0,610.0,0.9101573824882508,1316.6,1332.2,1349.6,37.037037037037045,-25.12802046823981,-23.071512204471862,25.174060724034216,0.9101573824882508,Strongly Positive
+2018-08-06,1334.0,1334.0,1310.0,1311.0,198.0,0.0,1321.8,1338.7,1354.6,36.496350364963504,-24.009607671978756,-22.557385138529874,24.31300520762979,0.0,Neutral
+2018-08-05,1303.0,1308.0,1303.0,1308.0,245.0,0.0,1324.6,1342.1,1361.25,38.078291814946624,-23.352875591340307,-22.19432950516765,22.303213520417522,0.0,Neutral
+2018-08-02,1321.0,1322.0,1319.0,1319.0,901.0,0.0,1337.4,1343.2,1369.25,45.11784511784512,-21.86951390890613,-21.904692983624486,20.644073672165,0.2260932773351669,Positive
+2018-08-01,1330.0,1345.0,1329.0,1345.0,295.0,0.0,1342.8,1345.6,1371.05,39.06705539358601,-20.778102977378694,-21.913487752304075,18.83377580611766,0.4521865546703338,Positive
+2018-07-31,1326.0,1326.0,1325.0,1326.0,217.0,0.9043731093406676,1347.8,1348.1,1369.3,39.24418604651162,-21.730111526921746,-22.19733394603542,20.343986280514507,0.9043731093406676,Strongly Positive
+2018-07-30,1370.0,1370.0,1325.0,1325.0,434.0,0.0,1355.6,1354.0,1370.5,39.06705539358601,-20.69460081703778,-22.31413955081384,21.730674684100112,0.0,Neutral
+2018-07-29,1346.0,1372.0,1325.0,1372.0,320.0,0.0,1359.6,1359.0,1370.5,39.41176470588236,-18.97008204453823,-22.71902423425785,20.0000000000988,-0.02522991225123405,Neutral
+2018-07-26,1370.0,1380.0,1343.0,1346.0,589.0,0.0,1349.0,1356.6,1369.0,31.95266272189349,-21.278495072445594,-23.65625978168776,19.70448341547237,0.1753290668129921,Slightly Positive
+2018-07-25,1392.0,1395.0,1350.0,1370.0,465.0,-0.1009196490049362,1348.4,1364.0,1368.35,51.75644028103045,-21.268091408829832,-24.250700958998294,27.59629604783028,0.3506581336259842,Positive
+2018-07-24,1345.0,1371.0,1345.0,1365.0,595.0,0.9031555652618408,1348.4,1367.0,1366.75,55.888650963597435,-23.389094857686132,-24.996353346540406,29.858927568810707,0.9031555652618408,Strongly Positive
+2018-07-23,1319.0,1345.0,1319.0,1345.0,631.0,0.0,1352.4,1370.5,1367.5,49.486652977412724,-25.24697060720564,-25.39816796875397,31.59905061871191,0.0,Neutral
+2018-07-22,1369.0,1369.0,1319.0,1319.0,1292.0,0.0,1358.4,1380.4,1371.65,49.382716049382715,-25.214703355032952,-25.43596730914105,37.651029202451916,0.0,Neutral
+2018-07-19,1370.0,1370.0,1343.0,1343.0,747.0,0.0,1364.2,1395.3,1376.55,50.10438413361169,-22.159486558914068,-25.49128329766807,40.058429547120525,0.0,Neutral
+2018-07-18,1385.0,1385.0,1370.0,1370.0,149.0,0.0,1379.6,1396.5,1378.55,54.01301518438178,-20.38123549828333,-26.324232482356564,38.46571344866683,0.22403119504451752,Positive
+2018-07-16,1381.0,1410.0,1381.0,1385.0,383.0,0.0,1385.6,1390.5,1380.6,55.21064301552106,-20.56417708273966,-27.809981728374872,46.828884723515465,0.44806239008903503,Positive
+2018-07-15,1374.0,1375.0,1366.0,1375.0,300.0,0.8961247801780701,1388.6,1387.0,1382.3,49.48240165631471,-22.025834492969807,-29.62143288978367,48.56153027063798,0.8961247801780701,Strongly Positive
+2018-07-12,1448.0,1448.0,1347.0,1348.0,260.0,0.0,1402.4,1382.0,1384.05,42.063492063492056,-22.552883267584093,-31.520332488987133,52.359865885613544,0.0,Neutral
+2018-07-11,1428.0,1460.0,1420.0,1420.0,1215.0,0.0,1426.4,1381.4,1388.4,50.33860045146727,-20.14845631056346,-33.762194794337894,52.82507821946668,0.0,Neutral
+2018-07-10,1401.0,1429.0,1400.0,1400.0,1089.0,0.0,1413.4,1372.7,1389.15,51.859956236323846,-24.117373811812286,-37.1656294152815,52.92562916230788,0.0,Neutral
+2018-07-09,1416.0,1416.0,1385.0,1400.0,2131.0,0.0,1395.4,1366.5,1391.65,48.865979381443296,-26.795993985234418,-40.427693316148805,53.00366863616915,0.0,Neutral
+2018-07-08,1475.0,1475.0,1420.0,1444.0,1593.0,0.0,1385.4,1364.5,1393.4,52.78396436525613,-29.825127457707822,-43.835618148877394,51.96633525662494,0.0,Neutral
+2018-07-05,1370.0,1468.0,1370.0,1468.0,1763.0,0.0,1361.6,1362.9,1389.95,56.68202764976959,-37.73758323591619,-47.338240821669785,49.43109682514925,0.23109009861946106,Positive
+2018-07-04,1310.0,1362.0,1310.0,1355.0,406.0,0.0,1336.4,1357.8,1388.95,38.4393063583815,-49.73148012757997,-49.738405218108184,38.889587295366915,0.4621801972389221,Positive
+2018-07-03,1325.0,1340.0,1310.0,1310.0,915.0,0.9243603944778442,1332.0,1360.6,1395.0,29.2358803986711,-52.811232449265844,-49.74013649074024,39.66582632168064,0.9243603944778442,Strongly Positive
+2018-07-02,1325.0,1350.0,1325.0,1350.0,353.0,0.0,1337.6,1370.7,1401.55,31.8840579710145,-51.39213475877409,-48.97236250110884,38.181001674822625,0.0,Neutral
+2018-07-01,1326.0,1332.0,1325.0,1325.0,777.0,0.0,1343.6,1377.6,1408.15,29.32330827067669,-52.90605538278214,-48.36741943669252,40.20558280752541,0.0,Neutral
+2018-06-28,1340.0,1380.0,1340.0,1342.0,256.0,0.0,1364.2,1386.1,1417.9,44.66019417475729,-51.52337144640296,-47.23276045017011,36.680149036463774,0.0,Neutral
+2018-06-27,1364.0,1365.0,1333.0,1333.0,420.0,0.0,1379.2,1395.4,1426.4,34.58445040214478,-50.74004218293135,-46.1601077011119,36.04071771395732,0.0,Neutral
+2018-06-26,1380.0,1380.0,1338.0,1338.0,673.0,0.0,1389.2,1405.6,1436.15,32.575757575757564,-48.08582858216687,-45.01512408065703,30.41271663855619,0.0,Neutral
+2018-06-25,1410.0,1410.0,1380.0,1380.0,225.0,0.0,1403.8,1416.8,1444.8,42.15938303341902,-44.507747534177724,-44.24744795527957,22.2900077265167,0.0,Neutral
+2018-06-24,1389.0,1428.0,1389.0,1428.0,698.0,0.0,1411.6,1422.3,1450.8,42.931937172774866,-43.569793214247284,-44.18237306055503,18.69670202657066,0.0,Neutral
+2018-06-21,1419.0,1425.0,1400.0,1417.0,1010.0,0.0,1408.0,1417.0,1458.25,37.40831295843521,-46.62615270823744,-44.335518022131964,23.734644158635756,0.22321495413780212,Positive
+2018-06-20,1383.0,1383.0,1383.0,1383.0,4.0,0.0,1411.6,1420.1,1467.0,33.15926892950391,-48.72898024117421,-43.762859350605595,25.679434054064522,0.44642990827560425,Positive
+2018-06-19,1415.0,1425.0,1411.0,1411.0,474.0,0.8928598165512085,1422.0,1429.4,1473.85,34.23180592991915,-47.24234948879666,-42.52132912796343,27.52453451020879,0.8928598165512085,Strongly Positive
+2018-06-18,1400.0,1419.0,1400.0,1419.0,278.0,0.0,1429.8,1432.4,1476.8,37.89473684210527,-47.50861569956146,-41.34107403775513,26.924586038358978,0.0,Neutral
+2018-06-17,1410.0,1417.0,1410.0,1410.0,746.0,0.0,1433.0,1438.7,1479.35,38.21989528795812,-47.97197925294381,-39.79918862230355,30.5652307914887,0.0,Neutral
+2018-06-14,1426.0,1440.0,1410.0,1435.0,1605.0,0.0,1426.0,1449.7,1500.35,33.6405529953917,-46.949261762854576,-37.75599096464348,37.982598354790944,0.0,Neutral
+2018-06-13,1422.0,1440.0,1421.0,1435.0,528.0,0.0,1428.6,1457.4,1521.6,32.51670378619154,-47.506458540771746,-35.457673265090705,42.237950287010904,0.0,Neutral
+2018-06-12,1407.0,1450.0,1387.0,1450.0,724.0,0.0,1436.8,1466.7,1537.4,43.08300395256917,-47.52664121308385,-32.445476946170444,46.754797733651216,0.0,Neutral
+2018-06-11,1376.0,1445.0,1376.0,1435.0,1852.0,0.0,1435.0,1472.8,1551.7,46.76524953789279,-48.38837776991727,-28.675185879442086,48.28802474047617,0.0,Neutral
+2018-06-10,1475.0,1475.0,1375.0,1375.0,1303.0,0.0,1444.4,1479.3,1568.1,40.12474012474012,-47.257163298531395,-23.74688790682329,46.99184326387735,0.0,Neutral
+2018-06-07,1447.0,1475.0,1425.0,1448.0,1476.0,0.0,1473.4,1499.5,1588.55,25.130208333333343,-39.01685445252929,-17.869319058896263,40.083939704395725,0.0,Neutral
+2018-06-06,1469.0,1527.0,1469.0,1476.0,1559.0,0.0,1486.2,1513.9,1604.05,25.06493506493507,-35.36443327886809,-12.582435210488008,45.08128461152788,0.0,Neutral
+2018-06-04,1482.0,1500.0,1430.0,1441.0,4200.0,0.0,1496.6,1518.3,1618.25,31.635071090047404,-33.03913304224807,-6.886935693392987,43.0737094345006,0.0,Neutral
+2018-06-03,1490.0,1550.0,1482.0,1482.0,2865.0,0.0,1510.6,1521.2,1634.2,34.47432762836186,-26.02699880507498,-0.34888635617921615,37.964310725893874,0.2301260679960251,Positive
+2018-05-31,1525.0,1526.0,1504.0,1520.0,1618.0,0.0,1514.2,1520.0,1647.35,34.94423791821562,-20.872936577918153,6.070641756044726,39.499648381037005,0.6598463356494904,Strongly Positive
+2018-05-30,1502.0,1580.0,1500.0,1512.0,1506.0,0.9205042719841005,1525.6,1551.0,1658.55,33.41463414634147,-17.85996353048654,12.806536339535445,105.68927202997206,1.3196926712989807,Strongly Positive
+2018-05-29,1541.0,1550.0,1518.0,1528.0,2067.0,0.7983767986297607,1541.6,1585.8,1667.85,36.14457831325301,-12.939987553139645,20.47316130704094,142.35386268811007,0.7983767986297607,Strongly Positive
+2018-05-28,1510.0,1562.0,1500.0,1511.0,4531.0,0.0,1540.0,1608.1,1676.4,34.7239263803681,-8.101182032189172,28.826448522086086,149.5767733009176,0.0,Neutral
+2018-05-27,1546.0,1546.0,1500.0,1500.0,3909.0,0.0,1531.8,1630.6,1686.6,33.83084577114428,-0.07636215588991035,38.058356160654895,150.26879619905793,0.0,Neutral
+2018-05-24,1600.0,1620.0,1510.0,1577.0,3733.0,0.0,1525.8,1656.9,1697.6,38.679245283018865,11.287336844854508,47.5920357397911,147.86739554976097,0.0,Neutral
+2018-05-23,1550.0,1594.0,1508.0,1592.0,3636.0,0.0,1576.4,1677.6,1705.7,39.56043956043957,17.7873695789699,56.66821046352525,149.91419768210545,0.0,Neutral
+2018-05-22,1489.0,1534.0,1450.0,1520.0,3664.0,0.0,1630.0,1694.2,1710.6,37.321937321937334,24.297776893001583,66.38842068466408,148.56708174350211,0.0,Neutral
+2018-05-21,1450.0,1499.0,1421.0,1470.0,2716.0,0.0,1676.2,1718.2,1711.45,32.46554364471669,39.58491092810391,76.91108163257971,136.16721746115576,0.2307221442461014,Positive
+2018-05-20,1459.0,1540.0,1459.0,1470.0,2893.0,0.0,1729.4,1747.2,1713.1,31.68908819133034,63.61198148304379,86.24262430869865,104.67282359811675,0.6668585538864136,Strongly Positive
+2018-05-17,1897.0,1897.0,1813.0,1830.0,11640.0,0.9228885769844056,1788.0,1774.7,1716.0,67.51592356687898,93.35399544250458,91.90028501511236,39.73537466795005,1.5513009279966354,Strongly Positive
+2018-05-16,1750.0,1860.0,1750.0,1860.0,8710.0,0.8216570615768433,1778.8,1766.1,1694.75,69.96699669966996,93.30319878068894,91.5368574082643,35.519791040460134,1.4387773424386978,Strongly Positive
+2018-05-15,1750.0,1770.0,1740.0,1751.0,2438.0,0.8703352808952332,1758.4,1749.9,1670.3,62.55144032921811,88.8266808773435,91.09527206515813,22.486786243436516,1.234240561723709,Strongly Positive
+2018-05-14,1745.0,1765.0,1732.0,1736.0,2672.0,0.7278105616569519,1760.2,1744.7,1650.75,76.11548556430446,92.91917357703915,91.66241986211178,27.628688793478986,0.9567851424217224,Strongly Positive
+2018-05-10,1751.0,1775.0,1751.0,1763.0,659.0,0.0,1765.0,1742.6,1631.6,83.50515463917526,98.31840355262102,91.34823143337992,29.121202661410095,0.457949161529541,Positive
+2018-05-09,1793.0,1795.0,1761.0,1784.0,3428.0,0.915898323059082,1761.4,1738.3,1611.0,82.65306122448979,101.03060757887124,89.60568840356964,28.948421565149278,0.915898323059082,Strongly Positive
+2018-05-08,1780.0,1780.0,1745.0,1758.0,2506.0,0.0,1753.4,1733.8,1590.85,86.09406952965236,100.88464824395601,86.74945860974424,24.155974646319187,0.21129271388053894,Positive
+2018-05-07,1760.0,1760.0,1736.0,1760.0,1678.0,0.0,1741.4,1727.0,1574.5,87.3320537428023,101.87821071838857,83.2156612011913,26.081070189406542,0.4225854277610779,Positive
+2018-05-06,1711.0,1814.0,1711.0,1760.0,2725.0,0.8451708555221558,1729.2,1704.7,1551.85,87.59398496240601,101.46085648439703,78.55002382189198,63.386030707810505,0.8451708555221558,Strongly Positive
+2018-05-03,1778.0,1778.0,1725.0,1745.0,1878.0,0.0,1720.2,1679.0,1529.15,87.40458015267176,99.45236644051101,72.82231565626572,86.39701640940591,0.0,Neutral
+2018-05-02,1695.0,1744.0,1665.0,1744.0,1011.0,0.0,1715.2,1657.3,1503.9,87.42857142857143,96.9694956362705,66.16480296020438,94.81918465047345,0.0,Neutral
+2018-04-29,1701.0,1725.0,1670.0,1698.0,1401.0,0.0,1714.2,1623.4,1477.35,81.13948919449902,92.4918024186943,58.46362979118784,118.11595056460723,0.0,Neutral
+2018-04-26,1740.0,1775.0,1671.0,1699.0,3881.0,0.0,1712.6,1590.7,1453.2,74.01433691756273,90.11493867671606,49.956586634311215,138.6482760240731,0.0,Neutral
+2018-04-25,1686.0,1754.0,1686.0,1715.0,1963.0,0.0,1680.2,1556.8,1429.35,80.63063063063063,85.66861530165716,39.91699862371,150.18936195499248,-0.03000623919069765,Neutral
+2018-04-24,1773.0,1773.0,1695.0,1720.0,2948.0,0.0,1637.8,1520.6,1405.85,81.2688821752266,77.11830997128504,28.47909445422321,151.44283850131973,-0.0600124783813953,Slightly Negative
+2018-04-23,1723.0,1757.0,1642.0,1739.0,12142.0,-0.1200249567627906,1599.4,1483.7,1383.35,85.1904090267983,64.57419938639168,16.319290574957744,142.12752489696354,-0.1200249567627906,Slightly Negative
+2018-04-22,1566.0,1690.0,1560.0,1690.0,3422.0,0.0,1532.6,1447.9,1355.3,84.71615720524018,45.68954624878006,4.255563372099258,112.72133782032496,0.0,Neutral
+2018-04-19,1475.0,1540.0,1473.0,1537.0,2050.0,0.0,1468.8,1422.0,1335.8,80.03731343283582,25.910377389519,-6.102932347070943,74.02702209331362,0.0,Neutral
+2018-04-18,1558.0,1558.0,1500.0,1503.0,2915.0,0.0,1433.4,1399.0,1324.7,77.6031434184676,15.866269101668877,-14.106259781218428,69.9444223811039,0.19130298495292664,Slightly Positive
+2018-04-17,1433.0,1528.0,1433.0,1528.0,4181.0,0.0,1403.4,1379.3,1318.3,77.90927021696253,6.277370609152513,-21.599392001940252,64.96332298564681,0.5848449766635895,Positive
+2018-04-16,1398.0,1440.0,1360.0,1405.0,968.0,0.7652119398117065,1368.0,1350.5,1311.9,66.50366748166259,-8.598312493792264,-28.568582654713442,54.752473307948286,1.169689953327179,Strongly Positive
+2018-04-15,1355.0,1371.0,1300.0,1371.0,2074.0,0.8089560270309448,1363.2,1331.3,1312.5,70.66381156316916,-14.93639074527755,-33.561150194943735,66.02196604164656,0.8089560270309448,Strongly Positive
+2018-04-12,1380.0,1380.0,1353.0,1360.0,308.0,0.0,1375.2,1315.7,1316.2,55.19031141868512,-19.34700857542407,-38.21734005736028,73.59506324025905,0.0,Neutral
+2018-04-11,1325.0,1369.0,1325.0,1353.0,1010.0,0.0,1364.6,1301.9,1320.45,53.24232081911263,-23.57514975389563,-42.93492292784433,77.21463591835717,0.0,Neutral
+2018-04-10,1354.0,1400.0,1345.0,1351.0,1322.0,0.0,1355.2,1291.1,1325.6,48.13664596273291,-27.916156861633453,-47.77486622133151,76.82512609820111,0.0,Neutral
+2018-04-09,1459.0,1488.0,1381.0,1381.0,1684.0,0.0,1333.0,1283.0,1327.8,48.5133020344288,-32.84717092479514,-52.73954356125601,74.02702209331763,0.0,Neutral
+2018-04-08,1333.0,1431.0,1307.0,1431.0,2838.0,0.0,1299.4,1262.7,1329.4,51.15511551155116,-41.717706388324586,-57.71263672037123,71.97229405205687,0.0,Neutral
+2018-04-05,1332.0,1332.0,1280.0,1307.0,1668.0,0.0,1256.2,1249.6,1331.65,36.470588235294116,-57.523841377944564,-61.71136930338288,44.68457352505226,0.0,Neutral
+2018-04-04,1264.0,1306.0,1250.0,1306.0,524.0,0.0,1239.2,1250.4,1333.55,36.34577603143419,-64.23605234465322,-62.75825128474246,45.881974189873766,0.0,Neutral
+2018-04-03,1225.0,1240.0,1225.0,1240.0,365.0,0.0,1227.0,1257.3,1335.5,26.211453744493397,-71.76711358078455,-62.388801019764756,58.59853998943613,0.0,Neutral
+2018-04-02,1210.0,1215.0,1206.0,1213.0,413.0,0.0,1233.0,1273.3,1343.15,31.35245901639344,-73.61560099736266,-60.044222879509796,73.33946944028408,0.0,Neutral
+2018-04-01,1198.0,1222.0,1198.0,1215.0,790.0,0.0,1226.0,1293.7,1354.8,30.35714285714286,-72.15507983092425,-56.65137835004658,82.50259255188452,0.0,Neutral
+2018-03-29,1227.0,1245.0,1198.0,1222.0,3318.0,0.0,1243.0,1316.7,1369.05,27.32142857142857,-69.44503165367473,-52.77545297982715,89.85673782937882,0.0,Neutral
+2018-03-28,1295.0,1295.0,1245.0,1245.0,961.0,0.0,1261.6,1339.0,1382.0,42.51497005988024,-65.68864242884092,-48.60805831136525,91.40143446481846,0.0,Neutral
+2018-03-27,1155.0,1295.0,1110.0,1270.0,894.0,0.0,1287.6,1360.1,1396.5,44.167962674961124,-62.280470837452185,-44.337912281996324,91.64478526719815,0.0,Neutral
+2018-03-26,1290.0,1300.0,1178.0,1178.0,733.0,0.0,1313.6,1372.6,1410.5,32.053422370617696,-59.56996133953453,-39.85227264313235,86.36254332112402,0.228836715221405,Positive
+2018-03-22,1300.0,1350.0,1289.0,1300.0,978.0,0.0,1361.4,1396.1,1428.55,36.22641509433962,-45.8766206881628,-34.9228504690318,53.08996557211614,0.45767343044281,Positive
+2018-03-21,1350.0,1360.0,1290.0,1315.0,1673.0,0.91534686088562,1390.4,1413.7,1442.05,33.74340949033392,-40.15346050131143,-32.18440791424905,46.44961427902955,0.91534686088562,Strongly Positive
+2018-03-20,1385.0,1385.0,1372.0,1375.0,539.0,0.0,1416.4,1416.7,1455.8,39.962121212121204,-33.79184934643854,-30.192144767483455,39.869370031022726,0.0,Neutral
+2018-03-19,1390.0,1400.0,1389.0,1400.0,94.0,0.0,1432.6,1413.7,1469.5,37.88150807899461,-31.289693300089084,-29.29221862274468,44.24439700878095,0.0,Neutral
+2018-03-18,1445.0,1445.0,1417.0,1417.0,230.0,0.0,1431.6,1413.0,1479.0,38.01801801801802,-30.18636404383801,-28.792849953408577,44.53962031474605,0.0,Neutral
+2018-03-15,1446.0,1446.0,1445.0,1445.0,310.0,0.0,1430.8,1415.9,1485.65,41.2639405204461,-30.069949407039758,-28.444471430801215,45.75648102246833,0.0,Neutral
+2018-03-14,1430.0,1445.0,1430.0,1445.0,444.0,0.0,1437.0,1421.4,1490.4,39.015817223198596,-32.334890006515025,-28.03810193674158,52.45781373852848,0.0,Neutral
+2018-03-13,1400.0,1456.0,1400.0,1456.0,192.0,0.0,1417.0,1425.0,1496.65,38.4083044982699,-34.75545215338707,-26.963904919298216,55.409586013849015,0.0,Neutral
+2018-03-12,1391.0,1446.0,1375.0,1395.0,1131.0,0.0,1394.8,1432.9,1501.85,27.951388888888886,-38.45943580770859,-25.016018110776,65.10410466666696,0.0,Neutral
+2018-03-11,1505.0,1505.0,1413.0,1413.0,881.0,0.0,1394.4,1448.4,1509.95,35.656401944894654,-36.41674678747586,-21.65516368654285,73.04519149132148,0.0,Neutral
+2018-03-07,1371.0,1477.0,1371.0,1476.0,1113.0,0.0,1401.0,1461.0,1518.3,43.77104377104378,-35.112561939288526,-17.964767911309593,77.01947805590333,0.0,Neutral
+2018-03-06,1345.0,1345.0,1319.0,1345.0,61.0,0.0,1405.8,1470.4,1524.25,29.386892177589857,-39.35176510484894,-13.677819404314857,84.43301092189637,0.0,Neutral
+2018-03-05,1400.0,1400.0,1343.0,1345.0,944.0,0.0,1433.0,1494.9,1536.0,27.634194831013914,-30.851958743729938,-7.259332979181337,79.39836270354473,0.0,Neutral
+2018-03-04,1421.0,1430.0,1393.0,1393.0,751.0,0.0,1471.0,1525.3,1544.75,32.04301075268816,-19.5543592247202,-1.3611765380441856,73.61468754416981,0.0,Neutral
+2018-02-28,1500.0,1500.0,1446.0,1446.0,878.0,0.0,1502.4,1545.0,1550.95,36.626506024096386,-9.737359704460914,3.187119133624818,59.23024752797907,0.0,Neutral
+2018-02-27,1500.0,1560.0,1500.0,1500.0,396.0,0.0,1521.0,1555.4,1553.5,39.583333333333336,-2.462027811992357,6.41823884314625,47.97730945171507,0.0,Neutral
+2018-02-26,1535.0,1535.0,1481.0,1481.0,631.0,0.0,1535.0,1559.4,1552.0,35.0,1.3615707534781905,8.638305506930902,44.377672063563296,0.0,Neutral
+2018-02-25,1535.0,1535.0,1520.0,1535.0,1097.0,0.0,1556.8,1568.3,1550.5,43.40175953079179,8.156613711537375,10.457489195294078,34.79798844765814,0.0,Neutral
+2018-02-22,1545.0,1554.0,1545.0,1550.0,313.0,0.0,1579.6,1570.8,1546.75,53.88601036269431,11.212735978564979,11.032708066233255,32.990907838423276,0.0,Neutral
+2018-02-21,1570.0,1570.0,1539.0,1539.0,467.0,0.0,1587.6,1571.5,1542.75,52.91005291005291,13.423092239700964,10.987701088150324,32.572142153192495,0.0,Neutral
+2018-02-20,1559.0,1570.0,1559.0,1570.0,112.0,0.0,1589.8,1575.6,1540.75,59.945504087193456,17.16906561679184,10.378853300262662,30.543957394821152,0.0,Neutral
+2018-02-18,1649.0,1649.0,1590.0,1590.0,748.0,0.0,1583.8,1578.1,1537.25,66.0427807486631,18.54419431821657,8.681300221130368,31.053537998520035,0.0,Neutral
+2018-02-15,1590.0,1649.0,1580.0,1649.0,1446.0,0.0,1579.8,1577.1,1531.5,79.64071856287426,17.993261216133533,6.215576696858816,30.78762377613913,0.0,Neutral
+2018-02-14,1550.0,1590.0,1555.0,1590.0,423.0,0.0,1562.0,1564.2,1524.05,72.88732394366198,11.02107734814922,3.2711555670401373,23.470075510057736,0.0,Neutral
+2018-02-12,1540.0,1550.0,1525.0,1550.0,88.0,0.0,1555.4,1556.9,1519.6,65.74803149606299,7.96900154067589,1.3336751217628666,25.79168686058573,0.0,Neutral
+2018-02-11,1570.0,1575.0,1540.0,1540.0,372.0,0.0,1561.4,1551.6,1518.65,57.509157509157504,8.03025748763639,-0.32515648296538946,32.05273432612575,0.0,Neutral
+2018-02-08,1560.0,1570.0,1542.0,1570.0,567.0,0.0,1572.4,1544.6,1516.65,64.34426229508196,9.0098204237554,-2.4140099756158344,41.204638358146944,0.0,Neutral
+2018-02-07,1557.0,1560.0,1527.0,1560.0,641.0,0.0,1574.4,1532.7,1514.4,66.40926640926641,7.074501546965394,-5.269967575458643,49.41895722631989,0.0,Neutral
+2018-02-06,1580.0,1575.0,1557.0,1557.0,417.0,0.0,1566.4,1522.7,1512.5,60.14234875444839,5.519610885360862,-8.356084856064651,53.25003912364958,0.0,Neutral
+2018-02-05,1595.0,1600.0,1570.0,1580.0,783.0,0.0,1558.4,1514.0,1511.4,65.25096525096525,3.760174282580465,-11.825008791421029,54.12331598615252,0.0,Neutral
+2018-02-04,1580.0,1610.0,1580.0,1595.0,1012.0,0.0,1541.8,1505.9,1509.15,61.67883211678832,-0.882018243623861,-15.721304559921402,48.96359191620795,0.0,Neutral
+2018-02-01,1520.0,1582.0,1520.0,1580.0,791.0,0.0,1516.8,1496.4,1504.0,63.793103448275865,-8.321587348072171,-19.431126138995786,37.66873150687424,0.0,Neutral
+2018-01-31,1517.0,1520.0,1520.0,1520.0,40.0,0.0,1491.0,1485.9,1498.25,49.01960784313725,-16.168868825414165,-22.20851083672669,23.89072344384639,0.0,Neutral
+2018-01-29,1497.0,1518.0,1496.0,1517.0,491.0,0.0,1479.0,1483.9,1498.2,49.01960784313725,-19.8405790917609,-23.718421339554816,21.42921163073442,0.0,Neutral
+2018-01-28,1470.0,1519.0,1485.0,1497.0,883.0,0.0,1469.6,1482.3,1497.35,42.33870967741935,-23.932971772199835,-24.687881901503292,19.160433769252737,0.0,Neutral
+2018-01-25,1451.0,1470.0,1451.0,1470.0,221.0,0.0,1470.0,1485.7,1499.75,35.294117647058826,-26.771873385818935,-24.876609433829156,24.367783832194846,0.0,Neutral
+2018-01-24,1460.0,1470.0,1451.0,1451.0,220.0,0.0,1476.0,1488.7,1503.75,41.63265306122449,-27.256844196135262,-24.402793445831712,24.064958388202143,0.0,Neutral
+2018-01-23,1470.0,1475.0,1460.0,1460.0,37.0,0.0,1480.8,1496.1,1508.95,49.04942965779467,-25.54483466026818,-23.68928075825582,22.511478553625064,0.0,Neutral
+2018-01-22,1499.0,1490.0,1470.0,1470.0,469.0,0.0,1488.8,1502.3,1514.0,42.019543973941374,-23.90449034852122,-23.22539228275273,19.844114716774943,0.0,Neutral
+2018-01-21,1500.0,1510.0,1490.0,1499.0,524.0,0.0,1495.0,1508.8,1519.5,49.83164983164983,-22.481294658276283,-23.055617766310604,18.701158609480583,0.0,Neutral
+2018-01-17,1475.0,1500.0,1480.0,1500.0,225.0,0.0,1501.4,1512.4,1524.15,43.40175953079179,-23.290506054970592,-23.199198543319184,20.023319738168787,0.0,Neutral
+2018-01-16,1500.0,1500.0,1475.0,1475.0,159.0,0.0,1501.4,1511.6,1528.65,38.3177570093458,-24.086401240497025,-23.176371665406332,20.721432811979643,0.0,Neutral
+2018-01-14,1501.0,1500.0,1473.0,1500.0,162.0,0.0,1511.4,1510.6,1534.95,40.86378737541529,-22.206450713798404,-22.94886427163366,22.819095317622097,0.0,Neutral
+2018-01-10,1531.0,1501.0,1501.0,1501.0,30.0,0.0,1515.8,1512.5,1539.9,40.196078431372555,-22.029401849338683,-23.134467661092476,22.628644580689354,0.0,Neutral
+2018-01-09,1500.0,1531.0,1501.0,1531.0,31.0,0.0,1522.6,1512.4,1543.85,41.69491525423729,-21.58481363543774,-23.41073411403092,22.687245560330098,0.0,Neutral
+2018-01-08,1522.0,1500.0,1500.0,1500.0,71.0,0.0,1523.4,1513.8,1547.3,33.33333333333333,-23.75794193499769,-23.867214233679213,24.334703157864503,0.0,Neutral
+2018-01-07,1522.0,1525.0,1525.0,1525.0,3.0,0.0,1521.8,1518.8,1553.8,37.154150197628454,-23.02971017283653,-23.894532308349596,26.24584623227135,0.0,Neutral
+2018-01-04,1535.0,1544.0,1505.0,1522.0,178.0,0.0,1509.8,1521.8,1560.45,34.86590038314176,-24.310698575709466,-24.110737842227863,28.638746093035504,0.0,Neutral
+2018-01-03,1535.0,1535.0,1535.0,1535.0,42.0,0.0,1509.2,1525.7,1565.65,37.2,-25.286640885184397,-24.06074765885746,31.209151079686215,0.0,Neutral
+2018-01-02,1492.0,1551.0,1500.0,1535.0,536.0,0.0,1502.2,1530.2,1568.9,41.63568773234201,-27.48812883822052,-23.754274352275722,35.6301994256932,0.0,Neutral
+2018-01-01,1465.0,1509.0,1480.0,1492.0,408.0,0.0,1504.2,1535.9,1572.15,28.048780487804876,-29.898200678812373,-22.820810730789518,40.68428580071981,0.0,Neutral
+2017-12-31,1519.0,1498.0,1465.0,1465.0,609.0,0.0,1515.8,1545.7,1577.05,16.86746987951807,-28.161264000021447,-21.0514632437838,40.73777935369306,0.0,Neutral
+2017-12-28,1500.0,1520.0,1472.0,1519.0,473.0,0.0,1533.8,1559.3,1581.15,18.83408071748879,-22.78559189000066,-19.274013054724385,32.71442087729521,0.0,Neutral
+2017-12-27,1545.0,1520.0,1500.0,1500.0,205.0,0.0,1542.2,1567.3,1581.05,23.305084745762713,-21.091034514810644,-18.396118345905315,31.524417344216552,0.0,Neutral
+2017-12-26,1550.0,1548.0,1519.0,1545.0,134.0,0.0,1558.2,1575.3,1581.55,37.32718894009217,-16.686838962988986,-17.72238930367898,20.912781843835933,0.0,Neutral
+2017-12-24,1555.0,1560.0,1549.0,1550.0,85.0,0.0,1567.6,1580.8,1580.7,38.20754716981132,-15.404584437383846,-17.981276888851475,19.222671799584067,0.0,Neutral
+2017-12-21,1580.0,1560.0,1555.0,1555.0,244.0,0.0,1575.6,1588.8,1576.95,41.935483870967744,-14.052985614704312,-18.625450001718384,21.493151364072812,0.0,Neutral
+2017-12-20,1580.0,1561.0,1561.0,1561.0,3.0,0.0,1584.8,1599.1,1572.6,52.75590551181102,-12.632537872088506,-19.7685660984719,27.371721011190925,0.0,Neutral
+2017-12-19,1592.0,1619.0,1580.0,1580.0,253.0,0.0,1592.4,1605.6,1566.55,61.886792452830186,-11.246693111555942,-21.552573155067748,24.92745028640351,0.0,Neutral
+2017-12-18,1590.0,1614.0,1592.0,1592.0,540.0,0.0,1592.4,1607.6,1559.8,65.76923076923077,-11.248808444671567,-24.129043165945696,23.40085468531726,0.0,Neutral
+2017-12-17,1601.0,1631.0,1590.0,1590.0,317.0,0.0,1594.0,1608.4,1555.2,61.231884057971016,-12.309707528834906,-27.349101846264226,22.940502755388756,0.0,Neutral
+2017-12-14,1599.0,1625.0,1601.0,1601.0,472.0,0.0,1602.0,1608.4,1552.15,69.81132075471697,-13.281113886747335,-31.108950425621554,22.940502755388756,0.0,Neutral
+2017-12-13,1580.0,1599.0,1580.0,1599.0,41.0,0.0,1613.4,1603.0,1549.85,70.27863777089783,-15.447801799766467,-35.56590956034011,30.110906108418806,0.0,Neutral
+2017-12-12,1600.0,1610.0,1580.0,1580.0,499.0,0.0,1618.8,1594.8,1543.1,71.0843373493976,-17.78495180075106,-40.595436500483515,40.644256120132425,0.0,Neutral
+2017-12-11,1630.0,1630.0,1600.0,1600.0,53.0,0.0,1622.8,1587.8,1536.6,74.44794952681389,-18.574769412178284,-46.29805767541663,48.705007727965324,0.0,Neutral
+2017-12-10,1658.0,1665.0,1607.0,1630.0,692.0,0.0,1622.8,1580.6,1528.1,69.00584795321637,-21.349049062950144,-53.22887974122621,51.91702782114149,0.0,Neutral
+2017-12-06,1626.0,1658.0,1626.0,1658.0,1223.0,0.0,1614.8,1565.1,1519.6,68.80466472303206,-27.634052558110625,-61.19883741079523,58.27797373129628,0.0,Neutral
+2017-12-05,1600.0,1639.0,1614.0,1626.0,408.0,0.0,1592.6,1546.1,1510.7,60.53412462908011,-38.10496170927013,-69.59003362396638,55.53267306533388,0.0,Neutral
+2017-12-04,1600.0,1600.0,1600.0,1600.0,73.0,0.0,1570.8,1527.5,1503.4,66.91542288557214,-47.65721358279711,-77.46130160264045,56.929293377381434,0.0,Neutral
+2017-11-30,1590.0,1600.0,1575.0,1600.0,1030.0,0.0,1552.8,1512.0,1498.9,68.02884615384616,-56.50889195834907,-84.91232360760128,56.091195585633365,0.0,Neutral
+2017-11-29,1547.0,1630.0,1550.0,1590.0,1979.0,0.0,1538.4,1502.0,1495.9,68.7793427230047,-66.98490483829573,-92.01318151991433,46.80455818261979,0.0,Neutral
+2017-11-28,1517.0,1547.0,1500.0,1547.0,321.0,0.0,1515.4,1495.9,1509.4,60.53268765133172,-78.3635990255982,-98.27025069031896,37.011859961117395,0.0,Neutral
+2017-11-27,1510.0,1530.0,1517.0,1517.0,232.0,0.0,1499.6,1496.7,1526.8,54.59057071960298,-87.36893452974618,-103.24691360649915,38.30303150177291,0.0,Neutral
+2017-11-26,1528.0,1530.0,1510.0,1510.0,433.0,0.0,1484.2,1491.4,1547.2,53.78787878787878,-94.53765098006215,-107.21640837568738,38.84499109714057,0.0,Neutral
+2017-11-23,1475.0,1528.0,1498.0,1528.0,248.0,0.0,1471.2,1485.4,1571.2,52.20588235294117,-101.59971959875588,-110.38609772459368,40.260816352092796,0.0,Neutral
+2017-11-22,1468.0,1497.0,1470.0,1475.0,176.0,0.0,1465.6,1475.6,1593.8,41.55844155844156,-110.96840035063383,-112.58269225605312,40.664480815616336,0.0,Neutral
+2017-11-21,1440.0,1468.0,1468.0,1468.0,100.0,0.0,1476.4,1474.1,1621.05,21.919770773638973,-115.91579432338494,-112.98626523240793,40.96461888024386,0.0,Neutral
+2017-11-20,1445.0,1441.0,1440.0,1440.0,70.0,0.0,1493.8,1475.3,1648.85,17.7304964539007,-119.83169289481111,-112.25388295966368,40.941828651599856,0.21558412909507751,Positive
+2017-11-19,1500.0,1499.0,1445.0,1445.0,327.0,0.0,1498.6,1479.3,1677.85,17.123287671232873,-120.23588790205213,-110.35943047587682,39.01865650633268,0.43116825819015503,Positive
+2017-11-16,1529.0,1500.0,1500.0,1500.0,60.0,0.8623365163803101,1499.6,1485.8,1706.0,16.891891891891888,-119.5119929781738,-107.89031611933298,38.072445562568234,0.8623365163803101,Strongly Positive
+2017-11-15,1555.0,1565.0,1529.0,1529.0,543.0,0.0,1485.6,1489.8,1727.25,18.723994452149796,-122.44968355928631,-104.98489690462276,41.662133086736404,0.0,Neutral
+2017-11-14,1464.0,1555.0,1470.0,1555.0,1150.0,0.0,1471.8,1522.9,1749.25,18.367346938775512,-127.37088595831665,-100.61870024095685,124.80068553944182,0.0,Neutral
+2017-11-13,1450.0,1465.0,1436.0,1464.0,185.0,0.0,1456.8,1556.9,1768.5,6.790123456790113,-134.44673504277625,-93.9306538116169,171.93180172512558,0.0,Neutral
+2017-11-12,1430.0,1450.0,1413.0,1450.0,269.0,0.0,1460.0,1603.0,1786.8,5.3291536050156765,-132.2570480917734,-83.80163350382708,203.2130791941279,0.0,Neutral
+2017-11-09,1460.0,1460.0,1417.0,1430.0,1064.0,0.0,1472.0,1657.0,1808.3,4.126984126984141,-126.11301786570402,-71.68777985684049,228.244508270317,0.0,Neutral
+2017-11-08,1480.0,1460.0,1451.0,1460.0,192.0,0.0,1494.0,1712.0,1827.85,15.959004392386532,-114.40026629911063,-58.0814703546246,233.6688064571612,0.0,Neutral
+2017-11-07,1480.0,1510.0,1480.0,1480.0,351.0,0.0,1574.0,1768.0,1847.35,15.417256011315416,-100.8410776988535,-44.00177136850309,233.66880645716097,0.0,Neutral
+2017-11-06,1510.0,1481.0,1480.0,1480.0,92.0,0.0,1657.0,1822.4,1869.25,18.75,-84.10420675526916,-29.79194478591549,222.21321092841004,0.0,Neutral
+2017-11-05,1540.0,1531.0,1510.0,1510.0,196.0,0.0,1746.0,1876.4,1891.65,30.392156862745097,-61.51853937992678,-16.213879293577072,193.52186210119507,0.2317899763584137,Positive
+2017-11-02,1550.0,1581.0,1519.0,1540.0,363.0,0.0,1842.0,1926.2,1912.55,29.665071770334933,-34.85074517532712,-4.887714271989646,147.31885298374817,0.4635799527168274,Positive
+2017-11-01,1895.0,1883.0,1840.0,1860.0,1749.0,0.9271599054336548,1930.0,1964.7,1931.55,53.391304347826086,-3.3605679152694847,2.603043453844724,59.023629919648144,0.9271599054336548,Strongly Positive
+2017-10-31,1925.0,1910.0,1890.0,1895.0,543.0,0.0,1962.0,1975.6,1933.8,53.9543057996485,4.299412048153499,4.093946296123276,46.21495669396325,0.0,Neutral
+2017-10-30,1990.0,1960.0,1915.0,1925.0,315.0,0.0,1987.8,1980.1,1935.4,50.57660626029654,10.450158662585181,4.04257985811572,39.144887561786284,0.0,Neutral
+2017-10-29,1980.0,2003.0,1950.0,1990.0,271.0,0.0,2006.8,1970.6,1932.7,55.61594202898551,15.094200215368119,2.440685156998354,59.98370149004752,0.0,Neutral
+2017-10-25,2020.0,2010.0,1980.0,1980.0,396.0,0.0,2010.4,1959.6,1926.75,54.7970479704797,14.18395215778719,-0.7226936075940871,65.83177213340778,0.0,Neutral
+2017-10-24,2024.0,2020.0,1975.0,2020.0,366.0,0.0,1999.4,1943.7,1922.8,59.80392156862745,13.834014423816143,-4.449355048939406,78.36531262124176,0.0,Neutral
+2017-10-23,2020.0,2025.0,2000.0,2024.0,749.0,0.0,1989.2,1926.7,1914.8,61.42034548944338,9.113417324474085,-9.020197417128292,78.41350507266294,0.22546423226594925,Positive
+2017-10-22,2008.0,2065.0,2018.0,2020.0,998.0,0.0,1972.4,1916.1,1910.1,58.627087198515774,2.5483873202301766,-13.553601102528885,70.57139804641112,0.4509284645318985,Positive
+2017-10-18,1925.0,2030.0,1932.0,2008.0,2500.0,0.901856929063797,1934.4,1906.9,1906.3,61.74957118353345,-5.460772973480516,-17.57909820821865,60.84853691295492,0.901856929063797,Strongly Positive
+2017-10-17,1969.0,1980.0,1902.0,1925.0,937.0,0.0,1908.8,1898.9,1907.9,55.4,-14.382126323293505,-20.60867951690318,50.45008534297953,0.0,Neutral
+2017-10-16,1940.0,1999.0,1950.0,1969.0,1060.0,0.0,1888.0,1898.4,1914.4,56.99588477366255,-17.108913670533866,-22.165317815305595,50.18676230953655,0.0,Neutral
+2017-10-15,1830.0,1940.0,1850.0,1940.0,860.0,0.0,1864.2,1892.0,1920.65,58.032128514056225,-24.820428958531238,-23.429418851498525,43.86595744110734,0.0,Neutral
+2017-10-12,1880.0,1861.0,1830.0,1830.0,141.0,0.0,1859.8,1890.7,1925.2,39.082969432314414,-31.34937495945087,-23.081666324740347,42.45533600807295,0.0,Neutral
+2017-10-11,1821.0,1889.0,1850.0,1880.0,113.0,0.0,1879.4,1894.8,1937.2,42.4170616113744,-28.026693310305518,-21.014739166062718,37.64984875286917,0.0,Neutral
+2017-10-10,1850.0,1880.0,1821.0,1821.0,460.0,0.0,1889.0,1893.9,1946.7,26.14379084967321,-28.46899137542823,-19.261750630002016,38.14722940285344,0.0,Neutral
+2017-10-09,1918.0,1880.0,1850.0,1850.0,390.0,0.0,1908.8,1901.9,1957.2,26.966292134831463,-22.612157394906035,-16.95994044364546,28.27032209073522,0.0,Neutral
+2017-10-08,1928.0,1918.0,1870.0,1918.0,281.0,0.0,1919.8,1902.9,1965.1,28.846153846153854,-17.760530643113725,-15.546886205830319,26.341559896493923,0.0,Neutral
+2017-10-04,1928.0,1928.0,1928.0,1928.0,6.0,0.0,1921.6,1904.1,1964.2,39.01918976545843,-18.233392052380623,-14.993475096509467,27.35954028208883,0.0,Neutral
+2017-09-26,1920.0,1928.0,1895.0,1928.0,48.0,0.0,1910.2,1905.7,1963.05,36.02362204724409,-19.589904003082893,-14.183495857541676,29.310786789593635,0.0,Neutral
+2017-09-25,1905.0,1920.0,1867.0,1920.0,318.0,0.0,1898.8,1916.9,1961.7,35.0,-21.03636247102554,-12.831893821156369,51.65795625503606,0.0,Neutral
+2017-09-24,1927.0,1962.0,1870.0,1905.0,326.0,0.0,1895.0,1930.4,1960.4,37.977099236641216,-21.762040552348253,-10.780776658689074,67.70557173857405,0.0,Neutral
+2017-09-20,1871.0,1927.0,1867.0,1927.0,570.0,0.0,1886.0,1949.3,1961.5,42.28571428571429,-20.844458168111032,-8.03546068527428,84.19824490122798,0.0,Neutral
+2017-09-18,1871.0,1907.0,1865.0,1871.0,524.0,0.0,1886.6,1959.7,1960.15,47.487001733102254,-21.61009726069392,-4.8332113145650935,87.49609515098011,0.0,Neutral
+2017-09-17,1901.0,1900.0,1864.0,1871.0,762.0,0.0,1901.2,1979.6,1964.1,47.07903780068728,-16.571184287798815,-0.6389898280328863,87.71063536172916,0.0,Neutral
+2017-09-14,1860.0,1901.0,1860.0,1901.0,1039.0,0.0,1935.0,1999.5,1966.05,50.0,-9.898663594571872,3.3440587869085956,82.76908977525873,0.0,Neutral
+2017-09-13,1930.0,1930.0,1845.0,1860.0,1075.0,0.0,1965.8,2012.5,1967.75,46.74329501915708,-4.292665712023108,6.654739382278712,75.46632803223739,0.19627997279167175,Slightly Positive
+2017-09-12,1944.0,1960.0,1930.0,1930.0,547.0,0.0,2012.6,2027.3,1972.8,50.30927835051546,7.099610359332246,9.391590655854166,53.57248464569917,0.3925599455833435,Positive
+2017-09-11,2040.0,2000.0,1926.0,1944.0,2036.0,0.785119891166687,2032.8,2024.3,1974.3,54.417670682730915,14.409757485180762,9.964585729984645,60.07227128867649,0.785119891166687,Strongly Positive
+2017-09-10,2055.0,2045.0,2000.0,2040.0,1057.0,0.0,2058.0,2020.4,1975.4,59.955752212389385,22.105112435115643,8.853292791185615,66.75860327413751,0.0,Neutral
+2017-09-07,2094.0,2125.0,2055.0,2055.0,2255.0,0.0,2064.0,2006.5,1973.4,65.19916142557652,21.831109299430864,5.540337880203106,76.04859557474737,0.0,Neutral
+2017-09-06,2031.0,2121.0,2041.0,2094.0,3038.0,0.0,2059.2,1990.4,1971.15,67.17062634989202,19.636565525528567,1.4676450253961661,81.48783140242035,0.0,Neutral
+2017-09-04,2070.0,2080.0,2030.0,2031.0,3125.0,0.0,2042.0,1973.7,1970.65,58.21596244131455,12.57899779192212,-3.074585099636934,74.72921487315517,0.0,Neutral
+2017-08-31,2070.0,2100.0,2052.0,2070.0,3949.0,0.0,2015.8,1960.6,1974.05,64.17525773195877,9.802553189509126,-6.987980822526698,75.04990931967573,0.0,Neutral
+2017-08-30,2031.0,2124.0,2025.0,2070.0,8605.0,0.0,1982.8,1948.6,1973.05,63.1979695431472,2.145308577854621,-11.185614325535653,64.46049608526326,0.0,Neutral
+2017-08-28,2008.0,2050.0,1970.0,2031.0,1602.0,0.0,1949.0,1932.6,1973.55,53.984575835475574,-7.659324487607364,-14.51834505138322,48.97663842194381,0.0,Neutral
+2017-08-27,1900.0,2008.0,1938.0,2008.0,1259.0,0.0,1921.6,1923.0,1969.5,49.734042553191486,-16.09128415315945,-16.233100192327182,34.944400282646725,0.0,Neutral
+2017-08-24,1905.0,1900.0,1900.0,1900.0,86.0,0.0,1905.4,1918.3,1966.15,23.099415204678365,-24.27765762950912,-16.268554202119116,23.542160761834765,0.0,Neutral
+2017-08-23,1901.0,1920.0,1890.0,1905.0,262.0,0.0,1905.4,1924.3,1968.15,22.443181818181827,-23.376953846529887,-14.266278345271614,25.888865045344502,0.0,Neutral
+2017-08-22,1894.0,1930.0,1901.0,1901.0,649.0,0.0,1914.4,1930.4,1969.65,31.234256926952142,-22.396390780304728,-11.988609469957044,27.9412081183657,0.0,Neutral
+2017-08-21,1927.0,1910.0,1890.0,1894.0,437.0,0.0,1916.2,1940.3,1972.95,27.857142857142847,-20.41179732806404,-9.386664142370122,33.376804986604185,0.0,Neutral
+2017-08-20,1900.0,1960.0,1900.0,1927.0,383.0,0.0,1924.4,1951.9,1976.75,47.77562862669246,-16.86910826970484,-6.630380845946643,35.582298970171536,0.0,Neutral
+2017-08-17,1950.0,1944.0,1900.0,1900.0,1412.0,0.0,1931.2,1967.6,1979.65,45.89178356713427,-15.461979933112389,-4.070698990007093,53.50015576303774,0.0,Neutral
+2017-08-16,1910.0,1951.0,1875.0,1950.0,1422.0,0.0,1943.2,1987.5,1984.6,51.11111111111111,-10.691980057198634,-1.2228787542307695,61.91077809595866,0.0,Neutral
+2017-08-15,1935.0,1940.0,1905.0,1910.0,1196.0,0.0,1946.4,1997.5,1985.5,46.98795180722892,-9.53911505110932,1.1443965715111968,63.24247869204434,0.0,Neutral
+2017-08-13,1961.0,1945.0,1930.0,1935.0,1372.0,0.0,1964.4,2014.5,1987.1,46.208530805687204,-3.856162042593496,3.8152744771663256,59.86698218181781,0.0,Neutral
+2017-08-10,1960.0,1985.0,1938.0,1961.0,1839.0,0.0,1979.4,2016.0,1989.3,48.872180451127825,0.9079876088949277,5.733133607106281,57.806189595562245,0.0,Neutral
+2017-08-09,1966.0,1990.0,1960.0,1960.0,1055.0,0.0,2004.0,2014.0,1989.4,46.973365617433416,4.328295162483755,6.93942010665912,60.21627686931945,0.0,Neutral
+2017-08-07,2000.0,1987.0,1961.0,1966.0,899.0,0.0,2031.8,2012.0,1990.9,46.080760095011875,8.732712510337251,7.59220134270296,62.49799996801931,0.0,Neutral
+2017-08-06,2010.0,2000.0,1970.0,2000.0,2733.0,0.0,2048.6,2008.9,1991.6,53.82775119617225,13.616420288720292,7.307073550794387,65.71901466768531,0.0,Neutral
+2017-08-03,2084.0,2051.0,2010.0,2010.0,923.0,0.0,2064.6,2005.6,1988.65,57.83410138248848,16.18993210347503,5.72973686631291,67.03100443494868,0.0,Neutral
+2017-08-02,2099.0,2140.0,2011.0,2084.0,2817.0,0.0,2052.6,2001.6,1990.65,63.22418136020151,18.22099726189299,3.1146880570223803,67.92675794152852,0.0,Neutral
+2017-08-01,2050.0,2119.0,2030.0,2099.0,6075.0,0.0,2024.0,1991.7,1986.7,67.0854271356784,13.013796831191712,-0.6618892441952724,61.49263731900782,0.0,Neutral
+2017-07-31,2080.0,2054.0,2011.0,2050.0,1810.0,0.0,1992.2,1981.7,1981.35,57.97872340425531,4.650951236642868,-4.0808107630420185,48.95814538973689,0.0,Neutral
+2017-07-30,1950.0,2080.0,1912.0,2080.0,920.0,0.0,1969.2,1973.5,1976.55,64.04494382022472,-1.101640067478229,-6.263751262963239,42.71676745991976,0.0,Neutral
+2017-07-27,1941.0,1975.0,1920.0,1950.0,690.0,0.0,1946.6,1959.7,1971.75,51.698113207547166,-11.48256002193807,-7.554279061834491,21.52027467819345,0.0,Neutral
+2017-07-26,1940.0,1941.0,1902.0,1941.0,484.0,0.0,1950.6,1962.6,1973.5,35.06849315068493,-11.329006072584434,-6.572208821808594,22.016155684264593,-0.0477578192949295,Neutral
+2017-07-25,1935.0,1940.0,1911.0,1940.0,350.0,0.0,1959.4,1964.8,1976.0,42.053789731051346,-10.05186621617122,-5.383009509114634,20.67634182136122,-0.095515638589859,Slightly Negative
+2017-07-24,1967.0,1969.0,1925.0,1935.0,1206.0,-0.191031277179718,1971.2,1969.8,1979.75,43.16546762589928,-8.173744199932571,-4.215795332350487,20.048829281486817,-0.191031277179718,Slightly Negative
+2017-07-23,1970.0,2000.0,1967.0,1967.0,31.0,0.0,1977.8,1974.3,1985.0,51.53664302600473,-5.148595819934371,-3.2263081154549655,16.014229783482946,0.0,Neutral
+2017-07-20,1985.0,2020.0,1950.0,1970.0,466.0,0.0,1972.8,1971.7,1986.65,48.44444444444444,-4.470699584810518,-2.7457361893351138,19.137223762499538,0.0,Neutral
+2017-07-19,1999.0,2000.0,1960.0,1985.0,427.0,0.0,1974.6,1979.7,1988.05,50.0,-3.845883668927627,-2.3144953404662627,31.241176532162374,0.0,Neutral
+2017-07-18,1968.0,2007.0,1985.0,1999.0,1577.0,0.0,1970.2,1981.7,1986.8,50.93457943925233,-4.519723955653035,-1.9316482583509216,32.242311745116595,0.0,Neutral
+2017-07-17,1942.0,1979.0,1956.0,1968.0,1114.0,0.0,1968.4,1981.0,1985.85,44.418052256532064,-6.739502300445565,-1.2846293340253931,31.899146627428358,0.0,Neutral
+2017-07-16,1979.0,2018.0,1940.0,1942.0,2223.0,0.0,1970.8,1979.6,1988.95,38.33333333333333,-6.318353899792328,0.07908890757964993,32.826818304590866,0.0,Neutral
+2017-07-13,1963.0,1979.0,1945.0,1979.0,316.0,0.0,1970.6,1983.8,1991.35,47.51773049645389,-3.0416393389616587,1.6784496094226444,30.051067646080043,0.0,Neutral
+2017-07-12,1990.0,1990.0,1963.0,1963.0,186.0,0.0,1984.8,1984.4,1991.15,45.721271393643036,-2.582390727298616,2.85847184651872,30.004444115318602,0.0,Neutral
+2017-07-11,1980.0,1990.0,1960.0,1990.0,171.0,0.0,1993.2,1987.2,1992.5,53.57142857142858,-0.3295695432877892,4.218687489973054,29.077673756917243,0.0,Neutral
+2017-07-10,1941.0,1993.0,1975.0,1980.0,395.0,0.0,1993.6,1989.7,1994.05,50.0,-0.1984476750660633,5.355751748288266,30.390239661267277,0.0,Neutral
+2017-07-09,2050.0,2050.0,1941.0,1941.0,1083.0,0.0,1988.4,1995.7,1997.1,39.909297052154194,0.9899798392834782,6.744301604126847,33.97400967410107,0.0,Neutral
+2017-07-06,2005.0,2050.0,2000.0,2050.0,418.0,0.0,1997.0,2001.6,2002.05,58.06451612903226,6.463354887209107,8.182882045337688,28.020627322708517,0.0,Neutral
+2017-07-05,1992.0,2005.0,1980.0,2005.0,461.0,0.0,1984.0,1996.4,2003.55,54.385964912280706,2.2571775136564156,8.612763834869833,22.277043490311826,0.0,Neutral
+2017-07-04,1954.0,1992.0,1954.0,1992.0,312.0,0.0,1981.2,1991.9,2006.55,50.29069767441861,1.4375521748506799,10.201660415173189,24.75412423555429,0.0,Neutral
+2017-07-03,1984.0,1990.0,1953.0,1954.0,2838.0,0.0,1985.8,1990.7,2007.5,40.0593471810089,1.6941387107772243,12.392687475253815,25.03797116386615,0.0,Neutral
+2017-07-02,1985.0,2024.0,1984.0,1984.0,31.0,0.0,2003.0,1998.3,2011.8,41.28440366972477,5.866085326293387,15.067324666372963,24.180111202811947,0.0,Neutral
+2017-06-28,1991.0,2005.0,1962.0,1985.0,783.0,0.0,2006.2,1998.9,2015.85,41.59021406727828,8.051135947169996,17.367634501392857,23.858145592515854,0.0,Neutral
+2017-06-27,2015.0,2000.0,1977.0,1991.0,183.0,0.0,2008.8,1997.9,2017.6,37.67313019390581,10.621129489493569,19.69675913994857,24.700202428372418,0.0,Neutral
+2017-06-25,2040.0,2040.0,2000.0,2015.0,509.0,0.0,2002.6,1997.8,2019.55,42.89772727272727,13.13597754548482,21.965666552562315,24.733243485962532,0.0,Neutral
+2017-06-22,2000.0,2040.0,1966.0,2040.0,1723.0,0.0,1995.6,1998.4,2021.3,53.80577427821523,13.711133027197548,24.173088804331687,25.263940046422697,0.0,Neutral
+2017-06-21,1998.0,2000.0,1970.0,2000.0,382.0,0.0,1993.6,1998.5,2021.85,44.5945945945946,11.700351361642788,26.78857774861522,25.44820447720593,0.0,Neutral
+2017-06-20,1960.0,1999.0,1998.0,1998.0,55.0,0.0,1991.6,2002.5,2024.85,41.47582697201018,13.036403106892067,30.56063434535833,28.65212809630393,0.0,Neutral
+2017-06-19,1980.0,1980.0,1960.0,1960.0,380.0,0.0,1987.0,2010.7,2027.5,42.50000000000001,14.755706925637696,34.941692154974895,37.567864518055785,0.0,Neutral
+2017-06-18,2030.0,2020.0,1980.0,1980.0,217.0,0.0,1993.0,2021.2,2032.5,43.58974358974359,20.604626244463816,39.98818846230919,36.4807407332551,0.0,Neutral
+2017-06-15,1990.0,2030.0,1965.0,2030.0,198.0,0.0,2001.2,2024.3,2035.75,47.22222222222223,25.733906884209546,44.83407901677054,33.81009053854708,0.0,Neutral
+2017-06-14,1975.0,2020.0,1956.0,1990.0,483.0,0.0,2003.4,2025.3,2036.4,40.49844236760125,26.815513709714878,49.60912204991079,34.1436507844638,0.0,Neutral
+2017-06-13,1990.0,1992.0,1953.0,1975.0,624.0,0.0,2013.4,2032.8,2040.3,36.507936507936506,31.878720767581854,55.30752413495976,33.76322786047081,0.0,Neutral
+2017-06-12,2021.0,2040.0,1980.0,1990.0,1127.0,0.0,2034.4,2037.3,2046.55,40.1294498381877,39.40479638300394,61.16472497680424,27.64878940492814,0.0,Neutral
+2017-06-11,2041.0,2050.0,2001.0,2021.0,1016.0,0.0,2049.4,2041.3,2050.55,43.20557491289199,46.910372221117086,66.60470712525431,22.45019178344845,0.0,Neutral
+2017-06-08,2040.0,2055.0,2005.0,2041.0,1935.0,0.0,2047.4,2044.2,2051.45,49.290780141843975,52.65151996763802,71.5282908512886,21.38431408512767,0.0,Neutral
+2017-06-07,2080.0,2080.0,2040.0,2040.0,877.0,0.0,2047.2,2045.2,2050.4,49.46996466431096,57.177108255486246,76.24748357220125,21.45175465504575,0.0,Neutral
+2017-06-06,2065.0,2090.0,2050.0,2080.0,1310.0,0.0,2052.2,2047.2,2054.4,52.23880597014925,62.22355573189634,81.01507740137998,21.8418558430634,0.0,Neutral
+2017-06-05,2011.0,2065.0,1971.0,2065.0,369.0,0.0,2040.2,2044.3,2057.9,43.85964912280702,63.68686060932305,85.7129578187509,18.70264390110098,0.0,Neutral
+2017-06-04,2040.0,2045.0,2010.0,2011.0,403.0,0.0,2033.2,2043.8,2058.6,38.69731800766284,66.15548813492137,91.21948212110784,18.14631887991034,0.0,Neutral
+2017-06-01,2065.0,2040.0,2024.0,2040.0,1309.0,0.0,2041.0,2047.2,2052.55,50.19011406844106,73.8422747129041,97.48548061765445,14.038043548485062,0.0,Neutral
+2017-05-31,2020.0,2065.0,1980.0,2065.0,765.0,0.0,2043.2,2047.5,2045.3,58.75486381322957,79.62661285843251,103.39628209384203,13.898441159682712,0.0,Neutral
+2017-05-30,2030.0,2020.0,2005.0,2020.0,623.0,0.0,2042.2,2047.8,2034.7,33.97435897435898,83.30587190442088,109.3386994026944,14.343407312623762,0.0,Neutral
+2017-05-28,2050.0,2063.0,2025.0,2030.0,1392.0,0.0,2048.4,2055.8,2021.2,31.927710843373504,91.3720407681451,115.84690627726278,18.748629579614487,0.0,Neutral
+2017-05-24,2051.0,2051.0,2011.0,2050.0,387.0,0.0,2054.4,2059.8,2008.2,46.21409921671018,99.32017570667108,121.96562265454219,16.79814804614652,0.0,Neutral
+2017-05-23,2060.0,2080.0,2050.0,2051.0,736.0,0.0,2053.4,2058.7,1999.55,64.09807355516637,105.98386538156524,127.62698439150996,17.839095642319243,0.0,Neutral
+2017-05-22,2051.0,2092.0,2045.0,2060.0,891.0,0.0,2051.8,2055.6,1987.25,64.55026455026456,112.84575488833434,133.03776414399613,21.61892175341462,0.0,Neutral
+2017-05-21,2060.0,2080.0,2050.0,2051.0,687.0,0.0,2053.4,2061.6,1974.25,66.5,119.04626469678055,138.08576645791155,29.766498693109984,0.0,Neutral
+2017-05-18,2045.0,2060.0,2035.0,2060.0,1772.0,0.0,2063.2,2071.5,1957.7,72.3342939481268,126.14515154760784,142.8456418981943,40.409707304642765,0.0,Neutral
+2017-05-17,2043.0,2049.0,2040.0,2045.0,242.0,0.0,2065.2,2073.4,1949.2,69.67095851216023,132.45471037833522,147.02076448584089,40.255296407942886,0.0,Neutral
+2017-05-16,2068.0,2050.0,2035.0,2043.0,805.0,0.0,2064.0,2057.9,1940.45,60.32338308457712,140.1086605895057,150.6622780127173,70.71924144894086,0.0,Neutral
+2017-05-15,2100.0,2142.0,2050.0,2068.0,1385.0,0.0,2059.4,2043.1,1931.9,65.4524089306698,148.04357652318868,153.30068236852023,87.64505437021573,0.0,Neutral
+2017-05-11,2070.0,2100.0,2040.0,2100.0,1767.0,0.0,2069.8,2021.6,1918.5,68.20388349514563,153.47259902002497,154.6149588298531,105.42527632826697,0.0,Neutral
+2017-05-09,2039.0,2070.0,2040.0,2070.0,547.0,0.0,2079.8,1986.6,1898.5,70.0228832951945,154.91149538478658,154.90054878231012,131.40285807817787,0.0,Neutral
+2017-05-08,2020.0,2091.0,1995.0,2039.0,1618.0,0.0,2081.6,1956.6,1873.55,57.35439289239881,157.54933772112145,154.897812131691,143.89826653269253,0.0,Neutral
+2017-05-07,2120.0,2086.0,2010.0,2020.0,2913.0,0.0,2051.8,1940.4,1851.55,57.396449704142015,161.78092066355475,154.2349307343334,142.7049792793295,-0.21735365688800812,Negative
+2017-05-04,2150.0,2150.0,2050.0,2120.0,3519.0,0.0,2026.8,1918.9,1831.05,63.53711790393013,166.7633276822453,152.34843325202806,145.54758671995498,-0.43470731377601624,Negative
+2017-05-03,2079.0,2168.0,2075.0,2150.0,5529.0,-0.8694146275520325,1973.4,1886.9,1808.25,68.26722338204593,160.51522423799565,148.74470964447374,130.85738632403775,-0.8694146275520325,Strongly Negative
+2017-05-02,1890.0,2079.0,1881.0,2079.0,7525.0,0.0,1893.4,1843.9,1782.35,69.19959473150962,147.15105985296418,145.80208099609325,102.33762205998299,0.0,Neutral
+2017-04-30,1895.0,1910.0,1820.0,1890.0,2473.0,0.0,1831.6,1825.0,1753.9,67.20604099244876,135.1822382582086,145.46483628187553,64.5824193483952,0.0,Neutral
+2017-04-27,1853.0,1924.0,1820.0,1895.0,1795.0,0.0,1829.0,1823.0,1736.95,65.57894736842105,137.18301886623726,148.03548578779225,62.625873247429354,0.0,Neutral
+2017-04-26,1750.0,1925.0,1750.0,1853.0,2920.0,0.0,1811.0,1820.7,1721.7,63.220892274211096,137.2322622042484,150.748602518181,60.05747247431492,0.0,Neutral
+2017-04-25,1770.0,1790.0,1710.0,1750.0,1238.0,0.0,1800.4,1815.4,1704.05,54.94252873563218,139.57537261452103,154.12768759666415,59.22311860904396,0.0,Neutral
+2017-04-24,1877.0,1877.0,1770.0,1770.0,696.0,0.0,1794.4,1810.4,1688.65,57.823129251700685,151.02311902742122,157.76576634219992,66.96300803016224,0.0,Neutral
+2017-04-23,1805.0,1877.0,1841.0,1877.0,300.0,0.0,1818.4,1790.5,1667.65,70.45707915273132,161.40154271766983,159.45142817089462,101.14703269115418,0.0,Neutral
+2017-04-20,1800.0,1860.0,1800.0,1805.0,1454.0,0.0,1817.0,1762.7,1637.9,64.6651270207852,161.4059810609665,158.9638995342008,112.31805039461695,0.0,Neutral
+2017-04-19,1720.0,1800.0,1705.0,1800.0,1308.0,0.0,1830.4,1743.2,1605.95,61.666666666666664,166.39483173097847,158.35337915250938,120.76772931726323,0.0,Neutral
+2017-04-18,1890.0,1853.0,1711.0,1720.0,1646.0,0.0,1830.4,1729.6,1568.95,62.08791208791209,170.85122176097934,156.3430160078921,121.3170318719741,0.0,Neutral
+2017-04-16,1870.0,1890.0,1890.0,1890.0,49.0,0.0,1826.4,1720.8,1535.95,78.0701754385965,182.19954181002095,152.71596456962027,125.21962927416348,0.0,Neutral
+2017-04-13,1872.0,1873.0,1765.0,1870.0,2058.0,0.0,1762.6,1682.8,1494.4,79.88505747126436,176.7248587917427,145.3450702595201,125.82509906834584,0.0,Neutral
+2017-04-12,1800.0,1940.0,1836.0,1872.0,2492.0,0.0,1708.4,1650.9,1454.9,81.51709401709402,169.20299270235137,137.50012312646444,112.8612225503478,0.0,Neutral
+2017-04-11,1700.0,1800.0,1715.0,1800.0,810.0,0.0,1656.0,1622.7,1414.8,82.34693877551021,156.93758554531246,129.57440573249272,82.67076602741268,0.0,Neutral
+2017-04-10,1571.0,1728.0,1600.0,1700.0,761.0,0.0,1628.8,1592.7,1377.8,82.45436105476674,146.3306464387597,122.73361077928777,63.35973134064957,0.0,Neutral
+2017-04-09,1599.0,1610.0,1571.0,1571.0,458.0,0.0,1615.2,1566.9,1347.75,79.81330221703617,140.84570748546844,116.83435186441979,67.22342514996305,0.0,Neutral
+2017-04-06,1610.0,1620.0,1599.0,1599.0,208.0,0.0,1603.0,1544.8,1323.65,82.53012048192771,144.9308114762066,110.8315129591576,95.92566566533262,0.0,Neutral
+2017-04-04,1664.0,1660.0,1608.0,1610.0,890.0,0.0,1593.4,1513.1,1294.7,81.54761904761905,145.18589603927649,102.30668832989537,124.22779256047474,0.0,Neutral
+2017-04-03,1632.0,1764.0,1660.0,1664.0,1846.0,0.0,1589.4,1468.7,1264.2,87.31155778894473,142.2796818482966,91.58688640255008,159.95419483229696,0.0,Neutral
+2017-04-02,1510.0,1632.0,1540.0,1632.0,189.0,0.0,1556.6,1408.3,1233.95,86.95090439276485,131.00259127219783,78.91368754111345,189.3497938854133,0.0,Neutral
+2017-03-30,1551.0,1580.0,1495.0,1510.0,489.0,0.0,1518.6,1351.1,1206.35,79.73950795947901,117.96161251838112,65.89146160834234,200.34217950519817,0.0,Neutral
+2017-03-29,1590.0,1632.0,1545.0,1551.0,1081.0,0.0,1486.6,1306.0,1185.8,85.0,112.02259436324266,52.873923880832635,211.0729205222262,0.0,Neutral
+2017-03-28,1500.0,1590.0,1530.0,1590.0,48.0,0.0,1432.8,1258.9,1163.25,91.30434782608695,98.63828254540067,38.08675626023012,202.71296072143184,0.0,Neutral
+2017-03-26,1442.0,1560.0,1465.0,1500.0,657.0,0.0,1348.0,1206.9,1138.3,90.3225806451613,76.14938589723965,22.948874688937476,172.83547089646967,0.0,Neutral
+2017-03-23,1350.0,1442.0,1350.0,1442.0,1959.0,0.0,1260.0,1162.9,1114.05,80.83735909822866,55.50138492599058,9.64874688686193,143.43442171716603,0.0,Neutral
+2017-03-22,1282.0,1350.0,1282.0,1350.0,1149.0,0.0,1183.6,1128.6,1088.1,74.54545454545455,34.245188996490924,-1.8144126229202309,105.18893055410187,0.0,Neutral
+2017-03-21,1166.0,1282.0,1140.0,1282.0,925.0,0.0,1125.4,1102.5,1066.85,68.26347305389221,15.98371435198078,-10.82931302777302,70.96203993062569,0.0,Neutral
+2017-03-20,1060.0,1166.0,1081.0,1166.0,234.0,0.0,1085.0,1076.3,1046.45,58.549222797927456,-0.6334218575861996,-17.53256987271147,38.06733799764412,0.0,Neutral
+2017-03-19,1060.0,1074.0,1060.0,1060.0,114.0,0.0,1065.8,1059.7,1027.9,44.63667820069204,-10.022807756232396,-21.75735687649279,29.92973252292076,0.0,Neutral
+2017-03-15,1059.0,1070.0,1060.0,1060.0,46.0,0.0,1065.8,1059.6,1016.15,56.16438356164384,-11.068564917686444,-24.690994156557885,29.930289377600648,0.0,Neutral
+2017-03-14,1080.0,1059.0,1059.0,1059.0,18.0,0.0,1073.6,1061.6,1008.45,64.91228070175438,-12.242334023139392,-28.096601466275743,30.62025473448397,0.0,Neutral
+2017-03-09,1070.0,1080.0,1065.0,1080.0,78.0,0.0,1079.6,1065.6,1005.0,67.7345537757437,-13.460601731944962,-32.06016832705983,32.779397323525785,0.0,Neutral
+2017-03-07,1060.0,1070.0,1070.0,1070.0,12.0,0.0,1067.6,1067.6,1001.75,70.5020920502092,-16.957945582355478,-36.71005997583855,34.32912595586386,0.0,Neutral
+2017-03-06,1099.0,1100.0,1060.0,1060.0,446.0,0.0,1053.6,1069.7,1001.8,74.22303473491773,-20.156985252045615,-41.64808857420931,35.12533115706616,0.0,Neutral
+2017-03-05,1089.0,1100.0,1090.0,1099.0,279.0,0.0,1053.4,1065.2,1003.7,75.46468401486989,-22.928748826783703,-47.02086440475023,39.157232906495956,0.0,Neutral
+2017-03-02,1020.0,1089.0,1020.0,1089.0,757.0,0.0,1049.6,1047.6,1004.25,65.02463054187191,-30.103927079241657,-53.04389329924186,57.52332860099495,0.0,Neutral
+2017-03-01,1000.0,1020.0,1001.0,1020.0,211.0,0.0,1051.6,1031.2,1002.3,52.40384615384616,-37.806006563953815,-58.77888485424191,67.0054724133639,0.0,Neutral
+2017-02-28,1059.0,1041.0,1000.0,1000.0,174.0,0.0,1067.6,1016.6,1006.05,48.807631160572335,-40.061300647146936,-64.02210442681393,83.57458412170458,0.0,Neutral
+2017-02-26,1080.0,1060.0,1059.0,1059.0,62.0,0.0,1085.8,996.1,1012.05,49.04153354632588,-40.32080254028233,-70.01230537173066,109.28601618385645,0.0,Neutral
+2017-02-23,1099.0,1090.0,1075.0,1080.0,378.0,0.0,1077.0,972.7,1018.3,48.57594936708861,-46.07280964693473,-77.43518107959274,118.94634644804428,-0.13653816282749176,Slightly Negative
+2017-02-22,1100.0,1100.0,1078.0,1099.0,773.0,0.0,1045.6,955.3,1022.55,49.12,-54.88249421365174,-85.27577393775724,114.13544585274497,-0.2730763256549835,Negative
+2017-02-21,1091.0,1130.0,1070.0,1100.0,961.0,-0.546152651309967,1010.8,944.4,1026.65,53.654970760233915,-67.26310987206307,-92.8740938687836,103.60630611440388,-0.546152651309967,Negative
+2017-02-20,1015.0,1116.0,1035.0,1091.0,1052.0,0.0,965.6,935.9,1031.9,49.72222222222222,-82.18872316884176,-99.27683986796373,92.2911455967498,0.0,Neutral
+2017-02-19,923.0,1015.0,940.0,1015.0,551.0,0.0,906.4,933.9,1037.35,42.152466367713004,-99.1273972579105,-103.54886904274422,88.7035637515604,0.0,Neutral
+2017-02-16,925.0,935.0,907.0,923.0,971.0,0.0,868.4,942.2,1048.35,29.6411856474259,-111.56727004420691,-104.65423698895265,100.26498225537952,0.0,Neutral
+2017-02-15,874.0,925.0,889.0,925.0,497.0,0.0,865.0,960.9,1066.2,31.76291793313071,-116.45500192716395,-102.92597872513906,112.9251964798152,0.0,Neutral
+2017-02-14,795.0,874.0,810.0,874.0,296.0,0.0,878.0,973.4,1086.2,25.361155698234356,-121.20327059337933,-99.54372292463282,115.40094357405671,0.0,Neutral
+2017-02-13,825.0,809.0,763.0,795.0,798.0,0.0,906.2,995.5,1109.5,13.90845070422536,-120.30810411871812,-94.12883600744618,115.41158231883892,0.0,Neutral
+2017-02-12,906.0,888.0,825.0,825.0,304.0,0.0,961.4,1028.0,1137.75,15.469613259668506,-109.37197375842356,-87.5840189796282,96.96276490376351,0.0,Neutral
+2017-02-09,990.0,988.0,906.0,906.0,389.0,0.0,1016.0,1063.9,1160.5,16.901408450704224,-96.87717502570672,-82.13703028492935,78.07040981635456,0.0,Neutral
+2017-02-08,1015.0,1010.0,990.0,990.0,267.0,0.0,1056.8,1089.8,1179.9,18.340611353711793,-87.76741846102914,-78.451994099735,60.95134671745386,0.0,Neutral
+2017-02-07,1071.0,1070.0,1011.0,1015.0,174.0,0.0,1068.8,1108.9,1195.1,17.573221757322173,-83.41616672268015,-76.12313800941146,55.92147271948122,0.0,Neutral
+2017-02-05,1098.0,1095.0,1071.0,1071.0,188.0,0.0,1084.8,1127.9,1211.35,19.22196796338673,-79.19451571522086,-74.29988083109428,52.65495650410304,0.0,Neutral
+2017-02-02,1110.0,1121.0,1098.0,1098.0,52.0,0.0,1094.6,1140.8,1224.8,19.53488372093024,-78.35605183711527,-73.07622211006263,52.96707572743305,0.0,Neutral
+2017-02-01,1050.0,1110.0,1071.0,1110.0,88.0,0.0,1111.8,1154.5,1231.9,32.93172690763052,-78.89523355142978,-71.75626467829947,58.132511462118835,-0.16314619779586792,Slightly Negative
+2017-01-31,1095.0,1074.0,1034.0,1050.0,120.0,0.0,1122.8,1171.5,1239.4,23.008849557522126,-79.65767663331599,-69.97152246001689,67.73682733773579,-0.32629239559173584,Negative
+2017-01-26,1120.0,1100.0,1057.0,1095.0,322.0,-0.6525847911834717,1149.0,1199.0,1247.15,25.552825552825567,-73.3630832340748,-67.5499839166921,68.74429269242778,-0.6525847911834717,Strongly Negative
+2017-01-25,1184.0,1161.0,1094.0,1120.0,339.0,0.0,1171.0,1223.5,1253.6,24.29906542056075,-68.84361190291156,-66.09670908734641,71.17622886582224,0.0,Neutral
+2017-01-24,1165.0,1184.0,1160.0,1184.0,171.0,0.0,1187.0,1247.5,1257.65,28.57142857142857,-64.61921595800277,-65.40998338345511,72.84267674625818,0.0,Neutral
+2017-01-23,1181.0,1200.0,1165.0,1165.0,542.0,0.0,1197.2,1257.1,1260.9,41.573033707865164,-64.8037983562026,-65.60767523981819,69.8067968674482,0.0,Neutral
+2017-01-22,1205.0,1185.0,1181.0,1181.0,278.0,0.0,1220.2,1270.0,1263.85,41.202672605790646,-62.162246459269454,-65.80864446072209,62.42506619053882,0.0,Neutral
+2017-01-19,1200.0,1223.0,1205.0,1205.0,276.0,0.0,1249.0,1281.3,1268.05,50.0,-59.51557845323077,-66.72024396108525,54.211622370154615,0.0,Neutral
+2017-01-18,1235.0,1227.0,1200.0,1200.0,1416.0,0.0,1276.0,1294.8,1271.5,47.57085020242915,-57.71542287529451,-68.52141033804885,49.72323400588731,0.0,Neutral
+2017-01-17,1280.0,1260.0,1235.0,1235.0,212.0,0.0,1308.0,1308.8,1277.75,53.52697095435685,-54.06918178672413,-71.22290720373744,38.51060460017315,0.0,Neutral
+2017-01-16,1325.0,1300.0,1280.0,1280.0,38.0,0.0,1317.0,1309.3,1286.4,53.19587628865978,-52.19242778950547,-75.51133855799077,37.46420513865037,0.0,Neutral
+2017-01-15,1340.0,1325.0,1315.0,1325.0,69.0,0.0,1319.8,1307.3,1292.8,60.86021505376344,-53.61966282884464,-81.34106625011209,39.67100816582687,0.0,Neutral
+2017-01-12,1360.0,1414.0,1320.0,1340.0,605.0,0.0,1313.6,1295.3,1296.95,57.63747454175153,-59.243229547000055,-88.27141710542895,50.41615702225942,0.0,Neutral
+2017-01-10,1280.0,1360.0,1280.0,1360.0,170.0,0.0,1313.6,1283.7,1300.9,58.958333333333336,-67.08649863748906,-95.52846399503616,52.29839598139187,0.0,Neutral
+2017-01-09,1294.0,1319.0,1280.0,1280.0,148.0,0.0,1309.6,1267.8,1302.5,45.011086474501106,-78.1579221146228,-102.63895533442293,50.66842102230098,0.0,Neutral
+2017-01-08,1294.0,1294.0,1270.0,1294.0,44.0,0.0,1301.6,1264.7,1309.55,39.03846153846154,-83.0067873946789,-108.75921363937296,50.78724686817265,0.0,Neutral
+2017-01-05,1340.0,1320.0,1294.0,1294.0,150.0,0.0,1294.8,1257.7,1317.35,39.03846153846154,-89.41378580820947,-115.19732020054646,51.12305416024112,0.0,Neutral
+2017-01-04,1340.0,1340.0,1340.0,1340.0,12.0,0.0,1277.0,1254.8,1323.9,42.827004219409275,-96.29088144426896,-121.64320379863071,49.63600843478067,0.0,Neutral
+2017-01-02,1240.0,1340.0,1245.0,1340.0,274.0,0.0,1253.8,1248.2,1329.95,41.855670103092784,-108.35159796237735,-127.98128438722114,40.616909450838676,0.0,Neutral
+2017-01-01,1260.0,1240.0,1240.0,1240.0,50.0,0.0,1226.0,1246.7,1342.7,31.553398058252426,-122.16943471149216,-132.88870599343207,36.96259370414407,0.23027411103248596,Positive
+2016-12-29,1205.0,1260.0,1200.0,1260.0,608.0,0.0,1227.8,1263.5,1353.2,30.878859857482198,-127.84719093001354,-135.56852381391704,62.757469674965954,0.4605482220649719,Positive
+2016-12-28,1224.0,1248.0,1205.0,1205.0,1070.0,0.9210964441299438,1220.6,1278.3,1356.15,18.987341772151893,-135.27084063539883,-137.49885703489292,77.54862274014374,0.9210964441299438,Strongly Positive
+2016-12-27,1201.0,1224.0,1177.0,1224.0,218.0,0.0,1232.6,1298.6,1363.15,24.937655860349125,-137.1785413046664,-138.05586113476642,82.6319819709576,0.0,Neutral
+2016-12-26,1249.0,1225.0,1201.0,1201.0,24.0,0.0,1242.6,1318.1,1375.45,18.59903381642512,-139.55268228537284,-138.27519109229144,86.01091661982193,0.0,Neutral
+2016-12-22,1224.0,1249.0,1200.0,1249.0,96.0,0.0,1267.4,1337.2,1396.9,15.399999999999991,-138.211274122051,-137.95581829402107,77.94699053419241,0.0,Neutral
+2016-12-21,1265.0,1250.0,1205.0,1224.0,142.0,0.0,1299.2,1354.4,1420.45,31.77419354838709,-139.37607644272703,-137.89195433701357,75.25246396854695,0.0,Neutral
+2016-12-20,1274.0,1275.0,1245.0,1265.0,270.0,0.0,1336.0,1377.0,1448.75,46.19718309859155,-136.29004483831363,-137.5209238105852,64.9734988711525,0.0,Neutral
+2016-12-19,1325.0,1305.0,1274.0,1274.0,156.0,0.0,1364.6,1393.0,1476.5,45.11691884456671,-134.54329112012306,-137.82864355365308,52.90872643843751,0.2178306132555008,Positive
+2016-12-18,1408.0,1398.0,1325.0,1325.0,148.0,0.0,1393.6,1411.7,1505.3,40.94881398252184,-131.2731685035219,-138.64998166203557,36.75761447953721,0.4356612265110016,Positive
+2016-12-15,1408.0,1408.0,1408.0,1408.0,12.0,0.8713224530220032,1407.0,1438.7,1531.55,37.35763097949886,-130.38260227646356,-140.49418495166398,58.64402972363216,0.8713224530220032,Strongly Positive
+2016-12-14,1408.0,1408.0,1408.0,1408.0,12.0,0.0,1409.6,1442.9,1552.9,33.88429752066115,-135.80035080445123,-143.02208062046407,57.69739065930897,0.0,Neutral
+2016-12-12,1419.0,1408.0,1390.0,1408.0,48.0,0.0,1418.0,1434.0,1575.0,31.59922928709055,-140.7400901866547,-144.82751307446728,69.36377536825235,0.0,Neutral
+2016-12-11,1392.0,1419.0,1380.0,1419.0,86.0,0.0,1421.4,1427.7,1597.35,31.031220435193944,-144.99786532267944,-145.84936879642044,74.6473933458991,0.0,Neutral
+2016-12-08,1421.0,1420.0,1392.0,1392.0,24.0,0.0,1429.8,1432.8,1624.4,28.396226415094347,-149.44327481887558,-146.06224466485568,75.72141925068081,0.0,Neutral
+2016-12-07,1450.0,1450.0,1421.0,1421.0,96.0,0.0,1470.4,1456.6,1647.3,29.194956353055275,-150.19442257847322,-145.2169871263507,96.12630579956075,0.0,Neutral
+2016-12-05,1425.0,1450.0,1400.0,1450.0,208.0,0.0,1476.2,1486.5,1666.75,31.07177974434613,-151.92124139049088,-143.97262826332005,125.7574826578856,0.0,Neutral
+2016-12-04,1461.0,1450.0,1400.0,1425.0,164.0,0.0,1450.0,1520.5,1684.5,28.89771598808342,-154.86825389033174,-141.98547498152735,156.89858720418923,0.22436220943927765,Positive
+2016-12-01,1329.0,1461.0,1355.0,1461.0,1205.0,0.0,1434.0,1560.0,1704.25,29.815573770491795,-153.8316297880874,-138.76478025432624,178.42894633128543,0.6438636034727097,Strongly Positive
+2016-11-30,1450.0,1595.0,1479.0,1595.0,664.0,0.8974488377571106,1435.8,1598.9,1723.7,30.7286166842661,-153.9364240461232,-134.99806787088593,195.98721613639162,1.2877272069454193,Strongly Positive
+2016-11-29,1319.0,1450.0,1329.0,1450.0,724.0,0.7805567383766174,1442.8,1624.4,1738.5,28.070175438596493,-165.47474073116382,-130.2634788270766,211.40598120415765,1.0043318420648575,Strongly Positive
+2016-11-28,1345.0,1319.0,1245.0,1319.0,230.0,0.0,1496.8,1662.9,1760.5,20.097442143727164,-163.0312868894348,-121.46066335105476,211.17315170258678,0.4475502073764801,Positive
+2016-11-27,1470.0,1470.0,1345.0,1345.0,228.0,0.8951004147529602,1591.0,1716.0,1789.55,21.25,-144.2030052675998,-111.06800746645975,179.4714461968913,0.8951004147529602,Strongly Positive
+2016-11-24,1630.0,1600.0,1470.0,1470.0,272.0,0.0,1686.0,1767.0,1818.55,24.637681159420282,-120.72104573911065,-102.78425801617473,127.17442090820346,0.22105546295642853,Positive
+2016-11-23,1720.0,1725.0,1630.0,1630.0,198.0,0.0,1762.0,1816.0,1843.05,30.35714285714286,-101.72085673017955,-98.30006108544073,88.5625955657174,0.44211092591285706,Positive
+2016-11-22,1790.0,1790.0,1720.0,1720.0,250.0,0.8842218518257141,1806.0,1838.0,1861.3,33.26810176125245,-92.28103938815912,-97.44486217425603,59.91660871580985,0.8842218518257141,Strongly Positive
+2016-11-21,1820.0,1790.0,1790.0,1790.0,12.0,0.0,1829.0,1847.0,1876.8,38.68778280542986,-88.053766498698,-98.73581787078025,45.16635916258303,0.0,Neutral
+2016-11-17,1850.0,1820.0,1820.0,1820.0,12.0,0.0,1841.0,1848.5,1889.8,40.52132701421801,-88.50471977071379,-101.40633071380081,43.272393046877426,0.0,Neutral
+2016-11-15,1850.0,1850.0,1850.0,1850.0,36.0,0.0,1848.0,1848.5,1901.8,41.007194244604314,-90.84750420487671,-104.63173344957256,43.272393046877426,0.229956716299057,Positive
+2016-11-14,1835.0,1850.0,1840.0,1850.0,74.0,0.0,1870.0,1848.5,1912.3,37.83185840707964,-95.57087627604619,-108.07779076074652,43.272393046877426,0.459913432598114,Positive
+2016-11-13,1850.0,1850.0,1830.0,1835.0,204.0,0.919826865196228,1870.0,1852.6,1924.8,33.050847457627114,-100.20949479195997,-111.20451938192159,45.32401865093281,0.919826865196228,Strongly Positive
+2016-11-10,1855.0,1850.0,1826.0,1850.0,36.0,0.0,1865.0,1858.1,1945.05,31.707317073170728,-103.14519340984361,-113.95327552941198,46.27802454252972,-0.2325507998466492,Negative
+2016-11-09,1960.0,1921.0,1855.0,1855.0,88.0,0.0,1856.0,1863.1,1964.55,30.769230769230774,-106.91919137798095,-116.65529605930406,47.975572488079536,-0.4651015996932984,Negative
+2016-11-08,1850.0,2001.0,1850.0,1960.0,514.0,-0.9302031993865968,1849.0,1870.1,1984.3,37.86407766990291,-110.69008781908724,-119.08932222963483,51.62998698003866,-0.9302031993865968,Strongly Negative
+2016-11-07,1810.0,1850.0,1840.0,1850.0,482.0,0.0,1827.0,1870.1,2002.8,15.231788079470192,-124.58399436291256,-121.18913083227173,51.62998698003866,0.0,Neutral
+2016-11-03,1805.0,1846.0,1775.0,1810.0,100.0,0.0,1835.2,1884.6,2027.8,1.9867549668874034,-129.30554061538874,-120.3404149496115,64.19103433418306,0.0,Neutral
+2016-10-27,1820.0,1805.0,1800.0,1805.0,22.0,0.0,1851.2,1906.6,2050.4,0.2288329519450798,-129.3784154232344,-118.09913353316719,72.89291994275656,0.0,Neutral
+2016-10-25,1850.0,1821.0,1820.0,1820.0,110.0,0.0,1870.2,1931.1,2071.4,0.2369668246445542,-127.08047140818371,-115.27931306065038,76.05473175434594,0.0,Neutral
+2016-10-23,1891.0,1870.0,1850.0,1850.0,150.0,0.0,1891.2,1955.1,2091.4,0.24875621890546995,-123.82628873576323,-112.32902347376704,74.95991521401383,0.0,Neutral
+2016-10-20,1890.0,1891.0,1890.0,1891.0,22.0,0.0,1913.2,1976.1,2107.95,0.22675736961450355,-120.92620410680797,-109.45470715826798,71.58437135454524,0.0,Neutral
+2016-10-18,1900.0,1890.0,1864.0,1890.0,58.0,0.0,1934.0,1997.0,2122.4,0.0,-119.64026039338796,-106.58683292113297,74.4311762637349,0.0,Neutral
+2016-10-16,1925.0,1925.0,1900.0,1900.0,24.0,0.0,1962.0,2032.0,2136.5,16.356877323420065,-116.1568884479916,-103.3234760530692,97.30250653390632,0.0,Neutral
+2016-10-04,1960.0,1925.0,1921.0,1925.0,24.0,0.0,1992.0,2066.0,2150.1,22.727272727272734,-111.03946624207856,-100.11512295433859,105.1401181492939,0.2211562842130661,Positive
+2016-10-03,1995.0,2045.0,1960.0,1960.0,212.0,0.0,2019.0,2098.5,2162.45,25.000000000000014,-105.43810966301044,-97.38403713240359,106.9280651237741,0.4423125684261322,Positive
+2016-10-02,2030.0,2001.0,1980.0,1995.0,476.0,0.8846251368522644,2039.0,2135.5,2175.2,32.25190839694656,-100.31873294335628,-95.37051899975188,117.19997155859815,0.8846251368522644,Strongly Positive
+2016-09-29,2050.0,2030.0,2010.0,2030.0,84.0,0.0,2060.0,2171.0,2191.45,34.69387755102041,-95.88900145109437,-94.13346551385078,123.50888407093335,0.0,Neutral
+2016-09-28,2060.0,2050.0,2019.0,2050.0,32.0,0.0,2102.0,2194.2,2206.55,37.238493723849366,-92.40394050713667,-93.69458152953987,115.61795323873312,0.0,Neutral
+2016-09-27,2060.0,2070.0,2030.0,2060.0,112.0,0.0,2140.0,2211.7,2210.05,38.03418803418803,-88.64804176765392,-94.01724178514067,104.02996363229236,0.0,Neutral
+2016-09-26,2100.0,2061.0,2060.0,2060.0,24.0,0.0,2178.0,2227.7,2207.05,38.03418803418803,-83.5829049508211,-95.35954178951235,89.37816039479816,0.0,Neutral
+2016-09-25,2240.0,2200.0,2080.0,2100.0,190.0,0.0,2232.0,2239.8,2200.65,37.79193205944799,-75.90219715986996,-98.30370099918515,70.3085264309499,0.0,Neutral
+2016-09-22,2240.0,2240.0,2240.0,2240.0,36.0,0.0,2282.0,2247.8,2197.15,40.82568807339449,-69.06751634800321,-103.90407695901395,55.659280947190005,0.0,Neutral
+2016-09-21,2250.0,2285.0,2240.0,2240.0,36.0,0.0,2286.4,2241.0,2188.65,39.732142857142854,-73.59390532852194,-112.61321711176662,60.64834888292433,0.0,Neutral
+2016-09-20,2330.0,2284.0,2200.0,2250.0,334.0,0.0,2283.4,2234.2,2183.65,60.0,-78.30076682251502,-122.36804505757777,64.46497757182605,0.0,Neutral
+2016-09-18,2350.0,2360.0,2313.0,2330.0,48.0,0.0,2277.4,2226.4,2183.15,73.91304347826087,-84.18769524833897,-133.38486461634346,67.00945206961022,0.0,Neutral
+2016-09-14,2262.0,2350.0,2262.0,2350.0,75.0,0.0,2247.6,2214.9,2180.7,78.31978319783198,-98.62246287186917,-145.6841569583446,56.26020895014397,0.0,Neutral
+2016-09-12,2225.0,2314.0,2225.0,2262.0,118.0,0.0,2213.6,2211.9,2179.45,65.50802139037432,-117.64833045140222,-157.44958047996346,48.52364830108304,0.0,Neutral
+2016-09-11,2220.0,2225.0,2225.0,2225.0,12.0,0.0,2195.6,2218.9,2182.85,60.319573901464715,-131.2610075372586,-167.39989298710375,60.198652624294816,0.0,Neutral
+2016-09-08,2181.0,2220.0,2180.0,2220.0,142.0,0.0,2185.0,2208.4,2189.6,54.90196078431373,-142.95920981720928,-176.43461434956504,67.70557173857414,0.0,Neutral
+2016-09-07,2180.0,2181.0,2180.0,2181.0,144.0,0.0,2175.4,2186.4,2194.1,46.63625997719498,-155.3018722208235,-184.803465482654,94.11128164750572,0.0,Neutral
+2016-09-06,2172.0,2215.0,2172.0,2180.0,118.0,0.0,2182.2,2161.5,2197.75,44.49291166848419,-164.825752274588,-192.1788637981116,123.91865611495388,0.0,Neutral
+2016-09-05,2172.0,2259.0,2172.0,2172.0,358.0,0.0,2210.2,2146.5,2211.2,41.972717733473246,-174.48240278285402,-199.01714167899246,130.3424975465391,0.0,Neutral
+2016-09-04,2215.0,2259.0,2172.0,2172.0,686.0,0.0,2242.2,2136.3,2267.6,41.75365344467641,-183.4553290274721,-205.15082640302708,132.10437792393398,0.0,Neutral
+2016-09-03,2215.0,2259.0,2172.0,2172.0,686.0,0.0,2231.8,2133.1,2326.5,40.48582995951417,-192.239604648385,-210.57470074691582,131.52984452208145,0.0,Neutral
+2016-09-01,2320.0,2348.0,2215.0,2215.0,448.0,0.0,2197.4,2139.9,2387.75,45.22613065326633,-200.65532219146507,-215.15847477154853,135.463361180155,-0.21069888770580292,Negative
+2016-08-31,2332.0,2325.0,2290.0,2320.0,278.0,0.0,2140.8,2146.5,2447.0,53.488372093023266,-212.85639698730165,-218.7842629165694,141.02265381452648,-0.18933564424514773,Slightly Negative
+2016-08-30,2120.0,2332.0,2162.0,2332.0,342.0,-0.8427955508232117,2082.8,2147.0,2500.6,44.81842338352524,-236.02422122508142,-220.2662293988863,141.71332564959994,-0.37867128849029547,Negative
+2016-08-29,2000.0,2121.0,2000.0,2120.0,90.0,0.9282485246658324,2030.4,2146.8,2547.0,16.628959276018094,-263.3835282162099,-216.32673144233752,141.4243417677711,0.9282485246658324,Strongly Positive
+2016-08-28,1932.0,2000.0,1970.0,2000.0,48.0,0.0,2034.4,2170.8,2602.0,10.247349823321557,-272.8874650926509,-204.56253224886942,155.98561187210163,0.0,Neutral
+2016-08-24,2030.0,1990.0,1925.0,1932.0,506.0,0.0,2082.4,2201.8,2663.75,6.320810971973771,-268.8304904863239,-187.48129903792403,148.91369610916126,0.0,Neutral
+2016-08-23,2070.0,2030.0,2029.0,2030.0,160.0,0.0,2152.2,2234.0,2725.25,6.700379266750957,-252.81841758172004,-167.14400117582403,115.0565078559343,0.0,Neutral
+2016-08-22,2140.0,2140.0,2070.0,2070.0,84.0,0.0,2211.2,2275.9,2771.35,7.354838709677409,-238.6820130004735,-145.72539707435,108.62519658594827,0.0,Neutral
+2016-08-21,2240.0,2200.0,2140.0,2140.0,258.0,0.0,2263.2,2398.9,2814.85,15.26054590570719,-221.23980914585763,-122.48624309281912,326.81814515109517,0.0,Neutral
+2016-08-17,2281.0,2280.0,2240.0,2240.0,810.0,0.0,2307.2,2519.9,2858.85,18.427835051546396,-202.88645354748041,-97.79785157955948,428.491267900139,0.0,Neutral
+2016-08-16,2325.0,2300.0,2281.0,2281.0,54.0,0.0,2321.2,2635.6,2897.4,18.741808650065536,-186.69164035031645,-71.52570108757925,495.48387124776167,0.0,Neutral
+2016-08-15,2330.0,2325.0,2325.0,2325.0,12.0,0.0,2315.8,2747.5,2935.9,23.086816720257232,-167.48020037356764,-42.73421627189494,531.547896869763,0.0,Neutral
+2016-08-14,2360.0,2407.0,2320.0,2330.0,318.0,0.0,2340.6,2854.2,2989.15,32.32954545454545,-145.00334134326522,-11.547720246476764,544.2541889799503,0.0,Neutral
+2016-08-11,2310.0,2400.0,2353.0,2360.0,1508.0,0.0,2534.6,2947.2,3035.65,33.35246842709529,-114.7146472159593,21.816185027720348,523.8014466909733,0.0,Neutral
+2016-08-10,2254.0,2437.0,2299.0,2310.0,832.0,0.0,2732.6,3033.2,3075.15,29.966139954853276,-77.44122820669327,55.94889308864026,485.9089535202165,0.0,Neutral
+2016-08-08,2449.0,2401.0,2254.0,2254.0,129.0,0.0,2950.0,3125.7,3117.15,28.05797101449275,-23.64946462458647,89.29642341247364,415.94739250695386,0.227866917848587,Positive
+2016-08-07,2233.0,2456.0,2277.0,2449.0,1750.0,0.0,3179.2,3216.5,3163.2,30.828025477707,51.05419674202312,117.53289542173866,282.07967747507934,0.455733835697174,Positive
+2016-08-04,3350.0,3321.0,3255.0,3300.0,2810.0,0.911467671394348,3367.8,3266.8,3199.5,45.746691871455575,125.80608166097545,134.15257009166754,138.13182109854407,0.911467671394348,Strongly Positive
+2016-08-03,3397.0,3400.0,3250.0,3350.0,1281.0,0.0,3359.8,3230.8,3197.5,53.9543057996485,132.73948995155115,136.23919219934055,171.41878543496995,0.0,Neutral
+2016-08-02,3400.0,3452.0,3351.0,3397.0,1963.0,0.0,3333.8,3197.8,3194.45,60.283097418817654,134.56737486131806,137.1141177612879,177.57552383892045,0.0,Neutral
+2016-08-01,3392.0,3475.0,3325.0,3400.0,2102.0,0.0,3301.4,3159.2,3187.6,60.434056761268785,130.15762251180104,137.75080348628035,171.30596409154518,0.0,Neutral
+2016-07-31,3260.0,3410.0,3300.0,3392.0,1834.0,0.0,3253.8,3124.3,3177.0,58.93004115226338,122.33051864006393,139.64909872990017,151.16367141464934,0.22847503423690796,Positive
+2016-07-28,3220.0,3300.0,3156.0,3260.0,2012.0,0.0,3165.8,3124.1,3167.85,53.92428439519852,111.37548033628218,143.9787437523592,150.77094473995416,0.4569500684738159,Positive
+2016-07-27,3235.0,3365.0,3200.0,3220.0,916.0,0.9139001369476318,3101.8,3124.1,3159.85,48.226950354609926,109.21286082365486,152.12955960637845,150.77094473995416,0.9139001369476318,Strongly Positive
+2016-07-26,3162.0,3235.0,3100.0,3235.0,2078.0,0.0,3061.8,3117.1,3152.85,47.63572679509632,108.93674848828596,162.85873430205933,147.41132927967425,0.0,Neutral
+2016-07-25,2952.0,3162.0,2961.0,3162.0,1297.0,0.0,3017.0,3108.6,3144.85,45.53734061930783,105.47252149312953,176.33923075550265,142.21673600529778,0.0,Neutral
+2016-07-21,2940.0,2999.0,2941.0,2952.0,264.0,0.0,2994.8,3109.9,3145.3,37.708333333333336,106.949489633957,194.05590807109593,142.81724919164083,0.0,Neutral
+2016-07-20,3020.0,3040.0,2882.0,2940.0,1604.0,0.0,3082.4,3132.2,3158.1,36.119711042311664,128.66082730266544,215.83251268038063,132.45695317515418,0.0,Neutral
+2016-07-19,3011.0,3100.0,2931.0,3020.0,1596.0,0.0,3146.4,3164.2,3168.85,45.99198396793587,155.72277716632334,237.6254340248094,118.81619792305013,0.0,Neutral
+2016-07-18,3051.0,3049.0,2746.0,3011.0,2374.0,0.0,3172.4,3191.1,3175.35,46.58077304261645,179.85315277897325,258.1010982394309,112.84251562834747,0.0,Neutral
+2016-07-17,3390.0,3323.0,3051.0,3051.0,362.0,0.0,3200.2,3216.0,3182.3,48.76796714579055,208.95260452051525,277.6630846045453,94.69952481401629,0.22768837213516235,Positive
+2016-07-14,3260.0,3400.0,3260.0,3390.0,2271.0,0.0,3225.0,3229.7,3187.5,64.97948016415869,238.98204867760342,294.8407046255528,76.29919178252898,0.4553767442703247,Positive
+2016-07-13,3150.0,3304.0,3100.0,3260.0,2322.0,0.9107534885406494,3182.0,3211.6,3177.95,54.075235109717866,239.31807305734083,308.8053686125402,51.478582385735365,0.9107534885406494,Strongly Positive
+2016-07-12,3150.0,3150.0,3017.0,3150.0,744.0,0.0,3182.0,3195.6,3174.95,49.56970740103271,249.50233583937052,326.17719250134,59.06907444302884,0.0,Neutral
+2016-07-11,3175.0,3238.0,3132.0,3150.0,1376.0,0.0,3209.8,3188.6,3171.45,50.0,270.0720336325885,345.3459066668323,68.47254113065637,0.0,Neutral
+2016-07-10,3175.0,3366.0,3170.0,3175.0,1552.0,0.0,3231.8,3181.1,3166.95,52.228163992869874,292.39812741764035,364.1643749253933,76.77448939734327,0.0,Neutral
+2016-07-06,3260.0,3200.0,3150.0,3175.0,410.0,0.0,3234.4,3180.7,3166.15,51.76678445229681,314.09582344994124,382.1059368023315,76.82020856809096,0.0,Neutral
+2016-07-05,3289.0,3264.0,3070.0,3260.0,2218.0,0.0,3241.2,3184.0,3151.0,55.8095238095238,337.2213071355327,399.10846514042896,77.25570816739038,0.0,Neutral
+2016-07-04,3260.0,3326.0,3140.0,3289.0,1410.0,0.0,3209.2,3173.5,3118.55,58.95372233400403,353.1782509358982,414.580254641653,72.78469008735064,0.0,Neutral
+2016-07-03,3188.0,3264.0,3200.0,3260.0,522.0,0.0,3167.4,3159.6,3072.8,65.3061224489796,365.45524828202406,429.93075556809174,60.51482830220239,0.0,Neutral
+2016-06-30,3209.0,3273.0,3186.0,3188.0,736.0,0.0,3130.4,3148.6,3017.75,61.940298507462686,378.76217582879553,446.04963238960863,49.17135570861182,0.0,Neutral
+2016-06-29,3100.0,3232.0,3050.0,3209.0,2870.0,0.0,3127.0,3145.3,2962.15,54.07166123778502,397.56829534007466,462.8714965298119,47.30527337294971,0.0,Neutral
+2016-06-28,3080.0,3160.0,3050.0,3100.0,760.0,0.0,3126.8,3144.3,2899.6,64.3939393939394,413.65074903861523,479.1972968272462,45.893717798125174,0.0,Neutral
+2016-06-27,3075.0,3125.0,3070.0,3080.0,762.0,0.0,3137.8,3154.3,2833.6,72.70087124878994,439.259251773281,495.58393377440393,46.06287972857853,0.0,Neutral
+2016-06-26,3171.0,3200.0,3068.0,3075.0,332.0,0.0,3151.8,3154.3,2765.2,77.70750988142292,467.5921516015528,509.6651042746846,46.06287972857853,0.0,Neutral
+2016-06-23,3208.0,3290.0,3155.0,3171.0,1228.0,0.0,3166.8,3152.8,2693.8,86.5606936416185,497.4629851772511,520.1833424429675,49.077716147176474,0.0,Neutral
+2016-06-22,3155.0,3210.0,3130.0,3208.0,1128.0,0.0,3163.6,3151.6,2616.0,89.58041958041959,518.5786602476551,525.8634317593966,48.728727552538196,0.0,Neutral
+2016-06-21,3150.0,3185.0,3150.0,3155.0,1088.0,0.0,3161.8,3118.0,2529.05,90.03344481605352,534.2197050066416,527.6846246373319,97.22596818180574,0.0,Neutral
+2016-06-20,3150.0,3180.0,3003.0,3150.0,1500.0,0.0,3170.8,3063.6,2440.6,91.06714628297362,551.8092609716518,526.0508545450044,185.93977519616558,0.0,Neutral
+2016-06-19,3155.0,3180.0,3040.0,3150.0,1480.0,0.0,3156.8,2986.0,2349.75,91.41705069124424,566.7427049710404,519.6112529383425,282.65172916506384,0.0,Neutral
+2016-06-16,3199.0,3243.0,3150.0,3155.0,1352.0,0.0,3138.8,2886.9,2253.3,91.98218262806236,577.5596796034083,507.82838993016804,376.8071861782312,0.17922662198543549,Slightly Positive
+2016-06-15,3200.0,3200.0,3127.0,3199.0,1360.0,0.0,3139.6,2779.0,2153.7,94.39461883408072,582.4561137035807,490.39556751185796,440.59429562051065,0.35845324397087097,Positive
+2016-06-14,3080.0,3200.0,3020.0,3200.0,2484.0,0.7169064879417419,3074.2,2654.9,2049.15,94.86780715396579,575.7536552102945,467.3804309639272,481.9800479964573,0.7169064879417419,Strongly Positive
+2016-06-13,3060.0,3090.0,2951.0,3080.0,2236.0,0.0,2956.4,2512.9,1942.45,94.76744186046511,558.7224641121684,440.28712490233534,511.79628108587696,0.0,Neutral
+2016-06-12,3159.0,3222.0,3000.0,3060.0,3620.0,0.0,2815.2,2376.1,1837.35,94.85714285714286,541.0757807234743,410.678290099877,526.0032636147175,0.0,Neutral
+2016-06-09,2872.0,3159.0,2929.0,3159.0,2308.0,0.0,2635.0,2234.8,1730.95,100.0,512.7183662059265,378.07891744397773,511.46039273176774,0.0,Neutral
+2016-06-08,2611.0,2872.0,2663.0,2872.0,264.0,0.0,2418.4,2080.4,1618.7,100.0,458.98627180417066,344.41905525349046,427.64710269618956,0.0,Neutral
+2016-06-07,2374.0,2611.0,2421.0,2611.0,182.0,0.0,2235.6,1940.1,1518.65,100.0,412.95023463241387,315.77725111582043,364.5814799952905,0.0,Neutral
+2016-06-06,2159.0,2374.0,2202.0,2374.0,130.0,0.0,2069.4,1817.6,1430.8,100.0,374.75950741126394,291.48400523667203,316.7779453602594,0.0,Neutral
+2016-06-05,2076.0,2159.0,2117.0,2159.0,24.0,0.0,1937.0,1713.5,1353.2,100.0,344.6941136502869,270.665129693024,282.84713185747665,0.0,Neutral
+2016-06-02,1958.0,2076.0,1997.0,2076.0,30.0,0.0,1834.6,1619.7,1285.55,100.0,323.1969148695448,252.15788370370834,274.089219051025,0.0,Neutral
+2016-06-01,1780.0,1958.0,1815.0,1958.0,60.0,0.0,1742.4,1528.4,1219.8,100.0,299.50853511856803,234.3981259122492,256.7169647685963,0.0,Neutral
+2016-05-31,1712.0,1780.0,1746.0,1780.0,20.0,0.0,1644.6,1443.4,1159.25,100.0,276.9316062710511,218.1205236106695,238.7612475535635,0.0,Neutral
+2016-05-30,1647.0,1712.0,1679.0,1712.0,20.0,0.0,1565.8,1372.0,1106.9,100.0,262.2107755417326,203.41775294557408,233.6222021412648,0.0,Neutral
+2016-05-29,1615.0,1647.0,1647.0,1647.0,20.0,0.0,1490.0,1298.6,1057.25,100.0,246.53130394843174,188.71949729653443,230.21111084297425,0.0,Neutral
+2016-05-24,1469.0,1615.0,1542.0,1615.0,210.0,0.0,1404.8,1227.1,1007.6,100.0,229.55086851191413,174.2665456335601,220.82293057259076,0.0,Neutral
+2016-05-22,1386.0,1469.0,1413.0,1469.0,30.0,0.0,1314.4,1157.0,958.35,100.0,207.7969182854947,160.4454649139716,193.58891152818433,0.0,Neutral
+2016-05-19,1333.0,1386.0,1359.0,1386.0,20.0,0.0,1242.2,1097.2,915.2,100.0,191.87392118507614,148.60760157109078,178.25749166117475,0.0,Neutral
+2016-05-18,1221.0,1333.0,1282.0,1333.0,30.0,0.0,1178.2,1044.0,875.65,100.0,177.21040239603133,137.79102166759444,161.0451972446119,0.0,Neutral
+2016-05-17,1163.0,1221.0,1221.0,1221.0,10.0,0.0,1107.2,992.9,843.35,100.0,161.31317801589012,127.9361764854852,138.67263608946195,0.0,Neutral
+2016-05-16,1108.0,1163.0,1163.0,1163.0,20.0,0.0,1049.4,951.4,813.55,100.0,150.0798017631879,119.59192610288396,124.16404918941477,0.0,Neutral
+2016-05-12,1066.0,1108.0,1087.0,1108.0,20.0,0.0,999.6,911.2,783.85,100.0,139.4644044113653,111.96995718780796,112.57965081566932,0.0,Neutral
+2016-05-11,978.0,1066.0,1026.0,1066.0,30.0,0.0,952.2,875.1,756.35,100.0,129.48672409087374,105.09634538191862,99.5918894511228,0.0,Neutral
+2016-05-10,932.0,978.0,978.0,978.0,10.0,0.0,909.8,841.8,728.95,100.0,119.1444961313972,98.99875070467984,82.95085559802642,0.0,Neutral
+2016-05-09,914.0,932.0,932.0,932.0,10.0,0.0,878.6,815.9,705.0,78.55477855477855,113.17104159211783,93.96231434800049,75.82794852676646,0.0,Neutral
+2016-04-12,871.0,914.0,914.0,914.0,10.0,0.0,853.4,788.1,682.45,80.54968287526427,108.58425355700683,89.16013253697113,79.40955721937961,0.0,Neutral
+2016-04-10,854.0,871.0,871.0,871.0,10.0,0.0,822.8,759.7,659.9,81.06995884773663,102.98316404954494,84.3041022819622,80.1610185120487,0.0,Neutral
+2016-04-03,822.0,854.0,838.0,854.0,20.0,0.0,798.0,733.2,638.25,80.83333333333333,98.7143819647547,79.63433684006651,83.02984737764886,0.0,Neutral
+2016-03-13,806.0,822.0,822.0,822.0,10.0,0.0,773.8,707.3,615.5,81.14754098360656,93.56092727522594,74.86432555889445,81.54351258343326,0.0,Neutral
+2016-02-25,761.0,806.0,776.0,806.0,30.0,0.0,753.2,693.8,,81.26272912423626,88.88054071113345,70.19017512981158,70.92844594691562,0.0,Neutral
+2016-02-22,747.0,761.0,761.0,761.0,10.0,0.0,722.8,675.7,,80.17241379310344,83.24294854080244,65.51758373448111,61.59554457191839,0.0,Neutral
+2016-02-18,733.0,747.0,747.0,747.0,10.0,0.0,696.6,656.5,,80.34188034188034,79.41834255553181,61.086242532900776,61.97535352415915,0.0,Neutral
+2016-01-17,719.0,733.0,733.0,733.0,50.0,0.0,668.4,637.6,,80.79331941544885,74.8070332062515,56.50321752724301,60.10028655875526,0.22657063603401184,Positive
+2016-01-14,654.0,719.0,686.0,719.0,90.0,0.0,640.8,616.1,,81.74603174603175,69.25867788107905,51.927263607490886,60.634515289927805,0.4531412720680237,Positive
+2016-01-13,630.0,654.0,642.0,654.0,20.0,0.9062825441360474,634.4,594.1,,79.04328018223235,62.595014496861495,47.594410039093844,59.041322628967336,0.9062825441360474,Strongly Positive
+2016-01-11,606.0,630.0,618.0,630.0,40.0,0.0,628.6,576.8,,,59.79746574832399,43.844258924651925,64.62163380444339,0.0,Neutral
+2016-01-07,595.0,606.0,606.0,606.0,10.0,0.0,616.4,560.1,,,57.800631298396866,39.85595721873391,70.6437856038623,0.2240736037492752,Positive
+2016-01-03,573.0,595.0,584.0,595.0,20.0,0.0,606.8,543.3,,,56.854844327058686,35.369788698818176,78.09829988190816,0.4481472074985504,Positive
+2015-12-29,625.0,687.0,656.0,687.0,190.0,0.8962944149971008,591.4,523.7,,,55.94069667524809,29.998524791758044,87.68764007670767,0.8962944149971008,Strongly Positive
+2015-12-27,569.0,625.0,597.0,625.0,360.0,0.0,553.8,,,,44.592956266206215,23.51298182088553,,0.0,Neutral
+2015-12-24,558.0,569.0,569.0,569.0,10.0,0.0,525.0,,,,35.773215507520604,18.242988209555357,,0.21627287566661835,Positive
+2015-12-23,518.0,558.0,528.0,558.0,40.0,0.0,503.8,,,,29.697499622688895,13.860431385064041,,0.4325457513332367,Positive
+2015-12-22,499.0,518.0,508.0,518.0,20.0,0.8650915026664734,479.8,,,,22.630713171537195,9.901164325657827,,0.8650915026664734,Strongly Positive
+2015-12-21,481.0,499.0,490.0,499.0,30.0,0.0,456.0,,,,17.354477182299547,6.718777114187983,,0.0,Neutral
+2015-12-17,463.0,481.0,472.0,481.0,20.0,0.0,,,,,12.302198124293682,4.059852097160091,,0.0,Neutral
+2015-12-15,438.0,463.0,446.0,463.0,30.0,0.0,,,,,7.507439062994592,1.9992655903766925,,0.0,Neutral
+2015-12-13,399.0,438.0,406.0,438.0,650.0,0.0,,,,,3.111111111111086,0.6222222222222172,,0.0,Neutral
+2015-12-10,0.0,399.0,363.0,399.0,80.0,0.0,,,,,0.0,0.0,,0.0,Neutral

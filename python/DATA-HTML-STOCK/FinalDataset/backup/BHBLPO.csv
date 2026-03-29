@@ -1,0 +1,10 @@
+Date_Stock,Close,Date_News,Sentiment_Score,Prediction,Decayed_Sentiment,Decayed_Prediction
+2017-12-28,163.0,,0.0,Neutral,0.0,Neutral
+2017-10-30,163.0,,0.0,Neutral,0.0,Neutral
+2016-12-22,261.0,,0.0,Neutral,0.0,Neutral
+2016-12-12,261.0,,0.0,Neutral,0.0,Neutral
+2016-06-26,266.0,,0.0,Neutral,0.0,Neutral
+2015-12-03,105.0,,0.0,Neutral,0.0,Neutral
+2015-12-02,105.0,,0.0,Neutral,0.0,Neutral
+2015-03-23,105.0,,0.0,Neutral,0.0,Neutral
+2015-01-04,105.0,,0.0,Neutral,0.0,Neutral

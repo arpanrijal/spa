@@ -1,0 +1,15 @@
+Date_Stock,Close,Date_News,Sentiment_Score,Prediction,Decayed_Sentiment,Decayed_Prediction
+2015-07-22,150.0,,0.0,Neutral,0.0,Neutral
+2015-03-11,148.0,,0.0,Neutral,0.0,Neutral
+2014-09-09,146.0,,0.0,Neutral,0.0,Neutral
+2014-04-28,144.0,,0.0,Neutral,0.0,Neutral
+2014-04-09,142.0,,0.0,Neutral,0.0,Neutral
+2013-12-29,140.0,,0.0,Neutral,0.0,Neutral
+2012-07-16,140.0,,0.0,Neutral,0.0,Neutral
+2011-12-21,138.0,,0.0,Neutral,0.0,Neutral
+2011-12-05,140.0,,0.0,Neutral,0.0,Neutral
+2011-11-16,136.0,,0.0,Neutral,0.0,Neutral
+2011-09-22,132.0,,0.0,Neutral,0.0,Neutral
+2011-09-06,130.0,,0.0,Neutral,0.21750344336032867,Positive
+2011-09-05,126.0,,0.0,Neutral,0.43500688672065735,Positive
+2011-08-15,124.0,2011-08-15,0.8700137734413147,Strongly Positive,0.8700137734413147,Strongly Positive
