@@ -1,0 +1,2 @@
+Symbol,RMSE,MAE,R2,MAPE,Train_MAPE,MAPE_gap,Epochs_run,Best_val_loss
+CHCL,30.8654,24.678,0.8496,5.3209,4.7336,0.5873,42,9.1e-05
