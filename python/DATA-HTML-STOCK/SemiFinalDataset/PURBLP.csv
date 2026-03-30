@@ -1,4 +1,4 @@
-Date_Stock,Open,High,Low,Close,Volume,MA5,MA10,MA20,RSI,MACD,MACD_signal,Volatility,Date_News,Sentiment_Score,Prediction
-2017-05-09,229.0,229.0,229.0,229.0,30592.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0,Neutral
-2017-05-23,229.0,225.0,221.0,221.0,8180.0,0.0,0.0,0.0,0.0,-0.6381766381766454,-0.1276353276353291,0.0,,0,Neutral
-2017-05-28,221.0,221.0,221.0,221.0,22674.0,0.0,0.0,0.0,0.0,-1.1308999115267397,-0.32828824441361126,0.0,,0,Neutral
+Date_Stock,Close,Date_News,Sentiment_Score,Prediction
+2017-05-09,229.0,,0,Neutral
+2017-05-23,221.0,,0,Neutral
+2017-05-28,221.0,,0,Neutral

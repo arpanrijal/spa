@@ -1,2 +1,2 @@
-Date_Stock,Open,High,Low,Close,Volume,Sentiment_Score,MA_5,MA_10,MA_20,RSI_14,MACD,MACD_signal,Volatility_10,Decayed_Sentiment,Decayed_Prediction
-2016-08-11,248.0,248.0,248.0,248.0,13705.0,0,,,,,0.0,0.0,,0.0,Neutral
+Date_Stock,Close,Date_News,Sentiment_Score,Prediction,Decayed_Sentiment,Decayed_Prediction
+2016-08-11,248.0,,0,Neutral,0.0,Neutral
